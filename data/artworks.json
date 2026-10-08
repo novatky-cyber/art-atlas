@@ -1,1 +1,3590 @@
-[]
+[
+ {
+  "id": "bruegel-harvesters",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "northern-renaissance",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1565,
+  "year_start": 1565,
+  "year_end": 1565,
+  "year_estimated": false,
+  "title_ja": "穀物の収穫",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Harvesters",
+   "artist": "Pieter Bruegel the Elder",
+   "artist_bio": "Netherlandish, Breda (?) ca. 1525–1569 Brussels",
+   "date": "1565",
+   "culture": null,
+   "medium": "Oil on oak",
+   "dimensions": "Overall, including added strips at top, bottom, and right, 46 7/8 x 63 3/4 in. (119 x 162 cm); original painted surface 45 7/8 x 62 7/8 in. (116.5 x 159.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Rogers Fund, 1919",
+   "object_url": "https://www.metmuseum.org/art/collection/search/435809"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP119115.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP119115.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/435809"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "435809",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435809",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "穀物の収穫",
+   "highlights": [
+    "黄金色の麦畑と、木陰で昼食をとる農民たちの対比。労働と休息が一枚に共存している。",
+    "画面右奥へ広がる遠景の村や水辺が、季節の空気感まで伝える。",
+    "高い視点から見下ろす構図が、人々の営みを自然の大きな循環の一部として見せる。"
+   ],
+   "trivia": "「季節画」連作6点のうちの1点とされ、現存は5点。依頼主はアントウェルペンの商人と考えられている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "vermeer-water-pitcher",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "dutch-golden-age",
+  "period": "western:c17",
+  "era": "world:early-modern-2",
+  "year": 1662,
+  "year_start": 1657,
+  "year_end": 1667,
+  "year_estimated": false,
+  "title_ja": "水差しを持つ女",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Young Woman with a Water Pitcher",
+   "artist": "Johannes Vermeer",
+   "artist_bio": "Dutch, Delft 1632–1675 Delft",
+   "date": "ca. 1662",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "18 x 16 in. (45.7 x 40.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Marquand Collection, Gift of Henry G. Marquand, 1889",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437881"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP353257.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP353257.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437881"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437881",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437881",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "水差しを持つ女",
+   "highlights": [
+    "左の窓から差し込む柔らかな光が、白い頭巾と青い衣に冷ややかな輝きを与える。",
+    "金属の水差しと盆に映り込む絨毯の色まで描く、繊細な反射表現。",
+    "窓を開ける一瞬の動作を、永遠に止まったような静けさで描いている。"
+   ],
+   "trivia": "フェルメールの現存作品は30数点とされ、そのうち5点をメトロポリタン美術館が所蔵している。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "rembrandt-aristotle",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "dutch-golden-age",
+  "period": "western:c17",
+  "era": "world:early-modern-2",
+  "year": 1653,
+  "year_start": 1653,
+  "year_end": 1653,
+  "year_estimated": false,
+  "title_ja": "ホメロスの胸像を見つめるアリストテレス",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Aristotle with a Bust of Homer",
+   "artist": "Rembrandt (Rembrandt van Rijn)",
+   "artist_bio": "Dutch, Leiden 1606–1669 Amsterdam",
+   "date": "1653",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "56 1/2 x 53 3/4 in. (143.5 x 136.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, special contributions and funds given or bequeathed by friends of the Museum, 1961",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437394"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-30758-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437394"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437394",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437394",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ホメロスの胸像を見つめるアリストテレス",
+   "highlights": [
+    "暗闇から浮かび上がる顔と金鎖。強い明暗が思索の深さを演出する。",
+    "厚く盛られた絵具が、袖の白いひだや鎖の金に物質的な輝きを与えている。",
+    "哲学者の手は詩人の胸像に、鎖には自分の弟子アレクサンドロス大王の肖像のメダルが下がる。"
+   ],
+   "trivia": "シチリアの貴族ルッフォの注文作。1961年のオークションで当時の絵画として史上最高額で落札され話題になった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "van-gogh-wheat-field-cypresses",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "post-impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1889,
+  "year_start": 1889,
+  "year_end": 1889,
+  "year_estimated": false,
+  "title_ja": "糸杉のある麦畑",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Wheat Field with Cypresses",
+   "artist": "Vincent van Gogh",
+   "artist_bio": "Dutch, Zundert 1853–1890 Auvers-sur-Oise",
+   "date": "1889",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "28 13/16 × 36 3/4 in. (73.2 × 93.4 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, The Annenberg Foundation Gift, 1993",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436535"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-42549-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-42549-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436535"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436535",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436535",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "糸杉のある麦畑",
+   "highlights": [
+    "炎のように天へ伸びる糸杉が、画面に強い垂直のリズムを与える。",
+    "渦巻く雲と波打つ麦が、同じうねる筆致で描かれ、風景全体が呼吸しているように見える。",
+    "厚塗りの絵具の盛り上がりそのものが、光や風の質感になっている。"
+   ],
+   "trivia": "サン＝レミの療養院に滞在中の1889年に描かれた。ゴッホは糸杉を「エジプトのオベリスクのように美しい」と書き送っている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "david-death-of-socrates",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "neoclassicism",
+  "period": "western:c18",
+  "era": "world:early-modern-2",
+  "year": 1787,
+  "year_start": 1787,
+  "year_end": 1787,
+  "year_estimated": false,
+  "title_ja": "ソクラテスの死",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Death of Socrates",
+   "artist": "Jacques Louis David",
+   "artist_bio": "French, Paris 1748–1825 Brussels",
+   "date": "1787",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "51 x 77 1/4 in. (129.5 x 196.2 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1931",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436105"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-13139-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-13139-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436105"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436105",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436105",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ソクラテスの死",
+   "highlights": [
+    "毒杯に手を伸ばしながらも天を指すソクラテス。死を前にした理性の勝利が主題。",
+    "人物は浮彫のように横一列に並び、明晰な輪郭線で彫刻的に描かれる。",
+    "嘆く弟子たちの多様な感情と、中心人物の毅然とした姿の対比。"
+   ],
+   "trivia": "フランス革命の2年前、1787年のサロンに出品された。寝台の端で背を向けて座る老人はプラトンとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "el-greco-view-of-toledo",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "mannerism",
+  "period": "western:c17",
+  "era": "world:early-modern-2",
+  "year": 1600,
+  "year_start": 1599,
+  "year_end": 1600,
+  "year_estimated": false,
+  "title_ja": "トレド眺望",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "View of Toledo",
+   "artist": "El Greco (Domenikos Theotokopoulos)",
+   "artist_bio": "Greek, Iráklion (Candia) 1541–1614 Toledo",
+   "date": "ca. 1599–1600",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "47 3/4 x 42 3/4 in. (121.3 x 108.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436575"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP349564.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP349564.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436575"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436575",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436575",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "トレド眺望",
+   "highlights": [
+    "嵐の前のような暗い空と、不気味に光る緑の丘。現実の風景を超えた幻視的な表現。",
+    "大聖堂やアルカサルの位置を実際とは変え、象徴的に配置している。",
+    "筆の速い流れが、建物や雲を揺らめくように見せる。"
+   ],
+   "trivia": "スペイン絵画における独立した風景画の最初期の例のひとつとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "caravaggio-musicians",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "baroque",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1597,
+  "year_start": 1597,
+  "year_end": 1597,
+  "year_estimated": false,
+  "title_ja": "音楽家たち",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Musicians",
+   "artist": "Caravaggio (Michelangelo Merisi)",
+   "artist_bio": "Italian, Milan or Caravaggio 1571–1610 Porto Ercole",
+   "date": "1597",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "36 1/4 x 46 5/8 in. (92.1 x 118.4 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Rogers Fund, 1952",
+   "object_url": "https://www.metmuseum.org/art/collection/search/435844"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-687-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-687-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/435844"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "435844",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435844",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "音楽家たち",
+   "highlights": [
+    "密着するように配置された若者たちが、鑑賞者のすぐ目の前にいる感覚をつくる。",
+    "リュートを調弦する少年のうるんだ目と、柔らかな肌の写実。",
+    "矢筒を持つ翼の少年はキューピッドで、「音楽と愛」の寓意を示す。"
+   ],
+   "trivia": "カラヴァッジョ初期の作品で、パトロンのデル・モンテ枢機卿のために描かれた。奥でこちらを見つめる人物は、画家の自画像とする説がある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "velazquez-juan-de-pareja",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "baroque",
+  "period": "western:c17",
+  "era": "world:early-modern-2",
+  "year": 1650,
+  "year_start": 1650,
+  "year_end": 1650,
+  "year_estimated": false,
+  "title_ja": "フアン・デ・パレーハ",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Juan de Pareja (ca. 1608–1670)",
+   "artist": "Velázquez (Diego Rodríguez de Silva y Velázquez)",
+   "artist_bio": "Spanish, Seville 1599–1660 Madrid",
+   "date": "1650",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "32 x 27 1/2 in. (81.3 x 69.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, Fletcher and Rogers Funds, and Bequest of Miss Adelaide Milton de Groot (1876-1967), by exchange, supplemented by gifts from friends of the Museum, 1971",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437869"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14286-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-14286-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437869"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437869",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437869",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "フアン・デ・パレーハ",
+   "highlights": [
+    "まっすぐこちらを見据える視線が、人物の誇りと知性を伝える。",
+    "灰緑色の背景と黒い衣の中で、白いレースの襟だけが素早い筆致で輝く。",
+    "近くでは粗い筆跡なのに、離れると完璧な質感に見える技法の妙。"
+   ],
+   "trivia": "モデルはベラスケスの工房で働いた助手で、のちに自由の身となり画家として活動した。1650年にローマで展示され絶賛されたという。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "van-eyck-crucifixion-last-judgment",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "early-netherlandish",
+  "period": "western:c15",
+  "era": "world:early-modern-1",
+  "year": 1437,
+  "year_start": 1436,
+  "year_end": 1438,
+  "year_estimated": false,
+  "title_ja": "磔刑／最後の審判（二連画）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Crucifixion; The Last Judgment",
+   "artist": "Jan van Eyck",
+   "artist_bio": "Netherlandish, Maaseik ca. 1390–1441 Bruges",
+   "date": "ca. 1436–38",
+   "culture": null,
+   "medium": "Oil on canvas, transferred from wood",
+   "dimensions": "Each 22 1/4 x 7 2/3 in. (56.5 x 19.7 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Fletcher Fund, 1933",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436282"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/LC-33_92ab-Primary_Temp.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/LC-33_92ab-Primary_Temp.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436282"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436282",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436282",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "磔刑／最後の審判（二連画）",
+   "highlights": [
+    "左翼は群衆で埋め尽くされた磔刑、右翼は天国と地獄の最後の審判。",
+    "地獄の場面では、骸骨のような死の下に怪物と罪人がひしめく圧倒的な細密描写。",
+    "遠景のエルサレムの街や雪山まで描き込まれ、極小の画面に壮大な世界が広がる。"
+   ],
+   "trivia": "ヤン・ファン・エイクと工房の作とされる。もとは中央パネルを持つ三連祭壇画の両翼だった可能性が指摘されている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "duccio-madonna",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "trecento",
+  "period": "western:gothic",
+  "era": "world:high-medieval",
+  "year": 1295,
+  "year_start": 1290,
+  "year_end": 1300,
+  "year_estimated": false,
+  "title_ja": "聖母子",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Madonna and Child",
+   "artist": "Duccio di Buoninsegna",
+   "artist_bio": "Italian, active by 1278–died 1318 Siena",
+   "date": "ca. 1290–1300",
+   "culture": null,
+   "medium": "Tempera and gold on wood",
+   "dimensions": "Overall, with engaged frame, 11 x 8 1/4 in. (27.9 x 21 cm); painted surface 9 3/8 x 6 1/2 in. (23.8 x 16.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, Rogers Fund, Walter and Leonore Annenberg and The Annenberg Foundation Gift, Lila Acheson Wallace Gift, Annette de la Renta Gift, Harris Brisbane Dick, Fletcher, Louis V. Bell, and Dodge Funds, Joseph Pulitzer Bequest, several members of The Chairman's Council Gifts, Elaine L. Rosenberg and Stephenson Family Foundation Gifts, 2003 Benefit Fund, and other gifts and funds from various donors, 2004",
+   "object_url": "https://www.metmuseum.org/art/collection/search/438754"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP142735.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP142735.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/438754"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "438754",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/438754",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "聖母子",
+   "highlights": [
+    "金地を背景に、聖母が幼子を見つめる親密なしぐさ。ビザンティン的な形式に人間的な情感が加わる。",
+    "幼子が聖母のヴェールに手を伸ばす自然な動き。",
+    "下部に描かれた欄干が、絵の空間と鑑賞者の空間をつなぐ工夫とされる。"
+   ],
+   "trivia": "2004年に美術館が4500万ドル以上で購入した。額縁にはろうそくの焦げ跡が残り、礼拝に使われたことを物語る。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "durer-adam-and-eve",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-central",
+  "region_group": "western",
+  "style": "northern-renaissance",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1504,
+  "year_start": 1504,
+  "year_end": 1504,
+  "year_estimated": false,
+  "title_ja": "アダムとエヴァ（銅版画）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Adam and Eve",
+   "artist": "Albrecht Dürer\nGerman, 1471-1528",
+   "artist_bio": null,
+   "date": "1504",
+   "culture": "Germany",
+   "medium": "Engraving in black on ivory laid paper",
+   "dimensions": "Image: 25 × 19.3 cm (9 7/8 × 7 5/8 in.); Sheet: 25.3 × 19.6 cm (10 × 7 3/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Clarence Buckingham Collection",
+   "object_url": "https://www.artic.edu/artworks/51498"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/910855f0-a558-4e31-8e88-c0f2694ddbea/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/910855f0-a558-4e31-8e88-c0f2694ddbea/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/51498"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "51498",
+   "api_url": "https://api.artic.edu/api/v1/artworks/51498",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "アダムとエヴァ（銅版画）",
+   "highlights": [
+    "古代彫刻を思わせる理想的な比例の裸体。イタリアで学んだ人体理論の成果。",
+    "足元の猫と鼠、背景の動物たちは人間の気質（四体液）を象徴するとされる。",
+    "枝に掛けた札には画家の署名と1504年の年記が刻まれる。"
+   ],
+   "trivia": "デューラーは数年にわたって人体比例を研究し、その集大成としてこの版画を制作した。版画は広く流通し、欧州中の芸術家に影響を与えた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "renoir-two-sisters",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1881,
+  "year_start": 1881,
+  "year_end": 1881,
+  "year_estimated": false,
+  "title_ja": "二人の姉妹（テラスにて）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Two Sisters (On the Terrace)",
+   "artist": "Pierre-Auguste Renoir (French, 1841–1919)",
+   "artist_bio": null,
+   "date": "1881",
+   "culture": "France",
+   "medium": "Oil on canvas",
+   "dimensions": "100.4 × 80.9 cm (39 1/2 × 31 7/8 in.); Framed: 119.1 × 100.1 × 9.6 cm (46 7/8 × 39 3/8 × 3 3/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+   "object_url": "https://www.artic.edu/artworks/14655"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/3a608f55-d76e-fa96-d0b1-0789fbc48f1e/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/14655"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "14655",
+   "api_url": "https://api.artic.edu/api/v1/artworks/14655",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "二人の姉妹（テラスにて）",
+   "highlights": [
+    "鮮やかな赤い帽子が画面の焦点となり、若い女性の頬の色と響き合う。",
+    "背景の川辺の風景は素早く軽い筆触で、人物は滑らかに描き分けられる。",
+    "籠の毛糸玉や花の色が、画面に春のような華やかさを添える。"
+   ],
+   "trivia": "セーヌ川の島シャトゥーのレストランのテラスで描かれた。モデルの2人は実際には姉妹ではないとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "seurat-grande-jatte",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "neo-impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1885,
+  "year_start": 1884,
+  "year_end": 1886,
+  "year_estimated": false,
+  "title_ja": "グランド・ジャット島の日曜日の午後",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "A Sunday on La Grande Jatte — 1884",
+   "artist": "Georges Seurat (French, 1859–1891)",
+   "artist_bio": null,
+   "date": "1884–86, border added 1888–89",
+   "culture": "France",
+   "medium": "Oil on canvas",
+   "dimensions": "207.5 × 308.1 cm (81 3/4 × 121 1/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Helen Birch Bartlett Memorial Collection",
+   "object_url": "https://www.artic.edu/artworks/27992"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/2d484387-2509-5e8e-2c43-22f9981972eb/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/27992"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "27992",
+   "api_url": "https://api.artic.edu/api/v1/artworks/27992",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "グランド・ジャット島の日曜日の午後",
+   "highlights": [
+    "無数の色の点が、離れて見ると目の中で混ざり合い明るい色彩になる。",
+    "人物は横向き・正面向きに固定され、古代の浮彫のような静けさがある。",
+    "日傘・猿を連れた女性など、パリ近郊の余暇の様子が多彩に描かれる。"
+   ],
+   "trivia": "完成まで約2年を費やし、多数の習作を描いた。後年、絵の周囲に点描の縁取りが加えられている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "caillebotte-paris-street-rainy-day",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1877,
+  "year_start": 1877,
+  "year_end": 1877,
+  "year_estimated": false,
+  "title_ja": "パリの通り、雨",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Paris Street; Rainy Day",
+   "artist": "Gustave Caillebotte (French, 1848–1894)",
+   "artist_bio": null,
+   "date": "1877",
+   "culture": "Paris",
+   "medium": "Oil on canvas",
+   "dimensions": "212.2 × 276.2 cm (83 1/2 × 108 3/4 in.); Framed: 241.3 × 306.1 × 10.2 cm (95 × 120 1/2 × 4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+   "object_url": "https://www.artic.edu/artworks/20684"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/f8fd76e9-c396-5678-36ed-6a348c904d27/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/20684"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "20684",
+   "api_url": "https://api.artic.edu/api/v1/artworks/20684",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "パリの通り、雨",
+   "highlights": [
+    "ハウスマン改造後の広い街路と石畳が、雨に濡れて鈍く光る。",
+    "画面中央の街灯が絵を左右に分割し、近景と遠景のリズムを作る。",
+    "右端で切れた人物など、写真的な構図が近代都市の匿名性を感じさせる。"
+   ],
+   "trivia": "1877年の第3回印象派展に出品された大作。印象派の中でも滑らかな仕上げが特徴的。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "cezanne-card-players",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "post-impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1891,
+  "year_start": 1890,
+  "year_end": 1892,
+  "year_estimated": false,
+  "title_ja": "カード遊びをする人々",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Card Players",
+   "artist": "Paul Cézanne",
+   "artist_bio": "French, Aix-en-Provence 1839–1906 Aix-en-Provence",
+   "date": "1890–92",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "25 3/4 x 32 1/4 in. (65.4 x 81.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of Stephen C. Clark, 1960",
+   "object_url": "https://www.metmuseum.org/art/collection/search/435868"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP231550.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP231550.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/435868"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "435868",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435868",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "カード遊びをする人々",
+   "highlights": [
+    "カードに集中する農夫たちが、まるで静物のように堅固に構築されている。",
+    "人物・テーブル・壁が色面のブロックとして組み立てられる。",
+    "沈黙の中で時間が止まったような、記念碑的な静けさ。"
+   ],
+   "trivia": "セザンヌはこの主題で5点の油彩を描いた。モデルは故郷エクス近郊の農民たち。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "gauguin-ia-orana-maria",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "post-impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1895,
+  "year_start": 1894,
+  "year_end": 1895,
+  "year_estimated": false,
+  "title_ja": "イア・オラナ・マリア（マリアを拝す）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Ia orana Maria (Hail Mary)",
+   "artist": "Paul Gauguin\nFrench, 1848-1903",
+   "artist_bio": null,
+   "date": "1894/95, published Mar. 1895",
+   "culture": "France",
+   "medium": "Transfer zincograph on coarse-grained transfer paper, in dark-blue ink on cream wove paper (an imitation Japanese vellum)",
+   "dimensions": "Image: 25.7 × 18.6 cm (10 1/8 × 7 3/8 in.); Sheet: 38.1 × 28.1 cm (15 × 11 1/8 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Albert Roullier Memorial Collection",
+   "object_url": "https://www.artic.edu/artworks/80861"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/150a7cf3-7837-ba7e-66bf-37e252afb328/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/150a7cf3-7837-ba7e-66bf-37e252afb328/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/80861"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "80861",
+   "api_url": "https://api.artic.edu/api/v1/artworks/80861",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "イア・オラナ・マリア（マリアを拝す）",
+   "highlights": [
+    "タヒチの母子が聖母子として描かれ、頭上には光輪が浮かぶ。",
+    "鮮やかな平塗りの色面と、バナナや花の装飾的な配置。",
+    "左奥の天使と祈る女性たちのポーズは、ジャワのボロブドゥールの浮彫写真に基づくとされる。"
+   ],
+   "trivia": "題名はタヒチ語で天使の挨拶「アヴェ・マリア」を意味する。ゴーギャンが最初のタヒチ滞在で描いた代表作。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "lautrec-at-the-moulin-rouge",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "post-impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1894,
+  "year_start": 1892,
+  "year_end": 1895,
+  "year_estimated": false,
+  "title_ja": "ムーラン・ルージュにて",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "At the Moulin Rouge",
+   "artist": "Henri de Toulouse-Lautrec (French, 1864–1901)",
+   "artist_bio": null,
+   "date": "1892–95",
+   "culture": "France",
+   "medium": "Oil on canvas",
+   "dimensions": "123 × 141 cm (48 7/16 × 55 1/2 in.); Framed: 136.9 × 154.7 × 8.5 cm (53 7/8 × 60 7/8 × 3 5/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Helen Birch Bartlett Memorial Collection",
+   "object_url": "https://www.artic.edu/artworks/61128"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/defb4004-b500-218d-3d9b-9a02423f097d/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/61128"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "61128",
+   "api_url": "https://api.artic.edu/api/v1/artworks/61128",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "ムーラン・ルージュにて",
+   "highlights": [
+    "右端から緑がかった顔の女性が突き出し、不気味な照明の効果を強調する。",
+    "斜めに走る手すりが、画面に動きと奥行きを与える。",
+    "奥には小柄な画家自身の姿も描き込まれている。"
+   ],
+   "trivia": "右端の部分は一時切り取られ、後に再び縫い合わされたことが調査で分かっている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "turner-burning-houses-parliament",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "romanticism",
+  "period": "western:c19a",
+  "era": "world:c19",
+  "year": 1835,
+  "year_start": 1835,
+  "year_end": 1835,
+  "year_estimated": false,
+  "title_ja": "国会議事堂の火災",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Burning of the Houses of Lords and Commons, 16 October 1834",
+   "artist": "Joseph Mallord William Turner (British, 1775–1851)",
+   "artist_bio": null,
+   "date": "1835",
+   "culture": "England, 19th century",
+   "medium": "oil on canvas",
+   "dimensions": "Framed: 123.5 x 153.5 x 12 cm (48 5/8 x 60 7/16 x 4 3/4 in.); Unframed: 92 x 123.2 cm (36 1/4 x 48 1/2 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Bequest of John L. Severance",
+   "object_url": "https://clevelandart.org/art/1942.647"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1942.647/1942.647_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1942.647/1942.647_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1942.647"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "122351",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/122351",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "国会議事堂の火災",
+   "highlights": [
+    "夜空を焦がす炎と、水面に映る光が画面全体を輝かせる。",
+    "群衆や橋は溶けるように描かれ、自然現象そのものが主役になる。",
+    "黄・橙・赤の色彩が、崇高な破壊のスペクタクルを生む。"
+   ],
+   "trivia": "1834年10月にロンドンの国会議事堂が焼失した火災をターナーは実際に目撃し、同主題の油彩を2点描いた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "cole-the-oxbow",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "north-america",
+  "region_group": "western",
+  "style": "hudson-river-school",
+  "period": "western:c19a",
+  "era": "world:c19",
+  "year": 1836,
+  "year_start": 1836,
+  "year_end": 1836,
+  "year_estimated": false,
+  "title_ja": "オックスボウ（嵐の後のマサチューセッツ州ノーサンプトン、ホリヨーク山からの眺め）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm—The Oxbow",
+   "artist": "Thomas Cole",
+   "artist_bio": "American, Lancashire 1801–1848 Catskill, New York",
+   "date": "1836",
+   "culture": "American",
+   "medium": "Oil on canvas",
+   "dimensions": "51 1/2 x 76 in. (130.8 x 193 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of Mrs. Russell Sage, 1908",
+   "object_url": "https://www.metmuseum.org/art/collection/search/10497"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-12550-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ad/original/DP-12550-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/10497"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "10497",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/10497",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "オックスボウ（嵐の後のマサチューセッツ州ノーサンプトン、ホリヨーク山からの眺め）",
+   "highlights": [
+    "左の嵐の荒野と、右の陽光に照らされた耕地。画面が対角線で二分される。",
+    "蛇行する川が、自然と文明の境界を象徴的に描き出す。",
+    "中景の崖の上で、画家自身が小さくイーゼルに向かっている。"
+   ],
+   "trivia": "遠くの丘の木々の伐採跡が、ヘブライ文字で「ノア」と読めるという説がある（逆さに読むと「全能者」とも）。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "homer-gulf-stream",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "north-america",
+  "region_group": "western",
+  "style": "american-realism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1899,
+  "year_start": 1899,
+  "year_end": 1899,
+  "year_estimated": false,
+  "title_ja": "メキシコ湾流",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Gulf Stream",
+   "artist": "Winslow Homer\nAmerican, 1836-1910",
+   "artist_bio": null,
+   "date": "probably 1899, dated by the artist \"1889\"",
+   "culture": "United States",
+   "medium": "Transparent watercolor, with touches of opaque watercolor and traces of blotting, over graphite, on moderately thick, moderately textured, ivory wove paper (lower edge trimmed)",
+   "dimensions": "28.8 × 50.9 cm (11 3/8 × 20 1/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+   "object_url": "https://www.artic.edu/artworks/16794"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/4a076002-dffe-54e9-5256-0691c3a65c3b/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/4a076002-dffe-54e9-5256-0691c3a65c3b/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/16794"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "16794",
+   "api_url": "https://api.artic.edu/api/v1/artworks/16794",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "メキシコ湾流",
+   "highlights": [
+    "マストを失った小舟に横たわる男。周囲には鮫が群がり、遠くに竜巻が迫る。",
+    "荒れる海の青と鮫の口の赤が、緊張感のある色彩を生む。",
+    "男の表情は静かで、運命に対する諦観とも不屈ともとれる。"
+   ],
+   "trivia": "ホーマーは「男は救われる」と語ったと伝わるが、結末は鑑賞者に委ねられている。カリブ海への旅の経験がもとになった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "notre-dame-de-paris",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "gothic",
+  "period": "western:romanesque",
+  "era": "world:high-medieval",
+  "year": 1163,
+  "year_start": 1163,
+  "year_end": 1163,
+  "year_estimated": false,
+  "title_ja": "ノートルダム大聖堂",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Notre-Dame de Paris",
+   "artist": "シェルのジャン、モントルイユのピエール、Pierre de Chelles、Jean Ravy、Raymond du Temple",
+   "artist_bio": null,
+   "date": "1163年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "Quartier Notre-Dame、フランス",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q2981"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/500px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Notre-Dame_de_Paris_2013-07-24.jpg/1920px-Notre-Dame_de_Paris_2013-07-24.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "P e z i",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_2013-07-24.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q2981",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q2981.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ノートルダム大聖堂（パリ）",
+   "highlights": [
+    "西正面は水平・垂直の線がきっちり整理された、初期ゴシックの古典的なファサード。",
+    "側面に並ぶ飛び梁が、高い壁と大きな窓を外から支える。",
+    "バラ窓のステンドグラスが内部を色彩豊かな光で満たす。"
+   ],
+   "trivia": "2019年の火災で尖塔と屋根を失ったが、修復を経て2024年12月に再開した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "villa-rotonda",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "high-renaissance",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "ヴィラ・アルメリコ・カプラ",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Villa Almerico Capra (La Rotonda)",
+   "artist": "アンドレーア・パッラーディオ、ヴィンチェンツォ・スカモッツィ",
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ヴィチェンツァ、イタリア",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q505574"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/07-Villa-Rotonda-Palladio.jpg/500px-07-Villa-Rotonda-Palladio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://upload.wikimedia.org/wikipedia/commons/8/86/07-Villa-Rotonda-Palladio.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY-SA 4.0",
+   "credit": "Quinok",
+   "source_url": "https://commons.wikimedia.org/wiki/File:07-Villa-Rotonda-Palladio.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q505574",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q505574.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ヴィラ・ロトンダ",
+   "highlights": [
+    "正方形の建物の四面すべてに神殿風の柱廊玄関がつく、完全な対称形。",
+    "中央のドームの円形ホールを中心に、幾何学的に部屋が配置される。",
+    "丘の上に立ち、四方の景色を楽しむために設計された。"
+   ],
+   "trivia": "パラーディオの代表作。彼の様式は英国や米国に広まり、トマス・ジェファソンのモンティチェロなどに影響を与えた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "palace-of-versailles",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "baroque",
+  "period": "western:c17",
+  "era": "world:early-modern-2",
+  "year": 1661,
+  "year_start": 1661,
+  "year_end": 1661,
+  "year_estimated": false,
+  "title_ja": "ヴェルサイユ宮殿",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Palace of Versailles",
+   "artist": "ルイ・ル・ヴォー、François d'Orbay、ジュール・アルドゥアン＝マンサール、アンドレ・ル・ノートル、シャルル・ル・ブラン、Robert de Cotte、アンジュ＝ジャック・ガブリエル",
+   "artist_bio": null,
+   "date": "1661年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ヴェルサイユ、フランス",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q2946"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg/500px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg/1920px-Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "ToucanWings",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_083.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q2946",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q2946.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ヴェルサイユ宮殿",
+   "highlights": [
+    "庭園側に長く続くファサードと、軸線に沿った幾何学式庭園の壮大なスケール。",
+    "鏡の間は窓と鏡が向かい合い、光が反射し合う豪華な空間。",
+    "建築・庭園・室内装飾が王の権威を示す一体の舞台になっている。"
+   ],
+   "trivia": "ルイ13世の狩猟小屋をルイ14世が大改築した。1919年には鏡の間で第一次世界大戦の講和条約が調印された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "hagia-sophia",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-east",
+  "region_group": "western",
+  "style": "byzantine",
+  "period": "western:early-christian",
+  "era": "world:early-medieval",
+  "year": 537,
+  "year_start": 537,
+  "year_end": 537,
+  "year_estimated": false,
+  "title_ja": "アヤソフィア",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Hagia Sophia",
+   "artist": "ミレトスのイシドロス、トラレスのアンテミオス、アルキテクトのトルダト、ミマール・スィナン",
+   "artist_bio": null,
+   "date": "537年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ファティ、トルコ",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q12506"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/500px-Hagia_Sophia_Mars_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1920px-Hagia_Sophia_Mars_2013.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "Arild Vågen",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_Mars_2013.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q12506",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q12506.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "アヤソフィア（ハギア・ソフィア）",
+   "highlights": [
+    "直径約30メートルの大ドームが、窓の連なりで浮かんでいるように見える。",
+    "ペンデンティブ（球面三角形）で、四角い平面の上に円いドームを載せている。",
+    "キリスト教のモザイクとイスラームの円盤状の書板が同じ空間に共存する。"
+   ],
+   "trivia": "537年にユスティニアヌス帝が完成させた。大聖堂、モスク、博物館を経て、2020年に再びモスクとなった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "sagrada-familia",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "art-nouveau",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1882,
+  "year_start": 1882,
+  "year_end": 1882,
+  "year_estimated": false,
+  "title_ja": "サグラダ・ファミリア",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Basilica and Expiatory Church of the Holy Family",
+   "artist": "アントニ・ガウディ",
+   "artist_bio": null,
+   "date": "1882年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "Sagrada Família、スペイン王国",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q48435"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/SF_maig_2026.jpg/500px-SF_maig_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/SF_maig_2026.jpg/1920px-SF_maig_2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Canaan",
+   "source_url": "https://commons.wikimedia.org/wiki/File:SF_maig_2026.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q48435",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q48435.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "サグラダ・ファミリア",
+   "highlights": [
+    "トウモロコシのような形の塔が林立し、遠くからも独特のシルエットを示す。",
+    "内部の柱は木の枝のように分岐し、森の中にいるような空間を作る。",
+    "生誕のファサードには植物や動物の彫刻が溢れんばかりに施される。"
+   ],
+   "trivia": "ガウディが1883年から生涯をかけて取り組み、死後も建設が続いている。ガウディ没後100年の2026年を目標に、中央の「イエスの塔」の完成が目指されてきた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "palace-of-westminster",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "gothic-revival",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "ウェストミンスター宮殿",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Palace of Westminster",
+   "artist": "Charles Barry, Jr.、オーガスタス・ウェルビー・ノースモア・ピュージン",
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "シティ・オブ・ウェストミンスター、イギリス",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q62408"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg/500px-Houses_of_Parliament_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Houses_of_Parliament_in_2022_%28cropped%29.jpg/1920px-Houses_of_Parliament_in_2022_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.0",
+   "credit": "Terry Ott from Washington, DC Metro Area, United States of America",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Houses_of_Parliament_in_2022_(cropped).jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q62408",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q62408.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ウェストミンスター宮殿（英国国会議事堂）",
+   "highlights": [
+    "テムズ川沿いに続く長いファサードを、細かな垂直線の装飾が覆う。",
+    "時計塔（エリザベス・タワー）とヴィクトリア・タワーが両端でアクセントになる。",
+    "中世ゴシックを国家の伝統の象徴として復興した19世紀の建築。"
+   ],
+   "trivia": "1834年の大火の後、チャールズ・バリーとオーガスタス・ピュージンが再建した。ターナーが描いたのはこの火災である。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "gerome-pygmalion-galatea",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "academic-art",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1593,
+  "year_start": 1593,
+  "year_end": 1593,
+  "year_estimated": false,
+  "title_ja": "ピュグマリオンとガラテア",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Pygmalion and Galatea",
+   "artist": "Hendrick Goltzius \nDutch, 1558–1617",
+   "artist_bio": null,
+   "date": "1593",
+   "culture": "Netherlands",
+   "medium": "Engraving on ivory laid paper",
+   "dimensions": "Sheet: 32.8 × 22.1 cm (12 15/16 × 8 3/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Charles Hack and the Hearn Family Trust Collection, purchased with funds provided by the Harry B. and Bessie K. Braude Memorial, Amanda S. Johnson and Marion J. Livingston, anonymous, and Suzanne Searle Dixon endowment funds",
+   "object_url": "https://www.artic.edu/artworks/268229"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/fc833f9a-f29f-239a-0029-018de37e646c/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/fc833f9a-f29f-239a-0029-018de37e646c/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/268229"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "268229",
+   "api_url": "https://api.artic.edu/api/v1/artworks/268229",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "ピュグマリオンとガラテア",
+   "highlights": [
+    "大理石の像が下半身から生身へと変わっていく、変身の瞬間の表現。",
+    "筆跡を残さない滑らかな仕上げが、彫刻と肉体の質感を描き分ける。",
+    "アトリエの壁の仮面や彫刻が、芸術家の工房という舞台設定を示す。"
+   ],
+   "trivia": "ジェロームは画家であると同時に彫刻家でもあり、同じ主題の大理石像も制作した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "hokusai-great-wave",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "ukiyo-e",
+  "period": "japan:edo",
+  "era": "world:c19",
+  "year": 1831,
+  "year_start": 1820,
+  "year_end": 1842,
+  "year_estimated": false,
+  "title_ja": "冨嶽三十六景 神奈川沖浪裏",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+   "artist": "Katsushika Hokusai",
+   "artist_bio": "Japanese, Tokyo (Edo) 1760–1849 Tokyo (Edo)",
+   "date": "ca. 1830–32",
+   "culture": "Japan / Edo period (1615–1868)",
+   "medium": "Woodblock print; ink and color on paper",
+   "dimensions": "10 1/8 x 14 15/16 in. (25.7 x 37.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+   "object_url": "https://www.metmuseum.org/art/collection/search/45434"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/45434"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "45434",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/45434",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "冨嶽三十六景 神奈川沖浪裏",
+   "highlights": [
+    "爪のように砕ける大波が画面左を覆い、遠くの富士山を小さく見せる大胆な構図。",
+    "波間で身をかがめる押送船の漕ぎ手たちが、自然の猛威と人間の営みを対比させる。",
+    "輸入顔料ベロ藍（プルシアンブルー）の鮮やかな青が印象を決定づける。"
+   ],
+   "trivia": "1830年代初めの作。木版画なので世界各地の美術館に多数の摺りが現存し、ドビュッシーの交響詩『海』の楽譜表紙にも使われた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "hiroshige-sudden-shower-atake",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "ukiyo-e",
+  "period": "japan:edo",
+  "era": "world:c19",
+  "year": 1857,
+  "year_start": 1857,
+  "year_end": 1857,
+  "year_estimated": false,
+  "title_ja": "名所江戸百景 大はしあたけの夕立",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Sudden Shower over Shin Ohashi Bridge and Atake (Ohashi Atake no yudachi), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+   "artist": "Utagawa Hiroshige 歌川 広重\nJapanese, 1797-1858",
+   "artist_bio": null,
+   "date": "1857",
+   "culture": "Japan",
+   "medium": "Color woodblock print; ōban",
+   "dimensions": "37 × 25.4 cm (14 9/16 × 10 in.); Mat: 71.2 × 50.8 cm (28 × 20 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Mary and Earle Ludgin Collection",
+   "object_url": "https://www.artic.edu/artworks/64447"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/7e3923a9-e254-8d3f-b377-68d86f6083df/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/7e3923a9-e254-8d3f-b377-68d86f6083df/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/64447"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "64447",
+   "api_url": "https://api.artic.edu/api/v1/artworks/64447",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "名所江戸百景 大はしあたけの夕立",
+   "highlights": [
+    "空から斜めに降り注ぐ無数の細い線が、激しい夕立を表す。",
+    "橋を急ぐ人々の姿勢が、雨の冷たさと慌ただしさを伝える。",
+    "橋を斜めに横切らせ、対岸を霞ませる構図が奥行きを生む。"
+   ],
+   "trivia": "ゴッホがこの作品を油彩で模写したことで知られ、ジャポニスムの象徴的な一枚となった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "hiroshige-plum-park-kameido",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "ukiyo-e",
+  "period": "japan:edo",
+  "era": "world:c19",
+  "year": 1857,
+  "year_start": 1856,
+  "year_end": 1858,
+  "year_estimated": false,
+  "title_ja": "名所江戸百景 亀戸梅屋舗",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Plum Garden at Kameido (Kameido Umeyashiki), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+   "artist": "Utagawa Hiroshige 歌川 広重\nJapanese, 1797-1858",
+   "artist_bio": null,
+   "date": "1857",
+   "culture": "Japan",
+   "medium": "Color woodblock print; ōban",
+   "dimensions": "36 × 24.4 cm (14 3/16 × 9 9/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Clarence Buckingham Collection",
+   "object_url": "https://www.artic.edu/artworks/26577"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/89a2332f-be15-8e05-bc79-778738fdc1ef/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/89a2332f-be15-8e05-bc79-778738fdc1ef/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/26577"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "26577",
+   "api_url": "https://api.artic.edu/api/v1/artworks/26577",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "名所江戸百景 亀戸梅屋舗",
+   "highlights": [
+    "手前の梅の古木の枝を画面いっぱいに大きく配し、奥の人々を小さく見せる。",
+    "赤から白へのグラデーションの空が、早春の夕暮れを感じさせる。",
+    "極端な近景と遠景の組み合わせは、写真のクローズアップのような効果をもつ。"
+   ],
+   "trivia": "梅屋敷の名木「臥竜梅」を描いたもの。ゴッホが模写した作品としても有名。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "sharaku-otani-oniji",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "ukiyo-e",
+  "period": "japan:edo",
+  "era": "world:early-modern-2",
+  "year": 1794,
+  "year_start": 1794,
+  "year_end": 1794,
+  "year_estimated": false,
+  "title_ja": "三代目大谷鬼次の江戸兵衛",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The actor Otani Oniji III as Edobei",
+   "artist": "Tōshūsai Sharaku 東洲斎 写楽\nJapanese, active 1794-95",
+   "artist_bio": null,
+   "date": "1794",
+   "culture": "Japan",
+   "medium": "Color woodblock print; oban",
+   "dimensions": "37.9 × 25 cm (14 15/16 × 9 7/8 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Clarence Buckingham Collection",
+   "object_url": "https://www.artic.edu/artworks/18765"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/df22cedf-8d22-a116-fc52-bc21ac0b3ab0/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/df22cedf-8d22-a116-fc52-bc21ac0b3ab0/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/18765"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "18765",
+   "api_url": "https://api.artic.edu/api/v1/artworks/18765",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "三代目大谷鬼次の江戸兵衛",
+   "highlights": [
+    "突き出した両手と、への字に結んだ口。悪役の凄みを誇張した表情。",
+    "黒雲母摺の背景が、人物の顔と手を浮かび上がらせる。",
+    "大首絵（上半身のクローズアップ）で、役者の個性を鋭く捉える。"
+   ],
+   "trivia": "写楽は1794年からわずか10か月ほどで約140点を残し姿を消した謎の絵師。正体は阿波藩の能役者・斎藤十郎兵衛とする説が有力。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "haniwa-figure",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "kofun-haniwa",
+  "period": "japan:kofun",
+  "era": "world:early-medieval",
+  "year": 500,
+  "year_start": 400,
+  "year_end": 599,
+  "year_estimated": false,
+  "title_ja": "埴輪",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Haniwa Horse",
+   "artist": null,
+   "artist_bio": null,
+   "date": "400s–500s CE",
+   "culture": "Japan, Kofun period (300–710 CE)",
+   "medium": "earthenware with traces of pigment",
+   "dimensions": "Overall: 59.7 x 66 cm (23 1/2 x 26 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "The Norweb Collection",
+   "object_url": "https://clevelandart.org/art/1957.27"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1957.27/1957.27_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1957.27"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "134753",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/134753",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "埴輪",
+   "highlights": [
+    "目と口をくり抜いただけの素朴な表現が、かえって豊かな表情を感じさせる。",
+    "素焼きの赤褐色の土の温かみ。",
+    "輪積みで作られた円筒の構造が、人物や動物の形に発展している。"
+   ],
+   "trivia": "埴輪は古墳の墳丘や周囲に並べられた。用途は葬送儀礼や王の権威の表示など諸説ある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "kamakura-amida",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "kamakura-sculpture",
+  "period": "japan:kamakura",
+  "era": "world:high-medieval",
+  "year": 1269,
+  "year_start": 1269,
+  "year_end": 1269,
+  "year_estimated": false,
+  "title_ja": "阿弥陀如来像（鎌倉時代）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Buddha of Infinite Life and Light (Amida Nyorai)",
+   "artist": "Kōshun (Japanese, active mid-1200s); Koshin (Japanese, active mid-1200s); Joshun (Japanese, active mid-1200s)",
+   "artist_bio": null,
+   "date": "1269",
+   "culture": "Japan, Kamakura period (1185–1333)",
+   "medium": "Cypress with lacquer, color, gold, cut gold, rock-crystal inlaid eyes, and quartz",
+   "dimensions": "Overall: 94.6 cm (37 1/4 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "John L. Severance Fund",
+   "object_url": "https://clevelandart.org/art/1960.197"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1960.197/1960.197_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1960.197/1960.197_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1960.197"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "136319",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/136319",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "阿弥陀如来像（鎌倉時代）",
+   "highlights": [
+    "穏やかな表情の中に、鎌倉時代らしい引き締まった写実性が見られる。",
+    "衣のひだの深く鋭い彫りが、体の量感を強調する。",
+    "漆箔（漆と金箔）の仕上げが、仏の放つ光を表す。"
+   ],
+   "trivia": "阿弥陀如来は西方極楽浄土の仏。平安後期から鎌倉時代にかけて浄土信仰が広まり、多くの阿弥陀像が造られた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "horyu-ji",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "asuka-hakuho-buddhist",
+  "period": "japan:asuka",
+  "era": "world:early-medieval",
+  "year": 607,
+  "year_start": 607,
+  "year_end": 607,
+  "year_estimated": false,
+  "title_ja": "法隆寺",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Hōryū-ji Temple",
+   "artist": null,
+   "artist_bio": null,
+   "date": "607年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "斑鳩町、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q261932"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Horyu-ji45s2s4500.jpg/500px-Horyu-ji45s2s4500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Horyu-ji45s2s4500.jpg/1920px-Horyu-ji45s2s4500.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.5",
+   "credit": "663highland",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Horyu-ji45s2s4500.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q261932",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q261932.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "法隆寺",
+   "highlights": [
+    "金堂と五重塔が左右に並ぶ独特の伽藍配置。",
+    "柱の中ほどがわずかに膨らむエンタシス風の柱が、飛鳥様式の特徴とされる。",
+    "深い軒を支える雲形の組物（雲斗・雲肘木）。"
+   ],
+   "trivia": "西院伽藍は現存する世界最古級の木造建築群とされ、1993年に日本初の世界文化遺産の一つとなった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "byodo-in",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "heian-court",
+  "period": "japan:heian",
+  "era": "world:high-medieval",
+  "year": 1052,
+  "year_start": 1052,
+  "year_end": 1052,
+  "year_estimated": false,
+  "title_ja": "平等院",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Byōdō-in Temple",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1052年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "宇治市、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q61094"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg/500px-Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg/1920px-Phoenix_Hall%2C_Byodo-in%2C_November_2016_-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Martin Falbisoner",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Phoenix_Hall,_Byodo-in,_November_2016_-01.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q61094",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q61094.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "平等院鳳凰堂",
+   "highlights": [
+    "池に浮かぶように建つ鳳凰堂が、水面に映って極楽浄土の宮殿を表す。",
+    "中堂から左右に翼廊が伸び、鳥が翼を広げたような姿を見せる。",
+    "堂内には定朝作の阿弥陀如来坐像が安置される。"
+   ],
+   "trivia": "藤原頼通が1052年に父道長の別荘を寺に改めた。10円硬貨の図柄として知られる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "todai-ji",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "tempyo",
+  "period": "japan:heian",
+  "era": "world:early-medieval",
+  "year": 800,
+  "year_start": 800,
+  "year_end": 800,
+  "year_estimated": false,
+  "title_ja": "東大寺",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Tōdai-ji Temple",
+   "artist": null,
+   "artist_bio": null,
+   "date": "8世紀",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "奈良市、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q460367"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg/500px-Daibutsu-den_in_Todaiji_Nara02bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Daibutsu-den_in_Todaiji_Nara02bs3200.jpg/1920px-Daibutsu-den_in_Todaiji_Nara02bs3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY 2.5",
+   "credit": "663highland",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Daibutsu-den_in_Todaiji_Nara02bs3200.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q460367",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q460367.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "東大寺",
+   "highlights": [
+    "大仏殿は世界最大級の木造建築のひとつで、圧倒的なスケールを誇る。",
+    "内部の盧舎那仏（奈良の大仏）は天平の国家的事業の象徴。",
+    "南大門は鎌倉時代の大仏様（天竺様）の豪快な構造を伝える。"
+   ],
+   "trivia": "聖武天皇の発願で752年に大仏開眼。現在の大仏殿は江戸時代の再建で、創建時より横幅が小さい。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "kinkaku-ji",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "kitayama-higashiyama",
+  "period": "japan:muromachi",
+  "era": "world:high-medieval",
+  "year": 1397,
+  "year_start": 1397,
+  "year_end": 1397,
+  "year_estimated": false,
+  "title_ja": "鹿苑寺",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Kinkaku-ji Temple",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1397年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "北区、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q270983"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/500px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg/1920px-Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day%2C_Kyoto%2C_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Basile Morin",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Kinkaku-ji_Temple_a_sunny_day,_Kyoto,_Japan.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q270983",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q270983.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "鹿苑寺金閣",
+   "highlights": [
+    "金箔で覆われた上層が、鏡湖池の水面に映り込む。",
+    "層ごとに寝殿造・武家造・禅宗様と様式が異なる三層構造。",
+    "池泉回遊式庭園と一体となり、極楽浄土を表すとされる。"
+   ],
+   "trivia": "足利義満の山荘・北山殿を起源とする。1950年に放火で焼失し、1955年に再建された。三島由紀夫『金閣寺』の題材。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "himeji-castle",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "castle-architecture",
+  "period": "japan:momoyama",
+  "era": "world:early-modern-2",
+  "year": 1609,
+  "year_start": 1609,
+  "year_end": 1609,
+  "year_estimated": false,
+  "title_ja": "姫路城",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Himeji Castle",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1609年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "姫路市、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q188754"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Himeji_Castle%2C_Hy%C5%8Dgo_Prefecture%3B_August_2018_%2804%29.jpg/500px-Himeji_Castle%2C_Hy%C5%8Dgo_Prefecture%3B_August_2018_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Himeji_Castle%2C_Hy%C5%8Dgo_Prefecture%3B_August_2018_%2804%29.jpg/1920px-Himeji_Castle%2C_Hy%C5%8Dgo_Prefecture%3B_August_2018_%2804%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.0",
+   "credit": "_steffen",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Himeji_Castle,_Hy%C5%8Dgo_Prefecture;_August_2018_(04).jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q188754",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q188754.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "姫路城",
+   "highlights": [
+    "白漆喰総塗籠の壁が、白鷺が羽を広げたような優美な姿を見せる。",
+    "大天守と3つの小天守を渡櫓でつなぐ連立式天守。",
+    "複雑に折れ曲がる通路や狭間など、実戦的な防御の工夫が随所にある。"
+   ],
+   "trivia": "現在の天守は池田輝政により1609年頃に完成。1993年に法隆寺とともに日本初の世界文化遺産に登録された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "itsukushima-shrine",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "shrine-architecture",
+  "period": "japan:heian",
+  "era": "world:early-medieval",
+  "year": 593,
+  "year_start": 593,
+  "year_end": 593,
+  "year_estimated": false,
+  "title_ja": "厳島神社",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Itsukushima Shrine",
+   "artist": null,
+   "artist_bio": null,
+   "date": "593年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "廿日市市、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q191763"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/500px-Itsukushima_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Itsukushima_Gate.jpg/1920px-Itsukushima_Gate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "JordyMeow",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Itsukushima_Gate.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q191763",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q191763.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "厳島神社",
+   "highlights": [
+    "満潮時には社殿と大鳥居が海に浮かんで見える、海上の社殿。",
+    "朱塗りの回廊が水平に伸び、寝殿造の様式を伝える。",
+    "背後の弥山と海を含めた景観全体が信仰の対象になっている。"
+   ],
+   "trivia": "平清盛が12世紀に社殿を整えたとされる。1996年に世界文化遺産に登録された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "katsura-imperial-villa",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "sukiya",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "桂離宮",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Katsura Imperial Villa",
+   "artist": null,
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "西京区、日本",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q1736808"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Katsura_Imperial_Villa_in_Spring.jpg/500px-Katsura_Imperial_Villa_in_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Katsura_Imperial_Villa_in_Spring.jpg/1920px-Katsura_Imperial_Villa_in_Spring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "John Chang",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Katsura_Imperial_Villa_in_Spring.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q1736808",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q1736808.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "桂離宮",
+   "highlights": [
+    "雁行形に連なる書院群が、庭への多様な眺めを生み出す。",
+    "細い柱と障子による簡素で軽やかな数寄屋の意匠。",
+    "池を巡る回遊式庭園に茶屋が点在し、歩くごとに景色が変わる。"
+   ],
+   "trivia": "八条宮家の別荘として17世紀に造営された。建築家ブルーノ・タウトが絶賛し、近代建築家に再評価されるきっかけとなった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "shang-ritual-bronze",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "china",
+  "region_group": "china",
+  "style": "shang-zhou-bronze",
+  "period": "china:shang",
+  "era": "world:prehistory",
+  "year": -1148,
+  "year_start": -1260,
+  "year_end": -1036,
+  "year_estimated": false,
+  "title_ja": "殷代の青銅祭器",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Wine Vessel (Jia)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "c. 1250–1046 BCE",
+   "culture": "China, Shang dynasty (c. 1600–c. 1046 BCE), Anyang phase (c. 1250–1046 BCE)",
+   "medium": "bronze",
+   "dimensions": "Overall: 50.8 cm (20 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "John L. Severance Fund",
+   "object_url": "https://clevelandart.org/art/2005.54"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/2005.54/2005.54_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/2005.54"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "164431",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/164431",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "殷代の青銅祭器",
+   "highlights": [
+    "器の表面を覆う饕餮文（獣面文）が、神秘的な力を感じさせる。",
+    "左右対称の厳格な造形と、鋭く立ち上がる稜線（扉稜）。",
+    "細かな雷文が地文として埋め尽くし、主文様を浮かび上がらせる。"
+   ],
+   "trivia": "殷の青銅器は祖先の祭祀に酒や食物を供えるための器。陶製の鋳型（陶范）を組み合わせて鋳造された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "tang-sancai-horse",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "china",
+  "region_group": "china",
+  "style": "tang",
+  "period": "china:sui-tang",
+  "era": "world:early-medieval",
+  "year": 738,
+  "year_start": 675,
+  "year_end": 800,
+  "year_estimated": false,
+  "title_ja": "唐代の馬俑",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Horse",
+   "artist": null,
+   "artist_bio": null,
+   "date": "late 600s–800",
+   "culture": "China, probably Henan province, Tang dynasty (618–907)",
+   "medium": "glazed earthenware, sancai (three-color) ware",
+   "dimensions": "Overall: 76.8 cm (30 1/4 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Anonymous Gift",
+   "object_url": "https://clevelandart.org/art/1955.295"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1955.295/1955.295_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1955.295/1955.295_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1955.295"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "132819",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/132819",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "唐代の馬俑",
+   "highlights": [
+    "引き締まった首と力強い脚に、唐の人々が愛した西域の名馬の理想が表れる。",
+    "鞍や装飾帯まで丁寧に造形され、貴族の乗馬の豪華さを伝える。",
+    "釉薬の流れや土の質感に、唐代陶塑の生気がある。"
+   ],
+   "trivia": "唐の貴族の墓には、馬・駱駝・楽人などの俑（副葬用の人形）が多数納められた。三彩の俑はとくに盛唐期に流行した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "streams-and-mountains-without-end",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "northern-song-landscape",
+  "period": "china:five-dynasties-song",
+  "era": "world:high-medieval",
+  "year": 1125,
+  "year_start": 1100,
+  "year_end": 1150,
+  "year_estimated": false,
+  "title_ja": "渓山無尽図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Streams and Mountains without End",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1100–1150",
+   "culture": "China, late Northern Song dynasty (960-1127) - Jin dynasty (1115-1234)",
+   "medium": "handscroll; ink and slight color on silk",
+   "dimensions": "Image: 35.1 x 213 cm (13 13/16 x 83 7/8 in.); Overall: 35.1 x 1103.8 cm (13 13/16 x 434 9/16 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Gift of the Hanna Fund",
+   "object_url": "https://clevelandart.org/art/1953.126"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1953.126/1953.126_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1953.126"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "130361",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/130361",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "渓山無尽図",
+   "highlights": [
+    "横長の画巻を右から左へ繰り広げると、山・川・村が途切れずに続いていく。",
+    "冬枯れの木々と淡い墨の山並みが、静かで澄んだ空気を伝える。",
+    "小さな旅人や舟を探しながら、絵の中を旅するように鑑賞できる。"
+   ],
+   "trivia": "北宋後期の作とされる手巻で、巻末には後世の鑑賞者たちによる多数の跋文（感想文）が連なる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "forbidden-city",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "china",
+  "region_group": "china",
+  "style": "chinese-imperial-architecture",
+  "period": "china:ming",
+  "era": "world:early-modern-1",
+  "year": 1420,
+  "year_start": 1420,
+  "year_end": 1420,
+  "year_estimated": false,
+  "title_ja": "紫禁城",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Forbidden City",
+   "artist": "Kuai Xiang",
+   "artist_bio": null,
+   "date": "1420年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "東華門街道、中華人民共和国",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q80290"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/500px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Hall_of_Supreme_Harmony_%2820241127120000%29.jpg/1920px-Hall_of_Supreme_Harmony_%2820241127120000%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "N509FZ",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Hall_of_Supreme_Harmony_(20241127120000).jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q80290",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q80290.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "紫禁城（故宮）",
+   "highlights": [
+    "南北の中軸線に沿って門と殿舎が左右対称に連なる、壮大な配置。",
+    "皇帝の色である黄色の瑠璃瓦と、朱塗りの壁・柱。",
+    "白い大理石の三層基壇の上に建つ太和殿が、皇帝の権威を示す。"
+   ],
+   "trivia": "明の永楽帝が1420年に完成させ、清末まで約500年間、皇帝の宮殿として使われた。現在は故宮博物院。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "temple-of-heaven",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "china",
+  "region_group": "china",
+  "style": "chinese-imperial-architecture",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "天壇",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Temple of Heaven",
+   "artist": null,
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "Tiantan Subdistrict、中華人民共和国",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q125445"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Temple_of_Heaven_20160323_01.jpg/500px-Temple_of_Heaven_20160323_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Temple_of_Heaven_20160323_01.jpg/1920px-Temple_of_Heaven_20160323_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Shujianyang",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q125445",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q125445.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "天壇",
+   "highlights": [
+    "三重の青い瑠璃瓦の円屋根をもつ祈年殿が、天を象徴する。",
+    "円（天）と方（地）の形を組み合わせた、宇宙観に基づく設計。",
+    "釘をほとんど使わない木組みの構造。"
+   ],
+   "trivia": "明清の皇帝が天を祀り、五穀豊穣を祈った場所。青は天の色とされた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "goryeo-celadon",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "korea",
+  "region_group": "other",
+  "style": "goryeo-celadon",
+  "period": "korea:goryeo",
+  "era": "world:high-medieval",
+  "year": 1187,
+  "year_start": 1175,
+  "year_end": 1199,
+  "year_estimated": false,
+  "title_ja": "高麗青磁",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Plum Vase (Maebyeong) with Clouds, Cranes, and Children Motifs",
+   "artist": "Korea",
+   "artist_bio": null,
+   "date": "Goryeo dynasty (918–1392), late 12th century",
+   "culture": "Korea",
+   "medium": "Stoneware with red and white slip and celadon glaze",
+   "dimensions": "33.4 × 19.7 cm (13 1/8 × 7 3/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Gift of Mr. Russell Tyson",
+   "object_url": "https://www.artic.edu/artworks/73216"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/49c8b5f7-e4f6-96a8-cb44-2f0cb420f29f/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/49c8b5f7-e4f6-96a8-cb44-2f0cb420f29f/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/73216"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "73216",
+   "api_url": "https://api.artic.edu/api/v1/artworks/73216",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "高麗青磁",
+   "highlights": [
+    "「翡色」と称えられた、澄んだ青緑色の釉。",
+    "白土・黒土を埋め込む象嵌の技法による、繊細な文様。",
+    "柔らかな曲線を描く優美な器形。"
+   ],
+   "trivia": "中国・宋の文人も高麗青磁の色を称賛した記録が残る。象嵌青磁は高麗独自の発展とされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "joseon-moon-jar",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "korea",
+  "region_group": "other",
+  "style": "joseon",
+  "period": "korea:joseon",
+  "era": "world:early-modern-2",
+  "year": 1651,
+  "year_start": 1601,
+  "year_end": 1700,
+  "year_estimated": false,
+  "title_ja": "白磁大壺（月壺）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Moon Jar",
+   "artist": "Korea",
+   "artist_bio": null,
+   "date": "Joseon dynasty (1392–1897), late 17th–\nmid-18th century",
+   "culture": "Korea",
+   "medium": "Porcelain with glaze",
+   "dimensions": "33 × 32.5 cm (13 × 12 13/16 in.); Diam.: 32.5 cm (12 13/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Gift of an anonymous donor, Louise Lutz Estate, and Russell Tyson Endowment",
+   "object_url": "https://www.artic.edu/artworks/158472"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/e8ec6920-7f8b-5854-ea60-13f7d7614ae0/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/e8ec6920-7f8b-5854-ea60-13f7d7614ae0/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/158472"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "158472",
+   "api_url": "https://api.artic.edu/api/v1/artworks/158472",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "白磁大壺（月壺）",
+   "highlights": [
+    "満月を思わせる丸く大きな白磁の壺。",
+    "上下を別々に作って接合するため、わずかな歪みが生じ、それが温かみを生む。",
+    "装飾を排した乳白色の肌に、朝鮮王朝の簡素の美学が表れる。"
+   ],
+   "trivia": "17〜18世紀の朝鮮王朝で作られた。「月壺（タルハンアリ）」の名は20世紀に付けられたとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "isfahan-mihrab",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "iran-central-asia",
+  "region_group": "islamic",
+  "style": "ilkhanid-timurid",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-2",
+  "year": 1725,
+  "year_start": 1500,
+  "year_end": 1950,
+  "year_estimated": false,
+  "title_ja": "ミフラーブ（イスファハーン）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Prayer Niche (Mihrab)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "c. 1500s or mid-1900s",
+   "culture": "Iran, Isfahan, in the style of the Safavid period (1501–1722)",
+   "medium": "ceramic mosaic",
+   "dimensions": "Mihrab: 290.7 x 245.3 cm (114 7/16 x 96 9/16 in.); Frieze: 69.2 x 1563.5 cm (27 1/4 x 615 9/16 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Gift of Katharine Holden Thayer",
+   "object_url": "https://clevelandart.org/art/1962.23"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1962.23/1962.23_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1962.23/1962.23_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1962.23"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "137298",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/137298",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "ミフラーブ（イスファハーン）",
+   "highlights": [
+    "メッカの方角を示す壁龕を、色とりどりのタイル・モザイクが埋め尽くす。",
+    "縁を囲むクーフィー体・ナスフ体の大きな銘文帯。",
+    "小さく切った施釉タイルを組み合わせる高度な技法。"
+   ],
+   "trivia": "14世紀半ば、イスファハーンのマドラサ（学院）のために作られたとされる。ミフラーブはモスク内部で礼拝の方向（キブラ）を示す。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "mamluk-mosque-lamp",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "mamluk",
+  "period": "islamic:modern",
+  "era": "world:c19",
+  "year": 1883,
+  "year_start": 1866,
+  "year_end": 1899,
+  "year_estimated": false,
+  "title_ja": "モスク・ランプ（マムルーク朝）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Mosque Lamp",
+   "artist": null,
+   "artist_bio": null,
+   "date": "late 1800s",
+   "culture": "France",
+   "medium": "glass with enameled and gilded decoration",
+   "dimensions": "Overall: 39.5 cm (15 9/16 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "John L. Severance Fund",
+   "object_url": "https://clevelandart.org/art/1981.10"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1981.10/1981.10_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1981.10/1981.10_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1981.10"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "150188",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/150188",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "モスク・ランプ（マムルーク朝）",
+   "highlights": [
+    "透明なガラスにエナメル彩と金彩で、大きな銘文が施されている。",
+    "光を通すと文様が浮かび上がり、聖なる光の比喩となる。",
+    "寄進者の紋章やコーランの「光の章」の一節が記されることが多い。"
+   ],
+   "trivia": "マムルーク朝の首都カイロのモスクや廟に吊るされた。中に油と芯を入れたガラス容器を置いて灯した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "iznik-dish",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "ottoman",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-1",
+  "year": 1575,
+  "year_start": 1550,
+  "year_end": 1599,
+  "year_estimated": false,
+  "title_ja": "イズニク陶器の皿",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Serving Dish (Tabaq) with Vegetal and Fish-Scale Patterns",
+   "artist": "Turkey\nIznik",
+   "artist_bio": null,
+   "date": "Ottoman dynasty (1299–1923), 16th century",
+   "culture": "Turkey",
+   "medium": "Iznik ware, fritware with underglaze painting in blue, turquoise, red, and black on white slip",
+   "dimensions": "6 × 30.7 cm (2 3/8 × 12 1/16 in.); Diam.: 30.7 cm (12 1/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Gift of Martin A. Ryerson",
+   "object_url": "https://www.artic.edu/artworks/6762"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/ab01d2c2-ba08-16f0-3a77-f5d95f41f2e3/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/ab01d2c2-ba08-16f0-3a77-f5d95f41f2e3/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/6762"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "6762",
+   "api_url": "https://api.artic.edu/api/v1/artworks/6762",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "イズニク陶器の皿",
+   "highlights": [
+    "チューリップ・カーネーション・ヒヤシンスなど、写実と様式化が融合した草花文。",
+    "鮮やかなコバルト青・トルコ石色に、盛り上がる赤（ボーレ）が加わる。",
+    "白い化粧土と透明釉による、陶器とは思えない明るい白地。"
+   ],
+   "trivia": "イズニクはアナトリア西部の町。16世紀のオスマン宮廷の工房がデザインを主導し、モスクのタイルも生産した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "alhambra",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "moorish-nasrid",
+  "period": "islamic:medieval",
+  "era": "world:high-medieval",
+  "year": 1239,
+  "year_start": 1239,
+  "year_end": 1239,
+  "year_estimated": false,
+  "title_ja": "アルハンブラ宮殿",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Alhambra",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1239年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "グラナダ、スペイン王国",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q47476"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Alhambra_detail.jpg/500px-Alhambra_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Alhambra_detail.jpg/1920px-Alhambra_detail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "credit": "Jebulon",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Alhambra_detail.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q47476",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q47476.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "アルハンブラ宮殿",
+   "highlights": [
+    "獅子の中庭を囲む細い柱と、レースのように繊細なスタッコ装飾。",
+    "天井から垂れ下がる鍾乳石のようなムカルナス装飾。",
+    "水路・噴水・池を巡らせ、水と光で楽園を表現する。"
+   ],
+   "trivia": "イベリア半島最後のイスラーム王朝、ナスル朝の宮殿。1492年にグラナダがキリスト教勢力に明け渡された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "shah-mosque-isfahan",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "iran-central-asia",
+  "region_group": "islamic",
+  "style": "safavid",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-2",
+  "year": 1611,
+  "year_start": 1611,
+  "year_end": 1611,
+  "year_estimated": false,
+  "title_ja": "シャー・モスク",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Shah Mosque",
+   "artist": "シェイク・バハエイ",
+   "artist_bio": null,
+   "date": "1611年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "District 3、イラン",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q643098"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Naghsh-e-jahan_masjed-e-shah_esfahan.jpg/500px-Naghsh-e-jahan_masjed-e-shah_esfahan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Naghsh-e-jahan_masjed-e-shah_esfahan.jpg/1920px-Naghsh-e-jahan_masjed-e-shah_esfahan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 2.5",
+   "credit": "Wikimedia Commons",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Naghsh-e-jahan_masjed-e-shah_esfahan.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q643098",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q643098.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "イマーム・モスク（旧シャー・モスク）",
+   "highlights": [
+    "青を基調とした七彩タイルが、ドームや壁面を隙間なく覆う。",
+    "広場に面した入口から本堂へ、軸線を45度ずらしてメッカに向ける工夫。",
+    "巨大なイーワーンとムカルナスが、劇的な入口空間をつくる。"
+   ],
+   "trivia": "サファヴィー朝のアッバース1世がイスファハーンの王の広場（現イマーム広場）に建設させた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "suleymaniye-mosque",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "ottoman",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-1",
+  "year": 1550,
+  "year_start": 1550,
+  "year_end": 1550,
+  "year_estimated": false,
+  "title_ja": "スレイマニエ・モスク",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Süleymaniye Mosque",
+   "artist": "ミマール・スィナン",
+   "artist_bio": null,
+   "date": "1550年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "イスタンブール県、トルコ",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q178643"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg/500px-S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg/1920px-S%C3%BCleymaniyeMosqueIstanbul_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC0",
+   "credit": "Hunanuk",
+   "source_url": "https://commons.wikimedia.org/wiki/File:S%C3%BCleymaniyeMosqueIstanbul_(cropped).jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q178643",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q178643.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "スレイマニエ・モスク",
+   "highlights": [
+    "中央の大ドームを半ドームが支え、段々と積み上がる外観。",
+    "4本の鉛筆のように細いミナレットが空へ伸びる。",
+    "内部は窓からの光に満ち、イズニクタイルが要所を飾る。"
+   ],
+   "trivia": "建築家ミマール・スィナンがスレイマン1世のために1550年代に建てた。アヤソフィアのドーム構造を研究・発展させたとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "gur-e-amir",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "iran-central-asia",
+  "region_group": "islamic",
+  "style": "ilkhanid-timurid",
+  "period": "islamic:mongol-timurid",
+  "era": "world:early-modern-1",
+  "year": 1403,
+  "year_start": 1403,
+  "year_end": 1403,
+  "year_estimated": false,
+  "title_ja": "グーリ・アミール廟",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Gur-e Amir",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1403年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "サマルカンド、ウズベキスタン",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q1256223"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%93%D1%83%D1%80-%D0%AD%D0%BC%D0%B8%D1%80.jpg/500px-%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%93%D1%83%D1%80-%D0%AD%D0%BC%D0%B8%D1%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%93%D1%83%D1%80-%D0%AD%D0%BC%D0%B8%D1%80.jpg/1920px-%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%93%D1%83%D1%80-%D0%AD%D0%BC%D0%B8%D1%80.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Arina Pan",
+   "source_url": "https://commons.wikimedia.org/wiki/File:%D0%92%D0%B5%D1%87%D0%B5%D1%80%D0%BD%D0%B8%D0%B9_%D0%93%D1%83%D1%80-%D0%AD%D0%BC%D0%B8%D1%80.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q1256223",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q1256223.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "グーリ・アミール廟",
+   "highlights": [
+    "縦溝（リブ）の入った青いドームが、高いドラムの上にそびえる。",
+    "外壁を幾何学文様と銘文のタイルが覆う。",
+    "内部は金で装飾され、ティムールの墓石には暗緑色の軟玉（ネフライト）が使われている。"
+   ],
+   "trivia": "サマルカンドにあるティムールとその一族の霊廟。その意匠はムガル朝のタージ・マハルなどにも影響を与えたとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "taj-mahal",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "mughal",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "タージ・マハル",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Taj Mahal",
+   "artist": "アフマド・ラーホーリー",
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "アーグラ、インド",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q9141"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/500px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1920px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Yann ; edited by Jim Carter",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q9141",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q9141.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "タージ・マハル",
+   "highlights": [
+    "白大理石の霊廟が、完全な左右対称で水路の庭園の奥に立つ。",
+    "色石を嵌め込むピエトラ・ドゥーラの花文様と、コーランの銘文。",
+    "四隅のミナレットはわずかに外側へ傾けられているとされる。"
+   ],
+   "trivia": "ムガル皇帝シャー・ジャハーンが亡き妃ムムターズ・マハルのために建てた。1632年頃に着工し、約20年を要した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "chola-nataraja",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "chola",
+  "period": "south-asia:medieval",
+  "era": "world:high-medieval",
+  "year": 1001,
+  "year_start": 901,
+  "year_end": 1100,
+  "year_estimated": false,
+  "title_ja": "ナタラージャ（踊るシヴァ）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Shiva as Lord of the Dance (Nataraja)",
+   "artist": "India\nTamil Nadu",
+   "artist_bio": null,
+   "date": "Chola period, about 10th/11th century",
+   "culture": "Tamil Nadu",
+   "medium": "Bronze",
+   "dimensions": "69.3 × 61.8 × 24.1 cm (27 1/4 × 24 1/4 × 9 1/2 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Kate S. Buckingham Fund",
+   "object_url": "https://www.artic.edu/artworks/24548"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/cf50f037-5fb2-e197-0e56-3ae701edb3e2/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/cf50f037-5fb2-e197-0e56-3ae701edb3e2/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/24548"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "24548",
+   "api_url": "https://api.artic.edu/api/v1/artworks/24548",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "ナタラージャ（踊るシヴァ）",
+   "highlights": [
+    "炎の輪の中で、片足を上げて宇宙の破壊と創造の舞いを踊るシヴァ。",
+    "足元に踏まれる小人は、無知の象徴とされる。",
+    "四本の腕が均衡を保ち、静と動が一体化した造形。"
+   ],
+   "trivia": "チョーラ朝の青銅像は失蝋法で鋳造された。祭礼のときには行列で運ばれる「行道像」でもあった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "gandhara-bodhisattva",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "gandhara",
+  "period": "south-asia:kushan",
+  "era": "world:antiquity",
+  "year": 250,
+  "year_start": 199,
+  "year_end": 300,
+  "year_estimated": false,
+  "title_ja": "ガンダーラの仏・菩薩像",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Standing Bodhisattva with Human-Figure Necklace",
+   "artist": "Pakistan\nAncient region of Gandhara",
+   "artist_bio": null,
+   "date": "Kushan period, 2nd/3rd century",
+   "culture": "Gandhara",
+   "medium": "Phyllite",
+   "dimensions": "150.5 × 53.3 × 19 cm (59 1/4 × 21 × 8 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Gift of Marilynn B. Alsdorf",
+   "object_url": "https://www.artic.edu/artworks/151086"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/483decb0-fc13-df85-6c68-1d57b6246fc8/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/483decb0-fc13-df85-6c68-1d57b6246fc8/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/151086"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "151086",
+   "api_url": "https://api.artic.edu/api/v1/artworks/151086",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "ガンダーラの仏・菩薩像",
+   "highlights": [
+    "ギリシア・ローマ彫刻を思わせる写実的な顔立ちと衣のひだ。",
+    "波打つ髪や口ひげ、装身具など、王侯の姿を映した菩薩の表現。",
+    "灰色の片岩に彫られた、落ち着いた質感。"
+   ],
+   "trivia": "ガンダーラは現在のパキスタン北西部。アレクサンドロスの遠征以後のヘレニズム文化の影響を受け、最初期の仏像が生まれた地のひとつ。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "sanchi-stupa",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "early-buddhist-india",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "サンチ",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Sanchi",
+   "artist": null,
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ラーイセーン県、インド",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q181123"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stupa_1%2C_Sanchi_02.jpg/500px-Stupa_1%2C_Sanchi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stupa_1%2C_Sanchi_02.jpg/1920px-Stupa_1%2C_Sanchi_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "Bernard Gagnon",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Stupa_1,_Sanchi_02.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q181123",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q181123.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "サーンチーの大ストゥーパ",
+   "highlights": [
+    "半球形の覆鉢が、仏陀の遺骨を納める宇宙の象徴として盛り上がる。",
+    "四方の塔門（トーラナ）を埋め尽くす、仏伝やジャータカの浮彫。",
+    "仏陀を人の姿で表さず、菩提樹や法輪で象徴する初期仏教美術。"
+   ],
+   "trivia": "起源はアショーカ王の時代（前3世紀）にさかのぼる。塔門の浮彫は前1世紀頃のものとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "brihadisvara-temple",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "chola",
+  "period": "south-asia:medieval",
+  "era": "world:high-medieval",
+  "year": 1010,
+  "year_start": 1010,
+  "year_end": 1010,
+  "year_estimated": false,
+  "title_ja": "ブリハディーシュヴァラ寺院",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Prahadisvarar Temple",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1010年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "タンジャーヴール、インド",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q916943"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Le_temple_de_Brihadishwara_%28Tanjore%2C_Inde%29_%2814354574611%29.jpg/500px-Le_temple_de_Brihadishwara_%28Tanjore%2C_Inde%29_%2814354574611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://upload.wikimedia.org/wikipedia/commons/7/77/Le_temple_de_Brihadishwara_%28Tanjore%2C_Inde%29_%2814354574611%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY 2.0",
+   "credit": "Jean-Pierre Dalbéra from Paris, France",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Le_temple_de_Brihadishwara_(Tanjore,_Inde)_(14354574611).jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q916943",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q916943.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ブリハディーシュヴァラ寺院",
+   "highlights": [
+    "約60メートルの高さにそびえる本殿の塔（ヴィマーナ）。",
+    "塔の頂部に載る巨大な冠石（一枚岩とも伝えられる）。",
+    "壁面の神像彫刻と、内部に残るチョーラ期の壁画。"
+   ],
+   "trivia": "チョーラ朝の王ラージャラージャ1世が11世紀初めに建立した。「大チョーラ朝寺院群」として世界遺産。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "krishna-govardhan-phnom-da",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "southeast-asia",
+  "region_group": "south-southeast-asia",
+  "style": "khmer",
+  "period": "southeast-asia:early",
+  "era": "world:early-medieval",
+  "year": 600,
+  "year_start": 590,
+  "year_end": 610,
+  "year_estimated": false,
+  "title_ja": "ゴーヴァルダナ山を持ち上げるクリシュナ",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Krishna Lifting Mount Govardhan",
+   "artist": null,
+   "artist_bio": null,
+   "date": "c. 600",
+   "culture": "Southern Cambodia, Takeo Province, Phnom Da",
+   "medium": "Sandstone",
+   "dimensions": "Overall: 203.1 x 68 x 55.5 cm (79 15/16 x 26 3/4 x 21 7/8 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "John L. Severance Fund",
+   "object_url": "https://clevelandart.org/art/1973.106"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1973.106/1973.106_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1973.106/1973.106_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1973.106"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "147166",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/147166",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "ゴーヴァルダナ山を持ち上げるクリシュナ",
+   "highlights": [
+    "左腕を高く掲げ、豪雨から人々を守るため山を持ち上げる若きクリシュナ。",
+    "しなやかな体の量感と、穏やかな顔の表情。",
+    "石の塊から彫り出しながら、自立する立体として完成させた技術。"
+   ],
+   "trivia": "前アンコール期のプノン・ダー様式の代表作。修復により欠損部分が補われ、本来の姿に近づけられた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "angkor-wat",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "southeast-asia",
+  "region_group": "south-southeast-asia",
+  "style": "khmer",
+  "period": "southeast-asia:angkor",
+  "era": "world:high-medieval",
+  "year": 1200,
+  "year_start": 1200,
+  "year_end": 1200,
+  "year_estimated": false,
+  "title_ja": "アンコール・ワット",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Angkor Wat",
+   "artist": null,
+   "artist_bio": null,
+   "date": "12世紀",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "シェムリアップ州、カンボジア",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q43473"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/500px-Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/1920px-Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Bjørn Christian Tørrissen",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q43473",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q43473.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "アンコール・ワット",
+   "highlights": [
+    "蓮の蕾のような5つの塔が、神々の住む須弥山を表す。",
+    "回廊に延々と続く浅浮彫は『マハーバーラタ』『ラーマーヤナ』などを描く。",
+    "西向きの正面と環濠が、天体の運行と結びついた設計を示す。"
+   ],
+   "trivia": "12世紀前半、スーリヤヴァルマン2世がヴィシュヌ神に捧げて建てた。後に仏教寺院となり、カンボジア国旗にも描かれる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "borobudur",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "southeast-asia",
+  "region_group": "south-southeast-asia",
+  "style": "javanese-classical",
+  "period": null,
+  "era": null,
+  "year": null,
+  "year_start": null,
+  "year_end": null,
+  "year_estimated": false,
+  "title_ja": "ボロブドゥール",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Borobudur",
+   "artist": null,
+   "artist_bio": null,
+   "date": null,
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "マゲラン県、インドネシア",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q4119591"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg/500px-Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg/1920px-Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "CEphoto, Uwe Aranas",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Borobudur-Temple-Park_Indonesia_Stupas-of-Borobudur-12.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q4119591",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q4119591.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ボロブドゥール",
+   "highlights": [
+    "方形の基壇に円形の壇が重なる、立体的な曼荼羅のような構造。",
+    "回廊を巡ると、仏伝や経典の物語浮彫が順に現れる。",
+    "最上部には鐘形の小ストゥーパが並び、中に仏像が座る。"
+   ],
+   "trivia": "8〜9世紀にシャイレーンドラ朝の下で建立された。長く火山灰と密林に埋もれ、19世紀に再発見された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "new-york-kouros",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "greco-roman",
+  "region_group": "ancient",
+  "style": "greek-geometric-archaic",
+  "period": "greco-roman:archaic",
+  "era": "world:antiquity",
+  "year": -550,
+  "year_start": -555,
+  "year_end": -545,
+  "year_estimated": false,
+  "title_ja": "クーロス像（ニューヨークのクーロス）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Torso of a Kouros",
+   "artist": null,
+   "artist_bio": null,
+   "date": "c. 550 BCE",
+   "culture": "Greece, Archaic period",
+   "medium": "marble",
+   "dimensions": "Overall: 62.5 cm (24 5/8 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Gift of the Hanna Fund",
+   "object_url": "https://clevelandart.org/art/1953.125"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1953.125/1953.125_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1953.125/1953.125_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1953.125"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "130360",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/130360",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "クーロス像（ニューヨークのクーロス）",
+   "highlights": [
+    "左脚を一歩踏み出し、両腕を体側につけた直立の姿勢。",
+    "幾何学的に整理された髪、膝、腹筋の表現。",
+    "エジプトの立像の影響を受けつつ、裸体で表される点がギリシア的。"
+   ],
+   "trivia": "アッティカで作られた、最初期の等身大大理石クーロス像の一つ。紀元前590〜580年頃とされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "parthenon",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "greco-roman",
+  "region_group": "ancient",
+  "style": "greek-classical",
+  "period": "greco-roman:archaic",
+  "era": "world:antiquity",
+  "year": -500,
+  "year_start": -500,
+  "year_end": -500,
+  "year_estimated": false,
+  "title_ja": "パルテノン神殿",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Parthenon",
+   "artist": "イクティノス、カリクラテス、ペイディアス",
+   "artist_bio": null,
+   "date": "紀元前5世紀",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "アテネ自治体、ギリシャ",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q10288"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/The_Parthenon_in_Athens.jpg/500px-The_Parthenon_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://upload.wikimedia.org/wikipedia/commons/d/da/The_Parthenon_in_Athens.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY 2.0",
+   "credit": "Steve Swayne",
+   "source_url": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q10288",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q10288.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "パルテノン神殿",
+   "highlights": [
+    "ドーリス式の列柱が並ぶ、古典建築の規範とされる均整の取れた姿。",
+    "柱のふくらみ（エンタシス）や基壇の反りなど、目の錯覚を補正する繊細な工夫。",
+    "かつて破風やフリーズを飾った彫刻群は、古典期彫刻の最高峰とされる。"
+   ],
+   "trivia": "紀元前447〜432年頃、ペリクレスの時代にアテナ女神のために建てられた。後に教会、モスクにもなり、1687年の爆発で大きく損壊した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "pantheon-rome",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "greco-roman",
+  "region_group": "ancient",
+  "style": "roman",
+  "period": "greco-roman:roman-imperial",
+  "era": "world:antiquity",
+  "year": 128,
+  "year_start": 128,
+  "year_end": 128,
+  "year_estimated": false,
+  "title_ja": "パンテオン",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Pantheon",
+   "artist": "ダマスカスのアポロドーロス",
+   "artist_bio": null,
+   "date": "2世紀",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ローマ、イタリア",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q99309"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/500px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/1920px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "NikonZ7II",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q99309",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q99309.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "パンテオン（ローマ）",
+   "highlights": [
+    "直径約43メートルの無筋コンクリートのドーム。床からドーム頂部までの高さも同じ。",
+    "頂部の円窓（オクルス）から差し込む光が、時間とともに内部を移動する。",
+    "ギリシア神殿風の柱廊玄関と、円形の本体の組み合わせ。"
+   ],
+   "trivia": "現在の建物はハドリアヌス帝の時代（2世紀前半）の再建。7世紀に教会となったことで、ほぼ完全な姿で残った。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "great-pyramid-giza",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "egypt-ancient",
+  "region_group": "ancient",
+  "style": "egypt-old-kingdom",
+  "period": "egypt:old-kingdom",
+  "era": "world:prehistory",
+  "year": -2560,
+  "year_start": -2560,
+  "year_end": -2560,
+  "year_estimated": false,
+  "title_ja": "ギザの大ピラミッド",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Great Pyramid of Giza",
+   "artist": "Hemiunu",
+   "artist_bio": null,
+   "date": "紀元前2560年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ギーザ県、エジプト",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q37200"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Kheops-Pyramid.jpg/500px-Kheops-Pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+   "license": "CC BY 2.5",
+   "credit": "Nina",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Kheops-Pyramid.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q37200",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q37200.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ギザの大ピラミッド（クフ王のピラミッド）",
+   "highlights": [
+    "底辺約230メートル、当初の高さ約146メートルの巨大な四角錐。",
+    "四辺がほぼ正確に東西南北を向く、高精度の測量。",
+    "内部には「大回廊」や「王の間」などの空間がある。"
+   ],
+   "trivia": "古王国第4王朝のクフ王の墓とされる。古代世界の七不思議のうち、唯一現存するもの。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "cycladic-figure",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "greco-roman",
+  "region_group": "ancient",
+  "style": "cycladic-aegean",
+  "period": "greco-roman:aegean",
+  "era": "world:prehistory",
+  "year": -2500,
+  "year_start": -2600,
+  "year_end": -2400,
+  "year_estimated": false,
+  "title_ja": "キクラデスの女性像",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Statuette of a Female Figure",
+   "artist": "Cycladic; probably from the island of Keros",
+   "artist_bio": null,
+   "date": "Early Bronze Age, 2600–2400 BCE",
+   "culture": "Kéa",
+   "medium": "Marble",
+   "dimensions": "39.9 × 11.6 × 4.9 cm (15 11/16 × 4 9/16 × 1 15/16 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Katherine K. Adler Memorial Fund",
+   "object_url": "https://www.artic.edu/artworks/52201"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/40d398a0-ba23-3254-c1f3-50d4fb3b9084/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/40d398a0-ba23-3254-c1f3-50d4fb3b9084/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/52201"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "52201",
+   "api_url": "https://api.artic.edu/api/v1/artworks/52201",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "キクラデスの女性像",
+   "highlights": [
+    "胸の前で腕を組み、つま先立ちのような姿勢の極度に抽象化された人体。",
+    "鼻だけが突き出した卵形の顔は、当初は目や口が彩色されていたとされる。",
+    "研ぎ澄まされた単純な形は、20世紀の彫刻家たちを魅了した。"
+   ],
+   "trivia": "紀元前3千年紀にエーゲ海のキクラデス諸島で作られた。多くは墓から出土し、用途はよく分かっていない。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "machu-picchu",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "americas-indigenous",
+  "region_group": "other",
+  "style": "andean",
+  "period": "americas:postclassic",
+  "era": "world:early-modern-1",
+  "year": 1450,
+  "year_start": 1450,
+  "year_end": 1450,
+  "year_estimated": false,
+  "title_ja": "マチュ・ピチュ",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Machu Picchu",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1450年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ウルバンバ郡、ペルー",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q676203"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg/500px-80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg/1920px-80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 3.0",
+   "credit": "Martin St-Amant ( S23678 )",
+   "source_url": "https://commons.wikimedia.org/wiki/File:80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q676203",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q676203.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "マチュ・ピチュ",
+   "highlights": [
+    "標高約2400メートルの尾根に築かれた、山と一体化した都市景観。",
+    "カミソリの刃も通らないといわれる、精緻な切石の石組み。",
+    "段々畑と水路が、急斜面での生活を支えた。"
+   ],
+   "trivia": "15世紀半ば、インカ皇帝パチャクティの離宮として建設されたと考えられている。1911年にハイラム・ビンガムが世界に紹介した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "chichen-itza",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "americas-indigenous",
+  "region_group": "other",
+  "style": "mesoamerican",
+  "period": "americas:classic",
+  "era": "world:antiquity",
+  "year": 455,
+  "year_start": 455,
+  "year_end": 455,
+  "year_estimated": false,
+  "title_ja": "チチェン・イッツァ",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Chichen Itza",
+   "artist": null,
+   "artist_bio": null,
+   "date": "455年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "ユカタン州、メキシコ",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q5859"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/500px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1920px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Daniel Schwen",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q5859",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q5859.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "チチェン・イッツァ",
+   "highlights": [
+    "エル・カスティージョ（ククルカンの神殿）は、四面に階段をもつ階段ピラミッド。",
+    "階段数は合計で365段とされ、暦との関連が指摘される。",
+    "春分・秋分には、階段の側面に蛇が降りてくるような影が現れる。"
+   ],
+   "trivia": "マヤ後古典期の大都市で、ユカタン半島北部にある。1988年に世界遺産に登録された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ }
+]

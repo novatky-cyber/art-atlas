@@ -8,6 +8,7 @@ import type { Note } from '../lib/supabase';
 import { Stars } from '../components/Stars';
 import { Photo } from '../components/Photo';
 import { ArtImage } from '../components/ArtImage';
+import { ocrPlate } from '../lib/ocr';
 
 const STATUS_LABEL = { pending: '解説待ち', review: '要確認', done: '完成' } as const;
 
@@ -35,6 +36,7 @@ export function NoteEdit({ id, query }: { id: string; query: URLSearchParams }) 
         comment: '',
         title_memo: '',
         artist_memo: '',
+        plate_text: '',
       },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [existing?.id],
@@ -46,6 +48,20 @@ export function NoteEdit({ id, query }: { id: string; query: URLSearchParams }) 
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState('');
   const set = (p: Partial<Note>) => setForm((f) => ({ ...f, ...p }));
+  const [ocr, setOcr] = useState<{ running: boolean; label: string }>({ running: false, label: '' });
+  const runOcr = async (files: File[]) => {
+    if (!files.length) return;
+    setOcr({ running: true, label: '文字を読み取る準備中…（初回は言語データの取得に時間がかかります）' });
+    try {
+      const text = await ocrPlate(files, (m) =>
+        setOcr({ running: true, label: m.status === 'recognizing text' ? `読み取り中 ${Math.round(m.progress * 100)}%` : '準備中…' }),
+      );
+      setForm((f) => ({ ...f, plate_text: [f.plate_text, text].filter(Boolean).join('\n---\n') }));
+      setOcr({ running: false, label: text ? '読み取りました。下の文字を確認・修正してください。' : '文字を読み取れませんでした。手で入力してください。' });
+    } catch (e) {
+      setOcr({ running: false, label: '読み取りに失敗しました：' + (e as Error).message });
+    }
+  };
   const photoIn = useRef<HTMLInputElement>(null);
   const plateIn = useRef<HTMLInputElement>(null);
 
@@ -80,6 +96,7 @@ export function NoteEdit({ id, query }: { id: string; query: URLSearchParams }) 
           moods: form.moods ?? [],
           photos: form.photos ?? [],
           plate_photos: form.plate_photos ?? [],
+          plate_text: form.plate_text || null,
         },
         { photos, plates },
       );
@@ -177,7 +194,10 @@ export function NoteEdit({ id, query }: { id: string; query: URLSearchParams }) 
               {plates.map((f, i) => <img key={i} className="thumb" src={URL.createObjectURL(f)} alt="" />)}
               <button className="thumb add" onClick={() => plateIn.current?.click()}>＋🏷</button>
             </div>
-            <input ref={plateIn} type="file" accept="image/*" capture="environment" multiple hidden onChange={(e) => { setPlates((p) => [...p, ...Array.from(e.target.files ?? [])]); e.target.value = ''; }} />
+            <input ref={plateIn} type="file" accept="image/*" capture="environment" multiple hidden onChange={(e) => { const fs = Array.from(e.target.files ?? []); setPlates((p) => [...p, ...fs]); e.target.value = ''; runOcr(fs); }} />
+            <label>プレートの文字（自動読み取り・修正できます）</label>
+            {ocr.label && <p className="tiny muted">{ocr.label}</p>}
+            <textarea rows={5} value={form.plate_text ?? ''} onChange={(e) => set({ plate_text: e.target.value })} placeholder="作品名・作家・制作年・技法・所蔵など。夜間処理はこの文字から作品を特定します" />
           </>
         )}
 
@@ -204,7 +224,7 @@ export function NoteEdit({ id, query }: { id: string; query: URLSearchParams }) 
         <label>美術館</label>
         <input value={form.museum_name ?? ''} onChange={(e) => set({ museum_name: e.target.value, museum_ref: null })} placeholder="チェックイン中は自動入力" />
 
-        <button className="btn primary wide" disabled={busy} onClick={submit}>{busy ? '保存中…' : '保存'}</button>
+        <button className="btn primary wide" disabled={busy || ocr.running} onClick={submit}>{busy ? '保存中…' : ocr.running ? '文字の読み取り中…' : '保存'}</button>
         {msg && <p className="small">{msg}</p>}
         {existing && (
           <button

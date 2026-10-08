@@ -18,14 +18,16 @@
   - `artists.json` / `museums.json`（美術館＋都市）/ `glossary.json`（用語集）/ `themes.json`（テーマ特集）… `scripts/gen-reference.mjs`
   - `regions.json` … 直接編集
 - シード：`pipeline/seeds/*.json`（`batch-NNN` 手書き、`auto-YYYY-MM-DD` 夜間自動、`notes.json` 手帳の記録から作成）
-- 夜間処理：`.github/workflows/nightly.yml`（毎晩 3:00 JST）→ `pipeline/nightly/run.mjs`
-  1. `process-notes.mjs`：「解説待ち」の記録のプレート写真を Claude で読み取り → 既存作品に紐づけ／オープンアクセスで見つかればその所蔵品で新規作成／なければ `source: "plate"`（公開画像なし）で新規作成。確信度が低ければ `review`（候補最大3つ）
-  2. `auto-add.mjs`：`config/targets.json` の不足地域（日本以外を優先）に合わせ、AIC（is_boosted）・Cleveland（highlight）のパブリックドメイン作品から 50 点を選び、Claude（画像を見て）で分類・見どころ（位置付き）・物語・技法・豆知識を生成
-  3. `fetch.mjs` → 検証 → コミット → デプロイ。結果は Supabase `job_runs` と Actions サマリーに記録、失敗時は Issue 作成
-  - Secrets：`ANTHROPIC_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`。Variables（任意）：`ART_ATLAS_MODEL`（既定 `claude-opus-5-5`）, `NIGHTLY_COUNT`
+- 夜間処理（**Claude API は使わない**。費用ゼロ）
+  1. GitHub Actions「Nightly candidates」（2:20 JST）：`pipeline/nightly/candidates.mjs` が不足地域（日本以外優先）の代表作候補を美術館 API から集め、`pipeline/candidates/next.json` にコミット
+  2. Claude Code のスケジュール実行（ルーティン、毎晩3時前）：`docs/nightly-routine.md` の手順で、①「解説待ち」の記録を Supabase コネクタで読み、プレートの OCR 文字から作品を特定・解説して書き戻す → ②候補から20点の解説を書いてシード化 → PR → マージ
+  3. GitHub Actions「Publish」：シードが main に入ると取得 → 検証 → コミット → Pages 公開。失敗時は Issue
+  - 実行記録は Supabase `job_runs`（手帳トップ・設定に表示）
+  - プレートの文字は登録時に端末で OCR（tesseract.js、日本語＋英語）し、本人が確認・修正して `notes.plate_text` に保存する
 
 ## 重要な制約
-- **このクラウド環境からは美術館 API・Supabase API に届かない**（プロキシで 403）。取得は GitHub Actions で行う。Supabase のスキーマ変更は Supabase MCP（apply_migration）で。
+- **このクラウド環境からは美術館 API・Supabase REST API に届かない**（プロキシで 403）。取得は GitHub Actions で行う。Supabase の読み書き・スキーマ変更は Supabase MCP（execute_sql / apply_migration）で。
+- **Claude API（従量課金）を使うコードを追加しない**（ユーザーの方針：費用ゼロ）。生成はルーティン内の Claude 自身が行う。
 - 事実（作品名・作家・年代・所蔵・画像URL・ライセンス）は取得データのみ（plate 由来は解説プレートの読み取り結果）。シードに事実を書かない。
 - 見どころ・物語・技法・豆知識・様式解説・時代背景・用語・作家紹介は AI 生成で、`ai_generated: true` / 画面に「AI生成」を表示する。
 - 引用（`ai.quotes`）は出典が確認できるものだけ。出典がなければ欄ごと出さない。

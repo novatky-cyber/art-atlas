@@ -23,6 +23,23 @@ export function Login() {
     if (error) setMsg('送信できませんでした：' + error.message);
     else setSent(true);
   };
+  // メール本文のリンクを（タップせず）長押しでコピーして貼り付ける方式。テンプレート変更なしで PWA でもログインできる
+  const [link, setLink] = useState('');
+  const verifyLink = async () => {
+    setBusy(true);
+    setMsg('');
+    try {
+      const u = new URL(link.trim());
+      const token = u.searchParams.get('token') ?? u.searchParams.get('token_hash');
+      const type = (u.searchParams.get('type') ?? 'magiclink') as 'magiclink' | 'signup' | 'email';
+      if (!token) throw new Error('リンクにトークンが含まれていません');
+      const { error } = await supabase.auth.verifyOtp({ token_hash: token, type });
+      if (error) throw error;
+    } catch (e) {
+      setMsg('ログインできませんでした：' + (e as Error).message + '（リンクは1回しか使えません。一度タップしたリンクは無効です）');
+    }
+    setBusy(false);
+  };
   const verify = async () => {
     setBusy(true);
     const { error } = await supabase.auth.verifyOtp({ email: email.trim(), token: code.trim(), type: 'email' });
@@ -45,7 +62,14 @@ export function Login() {
             <label>メールに届いた6桁のコード</label>
             <input inputMode="numeric" autoComplete="one-time-code" value={code} onChange={(e) => setCode(e.target.value)} className="code-input" />
             <button className="btn primary wide" disabled={busy || code.trim().length < 6} onClick={verify}>ログイン</button>
-            <p className="tiny muted">メール内のリンクを Safari で開いてもログインできますが、ホーム画面のアプリではコード入力をお使いください。</p>
+          </>
+        )}
+        {sent && (
+          <>
+            <label>コードが無い場合：メールの「Log In」リンクを長押し →「リンクをコピー」して貼り付け</label>
+            <input value={link} onChange={(e) => setLink(e.target.value)} placeholder="https://…supabase.co/auth/v1/verify?token=…" />
+            <button className="btn primary wide" disabled={busy || !link.includes('token')} onClick={verifyLink}>リンクでログイン</button>
+            <p className="tiny muted">リンクをタップして開くと使い切りになり、このアプリではログインできなくなります。必ず長押しでコピーしてください。届かない場合は迷惑メールフォルダも確認してください（送信は1時間に数通までに制限されています）。</p>
           </>
         )}
         {msg && <p className="small error">{msg}</p>}

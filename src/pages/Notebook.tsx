@@ -73,6 +73,9 @@ export function Notebook() {
           {n.lastJob.status === 'success' ? '成功' : n.lastJob.status === 'partial' ? '一部失敗' : '失敗'} {n.lastJob.summary}
         </p>
       )}
+      {n.lastJob && Date.now() - new Date(n.lastJob.created_at).getTime() > 36 * 3600e3 && (
+        <p className="small error">昨夜の夜間処理の記録がありません（未実行または途中で失敗した可能性があります）。</p>
+      )}
       {pending > 0 && <p className="small">解説待ち・要確認：{pending} 件（夜間に自動で解説されます）</p>}
 
       <div className="chips">

@@ -1,0 +1,50 @@
+name: Nightly candidates
+
+# 毎晩 2:20（日本時間）：夜間ルーティン（Claude Code、3時前）のために作品候補リストを作る。
+# 美術館 API はこのクラウド環境から届かないため、取得部分だけ GitHub Actions で行う。Claude API は使わない。
+on:
+  schedule:
+    - cron: '20 17 * * *'
+  workflow_dispatch:
+    inputs:
+      count:
+        description: '追加予定の作品数'
+        required: false
+        default: '20'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: nightly-candidates
+  cancel-in-progress: false
+
+jobs:
+  candidates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Build candidate list
+        env:
+          NIGHTLY_COUNT: ${{ inputs.count || vars.NIGHTLY_COUNT || '20' }}
+        run: node pipeline/nightly/candidates.mjs
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add pipeline/candidates/next.json
+          if git diff --cached --quiet; then echo "変更なし"; else git commit -m "candidates: $(date -u +%Y-%m-%d)" && git push origin HEAD:main; fi
+      - name: Record failure (Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "作品候補リストの作成に失敗 ($(date -u +%Y-%m-%d))" --body "実行ログ: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" || true

@@ -468,6 +468,58 @@
   "fetched_at": "2026-10-08"
  },
  {
+  "id": "merode-altarpiece",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "early-netherlandish",
+  "period": "western:c15",
+  "era": "world:early-modern-1",
+  "year": 1430,
+  "year_start": 1427,
+  "year_end": 1432,
+  "year_estimated": false,
+  "title_ja": "受胎告知三連祭壇画（メロード祭壇画）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Annunciation Triptych (Merode Altarpiece)",
+   "artist": "Robert Campin",
+   "artist_bio": "Netherlandish, ca. 1375–1444 Tournai",
+   "date": "ca. 1427–32",
+   "culture": "Netherlandish",
+   "medium": "Oil on oak",
+   "dimensions": "Overall (open): 25 3/8 x 46 3/8 in. (64.5 x 117.8 cm)\r\nCentral panel: 25 1/4 x 24 7/8 in. (64.1 x 63.2 cm)\r\neach wing: 25 3/8 x 10 3/4 in. (64.5 x 27.3 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "The Cloisters Collection, 1956",
+   "object_url": "https://www.metmuseum.org/art/collection/search/470304"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/cl/web-large/DP273206.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/cl/original/DP273206.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/470304"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "470304",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/470304",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "受胎告知三連祭壇画（メロード祭壇画）",
+   "highlights": [
+    "受胎告知の場面が、15世紀フランドルの市民の居間に置き換えられている。",
+    "右翼で鼠捕りを作るヨセフ。悪魔を捕らえる象徴と解釈される。",
+    "百合・消えたばかりのろうそく・水盤など、日用品に宗教的意味が込められる。"
+   ],
+   "trivia": "ロベール・カンパンとその工房の作とされ、ニューヨークの分館クロイスターズで展示されている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "duccio-madonna",
   "batch": "batch-001",
   "genre": "painting",
@@ -520,6 +572,162 @@
   "fetched_at": "2026-10-08"
  },
  {
+  "id": "botticelli-last-communion-jerome",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "early-renaissance",
+  "period": "western:c15",
+  "era": "world:early-modern-1",
+  "year": 1492,
+  "year_start": 1490,
+  "year_end": 1493,
+  "year_estimated": false,
+  "title_ja": "聖ヒエロニムスの最後の聖体拝領",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Last Communion of Saint Jerome",
+   "artist": "Botticelli (Alessandro di Mariano Filipepi)",
+   "artist_bio": "Italian, Florence 1444/45–1510 Florence",
+   "date": "early 1490s",
+   "culture": null,
+   "medium": "Tempera and gold on wood",
+   "dimensions": "13 1/2 x 10 in. (34.3 x 25.4 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of Benjamin Altman, 1913",
+   "object_url": "https://www.metmuseum.org/art/collection/search/435728"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-24049-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-24049-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/435728"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "435728",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/435728",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "聖ヒエロニムスの最後の聖体拝領",
+   "highlights": [
+    "簡素な小屋の中で、衰弱した老聖人が最後の聖体を受ける静かな場面。",
+    "屋根の木組みや床が遠近法でまとめられた、小さく親密な空間。",
+    "細く繊細な輪郭線というボッティチェリらしい線の美しさ。"
+   ],
+   "trivia": "サヴォナローラの説教の影響が強かった晩年のフィレンツェで、個人の信仰のために描かれたと考えられている。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "raphael-colonna-altarpiece",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "high-renaissance",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1504,
+  "year_start": 1499,
+  "year_end": 1509,
+  "year_estimated": false,
+  "title_ja": "聖母子と諸聖人（コロンナ祭壇画）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Madonna and Child Enthroned with Saints",
+   "artist": "Raphael (Raffaello Sanzio or Santi)",
+   "artist_bio": "Italian, Urbino 1483–1520 Rome",
+   "date": "ca. 1504",
+   "culture": null,
+   "medium": "Oil and gold on wood",
+   "dimensions": "Main panel, overall 67 7/8 x 67 7/8 in. (172.4 x 172.4 cm), painted surface 66 3/4 x 66 1/2 in. (169.5 x 168.9 cm) \r\nLunette, overall 29 1/2 x 70 7/8 in. (74.9 x 180 cm), painted surface 25 1/2 x 67 1/2 in. (64.8 x 171.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of J. Pierpont Morgan, 1916",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437372"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-43051-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-43051-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437372"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437372",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437372",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "聖母子と諸聖人（コロンナ祭壇画）",
+   "highlights": [
+    "玉座の聖母子を中心に聖人たちが左右対称に並ぶ、安定したピラミッド構図。",
+    "上部の半円には父なる神が描かれ、天と地の階層を示す。",
+    "若きラファエロが師ペルジーノの様式から一歩踏み出す過渡期の作品。"
+   ],
+   "trivia": "ペルージャの女子修道院のために描かれた。修道女たちの要望で幼子イエスに服を着せたと伝えられる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "titian-venus-lute-player",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "venetian-renaissance",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1568,
+  "year_start": 1565,
+  "year_end": 1570,
+  "year_estimated": false,
+  "title_ja": "ヴィーナスとリュート奏者",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Venus and the Lute Player",
+   "artist": "Titian",
+   "artist_bio": "Italian, Pieve di Cadore ca. 1485/90?–1576 Venice",
+   "date": "ca. 1565–70",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "65 x 82 1/2 in. (165.1 x 209.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Munsey Fund, 1936",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437827"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-28918-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-28918-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437827"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437827",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437827",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ヴィーナスとリュート奏者",
+   "highlights": [
+    "横たわるヴィーナスの柔らかな肌と、温かい光に包まれた色彩。",
+    "奥に広がる夕暮れの風景が、詩的で音楽的な雰囲気を高める。",
+    "音楽（聴覚）と美（視覚）のどちらが優れるかという議論を想起させる主題。"
+   ],
+   "trivia": "ティツィアーノ晩年の作で、工房の手も入っているとされる。同じ主題の別バージョンがケンブリッジのフィッツウィリアム美術館にある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "durer-adam-and-eve",
   "batch": "batch-001",
   "genre": "painting",
@@ -536,28 +744,28 @@
   "title_ja_source": "ai",
   "facts": {
    "title": "Adam and Eve",
-   "artist": "Albrecht Dürer\nGerman, 1471-1528",
-   "artist_bio": null,
+   "artist": "Albrecht Dürer",
+   "artist_bio": "German, Nuremberg 1471–1528 Nuremberg",
    "date": "1504",
-   "culture": "Germany",
-   "medium": "Engraving in black on ivory laid paper",
-   "dimensions": "Image: 25 × 19.3 cm (9 7/8 × 7 5/8 in.); Sheet: 25.3 × 19.6 cm (10 × 7 3/4 in.)",
-   "repository": "The Art Institute of Chicago",
-   "credit_line": "Clarence Buckingham Collection",
-   "object_url": "https://www.artic.edu/artworks/51498"
+   "culture": null,
+   "medium": "Engraving",
+   "dimensions": "9 7/8 x 7 7/8in. (25.1 x 20cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Fletcher Fund, 1919",
+   "object_url": "https://www.metmuseum.org/art/collection/search/336222"
   },
   "image": {
-   "thumb": "https://www.artic.edu/iiif/2/910855f0-a558-4e31-8e88-c0f2694ddbea/full/400,/0/default.jpg",
-   "large": "https://www.artic.edu/iiif/2/910855f0-a558-4e31-8e88-c0f2694ddbea/full/1686,/0/default.jpg",
-   "license": "CC0 (Public Domain)",
-   "credit": "The Art Institute of Chicago",
-   "source_url": "https://www.artic.edu/artworks/51498"
+   "thumb": "https://images.metmuseum.org/CRDImages/dp/web-large/DP816026.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/dp/original/DP816026.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/336222"
   },
   "source": {
-   "name": "Art Institute of Chicago API",
-   "id": "51498",
-   "api_url": "https://api.artic.edu/api/v1/artworks/51498",
-   "key": "aic"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "336222",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/336222",
+   "key": "met"
   },
   "ai": {
    "title_ja": "アダムとエヴァ（銅版画）",
@@ -567,6 +775,318 @@
     "枝に掛けた札には画家の署名と1504年の年記が刻まれる。"
    ],
    "trivia": "デューラーは数年にわたって人体比例を研究し、その集大成としてこの版画を制作した。版画は広く流通し、欧州中の芸術家に影響を与えた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "watteau-mezzetin",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "rococo",
+  "period": "western:c18",
+  "era": "world:early-modern-2",
+  "year": 1719,
+  "year_start": 1718,
+  "year_end": 1720,
+  "year_estimated": false,
+  "title_ja": "メズタン",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Mezzetin",
+   "artist": "Antoine Watteau",
+   "artist_bio": "French, Valenciennes 1684–1721 Nogent-sur-Marne",
+   "date": "ca. 1718–20",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "21 3/4 x 17 in. (55.2 x 43.2 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Munsey Fund, 1934",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437926"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP170811.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP170811.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437926"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437926",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437926",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "メズタン",
+   "highlights": [
+    "イタリア喜劇の道化メズタンが、ギターを抱えて恋の歌を歌う。",
+    "天を仰ぐ顔に漂う、喜劇の役柄なのにどこか切ない表情。",
+    "背後の庭園に背を向けた女性像が、報われない恋を暗示する。"
+   ],
+   "trivia": "ワトーは雅宴画（フェート・ギャラント）というジャンルを確立した。コメディア・デラルテの役者は彼の好んだ主題だった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "fragonard-love-letter",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "rococo",
+  "period": "western:c18",
+  "era": "world:early-modern-2",
+  "year": 1772,
+  "year_start": 1770,
+  "year_end": 1773,
+  "year_estimated": false,
+  "title_ja": "恋文",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Love Letter",
+   "artist": "Jean Honoré Fragonard",
+   "artist_bio": "French, Grasse 1732–1806 Paris",
+   "date": "early 1770s",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "32 3/4 x 26 3/8 in. (83.2 x 67 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "The Jules Bache Collection, 1949",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436322"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-1014-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-1014-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436322"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436322",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436322",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "恋文",
+   "highlights": [
+    "花束に挟んだ手紙を持ち、意味ありげにこちらを振り返る女性。",
+    "青いドレスと黄金色の室内が素早い筆さばきで描かれ、軽やかな印象を与える。",
+    "小型犬や花など、恋愛を暗示するロココらしい小道具。"
+   ],
+   "trivia": "手紙の宛名は判読が難しく、モデルが誰かについては諸説ある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "delacroix-abduction-rebecca",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "romanticism",
+  "period": "western:c19a",
+  "era": "world:c19",
+  "year": 1846,
+  "year_start": 1846,
+  "year_end": 1846,
+  "year_estimated": false,
+  "title_ja": "レベッカの略奪",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Abduction of Rebecca",
+   "artist": "Eugène Delacroix",
+   "artist_bio": "French, Charenton-Saint-Maurice 1798–1863 Paris",
+   "date": "1846",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "39 1/2 x 32 1/4 in. (100.3 x 81.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1903",
+   "object_url": "https://www.metmuseum.org/art/collection/search/438814"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14344-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-14344-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/438814"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "438814",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/438814",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "レベッカの略奪",
+   "highlights": [
+    "燃える城を背景に、女性が騎馬の男たちにさらわれる劇的な瞬間。",
+    "赤や緑の強い色彩と渦巻く動きが、混乱と激情を伝える。",
+    "輪郭よりも色と筆触で形をつくる、ロマン主義らしい描法。"
+   ],
+   "trivia": "ウォルター・スコットの小説『アイヴァンホー』の一場面に基づく。ドラクロワは文学から多くの主題を得た。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "courbet-young-ladies-village",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "realism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1852,
+  "year_start": 1851,
+  "year_end": 1852,
+  "year_estimated": false,
+  "title_ja": "村の娘たち",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Young Ladies of the Village",
+   "artist": "Gustave Courbet",
+   "artist_bio": "French, Ornans 1819–1877 La Tour-de-Peilz",
+   "date": "1851–52",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "76 3/4 x 102 3/4 in. (194.9 x 261 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of Harry Payne Bingham, 1940",
+   "object_url": "https://www.metmuseum.org/art/collection/search/438820"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1967.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DT1967.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/438820"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "438820",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/438820",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "村の娘たち",
+   "highlights": [
+    "画家の故郷オルナンの谷間で、3人の娘が牛飼いの少女に施しを与える。",
+    "大きな風景に対して人物が小さく、遠近感がやや不自然な点が当時批判された。",
+    "理想化されない地方の日常を、大画面で堂々と描いたこと自体が挑戦だった。"
+   ],
+   "trivia": "モデルはクールベの3人の妹とされる。1852年のサロン出品時には「醜い」と酷評された。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "millet-haystacks-autumn",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "barbizon",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1872,
+  "year_start": 1869,
+  "year_end": 1875,
+  "year_estimated": false,
+  "title_ja": "積み藁：秋",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Haystacks: Autumn",
+   "artist": "Jean-François Millet",
+   "artist_bio": "French, Gruchy 1814–1875 Barbizon",
+   "date": "ca. 1874",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "33 1/2 x 43 3/8 in. (85.1 x 110.2 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of Lillian S. Timken, 1959",
+   "object_url": "https://www.metmuseum.org/art/collection/search/437097"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP124093.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP124093.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/437097"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "437097",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/437097",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "積み藁：秋",
+   "highlights": [
+    "巨大な積み藁の量感が、静かな夕暮れの平原に記念碑のようにそびえる。",
+    "羊の群れと羊飼いが小さく描かれ、農村の時間の流れを感じさせる。",
+    "落ち着いた土色と柔らかな光が、収穫後の穏やかさを伝える。"
+   ],
+   "trivia": "四季を描く連作の注文の一部とされる。積み藁は後にモネの連作でも重要な主題になった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "degas-dance-class",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "impressionism",
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1874,
+  "year_start": 1874,
+  "year_end": 1874,
+  "year_estimated": false,
+  "title_ja": "ダンス教室",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Dance Class",
+   "artist": "Edgar Degas",
+   "artist_bio": "French, Paris 1834–1917 Paris",
+   "date": "1874",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "32 7/8 x 30 3/8 in. (83.5 x 77.2 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of Mrs. Harry Payne Bingham, 1986",
+   "object_url": "https://www.metmuseum.org/art/collection/search/438817"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-20101-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-20101-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/438817"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "438817",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/438817",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ダンス教室",
+   "highlights": [
+    "杖を持つ老教師を中心に、踊り子たちのそれぞれ自然な仕草がとらえられる。",
+    "斜めに走る床板と、画面端で切られた人物がスナップ写真のような臨場感を生む。",
+    "休憩中の踊り子たちの退屈やけだるさまで描く観察眼。"
+   ],
+   "trivia": "中央の教師は実在のバレエ教師ジュール・ペローがモデルとされる。ドガは同時期に構図違いの作品をオルセー美術館所蔵作にも残している。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -788,36 +1308,36 @@
   "style": "post-impressionism",
   "period": "western:c19b",
   "era": "world:c19",
-  "year": 1895,
-  "year_start": 1894,
-  "year_end": 1895,
+  "year": 1891,
+  "year_start": 1891,
+  "year_end": 1891,
   "year_estimated": false,
   "title_ja": "イア・オラナ・マリア（マリアを拝す）",
   "title_ja_source": "ai",
   "facts": {
-   "title": "Ia orana Maria (Hail Mary)",
-   "artist": "Paul Gauguin\nFrench, 1848-1903",
-   "artist_bio": null,
-   "date": "1894/95, published Mar. 1895",
-   "culture": "France",
-   "medium": "Transfer zincograph on coarse-grained transfer paper, in dark-blue ink on cream wove paper (an imitation Japanese vellum)",
-   "dimensions": "Image: 25.7 × 18.6 cm (10 1/8 × 7 3/8 in.); Sheet: 38.1 × 28.1 cm (15 × 11 1/8 in.)",
-   "repository": "The Art Institute of Chicago",
-   "credit_line": "Albert Roullier Memorial Collection",
-   "object_url": "https://www.artic.edu/artworks/80861"
+   "title": "Ia Orana Maria (Hail Mary)",
+   "artist": "Paul Gauguin",
+   "artist_bio": "French, Paris 1848–1903 Atuona, Hiva Oa, Marquesas Islands",
+   "date": "1891",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "44 3/4 x 34 1/2 in. (113.7 x 87.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of Sam A. Lewisohn, 1951",
+   "object_url": "https://www.metmuseum.org/art/collection/search/438821"
   },
   "image": {
-   "thumb": "https://www.artic.edu/iiif/2/150a7cf3-7837-ba7e-66bf-37e252afb328/full/400,/0/default.jpg",
-   "large": "https://www.artic.edu/iiif/2/150a7cf3-7837-ba7e-66bf-37e252afb328/full/1686,/0/default.jpg",
-   "license": "CC0 (Public Domain)",
-   "credit": "The Art Institute of Chicago",
-   "source_url": "https://www.artic.edu/artworks/80861"
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DT1025.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DT1025.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/438821"
   },
   "source": {
-   "name": "Art Institute of Chicago API",
-   "id": "80861",
-   "api_url": "https://api.artic.edu/api/v1/artworks/80861",
-   "key": "aic"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "438821",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/438821",
+   "key": "met"
   },
   "ai": {
    "title_ja": "イア・オラナ・マリア（マリアを拝す）",
@@ -994,38 +1514,38 @@
   "region": "north-america",
   "region_group": "western",
   "style": "american-realism",
-  "period": "western:c19b",
-  "era": "world:c19",
-  "year": 1899,
+  "period": "western:c20",
+  "era": "world:c20",
+  "year": 1903,
   "year_start": 1899,
-  "year_end": 1899,
+  "year_end": 1906,
   "year_estimated": false,
   "title_ja": "メキシコ湾流",
   "title_ja_source": "ai",
   "facts": {
    "title": "The Gulf Stream",
-   "artist": "Winslow Homer\nAmerican, 1836-1910",
-   "artist_bio": null,
-   "date": "probably 1899, dated by the artist \"1889\"",
-   "culture": "United States",
-   "medium": "Transparent watercolor, with touches of opaque watercolor and traces of blotting, over graphite, on moderately thick, moderately textured, ivory wove paper (lower edge trimmed)",
-   "dimensions": "28.8 × 50.9 cm (11 3/8 × 20 1/16 in.)",
-   "repository": "The Art Institute of Chicago",
-   "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
-   "object_url": "https://www.artic.edu/artworks/16794"
+   "artist": "Winslow Homer",
+   "artist_bio": "American, Boston, Massachusetts 1836–1910 Prouts Neck, Maine",
+   "date": "1899; reworked by 1906",
+   "culture": "American",
+   "medium": "Oil on canvas",
+   "dimensions": "28 1/8 x 49 1/8 in. (71.4 x 124.8 cm)\r\nFramed: 42 5/16 x 62 11/16 x 5 7/8 in. (107.5 x 159.3 x 15 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Catharine Lorillard Wolfe Collection, Wolfe Fund, 1906",
+   "object_url": "https://www.metmuseum.org/art/collection/search/11122"
   },
   "image": {
-   "thumb": "https://www.artic.edu/iiif/2/4a076002-dffe-54e9-5256-0691c3a65c3b/full/400,/0/default.jpg",
-   "large": "https://www.artic.edu/iiif/2/4a076002-dffe-54e9-5256-0691c3a65c3b/full/1686,/0/default.jpg",
-   "license": "CC0 (Public Domain)",
-   "credit": "The Art Institute of Chicago",
-   "source_url": "https://www.artic.edu/artworks/16794"
+   "thumb": "https://images.metmuseum.org/CRDImages/ad/web-large/DP-20821-001.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ad/original/DP-20821-001.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/11122"
   },
   "source": {
-   "name": "Art Institute of Chicago API",
-   "id": "16794",
-   "api_url": "https://api.artic.edu/api/v1/artworks/16794",
-   "key": "aic"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "11122",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/11122",
+   "key": "met"
   },
   "ai": {
    "title_ja": "メキシコ湾流",
@@ -1035,6 +1555,318 @@
     "男の表情は静かで、運命に対する諦観とも不屈ともとれる。"
    ],
    "trivia": "ホーマーは「男は救われる」と語ったと伝わるが、結末は鑑賞者に委ねられている。カリブ海への旅の経験がもとになった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "klimt-mada-primavesi",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-central",
+  "region_group": "western",
+  "style": "vienna-secession",
+  "period": "western:c20",
+  "era": "world:c20",
+  "year": 1913,
+  "year_start": 1912,
+  "year_end": 1913,
+  "year_estimated": false,
+  "title_ja": "メーダ・プリマヴェージ",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Mäda Primavesi (1903–2000)",
+   "artist": "Gustav Klimt",
+   "artist_bio": "Austrian, Baumgarten 1862–1918 Vienna",
+   "date": "1912–13",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "59 x 43 1/2 in. (149.9 x 110.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of André and Clara Mertens, in memory of her mother, Jenny Pulitzer Steiner, 1964",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436819"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP243354.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP243354.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436819"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436819",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436819",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "メーダ・プリマヴェージ",
+   "highlights": [
+    "脚を開いて堂々と立つ少女の姿が、子どもらしい自信と緊張を伝える。",
+    "背景を埋め尽くす花や文様が、平面的な装飾空間をつくる。",
+    "白いドレスと周囲の明るい色彩の、春のような軽やかさ。"
+   ],
+   "trivia": "モデルは銀行家オットー・プリマヴェージの娘で、当時9歳ほど。プリマヴェージ家はクリムトやウィーン工房の重要なパトロンだった。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "canova-perseus",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "neoclassicism",
+  "period": "western:c19a",
+  "era": "world:c19",
+  "year": 1805,
+  "year_start": 1804,
+  "year_end": 1806,
+  "year_estimated": false,
+  "title_ja": "メドゥーサの首を持つペルセウス",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Perseus with the Head of Medusa",
+   "artist": "Antonio Canova",
+   "artist_bio": "Italian, Possagno 1757–1822 Venice",
+   "date": "1804–6",
+   "culture": null,
+   "medium": "Marble",
+   "dimensions": "Overall (confirmed): H. 95 1/2 x W. 75 1/2 x D. 40 1/2 in. (242.6 x 191.8 x 102.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Fletcher Fund, 1967",
+   "object_url": "https://www.metmuseum.org/art/collection/search/204758"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DP249451.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/es/original/DP249451.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/204758"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "204758",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/204758",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "メドゥーサの首を持つペルセウス",
+   "highlights": [
+    "勝利のポーズで首を掲げる英雄。古代の名作アポロ・ベルヴェデーレを手本にしている。",
+    "滑らかに磨かれた大理石が、理想化された若い肉体の美しさを際立たせる。",
+    "メドゥーサの顔は恐ろしさより哀しみを帯びて表現される。"
+   ],
+   "trivia": "ナポレオンがアポロ・ベルヴェデーレをパリへ持ち去った後、その台座に置かれたヴァチカンの像があり、本作はそのもう一つのバージョンにあたる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "unicorn-rests-in-garden",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "gothic",
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1500,
+  "year_start": 1495,
+  "year_end": 1505,
+  "year_estimated": false,
+  "title_ja": "庭で休む一角獣（一角獣のタペストリー）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Unicorn Rests in a Garden (from the Unicorn Tapestries)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "1495–1505",
+   "culture": "French (cartoon)/South Netherlandish (woven)",
+   "medium": "Wool warp with wool, silk, silver, and gilt wefts",
+   "dimensions": "12 ft. 7/8 in. × 8 ft. 3 in. (368 × 251.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of John D. Rockefeller Jr., 1937",
+   "object_url": "https://www.metmuseum.org/art/collection/search/467642"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/cl/web-large/DP118991.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/cl/original/DP118991.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/467642"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "467642",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/467642",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "庭で休む一角獣（一角獣のタペストリー）",
+   "highlights": [
+    "柵に囲まれ、鎖につながれた一角獣。千花模様（ミルフルール）の草花が背景を埋める。",
+    "描かれた植物の多くが実在種として特定できるほど写実的。",
+    "白い体の赤いしみは、ザクロの果汁とも傷ともとれる謎めいた表現。"
+   ],
+   "trivia": "7枚組の連作の1枚で、ニューヨークの分館クロイスターズに展示されている。ザクロは豊穣や結婚の象徴ともキリストの受難の象徴とも解釈される。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "gubbio-studiolo",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "europe-south",
+  "region_group": "western",
+  "style": "early-renaissance",
+  "period": "western:c15",
+  "era": "world:early-modern-1",
+  "year": 1480,
+  "year_start": 1473,
+  "year_end": 1487,
+  "year_estimated": false,
+  "title_ja": "グッビオ公爵宮殿のストゥディオーロ（書斎）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Studiolo from the Ducal Palace in Gubbio",
+   "artist": "Francesco di Giorgio Martini",
+   "artist_bio": "Italian, Siena 1439–1501 Siena",
+   "date": "ca. 1478–82",
+   "culture": null,
+   "medium": "Walnut, beech, rosewood, oak and fruitwoods in walnut base",
+   "dimensions": "H. 15 ft. 10 15/16 in. (485 cm), W. 16 ft. 11 15/16 in. (518 cm), D. 12 ft. 7 3/16 in. (384 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Rogers Fund, 1939",
+   "object_url": "https://www.metmuseum.org/art/collection/search/198556"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/es/web-large/DT2954.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/es/original/DT2954.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/198556"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "198556",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/198556",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "グッビオ公爵宮殿のストゥディオーロ（書斎）",
+   "highlights": [
+    "棚・本・楽器・甲冑がすべて木の象嵌（インタルシア）による騙し絵。",
+    "わずかに開いた扉や置き忘れた物まで、遠近法で立体的に見せる。",
+    "学問・音楽・武芸など、ルネサンスの理想の君主の教養を象徴する部屋。"
+   ],
+   "trivia": "ウルビーノ公フェデリーコ・ダ・モンテフェルトロの宮殿にあった小部屋を丸ごと移築したもの。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "david-plate-goliath",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "europe-east",
+  "region_group": "western",
+  "style": "byzantine",
+  "period": "western:early-christian",
+  "era": "world:early-medieval",
+  "year": 630,
+  "year_start": 629,
+  "year_end": 630,
+  "year_estimated": false,
+  "title_ja": "ダヴィデとゴリアテの戦いを表した皿（ダヴィデ皿）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Plate with the Battle of David and Goliath",
+   "artist": null,
+   "artist_bio": null,
+   "date": "629–30",
+   "culture": "Byzantine",
+   "medium": "Silver",
+   "dimensions": "Overall: 19 7/16 x 2 5/8 in., 203.9oz. (49.4 x 6.6 cm, 5780g)\r\nfoot: 8 1/8 x 3/4 in. (20.6 x 1.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of J. Pierpont Morgan, 1917",
+   "object_url": "https://www.metmuseum.org/art/collection/search/464377"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/md/web-large/DT118.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/md/original/DT118.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/464377"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "464377",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/464377",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ダヴィデとゴリアテの戦いを表した皿（ダヴィデ皿）",
+   "highlights": [
+    "3段に分けて、対話・戦闘・首をはねる場面が物語のように展開する。",
+    "古代ローマ風の写実的な人体表現が、7世紀の銀器に受け継がれている。",
+    "鋳造後に打ち出しと彫りで仕上げられた精緻な銀細工。"
+   ],
+   "trivia": "1902年にキプロスで発見された9枚組の銀皿の1枚。皇帝ヘラクレイオスがペルシアに勝利した頃に制作されたとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "cuxa-cloister",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "romanesque",
+  "period": "western:romanesque",
+  "era": "world:high-medieval",
+  "year": 1135,
+  "year_start": 1130,
+  "year_end": 1140,
+  "year_estimated": false,
+  "title_ja": "サン＝ミシェル＝ド＝キュクサ修道院の回廊",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Cuxa Cloister",
+   "artist": null,
+   "artist_bio": null,
+   "date": "ca. 1130–40",
+   "culture": "Catalan",
+   "medium": "Marble",
+   "dimensions": "90 ft. x 78 ft. (2,743 x 2,377 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "The Cloisters Collection, 1925",
+   "object_url": "https://www.metmuseum.org/art/collection/search/470314"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/cl/web-large/DP132222.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/cl/original/DP132222.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/470314"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "470314",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/470314",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "サン＝ミシェル＝ド＝キュクサ修道院の回廊",
+   "highlights": [
+    "半円アーチと素朴な柱が連なる、ロマネスク特有の重厚で静かなリズム。",
+    "柱頭には獅子や怪物、植物文様が力強く彫られている。",
+    "中庭を囲む回廊は、修道士たちの瞑想と祈りの空間だった。"
+   ],
+   "trivia": "ピレネー山麓の修道院の回廊の一部を、20世紀にニューヨークへ移して再構成したもの。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -1098,12 +1930,12 @@
   "region": "europe-south",
   "region_group": "western",
   "style": "high-renaissance",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "western:c16",
+  "era": "world:early-modern-1",
+  "year": 1510,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "ヴィラ・アルメリコ・カプラ",
   "title_ja_source": "wikidata",
   "facts": {
@@ -1306,11 +2138,11 @@
   "region": "europe-northwest",
   "region_group": "western",
   "style": "gothic-revival",
-  "period": null,
-  "era": null,
-  "year": null,
-  "year_start": null,
-  "year_end": null,
+  "period": "western:gothic",
+  "era": "world:high-medieval",
+  "year": 1342,
+  "year_start": 1342,
+  "year_end": 1342,
   "year_estimated": false,
   "title_ja": "ウェストミンスター宮殿",
   "title_ja_source": "wikidata",
@@ -1318,7 +2150,7 @@
    "title": "Palace of Westminster",
    "artist": "Charles Barry, Jr.、オーガスタス・ウェルビー・ノースモア・ピュージン",
    "artist_bio": null,
-   "date": null,
+   "date": "1342年",
    "culture": null,
    "medium": null,
    "dimensions": null,
@@ -1358,38 +2190,38 @@
   "region": "europe-northwest",
   "region_group": "western",
   "style": "academic-art",
-  "period": "western:c16",
-  "era": "world:early-modern-1",
-  "year": 1593,
-  "year_start": 1593,
-  "year_end": 1593,
+  "period": "western:c19b",
+  "era": "world:c19",
+  "year": 1890,
+  "year_start": 1885,
+  "year_end": 1895,
   "year_estimated": false,
   "title_ja": "ピュグマリオンとガラテア",
   "title_ja_source": "ai",
   "facts": {
    "title": "Pygmalion and Galatea",
-   "artist": "Hendrick Goltzius \nDutch, 1558–1617",
-   "artist_bio": null,
-   "date": "1593",
-   "culture": "Netherlands",
-   "medium": "Engraving on ivory laid paper",
-   "dimensions": "Sheet: 32.8 × 22.1 cm (12 15/16 × 8 3/4 in.)",
-   "repository": "The Art Institute of Chicago",
-   "credit_line": "Charles Hack and the Hearn Family Trust Collection, purchased with funds provided by the Harry B. and Bessie K. Braude Memorial, Amanda S. Johnson and Marion J. Livingston, anonymous, and Suzanne Searle Dixon endowment funds",
-   "object_url": "https://www.artic.edu/artworks/268229"
+   "artist": "Jean-Léon Gérôme",
+   "artist_bio": "French, Vesoul 1824–1904 Paris",
+   "date": "ca. 1890",
+   "culture": null,
+   "medium": "Oil on canvas",
+   "dimensions": "35 x 27 in. (88.9 x 68.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of Louis C. Raegner, 1927",
+   "object_url": "https://www.metmuseum.org/art/collection/search/436483"
   },
   "image": {
-   "thumb": "https://www.artic.edu/iiif/2/fc833f9a-f29f-239a-0029-018de37e646c/full/400,/0/default.jpg",
-   "large": "https://www.artic.edu/iiif/2/fc833f9a-f29f-239a-0029-018de37e646c/full/1686,/0/default.jpg",
-   "license": "CC0 (Public Domain)",
-   "credit": "The Art Institute of Chicago",
-   "source_url": "https://www.artic.edu/artworks/268229"
+   "thumb": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-14201-005.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ep/original/DP-14201-005.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/436483"
   },
   "source": {
-   "name": "Art Institute of Chicago API",
-   "id": "268229",
-   "api_url": "https://api.artic.edu/api/v1/artworks/268229",
-   "key": "aic"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "436483",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/436483",
+   "key": "met"
   },
   "ai": {
    "title_ja": "ピュグマリオンとガラテア",
@@ -1575,29 +2407,29 @@
   "title_ja": "三代目大谷鬼次の江戸兵衛",
   "title_ja_source": "ai",
   "facts": {
-   "title": "The actor Otani Oniji III as Edobei",
-   "artist": "Tōshūsai Sharaku 東洲斎 写楽\nJapanese, active 1794-95",
-   "artist_bio": null,
+   "title": "Kabuki Actor Ōtani Oniji III as Yakko Edobei",
+   "artist": "Tōshūsai Sharaku",
+   "artist_bio": "Japanese, active 1794–95",
    "date": "1794",
-   "culture": "Japan",
-   "medium": "Color woodblock print; oban",
-   "dimensions": "37.9 × 25 cm (14 15/16 × 9 7/8 in.)",
-   "repository": "The Art Institute of Chicago",
-   "credit_line": "Clarence Buckingham Collection",
-   "object_url": "https://www.artic.edu/artworks/18765"
+   "culture": "Japan / Edo period (1615–1868)",
+   "medium": "Woodblock print; ink, color, and white mica on paper",
+   "dimensions": "15 x 9 7/8 in. (38.1 x 25.1 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Henry L. Phillips Collection, Bequest of Henry L. Phillips, 1939",
+   "object_url": "https://www.metmuseum.org/art/collection/search/37358"
   },
   "image": {
-   "thumb": "https://www.artic.edu/iiif/2/df22cedf-8d22-a116-fc52-bc21ac0b3ab0/full/400,/0/default.jpg",
-   "large": "https://www.artic.edu/iiif/2/df22cedf-8d22-a116-fc52-bc21ac0b3ab0/full/1686,/0/default.jpg",
-   "license": "CC0 (Public Domain)",
-   "credit": "The Art Institute of Chicago",
-   "source_url": "https://www.artic.edu/artworks/18765"
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP130228.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP130228.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/37358"
   },
   "source": {
-   "name": "Art Institute of Chicago API",
-   "id": "18765",
-   "api_url": "https://api.artic.edu/api/v1/artworks/18765",
-   "key": "aic"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "37358",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/37358",
+   "key": "met"
   },
   "ai": {
    "title_ja": "三代目大谷鬼次の江戸兵衛",
@@ -1607,6 +2439,110 @@
     "大首絵（上半身のクローズアップ）で、役者の個性を鋭く捉える。"
    ],
    "trivia": "写楽は1794年からわずか10か月ほどで約140点を残し姿を消した謎の絵師。正体は阿波藩の能役者・斎藤十郎兵衛とする説が有力。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "korin-irises-yatsuhashi",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "rinpa",
+  "period": "japan:edo",
+  "era": "world:early-modern-2",
+  "year": 1713,
+  "year_start": 1710,
+  "year_end": 1716,
+  "year_estimated": false,
+  "title_ja": "八橋図屏風",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Irises at Yatsuhashi (Eight Bridges)",
+   "artist": "Ogata Kōrin",
+   "artist_bio": "Japanese, 1658–1716",
+   "date": "after 1709",
+   "culture": "Japan / Edo period (1615–1868)",
+   "medium": "Pair of six-panel folding screens; ink and color on gold leaf on paper",
+   "dimensions": "Image (each screen): 64 7/16 in. x 11ft. 6 3/4 in. (163.7 x 352.4 cm)\r\nOverall (each screen): 70 1/2 in. x 12 ft. 2 1/4 in. (179.1 x 371.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, Louisa Eldridge McBurney Gift, 1953",
+   "object_url": "https://www.metmuseum.org/art/collection/search/39664"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DT231.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DT231.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/39664"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "39664",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39664",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "八橋図屏風",
+   "highlights": [
+    "金地の上に、群青と緑青の燕子花（かきつばた）が律動的に並ぶ。",
+    "ジグザグに折れ曲がる板橋が、六曲一双の屏風全体をつなぐ。",
+    "人物を描かずに『伊勢物語』の場面を連想させる、引き算のデザイン。"
+   ],
+   "trivia": "『伊勢物語』の八橋の段（かきつばたの歌）に基づく。根津美術館の国宝「燕子花図屏風」より後年の作とされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "kano-sansetsu-old-plum",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "kano-school",
+  "period": "japan:edo",
+  "era": "world:early-modern-2",
+  "year": 1646,
+  "year_start": 1646,
+  "year_end": 1646,
+  "year_estimated": false,
+  "title_ja": "老梅図襖",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Old Plum",
+   "artist": "Kano Sansetsu",
+   "artist_bio": "Japanese, 1590–1651",
+   "date": "1646",
+   "culture": "Japan / Edo period (1615–1868)",
+   "medium": "Four sliding-door panels (fusuma); ink, color, gold, and gold leaf on paper",
+   "dimensions": "Overall (of all four panels): 68 3/4 x 191 1/8 in. (174.6 x 485.5 cm)\r\nOverall (a): 68 3/8 x 47 5/8 in. (173.7 x 121 cm)\r\nOverall (b): 68 3/8 x 48 3/4 in. (173.7 x 123.8 cm)\r\nOverall (c): 68 1/2 x 47 3/4 in. (174 x 121.3 cm)\r\nOverall (d): 68 1/2 x 47 3/4 in. (174 x 121.3 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "The Harry G. C. Packard Collection of Asian Art, Gift of Harry G. C. Packard, and Purchase, Fletcher, Rogers, Harris Brisbane Dick, and Louis V. Bell Funds, Joseph Pulitzer Bequest, and The Annenberg Fund Inc. Gift, 1975",
+   "object_url": "https://www.metmuseum.org/art/collection/search/44858"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DT229.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DT229.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/44858"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "44858",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/44858",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "老梅図襖",
+   "highlights": [
+    "屈曲しながら横へ伸びる梅の老木が、4面の襖を貫く。",
+    "金地を背景にした幹のねじれが、ほとんど抽象的な造形の迫力を持つ。",
+    "枝先の小さな花と、岩のように荒々しい幹の対比。"
+   ],
+   "trivia": "京狩野の狩野山雪の作。もとは京都・妙心寺の塔頭天祥院の襖絵だった。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -1659,6 +2595,58 @@
     "輪積みで作られた円筒の構造が、人物や動物の形に発展している。"
    ],
    "trivia": "埴輪は古墳の墳丘や周囲に並べられた。用途は葬送儀礼や王の権威の表示など諸説ある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "jomon-vessel",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "jomon",
+  "period": "japan:jomon",
+  "era": "world:prehistory",
+  "year": -2500,
+  "year_start": -2750,
+  "year_end": -2250,
+  "year_estimated": false,
+  "title_ja": "縄文土器",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Fire-flame Cooking Vessel (Ka'en Doki)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "c. 2500 BCE",
+   "culture": "Japan, Jōmon period (c. 10,500–300 BCE)",
+   "medium": "Earthenware with carved and applied decoration",
+   "dimensions": "height: 61 cm (24 in.); Diameter: 55.8 cm (21 15/16 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "John L. Severance Fund",
+   "object_url": "https://clevelandart.org/art/1984.68"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1984.68/1984.68_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1984.68/1984.68_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1984.68"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "152017",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/152017",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "縄文土器",
+   "highlights": [
+    "縄を転がして付けた縄目文様が、表面にリズミカルな質感を与える。",
+    "粘土紐を貼り付けた立体的な装飾が、器の口縁を力強く飾る。",
+    "実用品でありながら、強い造形意欲が感じられる。"
+   ],
+   "trivia": "縄文土器は世界でも最古級の土器の一つで、1万年以上にわたって作られ続けた。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -2034,12 +3022,12 @@
   "region": "japan",
   "region_group": "japan",
   "style": "sukiya",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "japan:edo",
+  "era": "world:early-modern-2",
+  "year": 1750,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "桂離宮",
   "title_ja_source": "wikidata",
   "facts": {
@@ -2184,6 +3172,58 @@
   "fetched_at": "2026-10-08"
  },
  {
+  "id": "northern-wei-maitreya",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "china",
+  "region_group": "china",
+  "style": "chinese-buddhist-sculpture",
+  "period": "china:six-dynasties",
+  "era": "world:antiquity",
+  "year": 486,
+  "year_start": 486,
+  "year_end": 486,
+  "year_estimated": false,
+  "title_ja": "弥勒仏立像（北魏）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Buddha Maitreya (Mile)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "dated 486 (10th year of Taihe reign)",
+   "culture": "China / Northern Wei dynasty (386–534)",
+   "medium": "Gilt bronze with traces of pigment; piece-mold cast",
+   "dimensions": "H. 55 1/4 in. (140.3 cm); W. 24 1/2 in. (62.2 cm); D. 19 1/4 in. (48.9 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "John Stewart Kennedy Fund, 1926",
+   "object_url": "https://www.metmuseum.org/art/collection/search/42733"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP170102.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP170102.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/42733"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "42733",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/42733",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "弥勒仏立像（北魏）",
+   "highlights": [
+    "細長い体と、魚のヒレのように左右へ鋭く広がる衣の裾。",
+    "右手を上げ（施無畏印）、人々の恐れを取り除く仕草を示す。",
+    "背後の大きな光背には、炎や飛天が細かく表される。"
+   ],
+   "trivia": "弥勒は未来に現れて人々を救うとされる仏。北魏時代には金銅仏が盛んに造られ、本作はその代表的な大作として知られる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "streams-and-mountains-without-end",
   "batch": "batch-001",
   "genre": "painting",
@@ -2231,6 +3271,370 @@
     "小さな旅人や舟を探しながら、絵の中を旅するように鑑賞できる。"
    ],
    "trivia": "北宋後期の作とされる手巻で、巻末には後世の鑑賞者たちによる多数の跋文（感想文）が連なる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "guo-xi-old-trees-level-distance",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "northern-song-landscape",
+  "period": "china:five-dynasties-song",
+  "era": "world:high-medieval",
+  "year": 1080,
+  "year_start": 1070,
+  "year_end": 1090,
+  "year_estimated": false,
+  "title_ja": "樹色平遠図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Old Trees, Level Distance",
+   "artist": "Guo Xi",
+   "artist_bio": "Chinese, ca. 1000–ca. 1090",
+   "date": "ca. 1080",
+   "culture": "China / Northern Song dynasty (960–1127)",
+   "medium": "Handscroll; ink and color on silk",
+   "dimensions": "Image: 14 × 41 1/8 in. (35.6 × 104.4 cm)\r\nOverall with mounting: 14 3/4 in. × 28 ft. 1/8 in. (37.5 × 853.8 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of John M. Crawford Jr., in honor of Douglas Dillon, 1981",
+   "object_url": "https://www.metmuseum.org/art/collection/search/39668"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP167812_CRD.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP167812_CRD.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/39668"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "39668",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39668",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "樹色平遠図",
+   "highlights": [
+    "手前のねじれた古木と、遠くまで広がる水辺の平らな景色の対比。",
+    "郭熙が説いた「平遠」（近くから遠くを見渡す視点）の実践。",
+    "墨の濃淡で霧や空気の層を表す、北宋山水の高度な技法。"
+   ],
+   "trivia": "郭熙は北宋の宮廷画家で、山水画論『林泉高致』で高遠・深遠・平遠の「三遠法」を説いたことで知られる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "huizong-finches-bamboo",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "song-academy",
+  "period": "china:five-dynasties-song",
+  "era": "world:high-medieval",
+  "year": 1114,
+  "year_start": 1100,
+  "year_end": 1127,
+  "year_estimated": false,
+  "title_ja": "竹禽図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Finches and bamboo",
+   "artist": "Emperor Huizong",
+   "artist_bio": "Chinese, 1082–1135; r. 1100–25",
+   "date": "early 12th century",
+   "culture": "China / Northern Song dynasty (960–1127)",
+   "medium": "Handscroll; ink and color on silk",
+   "dimensions": "Image: 13 1/4 × 21 13/16 in. (33.7 × 55.4 cm)\r\nOverall with mounting: 13 3/4 in. × 27 ft. 6 5/16 in. (34.9 × 839 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "John M. Crawford Jr. Collection, Purchase, Douglas Dillon Gift, 1981",
+   "object_url": "https://www.metmuseum.org/art/collection/search/39936"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP151504_CRD.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP151504_CRD.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/39936"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "39936",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39936",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "竹禽図",
+   "highlights": [
+    "竹の枝にとまる小鳥の羽毛まで、極めて繊細な筆で写されている。",
+    "細い竹の枝のしなりと、とまる鳥の体の重さの微妙な均衡。",
+    "画面の余白と簡潔な構図が、宮廷趣味の気品を感じさせる。"
+   ],
+   "trivia": "北宋の皇帝徽宗は書画に優れ、画院を整備した。痩せて鋭い独自の書体「痩金体」でも知られる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "qian-xuan-wang-xizhi-geese",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "yuan-literati",
+  "period": "china:yuan",
+  "era": "world:high-medieval",
+  "year": 1295,
+  "year_start": 1285,
+  "year_end": 1305,
+  "year_estimated": false,
+  "title_ja": "王羲之観鵞図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Wang Xizhi watching geese",
+   "artist": "Qian Xuan",
+   "artist_bio": "Chinese, 1239–1301",
+   "date": "ca. 1295",
+   "culture": "China / Yuan dynasty (1271–1368)",
+   "medium": "Handscroll; ink, color, and gold on paper",
+   "dimensions": "Image: 9 1/8 x 36 1/2 in. (23.2 x 92.7 cm)\r\nOverall with mounting: 11 x 418 13/16 in. (27.9 x 1063.8 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Ex coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973",
+   "object_url": "https://www.metmuseum.org/art/collection/search/40081"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP273822.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP273822.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/40081"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "40081",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/40081",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "王羲之観鵞図",
+   "highlights": [
+    "東屋から池の鵞鳥を眺める書聖・王羲之。鵞鳥の首の動きから筆法を学んだという逸話に基づく。",
+    "青緑山水の鮮やかな彩色が、古風で理想化された世界をつくる。",
+    "単純化された木や岩の形に、宋の写実から離れた意図的な古拙さがある。"
+   ],
+   "trivia": "銭選は宋の滅亡後に元に仕えず、書画に生きた遺民画家。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "zhao-mengfu-twin-pines",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "yuan-literati",
+  "period": "china:yuan",
+  "era": "world:high-medieval",
+  "year": 1310,
+  "year_start": 1310,
+  "year_end": 1310,
+  "year_estimated": false,
+  "title_ja": "双松平遠図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Twin Pines, Level Distance",
+   "artist": "Zhao Mengfu",
+   "artist_bio": "Chinese, 1254–1322",
+   "date": "ca. 1310",
+   "culture": "China / Yuan dynasty (1271–1368)",
+   "medium": "Handscroll; ink on paper",
+   "dimensions": "Image: 10 9/16 x 42 5/16 in. (26.8 x 107.5 cm)\r\nOverall with mounting: 10 15/16 x 25 ft. 7 11/16 in. (27.8 x 781.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Ex coll.: C. C. Wang Family, Gift of The Dillon Fund, 1973",
+   "object_url": "https://www.metmuseum.org/art/collection/search/40508"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153682.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP153682.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/40508"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "40508",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/40508",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "双松平遠図",
+   "highlights": [
+    "2本の松と遠くの平らな山並みを、わずかな墨線で描く。",
+    "書の筆法で描かれた線そのものが鑑賞の対象になる。",
+    "広い余白が、静かで内省的な空気を生む。"
+   ],
+   "trivia": "趙孟頫は宋の皇族の末裔ながら元朝に仕えた書画家。「書画同源」を唱え、文人画の方向を決定づけた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "han-gan-night-shining-white",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "tang",
+  "period": "china:sui-tang",
+  "era": "world:early-medieval",
+  "year": 750,
+  "year_start": 740,
+  "year_end": 760,
+  "year_estimated": false,
+  "title_ja": "照夜白図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Night-Shining White",
+   "artist": "Han Gan",
+   "artist_bio": "Chinese, active ca. 742–756",
+   "date": "ca. 750",
+   "culture": "China / Tang dynasty (618–907)",
+   "medium": "Handscroll; ink on paper",
+   "dimensions": "Image: 12 1/8 x 13 3/8 in. (30.8 x 34 cm)\r\nOverall with mounting: 14 in. x 37 ft. 5 1/8 in. (35.4 cm x 11.4 m)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, The Dillon Fund Gift, 1977",
+   "object_url": "https://www.metmuseum.org/art/collection/search/39901"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP153705.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP153705.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/39901"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "39901",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/39901",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "照夜白図",
+   "highlights": [
+    "杭につながれ、いななき暴れる名馬の力強い一瞬。",
+    "最小限の墨線と淡い陰影で、筋肉の盛り上がりと気性を表す。",
+    "画面を埋める多数の印章と題跋が、千年以上の鑑賞の歴史を物語る。"
+   ],
+   "trivia": "「照夜白」は唐の玄宗皇帝の愛馬の名。韓幹は馬の名手として知られた宮廷画家。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "bada-shanren-fish-and-rocks",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "china",
+  "region_group": "china",
+  "style": "qing-individualists",
+  "period": "china:qing",
+  "era": "world:early-modern-2",
+  "year": 1699,
+  "year_start": 1699,
+  "year_end": 1699,
+  "year_estimated": false,
+  "title_ja": "魚石図",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Fish and rocks",
+   "artist": "Bada Shanren (Zhu Da)",
+   "artist_bio": "Chinese, 1626–1705",
+   "date": "dated 1699",
+   "culture": "China / Qing dynasty (1644–1911)",
+   "medium": "Hanging scroll; ink on paper",
+   "dimensions": "Image: 53 1/4 x 24 in. (135.3 x 61 cm)\r\nOverall with mounting: 92 1/2  x 31 1/2 in. (235 x 80 cm)\r\nOverall with knobs: 92 1/2 x 34 1/4 in. (235 x 87 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Bequest of John M. Crawford Jr., 1988",
+   "object_url": "https://www.metmuseum.org/art/collection/search/41491"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/as/web-large/DP-19461-002.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/as/original/DP-19461-002.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/41491"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "41491",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/41491",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "魚石図",
+   "highlights": [
+    "白目をむいた魚が、こちらを睨むような奇妙な表情を見せる。",
+    "不安定に積み重なる岩と、大きな余白の緊張感。",
+    "濡れた墨の大胆な筆致による、極度に簡略化された形。"
+   ],
+   "trivia": "八大山人（朱耷）は明の皇族の末裔。明の滅亡後に僧となり、屈折した心情を奇抜な表現に託したとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "ming-blue-and-white",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "china",
+  "region_group": "china",
+  "style": "ming-qing-porcelain",
+  "period": "china:ming",
+  "era": "world:early-modern-1",
+  "year": 1597,
+  "year_start": 1573,
+  "year_end": 1620,
+  "year_estimated": false,
+  "title_ja": "明代の青花磁器",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Bowl with God of Longevity (Shoulao) and Eight Daoist Immortals",
+   "artist": "China",
+   "artist_bio": null,
+   "date": "Ming dynasty (1368–1644), Wanli reign mark and period (1572–1620)",
+   "culture": "China",
+   "medium": "Porcelain painted in underglaze blue and overglaze polychrome enamels",
+   "dimensions": "9 × 18.2 cm (3 1/2 × 7 1/8 in.); Diam.: 18.1 cm (7 1/8 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Gift of Dorothy Braude Edinburg to the Harry B. and Bessie K. Braude Memorial Collection",
+   "object_url": "https://www.artic.edu/artworks/180200"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/3d38368f-f709-c156-c94e-1c1b381b2a11/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/3d38368f-f709-c156-c94e-1c1b381b2a11/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/180200"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "180200",
+   "api_url": "https://api.artic.edu/api/v1/artworks/180200",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "明代の青花磁器",
+   "highlights": [
+    "白い磁胎にコバルトの青で描かれた文様が、鮮やかなコントラストを生む。",
+    "龍・花・波などの文様が器の形に沿ってリズミカルに配置される。",
+    "釉の下に描くため、色が長く褪せずに保たれる。"
+   ],
+   "trivia": "景徳鎮で量産された青花は、アジア・中東・ヨーロッパへ輸出され、各地の陶磁器生産に大きな影響を与えた。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -2294,12 +3698,12 @@
   "region": "china",
   "region_group": "china",
   "style": "chinese-imperial-architecture",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "china:qing",
+  "era": "world:early-modern-2",
+  "year": 1656,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "天壇",
   "title_ja_source": "wikidata",
   "facts": {
@@ -2450,38 +3854,38 @@
   "region": "iran-central-asia",
   "region_group": "islamic",
   "style": "ilkhanid-timurid",
-  "period": "islamic:gunpowder-empires",
-  "era": "world:early-modern-2",
-  "year": 1725,
-  "year_start": 1500,
-  "year_end": 1950,
+  "period": "islamic:mongol-timurid",
+  "era": "world:high-medieval",
+  "year": 1355,
+  "year_start": 1354,
+  "year_end": 1355,
   "year_estimated": false,
   "title_ja": "ミフラーブ（イスファハーン）",
   "title_ja_source": "ai",
   "facts": {
-   "title": "Prayer Niche (Mihrab)",
+   "title": "Mihrab (Prayer Niche)",
    "artist": null,
    "artist_bio": null,
-   "date": "c. 1500s or mid-1900s",
-   "culture": "Iran, Isfahan, in the style of the Safavid period (1501–1722)",
-   "medium": "ceramic mosaic",
-   "dimensions": "Mihrab: 290.7 x 245.3 cm (114 7/16 x 96 9/16 in.); Frieze: 69.2 x 1563.5 cm (27 1/4 x 615 9/16 in.)",
-   "repository": "The Cleveland Museum of Art",
-   "credit_line": "Gift of Katharine Holden Thayer",
-   "object_url": "https://clevelandart.org/art/1962.23"
+   "date": "dated 755 AH/1354–55 CE",
+   "culture": null,
+   "medium": "Mosaic of polychrome-glazed cut tiles on stonepaste body; set into mortar",
+   "dimensions": "Mihrab\r\n            H. 135 1/16 in. (343.1 cm)\r\n            W. 113 11/16in. (288.7cm)\r\n            Wt. 4,500 lbs. (2041.2 kg)\r\nStorage box:  \r\n             W. 99 in. (251.5 cm)\r\n             D. 41 1/2 in. (105.4 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Harris Brisbane Dick Fund, 1939",
+   "object_url": "https://www.metmuseum.org/art/collection/search/449537"
   },
   "image": {
-   "thumb": "https://openaccess-cdn.clevelandart.org/1962.23/1962.23_web.jpg",
-   "large": "https://openaccess-cdn.clevelandart.org/1962.23/1962.23_print.jpg",
-   "license": "CC0",
-   "credit": "The Cleveland Museum of Art",
-   "source_url": "https://clevelandart.org/art/1962.23"
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/DP235035.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/DP235035.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/449537"
   },
   "source": {
-   "name": "Cleveland Museum of Art Open Access API",
-   "id": "137298",
-   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/137298",
-   "key": "cleveland"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "449537",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/449537",
+   "key": "met"
   },
   "ai": {
    "title_ja": "ミフラーブ（イスファハーン）",
@@ -2496,17 +3900,69 @@
   "fetched_at": "2026-10-08"
  },
  {
+  "id": "shahnama-feast-of-sada",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "iran-central-asia",
+  "region_group": "islamic",
+  "style": "persian-miniature",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-1",
+  "year": 1525,
+  "year_start": 1500,
+  "year_end": 1550,
+  "year_estimated": false,
+  "title_ja": "サデの祭り（シャー・タフマースプの『シャーナーメ』より）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "\"The Feast of Sada\", Folio 22v from the Shahnama (Book of Kings) of Shah Tahmasp",
+   "artist": "Abu'l Qasim Firdausi",
+   "artist_bio": "Iranian, Paj ca. 940/41–1020 Tus",
+   "date": "ca. 1525",
+   "culture": null,
+   "medium": "Opaque watercolor, ink, silver, and gold on paper",
+   "dimensions": "Painting:\r\n                H. 9 1/2 in. (24.1 cm)\r\n                W. 9 1/16 in. (23 cm)\r\nPage: \r\n                H. 18 1/2 in. (47 cm)\r\n                W.12 1/2 in. (31.8 cm)\r\nMat: \r\n                H. 22 in. (55.9 cm)\r\n                W. 16 in. (40.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of Arthur A. Houghton Jr., 1970",
+   "object_url": "https://www.metmuseum.org/art/collection/search/452111"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/DP107689.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/DP107689.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/452111"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "452111",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/452111",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "サデの祭り（シャー・タフマースプの『シャーナーメ』より）",
+   "highlights": [
+    "火を発見した伝説の王を祝う場面。岩山には動物や顔が隠れている。",
+    "宝石のような色彩と、限りなく細かい筆による描写。",
+    "高い視点から見下ろす平面的な空間に、物語が重層的に広がる。"
+   ],
+   "trivia": "サファヴィー朝のシャー・タフマースプのために作られた豪華写本の一葉。「サデ」は火の発見を祝う古代イランの祭り。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "mamluk-mosque-lamp",
   "batch": "batch-001",
   "genre": "craft",
   "region": "arab-ottoman",
   "region_group": "islamic",
   "style": "mamluk",
-  "period": "islamic:modern",
-  "era": "world:c19",
-  "year": 1883,
-  "year_start": 1866,
-  "year_end": 1899,
+  "period": "islamic:mongol-timurid",
+  "era": "world:high-medieval",
+  "year": 1325,
+  "year_start": 1300,
+  "year_end": 1350,
   "year_estimated": false,
   "title_ja": "モスク・ランプ（マムルーク朝）",
   "title_ja_source": "ai",
@@ -2514,26 +3970,26 @@
    "title": "Mosque Lamp",
    "artist": null,
    "artist_bio": null,
-   "date": "late 1800s",
-   "culture": "France",
-   "medium": "glass with enameled and gilded decoration",
-   "dimensions": "Overall: 39.5 cm (15 9/16 in.)",
-   "repository": "The Cleveland Museum of Art",
-   "credit_line": "John L. Severance Fund",
-   "object_url": "https://clevelandart.org/art/1981.10"
+   "date": "first half 14th century",
+   "culture": null,
+   "medium": "Glass; enameled",
+   "dimensions": "H. 14 5/16 in. (36.4 cm)\r\nMax Diam. 10 1/8 in. (25.7 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Edward C. Moore Collection, Bequest of Edward C. Moore, 1891",
+   "object_url": "https://www.metmuseum.org/art/collection/search/444709"
   },
   "image": {
-   "thumb": "https://openaccess-cdn.clevelandart.org/1981.10/1981.10_web.jpg",
-   "large": "https://openaccess-cdn.clevelandart.org/1981.10/1981.10_print.jpg",
-   "license": "CC0",
-   "credit": "The Cleveland Museum of Art",
-   "source_url": "https://clevelandart.org/art/1981.10"
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/sf91-1-1530b.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/sf91-1-1530b.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/444709"
   },
   "source": {
-   "name": "Cleveland Museum of Art Open Access API",
-   "id": "150188",
-   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/150188",
-   "key": "cleveland"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "444709",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/444709",
+   "key": "met"
   },
   "ai": {
    "title_ja": "モスク・ランプ（マムルーク朝）",
@@ -2595,6 +4051,162 @@
     "白い化粧土と透明釉による、陶器とは思えない明るい白地。"
    ],
    "trivia": "イズニクはアナトリア西部の町。16世紀のオスマン宮廷の工房がデザインを主導し、モスクのタイルも生産した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "damascus-room",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "ottoman",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-2",
+  "year": 1707,
+  "year_start": 1706,
+  "year_end": 1708,
+  "year_estimated": false,
+  "title_ja": "ダマスカスの部屋",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Damascus Room",
+   "artist": null,
+   "artist_bio": null,
+   "date": "dated 1119 AH/1707 CE",
+   "culture": null,
+   "medium": "Wood (poplar) with gesso relief, gold and tin leaf, glazes and paint; wood (cypress, poplar, and mulberry), mother-of-pearl, marble and other stones, stucco with glass, plaster ceramic tiles, iron, brass",
+   "dimensions": "Overall:\r\n           H. 264 7/16 in. (671.6 cm)\r\n           W. 200 1/2 in. (509.2 cm)\r\n           D. 316 5/8 in. (804.2 cm)\r\nFrom inside front entrance to back wall:\r\n           H. 316 5/8 in. (804.2 cm)\r\nFountain:\r\n           H. 4 15/16 in. (12.5 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of The Hagop Kevorkian Fund, 1970",
+   "object_url": "https://www.metmuseum.org/art/collection/search/452102"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/DP240367.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/DP240367.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/452102"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "452102",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/452102",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "ダマスカスの部屋",
+   "highlights": [
+    "壁と天井を覆う木製パネルに、金や色彩で花や器、銘文が描かれる。",
+    "一段低い玄関部分と、一段高い応接の間という伝統的な構成。",
+    "詩の銘文が家の主人を称え、もてなしの空間を演出する。"
+   ],
+   "trivia": "18世紀初頭のダマスカスの邸宅の冬の応接室を移設したもの。ニスの変色により、当初はもっと鮮やかだったとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "emperors-carpet",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "iran-central-asia",
+  "region_group": "islamic",
+  "style": "safavid",
+  "period": "islamic:gunpowder-empires",
+  "era": "world:early-modern-1",
+  "year": 1575,
+  "year_start": 1550,
+  "year_end": 1599,
+  "year_estimated": false,
+  "title_ja": "皇帝の絨毯",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Emperor's Carpet",
+   "artist": null,
+   "artist_bio": null,
+   "date": "second half 16th century",
+   "culture": null,
+   "medium": "Silk (warp and weft), wool (pile); asymmetrically knotted pile",
+   "dimensions": "Rug:\r\n         L. 299 in. (759.5 cm)\r\n         W. 133 1/2 in. (339.1 cm)\r\n         Wt. on a 10\" tube: 144 lbs. (65.3 kg)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Rogers Fund, 1943",
+   "object_url": "https://www.metmuseum.org/art/collection/search/450509"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/DP245045.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/DP245045.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/450509"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "450509",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/450509",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "皇帝の絨毯",
+   "highlights": [
+    "深紅の地に、唐草の蔓と花、雲文、動物が対称的に織り出される。",
+    "中国由来の雲や麒麟のモチーフが、ペルシアの文様と融合している。",
+    "極めて高い結び目の密度による、絵画のように精緻な表現。"
+   ],
+   "trivia": "16世紀サファヴィー朝の宮廷工房製とされる。かつてハプスブルク家が所有したことからこの名で呼ばれる。対になる一枚がウィーンにある。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "dome-of-the-rock",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "region_group": "islamic",
+  "style": "early-islamic",
+  "period": "islamic:early",
+  "era": "world:early-medieval",
+  "year": 691,
+  "year_start": 691,
+  "year_end": 691,
+  "year_estimated": false,
+  "title_ja": "岩のドーム",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Dome of the Rock",
+   "artist": null,
+   "artist_bio": null,
+   "date": "691年",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "エルサレム旧市街、パレスチナ国",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q172077"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg/500px-16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg/1920px-16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "GFDL 1.2",
+   "credit": "Ralf Roletschek",
+   "source_url": "https://commons.wikimedia.org/wiki/File:16-04-04-Felsendom-Tempelberg-Jerusalem-RalfR-WAT_6385.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q172077",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q172077.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "岩のドーム",
+   "highlights": [
+    "八角形の建物の上に輝く黄金のドームが、エルサレムの景観を象徴する。",
+    "外壁を覆う青を基調としたタイルは、16世紀のオスマン朝期に貼り替えられたもの。",
+    "内部にはビザンティン風の金地モザイクで植物や宝飾が表される。"
+   ],
+   "trivia": "7世紀末、ウマイヤ朝のカリフ、アブドゥルマリクによって建てられた。現存する最古級のイスラーム建築。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -2814,12 +4426,12 @@
   "region": "south-asia",
   "region_group": "south-southeast-asia",
   "style": "mughal",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "south-asia:mughal",
+  "era": "world:early-modern-2",
+  "year": 1692,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "タージ・マハル",
   "title_ja_source": "wikidata",
   "facts": {
@@ -2855,6 +4467,58 @@
     "四隅のミナレットはわずかに外側へ傾けられているとされる。"
    ],
    "trivia": "ムガル皇帝シャー・ジャハーンが亡き妃ムムターズ・マハルのために建てた。1632年頃に着工し、約20年を要した。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "shah-jahan-on-terrace",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "south-asia",
+  "region_group": "south-southeast-asia",
+  "style": "mughal",
+  "period": "south-asia:mughal",
+  "era": "world:early-modern-1",
+  "year": 1572,
+  "year_start": 1515,
+  "year_end": 1628,
+  "year_estimated": false,
+  "title_ja": "テラスに立つシャー・ジャハーン",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "\"Shah Jahan on a Terrace, Holding a Pendant Set With His Portrait\", Folio from the Shah Jahan Album",
+   "artist": "Chitarman",
+   "artist_bio": "Indian, active ca. 1627–70",
+   "date": "recto: dated 1627–28; verso: ca. 1530–50",
+   "culture": null,
+   "medium": "Ink, opaque watercolor, and gold on paper",
+   "dimensions": "H. 15 5/16 in. (38.9 cm)\r\nW. 10 1/8 in. (25.7 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Purchase, Rogers Fund and The Kevorkian Foundation Gift, 1955",
+   "object_url": "https://www.metmuseum.org/art/collection/search/451270"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/is/original/DP246547.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/451270"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "451270",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/451270",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "テラスに立つシャー・ジャハーン",
+   "highlights": [
+    "横顔で描かれる皇帝の頭部に、金色の光輪が輝く。",
+    "宝石を嵌めた肖像のペンダントや衣装の細部が、驚くほど精密に描かれる。",
+    "周囲の花の縁取りが画面を豪華な宝飾品のように見せる。"
+   ],
+   "trivia": "いわゆる「シャー・ジャハーン・アルバム」の一葉。横顔の肖像はムガル宮廷の公式な皇帝像の形式だった。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"
@@ -2970,12 +4634,12 @@
   "region": "south-asia",
   "region_group": "south-southeast-asia",
   "style": "early-buddhist-india",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "south-asia:kushan",
+  "era": "world:antiquity",
+  "year": -100,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "サンチ",
   "title_ja_source": "wikidata",
   "facts": {
@@ -3178,12 +4842,12 @@
   "region": "southeast-asia",
   "region_group": "south-southeast-asia",
   "style": "javanese-classical",
-  "period": null,
-  "era": null,
-  "year": null,
+  "period": "southeast-asia:classical",
+  "era": "world:early-medieval",
+  "year": 850,
   "year_start": null,
   "year_end": null,
-  "year_estimated": false,
+  "year_estimated": true,
   "title_ja": "ボロブドゥール",
   "title_ja_source": "wikidata",
   "facts": {
@@ -3224,6 +4888,110 @@
   "fetched_at": "2026-10-08"
  },
  {
+  "id": "temple-of-dendur",
+  "batch": "batch-001",
+  "genre": "architecture",
+  "region": "egypt-ancient",
+  "region_group": "ancient",
+  "style": "egypt-late-ptolemaic",
+  "period": "egypt:ptolemaic-roman",
+  "era": "world:antiquity",
+  "year": -10,
+  "year_start": -10,
+  "year_end": -10,
+  "year_estimated": false,
+  "title_ja": "デンドゥール神殿",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "The Temple of Dendur",
+   "artist": null,
+   "artist_bio": null,
+   "date": "completed by 10 CE",
+   "culture": "Roman Period",
+   "medium": "Aeolian sandstone",
+   "dimensions": "Temple proper: H. 6.40 m (21 ft.); W. 6.40 m (21 ft.); L. 12.50 m (41 ft.); Gate: H. 8.08 m (26.5 ft.); W. × 3.66 m (12 ft.); D. 3.35 m (11 ft.)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Given to the United States by Egypt in 1965 and awarded to The Metropolitan Museum of Art in 1967.",
+   "object_url": "https://www.metmuseum.org/art/collection/search/547802"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240337.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/eg/original/DP240337.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/547802"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "547802",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/547802",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "デンドゥール神殿",
+   "highlights": [
+    "門と小さな神殿からなる、伝統的なエジプト神殿の簡潔な構成。",
+    "外壁の浮彫には、ファラオの姿をしたローマ皇帝アウグストゥスが神々に捧げ物をする場面が刻まれる。",
+    "パピルスや蓮をかたどった柱頭が、ナイルの湿地を象徴する。"
+   ],
+   "trivia": "アスワン・ハイ・ダム建設で水没の危機にあった遺跡を救った謝礼として、エジプトから米国に贈られた。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "william-hippo",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "egypt-ancient",
+  "region_group": "ancient",
+  "style": "egypt-middle-kingdom",
+  "period": "egypt:middle-kingdom",
+  "era": "world:prehistory",
+  "year": -1919,
+  "year_start": -1961,
+  "year_end": -1878,
+  "year_estimated": false,
+  "title_ja": "カバの小像（ウィリアム）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Hippopotamus (\"William\")",
+   "artist": null,
+   "artist_bio": null,
+   "date": "ca. 1961–1878 B.C.",
+   "culture": "Middle Kingdom / Dynasty 12",
+   "medium": "Faience",
+   "dimensions": "L. 20 cm (7 7/8 in.); W. 7.5 cm (2 15/16 in.); H. 11.2 cm (4 7/16 in.)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of Edward S. Harkness, 1917",
+   "object_url": "https://www.metmuseum.org/art/collection/search/544227"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/eg/web-large/DP248993.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/eg/original/DP248993.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/544227"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "544227",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/544227",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "カバの小像（ウィリアム）",
+   "highlights": [
+    "鮮やかな青のファイアンスに、ナイルの水草や花が黒で描かれる。",
+    "丸々とした体つきの愛らしさの一方、カバは危険な動物でもあった。",
+    "水辺の植物の文様で、カバが川の中にいる様子を表している。"
+   ],
+   "trivia": "メトロポリタン美術館の非公式マスコットで「ウィリアム」の愛称を持つ。墓に納められた際、力を封じるため脚が折られていたとされる。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "new-york-kouros",
   "batch": "batch-001",
   "genre": "sculpture",
@@ -3232,36 +5000,36 @@
   "style": "greek-geometric-archaic",
   "period": "greco-roman:archaic",
   "era": "world:antiquity",
-  "year": -550,
-  "year_start": -555,
-  "year_end": -545,
+  "year": -585,
+  "year_start": -590,
+  "year_end": -580,
   "year_estimated": false,
   "title_ja": "クーロス像（ニューヨークのクーロス）",
   "title_ja_source": "ai",
   "facts": {
-   "title": "Torso of a Kouros",
+   "title": "Marble statue of a kouros (youth)",
    "artist": null,
    "artist_bio": null,
-   "date": "c. 550 BCE",
-   "culture": "Greece, Archaic period",
-   "medium": "marble",
-   "dimensions": "Overall: 62.5 cm (24 5/8 in.)",
-   "repository": "The Cleveland Museum of Art",
-   "credit_line": "Gift of the Hanna Fund",
-   "object_url": "https://clevelandart.org/art/1953.125"
+   "date": "ca. 590–580 BCE",
+   "culture": "Greek, Attic / Archaic",
+   "medium": "Marble, Naxian",
+   "dimensions": "76 5/8 × 20 5/16 × 24 7/8 in. (194.6 × 51.6 × 63.2 cm)\r\nOther (height w/o plinth): 76 5/8 in. (194.6 cm)\r\nOther (Height of Head): 12 in. (30.5 cm)\r\nOther (Length of face): 8 7/8 in. (22.6 cm)\r\nOther (shoulder width): 20 5/16 in. (51.6 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Fletcher Fund, 1932",
+   "object_url": "https://www.metmuseum.org/art/collection/search/253370"
   },
   "image": {
-   "thumb": "https://openaccess-cdn.clevelandart.org/1953.125/1953.125_web.jpg",
-   "large": "https://openaccess-cdn.clevelandart.org/1953.125/1953.125_print.jpg",
-   "license": "CC0",
-   "credit": "The Cleveland Museum of Art",
-   "source_url": "https://clevelandart.org/art/1953.125"
+   "thumb": "https://images.metmuseum.org/CRDImages/gr/web-large/DP-23263-005.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/gr/original/DP-23263-005.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/253370"
   },
   "source": {
-   "name": "Cleveland Museum of Art Open Access API",
-   "id": "130360",
-   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/130360",
-   "key": "cleveland"
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "253370",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/253370",
+   "key": "met"
   },
   "ai": {
    "title_ja": "クーロス像（ニューヨークのクーロス）",
@@ -3479,6 +5247,58 @@
     "研ぎ澄まされた単純な形は、20世紀の彫刻家たちを魅了した。"
    ],
    "trivia": "紀元前3千年紀にエーゲ海のキクラデス諸島で作られた。多くは墓から出土し、用途はよく分かっていない。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "benin-queen-mother-mask",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "africa",
+  "region_group": "other",
+  "style": "benin",
+  "period": "world:early-modern-1",
+  "era": "world:early-modern-1",
+  "year": 1550,
+  "year_start": 1500,
+  "year_end": 1600,
+  "year_estimated": false,
+  "title_ja": "王母の胸飾り仮面（イヨバ）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Pendant mask of Ìyọ́bà Idià",
+   "artist": "Ìgbèsànmwà (ivory- and wood- carving guild) artists",
+   "artist_bio": null,
+   "date": "16th century",
+   "culture": "Edo peoples",
+   "medium": "Ivory, iron, brass, coal, traces of iron oxides",
+   "dimensions": "H. 9 3/8 x W. 5 x D. 2 1/2 in. (23.8 x 12.7 x 6.4 cm)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "The Michael C. Rockefeller Memorial Collection, Gift of Nelson A. Rockefeller, 1972",
+   "object_url": "https://www.metmuseum.org/art/collection/search/318622"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/ao/web-large/DP231460.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/ao/original/DP231460.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/318622"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "318622",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/318622",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "王母の胸飾り仮面（イヨバ）",
+   "highlights": [
+    "象牙に彫られた、穏やかで威厳のある女性の顔。",
+    "冠の部分にはポルトガル人の頭部が小さく並び、交易の富を象徴する。",
+    "額の象嵌や細かな文様に、宮廷工房の高い技術が表れる。"
+   ],
+   "trivia": "16世紀のベニン王国の王オバ・エシギエが、母イディアを称えて儀礼で身につけたものとされる。大英博物館などにも類例がある。",
    "ai_generated": true
   },
   "fetched_at": "2026-10-08"

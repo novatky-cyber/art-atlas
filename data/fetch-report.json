@@ -1,63 +1,9 @@
 {
-  "generated_at": "2026-10-08T07:16:31.588Z",
+  "generated_at": "2026-10-08T07:21:53.166Z",
   "seeds": 108,
-  "artworks": 69,
-  "newly_fetched": 69,
+  "artworks": 104,
+  "newly_fetched": 104,
   "unresolved": [
-    {
-      "id": "merode-altarpiece",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Annunciation Triptych Merode Altarpiece"
-    },
-    {
-      "id": "botticelli-last-communion-jerome",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Last Communion of Saint Jerome"
-    },
-    {
-      "id": "raphael-colonna-altarpiece",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Madonna and Child Enthroned with Saints Raphael"
-    },
-    {
-      "id": "titian-venus-lute-player",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Venus and the Lute Player"
-    },
-    {
-      "id": "watteau-mezzetin",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Mezzetin Watteau"
-    },
-    {
-      "id": "fragonard-love-letter",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Love Letter Fragonard"
-    },
-    {
-      "id": "delacroix-abduction-rebecca",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Abduction of Rebecca"
-    },
-    {
-      "id": "courbet-young-ladies-village",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Young Ladies of the Village"
-    },
-    {
-      "id": "millet-haystacks-autumn",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Haystacks: Autumn Millet"
-    },
     {
       "id": "monet-water-lilies-bridge",
       "batch": "batch-001",
@@ -65,160 +11,10 @@
       "query": "Bridge over a Pond of Water Lilies"
     },
     {
-      "id": "degas-dance-class",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Dance Class Degas"
-    },
-    {
-      "id": "klimt-mada-primavesi",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Mäda Primavesi Klimt"
-    },
-    {
-      "id": "canova-perseus",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Perseus with the Head of Medusa Canova"
-    },
-    {
-      "id": "unicorn-rests-in-garden",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Unicorn Rests in a Garden"
-    },
-    {
-      "id": "gubbio-studiolo",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Studiolo from the Ducal Palace in Gubbio"
-    },
-    {
-      "id": "david-plate-goliath",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Plate with the Battle of David and Goliath"
-    },
-    {
-      "id": "cuxa-cloister",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Cuxa Cloister"
-    },
-    {
       "id": "hokusai-fine-wind-clear-morning",
       "batch": "batch-001",
       "source": "met",
       "query": "Fine Wind, Clear Morning Hokusai"
-    },
-    {
-      "id": "korin-irises-yatsuhashi",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Irises at Yatsuhashi (Eight Bridges)"
-    },
-    {
-      "id": "kano-sansetsu-old-plum",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Old Plum Kano Sansetsu"
-    },
-    {
-      "id": "jomon-vessel",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Jōmon jar"
-    },
-    {
-      "id": "northern-wei-maitreya",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Buddha Maitreya (Mile) Northern Wei"
-    },
-    {
-      "id": "guo-xi-old-trees-level-distance",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Old Trees, Level Distance Guo Xi"
-    },
-    {
-      "id": "huizong-finches-bamboo",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Finches and bamboo Emperor Huizong"
-    },
-    {
-      "id": "qian-xuan-wang-xizhi-geese",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Wang Xizhi Watching Geese Qian Xuan"
-    },
-    {
-      "id": "zhao-mengfu-twin-pines",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Twin Pines, Level Distance Zhao Mengfu"
-    },
-    {
-      "id": "han-gan-night-shining-white",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Night-Shining White Han Gan"
-    },
-    {
-      "id": "bada-shanren-fish-and-rocks",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Fish and Rocks Bada Shanren Zhu Da"
-    },
-    {
-      "id": "ming-blue-and-white",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Ming dynasty blue and white porcelain jar"
-    },
-    {
-      "id": "shahnama-feast-of-sada",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Feast of Sada Shahnama Shah Tahmasp"
-    },
-    {
-      "id": "damascus-room",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Damascus Room"
-    },
-    {
-      "id": "emperors-carpet",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "The Emperor's Carpet"
-    },
-    {
-      "id": "dome-of-the-rock",
-      "batch": "batch-001",
-      "source": "wikidata",
-      "query": "Dome of the Rock"
-    },
-    {
-      "id": "shah-jahan-on-terrace",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Shah Jahan on a Terrace, Holding a Pendant Set with His Portrait"
-    },
-    {
-      "id": "temple-of-dendur",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Temple of Dendur"
-    },
-    {
-      "id": "william-hippo",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Statuette of a Hippopotamus"
     },
     {
       "id": "geometric-krater",
@@ -231,23 +27,17 @@
       "batch": "batch-001",
       "source": "met",
       "query": "Human-headed winged lion (lamassu)"
-    },
-    {
-      "id": "benin-queen-mother-mask",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Queen Mother Pendant Mask: Iyoba"
     }
   ],
   "duplicates": [],
   "by_source": {
-    "met": 13,
-    "aic": 17,
-    "cleveland": 10,
-    "wikidata": 29
+    "met": 53,
+    "aic": 13,
+    "cleveland": 8,
+    "wikidata": 30
   },
   "http": {
-    "requests": 322,
-    "failures": 58
+    "requests": 356,
+    "failures": 1
   }
 }

@@ -1387,6 +1387,76 @@
   ]
  },
  {
+  "id": "monet-water-lilies",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "europe-northwest",
+  "region_group": "western",
+  "style": "impressionism",
+  "themes": [
+   "nature-garden",
+   "light"
+  ],
+  "period": "western:c20",
+  "era": "world:c20",
+  "year": 1906,
+  "year_start": 1906,
+  "year_end": 1906,
+  "year_estimated": false,
+  "title_ja": "睡蓮",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Water Lilies",
+   "artist": "Claude Monet (French, 1840–1926)",
+   "artist_bio": null,
+   "date": "1906",
+   "culture": "France",
+   "medium": "Oil on canvas",
+   "dimensions": "89.9 × 94.1 cm (35 3/8 × 37 1/16 in.); Framed: 103.2 × 107 × 5.8 cm (40 5/8 × 42 1/8 × 2 1/4 in.)",
+   "repository": "The Art Institute of Chicago",
+   "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+   "object_url": "https://www.artic.edu/artworks/16568"
+  },
+  "image": {
+   "thumb": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/400,/0/default.jpg",
+   "large": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/1686,/0/default.jpg",
+   "license": "CC0 (Public Domain)",
+   "credit": "The Art Institute of Chicago",
+   "source_url": "https://www.artic.edu/artworks/16568"
+  },
+  "source": {
+   "name": "Art Institute of Chicago API",
+   "id": "16568",
+   "api_url": "https://api.artic.edu/api/v1/artworks/16568",
+   "key": "aic"
+  },
+  "ai": {
+   "title_ja": "睡蓮",
+   "highlights": [
+    {
+     "text": "空も岸も描かず、水面だけが画面を満たす。上下の感覚が消え、見る者は池をのぞき込むような視点になる。",
+     "x": 50,
+     "y": 50
+    },
+    {
+     "text": "水面に映る空や木々の反射と、浮かぶ睡蓮の葉が同じ平面で溶け合う。",
+     "x": 30,
+     "y": 30
+    },
+    {
+     "text": "短く重ねられた筆触が、近づくと抽象的な色の集まりに、離れると光きらめく池に見える。",
+     "x": 70,
+     "y": 70
+    }
+   ],
+   "trivia": "モネは睡蓮を主題に約250点の油彩を描いたとされ、パリのオランジュリー美術館には部屋を囲む巨大な睡蓮の連作がある。",
+   "story": "晩年のモネは、ジヴェルニーの自宅に造った水の庭で、睡蓮の池だけを30年近く描き続けた。光の変化を追い続けたこの連作は、のちの抽象絵画の先駆けとしても評価されている。",
+   "technique": "油彩・カンヴァス。空も岸も描かず水面だけで画面を構成し、短い筆触の重なりで光と反射を表す。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "degas-dance-class",
   "batch": "batch-001",
   "genre": "painting",
@@ -6738,6 +6808,145 @@
   "themes": [
    "human-body"
   ]
+ },
+ {
+  "id": "dipylon-amphora",
+  "batch": "batch-001",
+  "genre": "craft",
+  "region": "greco-roman",
+  "region_group": "ancient",
+  "style": "greek-geometric-archaic",
+  "themes": [
+   "religion"
+  ],
+  "period": "greco-roman:geometric",
+  "era": "world:antiquity",
+  "year": -760,
+  "year_start": -760,
+  "year_end": -760,
+  "year_estimated": false,
+  "title_ja": "ディピュロンのアンフォラ",
+  "title_ja_source": "wikidata",
+  "facts": {
+   "title": "Dipylon amphora",
+   "artist": "ディピュロン・マスター",
+   "artist_bio": null,
+   "date": "紀元前760年代",
+   "culture": null,
+   "medium": null,
+   "dimensions": null,
+   "repository": "アテネ国立考古学博物館、アテネ、ギリシャ",
+   "credit_line": null,
+   "object_url": "https://www.wikidata.org/wiki/Q331805"
+  },
+  "image": {
+   "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Attica%2C_anfora_funeraria_monumentale_detta_vaso_del_dipylon%2C_attr._a_un_omonimo_pittore%2C_tardo_periodo_geometrico%2C_760-750_ac_ca.%2C_dal_kerameikos%2C_01%2C_n._804.jpg/500px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "large": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Attica%2C_anfora_funeraria_monumentale_detta_vaso_del_dipylon%2C_attr._a_un_omonimo_pittore%2C_tardo_periodo_geometrico%2C_760-750_ac_ca.%2C_dal_kerameikos%2C_01%2C_n._804.jpg/1920px-thumbnail.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "license": "CC BY-SA 4.0",
+   "credit": "Francesco Bini",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Attica,_anfora_funeraria_monumentale_detta_vaso_del_dipylon,_attr._a_un_omonimo_pittore,_tardo_periodo_geometrico,_760-750_ac_ca.,_dal_kerameikos,_01,_n._804.jpg"
+  },
+  "source": {
+   "name": "Wikidata / Wikimedia Commons",
+   "id": "Q331805",
+   "api_url": "https://www.wikidata.org/wiki/Special:EntityData/Q331805.json",
+   "key": "wikidata"
+  },
+  "ai": {
+   "title_ja": "ディピュロンのアンフォラ",
+   "highlights": [
+    {
+     "text": "胴の中央、両把手の間に、横たわる死者とそれを嘆く人々の葬送場面が描かれる。",
+     "x": 50,
+     "y": 40
+    },
+    {
+     "text": "人物は三角形の胴と棒状の手足に単純化され、幾何学文様と同じリズムで並ぶ。",
+     "x": 50,
+     "y": 20
+    },
+    {
+     "text": "器の全面を、メアンダー（雷文）などの帯状の文様が隙間なく覆っている。",
+     "x": 50,
+     "y": 80
+    }
+   ],
+   "trivia": "アテネのケラメイコス墓地（ディピュロン門の近く）で出土した高さ1.5メートルを超える大型の壺で、アテネ国立考古学博物館に所蔵されている。",
+   "story": "紀元前8世紀のアテネで、大型の壺は墓の上に置かれて墓標の役割を果たした。人物が描かれた最初期のギリシア美術の一つで、死者を悼む人々の姿が表されている。",
+   "technique": "陶器・幾何学様式。ろくろで成形した大型の器に、黒い釉薬で帯状の幾何学文様と人物を描く。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
+  "id": "assyrian-lamassu",
+  "batch": "batch-001",
+  "genre": "sculpture",
+  "region": "ancient-near-east",
+  "region_group": "ancient",
+  "style": "mesopotamian",
+  "themes": [
+   "power-architecture",
+   "religion"
+  ],
+  "period": "near-east:assyria",
+  "era": "world:antiquity",
+  "year": -871,
+  "year_start": -883,
+  "year_end": -859,
+  "year_estimated": false,
+  "title_ja": "人頭有翼獣（ラマッス）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "Human-headed winged lion (lamassu)",
+   "artist": null,
+   "artist_bio": null,
+   "date": "ca. 883–859 BCE",
+   "culture": "Assyrian / Neo-Assyrian",
+   "medium": "Gypsum alabaster",
+   "dimensions": "H. 122 1/2 x W. 24 1/2 x D. 109 in., 15999.8 lb. (311.2 x 62.2 x 276.9 cm, 7257.4 kg)",
+   "repository": "The Metropolitan Museum of Art, New York",
+   "credit_line": "Gift of John D. Rockefeller Jr., 1932",
+   "object_url": "https://www.metmuseum.org/art/collection/search/322609"
+  },
+  "image": {
+   "thumb": "https://images.metmuseum.org/CRDImages/an/web-large/DT880.jpg",
+   "large": "https://images.metmuseum.org/CRDImages/an/original/DT880.jpg",
+   "license": "CC0 (Open Access)",
+   "credit": "The Metropolitan Museum of Art",
+   "source_url": "https://www.metmuseum.org/art/collection/search/322609"
+  },
+  "source": {
+   "name": "The Metropolitan Museum of Art Collection API",
+   "id": "322609",
+   "api_url": "https://collectionapi.metmuseum.org/public/collection/v1/objects/322609",
+   "key": "met"
+  },
+  "ai": {
+   "title_ja": "人頭有翼獣（ラマッス）",
+   "highlights": [
+    {
+     "text": "正面から見ると2本、横から見ると4本の脚。合わせて5本の脚で、どちらから見ても完全な姿に見える。",
+     "x": 30,
+     "y": 30
+    },
+    {
+     "text": "人間の頭は知恵、獅子（または牡牛）の体は力、翼は速さを表すとされる。",
+     "x": 50,
+     "y": 60
+    },
+    {
+     "text": "角のある冠は神性を示す。",
+     "x": 80,
+     "y": 70
+    }
+   ],
+   "trivia": "新アッシリアの王たちは宮殿の門の両脇に一対のラマッスを置いた。メトロポリタン美術館、大英博物館、ルーヴル美術館などに、ニムルドやコルサバードの宮殿から運ばれた像がある。",
+   "story": "新アッシリア帝国の王たちは、宮殿の壁を戦争や狩猟の浮彫で飾り、門には巨大な守護獣を置いた。訪れる者に王の力を示す、政治的な建築装飾だった。",
+   "technique": "石灰岩（雪花石膏）の浮彫・丸彫り。正面からは丸彫り、側面からは浮彫として見える独特の構成。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
  },
  {
   "id": "parthenon",

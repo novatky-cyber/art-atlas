@@ -1,43 +1,25 @@
 {
-  "generated_at": "2026-10-08T07:21:53.166Z",
+  "generated_at": "2026-10-08T09:04:20.325Z",
   "seeds": 108,
-  "artworks": 104,
-  "newly_fetched": 104,
+  "artworks": 107,
+  "newly_fetched": 3,
   "unresolved": [
-    {
-      "id": "monet-water-lilies-bridge",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Bridge over a Pond of Water Lilies"
-    },
     {
       "id": "hokusai-fine-wind-clear-morning",
       "batch": "batch-001",
-      "source": "met",
-      "query": "Fine Wind, Clear Morning Hokusai"
-    },
-    {
-      "id": "geometric-krater",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Terracotta krater Geometric"
-    },
-    {
-      "id": "assyrian-lamassu",
-      "batch": "batch-001",
-      "source": "met",
-      "query": "Human-headed winged lion (lamassu)"
+      "source": "aic",
+      "query": "Fine Wind, Clear Weather Hokusai"
     }
   ],
   "duplicates": [],
   "by_source": {
-    "met": 53,
-    "aic": 13,
+    "met": 54,
+    "aic": 14,
     "cleveland": 8,
-    "wikidata": 30
+    "wikidata": 31
   },
   "http": {
-    "requests": 356,
+    "requests": 17,
     "failures": 1
   }
 }

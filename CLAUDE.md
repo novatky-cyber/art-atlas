@@ -1,86 +1,69 @@
-# CLAUDE.md — art-atlas（世界の美術・建築 図鑑クイズ）
+# CLAUDE.md — art-atlas（自分の美術手帳 ＋ 世界の美術・建築の教科書）
 
-iPhone のホーム画面で使う個人用 PWA。静的サイト（Vite + React + TypeScript）を GitHub Actions でビルドし GitHub Pages に公開する。
-サーバー・ログイン・DB なし。学習進捗は localStorage（JSON でエクスポート/インポート）。
+主目的は「美術館で見た作品を記録する自分の美術手帳」。作品データベースはそれを支える教科書で、
+知識が蓄積され、様式・作家・美術館・時代・テーマ・用語で**繋がる**ことを最重要とする。
+クイズ・学習ゲーム要素は廃止済み（再導入しない）。
 
 ## 構成
-- `src/` アプリ本体（ハッシュルーター、`lib/storage.ts` に Leitner 方式の間隔反復、`lib/quiz.ts` に出題生成）
-- `data/` アプリが読むデータ（ビルド時に `public/data/` へコピーされる）
-  - `artworks.json` … **パイプラインが生成。手で編集しない**
-  - `styles.json` / `periods.json` … `scripts/gen-styles.mjs` / `scripts/gen-periods.mjs` で生成（編集はスクリプト側で）
+- アプリ：Vite + React + TypeScript の PWA（GitHub Pages、ハッシュルーター）。依存は React / supabase-js / PWA プラグインのみ。
+- 手帳データ：Supabase（project ref `mcpibsyhekyboohsgrbr`、東京リージョン）
+  - テーブル `notes`（記録）, `checkins`, `pin_positions`（注釈位置の微調整）, `job_runs`（夜間処理の記録）, `app_owner`（持ち主1人）
+  - Storage バケット `photos`（非公開、パス `{user_id}/{note_id}/{uuid}.jpg`、端末で長辺1600pxに圧縮）
+  - RLS：`user_id = auth.uid() and is_owner()`。最初にログインしたユーザーが `claim_owner()` で持ち主になる
+  - 認証：メールの6桁コード（PWA と Safari は保存領域が別なのでリンクではなくコード入力が基本）
+  - 公開キー（publishable）は `src/lib/config.ts` に記載（RLS 前提で公開可）。サービスロールキーは GitHub Secrets のみ
+- 作品データ（公開・静的）：`data/`
+  - `artworks.json` … パイプラインが生成。**手で編集しない**（`node pipeline/fetch.mjs --curate-only` でシードの解説を反映）
+  - `styles.json` / `periods.json` … `scripts/gen-styles.mjs` / `scripts/gen-periods.mjs`（時代背景は `scripts/period-backgrounds.json`）
+  - `artists.json` / `museums.json`（美術館＋都市）/ `glossary.json`（用語集）/ `themes.json`（テーマ特集）… `scripts/gen-reference.mjs`
   - `regions.json` … 直接編集
-  - `fetch-report.json` … 直近の取得結果（未解決・重複の一覧）
-- `config/targets.json` … 地域グループ別の目標点数（合計2000）
-- `pipeline/seeds/batch-NNN.json` … 作品シード（取得条件＋分類＋AI解説）。**作品追加はここに書く**
-- `pipeline/fetch.mjs` … シードを Met / AIC / Cleveland / Smithsonian / Wikidata(+Commons) で解決し `data/artworks.json` を生成
-- `.github/workflows/fetch-data.yml` … 取得を手動実行（workflow_dispatch）→ data/ をコミット → 再デプロイ
-- `.github/workflows/deploy.yml` … main への push で Pages へデプロイ
+- シード：`pipeline/seeds/*.json`（`batch-NNN` 手書き、`auto-YYYY-MM-DD` 夜間自動、`notes.json` 手帳の記録から作成）
+- 夜間処理：`.github/workflows/nightly.yml`（毎晩 3:00 JST）→ `pipeline/nightly/run.mjs`
+  1. `process-notes.mjs`：「解説待ち」の記録のプレート写真を Claude で読み取り → 既存作品に紐づけ／オープンアクセスで見つかればその所蔵品で新規作成／なければ `source: "plate"`（公開画像なし）で新規作成。確信度が低ければ `review`（候補最大3つ）
+  2. `auto-add.mjs`：`config/targets.json` の不足地域（日本以外を優先）に合わせ、AIC（is_boosted）・Cleveland（highlight）のパブリックドメイン作品から 50 点を選び、Claude（画像を見て）で分類・見どころ（位置付き）・物語・技法・豆知識を生成
+  3. `fetch.mjs` → 検証 → コミット → デプロイ。結果は Supabase `job_runs` と Actions サマリーに記録、失敗時は Issue 作成
+  - Secrets：`ANTHROPIC_API_KEY`, `SUPABASE_SERVICE_ROLE_KEY`。Variables（任意）：`ART_ATLAS_MODEL`（既定 `claude-opus-5-5`）, `NIGHTLY_COUNT`
 
 ## 重要な制約
-- **このクラウド環境からは美術館 API に届かない**（プロキシで 403）。取得は必ず GitHub Actions の「Fetch artwork data」で行う。
-- 事実（作品名・作家・年代・所蔵・画像URL・ライセンス）は取得データのみ。シードに事実を書き込まない（`match` は照合条件であって表示されない）。
-- 見どころ・豆知識・様式解説は AI 生成で、`ai_generated: true` を必ず保持する。
-- 画像はリポジトリに保存しない（出典 URL を参照）。
-- **Met の検索 API（/search）は HTTP 410 で廃止済み**。Met は Wikidata の P3634（Met object ID）経由で探してから /objects/{id} を取得する。
-  そのため Met のシードは Wikidata 上の作品名（英語ラベル）で見つかる `queries` を書く（例：「Mezzetin」「The Harvesters」）。
-  確実な Met ID が分かる場合は `source_id` を併記すると最も確実。Wikidata にない無名の工芸品は AIC / Cleveland を `source` にする。
+- **このクラウド環境からは美術館 API・Supabase API に届かない**（プロキシで 403）。取得は GitHub Actions で行う。Supabase のスキーマ変更は Supabase MCP（apply_migration）で。
+- 事実（作品名・作家・年代・所蔵・画像URL・ライセンス）は取得データのみ（plate 由来は解説プレートの読み取り結果）。シードに事実を書かない。
+- 見どころ・物語・技法・豆知識・様式解説・時代背景・用語・作家紹介は AI 生成で、`ai_generated: true` / 画面に「AI生成」を表示する。
+- 引用（`ai.quotes`）は出典が確認できるものだけ。出典がなければ欄ごと出さない。
+- 自分の写真は手帳内でのみ表示（公開サイト・公開データに含めない）。
+- **Met の検索 API（/search）は HTTP 410 で廃止済み**。Met は Wikidata の P3634 経由で探す。確実なら `source_id` を併記。
 
-## 「作品を100点追加して」と言われたときの手順
-
-1. `npm ci && npm run status` で地域別の不足を確認し、「次の100点」の配分に従う（`node scripts/status.mjs 100`）。
-2. 既存シードの id・作品と重複しないものを選ぶ（`grep -h '"id"' pipeline/seeds/*.json` で確認）。
-   - パブリックドメインで、Met / AIC / Cleveland のオープンアクセスにあることが確実な作品を優先。
-   - 建築・遺跡は `source: "wikidata"`（Commons に自由ライセンス画像があるもの）。
-   - ジャンル（painting / sculpture / architecture / craft）も偏らないようにする。
-   - 作家没後70年未満の作品は避ける（美術館側が PD 扱いでも、原則避ける）。
-3. `pipeline/seeds/batch-NNN.json`（連番）を新規作成。スキーマは下記。100点＋予備5〜10点を書く（一部は未解決になるため）。
-4. `npm run validate && npm run build` が通ることを確認。
-5. ブランチにコミット → push → PR 作成 → CI 緑を確認 → main にマージ（ユーザーは公開まで自動で行うことを了承済み）。
-6. GitHub MCP の `actions_run_trigger`（method: run_workflow, workflow_id: fetch-data.yml, ref: main, inputs: {mode: "missing", batch: "batch-NNN"}）で取得を実行。
-   MCP が使えない場合は、ユーザーに Actions タブから実行してもらう。
-7. 実行完了後 `git pull origin main` で `data/fetch-report.json` を確認。
-   - `unresolved` のシードは、`query`/`match` を直すか別作品に差し替えて再コミット → `only` 入力で再取得。
-   - `duplicates` は片方のシードを差し替える。
-8. 結果（取得点数・未解決・地域別進捗）をユーザーに報告。
+## 手動で作品を追加するとき（「作品を○点追加して」）
+1. `npm ci && npm run status` で地域別の不足を確認。
+2. `pipeline/seeds/batch-NNN.json` を新規作成（スキーマは下記）。既存 id と重複しないこと。
+3. `npm run validate && npm run build`。
+4. ブランチ → PR → CI 緑 → main にマージ（ユーザーは公開まで自動で行うことを了承済み）。
+5. GitHub MCP `actions_run_trigger`（workflow_id: fetch-data.yml, ref: main, inputs: {mode: "missing", batch: "batch-NNN"}）。
+6. `data/fetch-report.json` の `unresolved` を直して `only` で再取得。
 
 ## シードのスキーマ
 ```jsonc
 {
-  "id": "hokusai-great-wave",          // 英小文字・数字・ハイフン。全バッチで一意
-  "source": "met",                      // met | aic | cleveland | smithsonian | wikidata
-  "source_id": "45434",                 // 任意。確実なときだけ（違っても match で弾かれ検索にフォールバック）
-  "query": "Under the Wave off Kanagawa",   // 検索語（queries: [...] で複数可）
-  "match": {                            // 取得候補の照合条件（すべて満たす候補だけ採用）
-    "title": ["under the wave off kanagawa"],  // 題名に全て含む（大小文字・ダイアクリティカル無視）
-    "title_any": ["jar", "vase"],              // 題名にどれか1つを含む
-    "artist": "hokusai",                       // 作家名に含む
-    "any": ["edo"],                            // 全メタデータ（文化・時代・分類・素材等）に全て含む
-    "year": [1820, 1840]                       // 制作年の範囲が重なる
-  },
-  "fallbacks": [{ "source": "aic", "query": "..." }],  // 任意。美術館シードは他館も自動で探す（auto_fallback:false で無効）
-  "genre": "painting",                  // painting | sculpture | architecture | craft（版画は painting）
-  "region": "japan",                    // data/regions.json の id（制作地）
-  "style": "ukiyo-e",                   // data/styles.json の id
-  "period": "japan:edo",                // 任意。通常は取得年から自動判定。建築で創建年と現存建物の年代がずれる場合などに指定
+  "id": "hokusai-great-wave",
+  "source": "met",                 // met | aic | cleveland | smithsonian | wikidata | plate
+  "source_id": "45434",            // 任意（確実なときだけ）
+  "query": "Under the Wave off Kanagawa", "queries": ["..."],
+  "match": { "title": [], "title_any": [], "artist": "", "any": [], "year": [1820, 1840] },
+  "genre": "painting",             // painting | sculpture | architecture | craft
+  "region": "japan", "style": "ukiyo-e", "period": "japan:edo",   // period は任意
+  "themes": ["nature-garden"],     // religion | light | power-architecture | human-body | nature-garden
+  "plate": { "title": "...", "artist": "...", "date": "...", "technique": "...", "collection": "..." },  // source: plate のみ
   "ai": {
-    "title_ja": "冨嶽三十六景 神奈川沖浪裏",   // 和題（Wikidata に日本語ラベルがあればそちらが優先）
-    "highlights": ["…", "…", "…"],            // 見どころ3点。画面上で確認できる視覚的特徴を中心に
-    "trivia": "…"                              // 豆知識1つ。よく知られた事実のみ。不確かなら「〜とされる」「諸説ある」
+    "title_ja": "冨嶽三十六景 神奈川沖浪裏",
+    "highlights": [{ "text": "見どころ", "x": 25, "y": 35 }],   // 3〜4点、画像上の位置（%）
+    "story": "作品の物語と時代背景（120〜220字）",
+    "technique": "制作方法（60〜120字）",
+    "trivia": "豆知識",
+    "quotes": [{ "text": "...", "source": "出典", "url": "..." }]  // 任意。出典必須
   }
 }
 ```
 
-### 解説文の書き方
-- 見どころは「どこを見ると面白いか」を、画像を見ながら確かめられる形で書く（40〜70字程度）。
-- 匿名作品・同種作品が多いもの（埴輪、青花磁器など）は、取得結果が別個体でも成り立つよう類型レベルで書き、`match` を広めにする。
-- 特定作品に固有の記述をする場合は `match` を厳しく（題名＋作家＋年代）。
-- 数字・固有名詞は確信のあるものだけ。断定できないものはヘッジする。
-
-## 様式・時代・地域を増やすとき
-- 様式：`scripts/gen-styles.mjs` に追記 → `node scripts/gen-styles.mjs`（features は「見分けるポイント」でクイズ解説に使う）
-- 時代：`scripts/gen-periods.mjs` に追記 → `node scripts/gen-periods.mjs`。地域は `period_scheme` で時代区分スキームを参照
-- 地域グループの目標数：`config/targets.json`
-
 ## コマンド
 - `npm run dev` / `npm run build` / `npm run validate` / `npm run status`
-- `npm run fetch-data -- --only=id1,id2`（ローカル実行は API に届く環境のみ）
+- `node pipeline/fetch.mjs --curate-only`（通信なしで解説・分類だけ反映）
+- `node scripts/gen-reference.mjs`（作家・美術館・用語・テーマ再生成）

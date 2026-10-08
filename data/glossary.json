@@ -1,0 +1,800 @@
+[
+ {
+  "id": "oil-painting",
+  "term": "油彩",
+  "category": "技法",
+  "aliases": [
+   "油彩",
+   "油絵"
+  ],
+  "desc": "顔料を乾性油で練った絵具で描く技法。乾くのが遅く、重ね塗りやぼかしで深い色と質感を出せる。15世紀のフランドルで発達した。",
+  "ai_generated": true
+ },
+ {
+  "id": "tempera",
+  "term": "テンペラ",
+  "category": "技法",
+  "aliases": [
+   "テンペラ"
+  ],
+  "desc": "顔料を卵黄などで溶いた絵具。速く乾き、細い線で明快に描ける。中世から初期ルネサンスの板絵の主流。",
+  "ai_generated": true
+ },
+ {
+  "id": "fresco",
+  "term": "フレスコ",
+  "category": "技法",
+  "aliases": [
+   "フレスコ"
+  ],
+  "desc": "塗りたての漆喰が乾く前に水で溶いた顔料で描く壁画技法。絵が壁と一体化し長持ちする。",
+  "ai_generated": true
+ },
+ {
+  "id": "gold-ground",
+  "term": "金地",
+  "category": "技法",
+  "aliases": [
+   "金地",
+   "金箔"
+  ],
+  "desc": "背景に金箔を貼る技法。聖なる光や天上の世界を表し、ビザンティンの聖像や日本の屏風に用いられた。",
+  "ai_generated": true
+ },
+ {
+  "id": "glaze-layer",
+  "term": "グレーズ",
+  "category": "技法",
+  "aliases": [
+   "グレーズ"
+  ],
+  "desc": "透明な絵具の薄い層を何度も重ねる油彩の技法。下の色が透けて、宝石のような深い色合いになる。",
+  "ai_generated": true
+ },
+ {
+  "id": "impasto",
+  "term": "厚塗り（インパスト）",
+  "category": "技法",
+  "aliases": [
+   "インパスト",
+   "厚塗り"
+  ],
+  "desc": "絵具を厚く盛り上げて塗る技法。筆跡や絵具の凹凸が光を受け、質感や勢いを生む。",
+  "ai_generated": true
+ },
+ {
+  "id": "linear-perspective",
+  "term": "線遠近法",
+  "category": "技法",
+  "aliases": [
+   "線遠近法",
+   "遠近法"
+  ],
+  "desc": "平行線が一点（消失点）に集まるように描き、平面に奥行きを作る方法。15世紀フィレンツェで理論化された。",
+  "ai_generated": true
+ },
+ {
+  "id": "aerial-perspective",
+  "term": "空気遠近法",
+  "category": "技法",
+  "aliases": [
+   "空気遠近法"
+  ],
+  "desc": "遠くのものほど青白くかすませて描くことで、大気の厚みと奥行きを表す方法。",
+  "ai_generated": true
+ },
+ {
+  "id": "chiaroscuro",
+  "term": "明暗法（キアロスクーロ）",
+  "category": "技法",
+  "aliases": [
+   "明暗法",
+   "キアロスクーロ",
+   "テネブリズム"
+  ],
+  "desc": "光と影の強い対比で立体感やドラマを生む表現。特に暗い背景から人物を浮かび上がらせる手法をテネブリズムと呼ぶ。",
+  "ai_generated": true
+ },
+ {
+  "id": "pointillism",
+  "term": "点描",
+  "category": "技法",
+  "aliases": [
+   "点描"
+  ],
+  "desc": "純色の小さな点を並べ、見る人の目の中で色を混ぜる技法。スーラが色彩理論に基づいて体系化した。",
+  "ai_generated": true
+ },
+ {
+  "id": "broken-color",
+  "term": "筆触分割",
+  "category": "技法",
+  "aliases": [
+   "筆触分割"
+  ],
+  "desc": "色を混ぜずに短い筆触で並べ、明るい色彩を保つ印象派の技法。",
+  "ai_generated": true
+ },
+ {
+  "id": "alla-prima",
+  "term": "直描き（アラ・プリマ）",
+  "category": "技法",
+  "aliases": [
+   "アラ・プリマ"
+  ],
+  "desc": "下塗りや下描きを重ねず、一度で描き上げる油彩の描き方。",
+  "ai_generated": true
+ },
+ {
+  "id": "engraving",
+  "term": "エングレーヴィング",
+  "category": "技法",
+  "aliases": [
+   "エングレーヴィング",
+   "銅版画"
+  ],
+  "desc": "銅板にビュラン（彫刻刀）で直接線を彫り、インクを詰めて刷る版画技法。精密な線が特徴。",
+  "ai_generated": true
+ },
+ {
+  "id": "woodblock",
+  "term": "木版画",
+  "category": "技法",
+  "aliases": [
+   "木版画",
+   "錦絵",
+   "多色摺"
+  ],
+  "desc": "木の板を彫って刷る版画。浮世絵の錦絵は色ごとに版木を作り、何度も重ね摺りして多色を表した。",
+  "ai_generated": true
+ },
+ {
+  "id": "mica-ground",
+  "term": "雲母摺",
+  "category": "技法",
+  "aliases": [
+   "雲母摺",
+   "黒雲母摺"
+  ],
+  "desc": "鉱物の雲母の粉を摺り込んで背景をきらめかせる浮世絵の技法。",
+  "ai_generated": true
+ },
+ {
+  "id": "okubi-e",
+  "term": "大首絵",
+  "category": "形式",
+  "aliases": [
+   "大首絵"
+  ],
+  "desc": "人物の上半身や顔を大きく描く浮世絵の形式。役者や美人の表情を強調する。",
+  "ai_generated": true
+ },
+ {
+  "id": "byobu",
+  "term": "屏風",
+  "category": "形式",
+  "aliases": [
+   "屏風"
+  ],
+  "desc": "複数の扇（パネル）を蝶番でつないだ折りたたみ式の仕切り。左右一対で一つの画面を成すことが多い。",
+  "ai_generated": true
+ },
+ {
+  "id": "shohekiga",
+  "term": "障壁画",
+  "category": "形式",
+  "aliases": [
+   "障壁画",
+   "襖絵"
+  ],
+  "desc": "襖・壁・屏風など、建物の内部を飾る絵画の総称。桃山時代に金碧の大画面が流行した。",
+  "ai_generated": true
+ },
+ {
+  "id": "tarashikomi",
+  "term": "たらし込み",
+  "category": "技法",
+  "aliases": [
+   "たらし込み"
+  ],
+  "desc": "乾く前の絵具や墨に別の色を垂らし、にじみの効果を生む技法。宗達・光琳ら琳派が好んだ。",
+  "ai_generated": true
+ },
+ {
+  "id": "ink-painting",
+  "term": "水墨画",
+  "category": "技法",
+  "aliases": [
+   "水墨画",
+   "水墨"
+  ],
+  "desc": "墨の濃淡やにじみ、かすれだけで描く絵画。中国で発達し、禅とともに日本に伝わった。",
+  "ai_generated": true
+ },
+ {
+  "id": "cun",
+  "term": "皴法",
+  "category": "技法",
+  "aliases": [
+   "皴法"
+  ],
+  "desc": "山や岩の質感を表すために、筆で一定のパターンの線や点を重ねる中国山水画の技法。",
+  "ai_generated": true
+ },
+ {
+  "id": "handscroll",
+  "term": "手巻（画巻）",
+  "category": "形式",
+  "aliases": [
+   "手巻",
+   "画巻",
+   "絵巻"
+  ],
+  "desc": "横長の巻物。右から左へ少しずつ広げて、時間の流れとともに鑑賞する。",
+  "ai_generated": true
+ },
+ {
+  "id": "colophon",
+  "term": "跋",
+  "category": "形式",
+  "aliases": [
+   "跋文",
+   "題跋"
+  ],
+  "desc": "書画の後に書き加えられた鑑賞者の感想や考証。中国の書画では作品の一部として尊ばれる。",
+  "ai_generated": true
+ },
+ {
+  "id": "blue-and-white",
+  "term": "青花（染付）",
+  "category": "技法",
+  "aliases": [
+   "青花",
+   "染付"
+  ],
+  "desc": "白い磁器にコバルト顔料で絵付けし、透明釉を掛けて焼く技法。元代に完成し世界に広まった。",
+  "ai_generated": true
+ },
+ {
+  "id": "celadon",
+  "term": "青磁",
+  "category": "技法",
+  "aliases": [
+   "青磁"
+  ],
+  "desc": "鉄分を含む釉薬を還元炎で焼き、青緑色に発色させた焼き物。中国・朝鮮で発達した。",
+  "ai_generated": true
+ },
+ {
+  "id": "inlay",
+  "term": "象嵌",
+  "category": "技法",
+  "aliases": [
+   "象嵌"
+  ],
+  "desc": "素材に文様を彫り、別の素材を埋め込む技法。高麗青磁や金属器、家具などに用いられる。",
+  "ai_generated": true
+ },
+ {
+  "id": "sancai",
+  "term": "三彩",
+  "category": "技法",
+  "aliases": [
+   "三彩",
+   "三彩釉"
+  ],
+  "desc": "緑・褐・白などの鉛釉を掛け分ける焼き物。唐代の副葬品に多い。",
+  "ai_generated": true
+ },
+ {
+  "id": "glaze",
+  "term": "釉薬",
+  "category": "技法",
+  "aliases": [
+   "釉薬"
+  ],
+  "desc": "焼き物の表面を覆うガラス質の膜。水漏れを防ぎ、色や光沢を与える。",
+  "ai_generated": true
+ },
+ {
+  "id": "faience",
+  "term": "ファイアンス",
+  "category": "技法",
+  "aliases": [
+   "ファイアンス"
+  ],
+  "desc": "古代エジプトで作られた、石英の粉を固めて焼いた施釉の焼き物。鮮やかな青色が特徴。",
+  "ai_generated": true
+ },
+ {
+  "id": "enamel",
+  "term": "エナメル彩",
+  "category": "技法",
+  "aliases": [
+   "エナメル彩",
+   "琺瑯"
+  ],
+  "desc": "ガラス質の色材を金属やガラスの表面に焼き付ける装飾技法。",
+  "ai_generated": true
+ },
+ {
+  "id": "intarsia",
+  "term": "インタルシア（寄木象嵌）",
+  "category": "技法",
+  "aliases": [
+   "インタルシア",
+   "寄木象嵌"
+  ],
+  "desc": "色や木目の違う木片を嵌め込んで絵や文様を作る技法。ルネサンス期のイタリアで遠近法の騙し絵に使われた。",
+  "ai_generated": true
+ },
+ {
+  "id": "tapestry",
+  "term": "タペストリー",
+  "category": "技法",
+  "aliases": [
+   "タペストリー",
+   "つづれ織り"
+  ],
+  "desc": "下絵に沿って横糸で文様を織り出す壁掛けの織物。中世欧州の城や教会を飾った。",
+  "ai_generated": true
+ },
+ {
+  "id": "lost-wax",
+  "term": "失蝋法",
+  "category": "技法",
+  "aliases": [
+   "失蝋法",
+   "ロストワックス"
+  ],
+  "desc": "蝋で原型を作り粘土で包み、加熱して蝋を溶かし出した空洞に金属を流し込む鋳造法。",
+  "ai_generated": true
+ },
+ {
+  "id": "pile-carpet",
+  "term": "パイル織り",
+  "category": "技法",
+  "aliases": [
+   "パイル織り"
+  ],
+  "desc": "経糸に毛糸を結び付けて切りそろえ、毛足で文様を表す絨毯の織り方。",
+  "ai_generated": true
+ },
+ {
+  "id": "yosegi",
+  "term": "寄木造",
+  "category": "技法",
+  "aliases": [
+   "寄木造"
+  ],
+  "desc": "複数の木材を組み合わせて仏像を彫る技法。大型化と軽量化、分業を可能にした。",
+  "ai_generated": true
+ },
+ {
+  "id": "gyokugan",
+  "term": "玉眼",
+  "category": "技法",
+  "aliases": [
+   "玉眼"
+  ],
+  "desc": "仏像の目に水晶を内側から嵌め込み、生きているような眼差しを表す技法。鎌倉時代に広まった。",
+  "ai_generated": true
+ },
+ {
+  "id": "shikkaku",
+  "term": "漆箔",
+  "category": "技法",
+  "aliases": [
+   "漆箔"
+  ],
+  "desc": "漆を接着剤として金箔を貼る仕上げ。仏像の金色の輝きを表す。",
+  "ai_generated": true
+ },
+ {
+  "id": "contrapposto",
+  "term": "コントラポスト",
+  "category": "表現",
+  "aliases": [
+   "コントラポスト"
+  ],
+  "desc": "片脚に重心をかけ、体を自然にねじった立ち姿。古代ギリシアのクラシック期に確立された。",
+  "ai_generated": true
+ },
+ {
+  "id": "relief",
+  "term": "浮彫",
+  "category": "技法",
+  "aliases": [
+   "浮彫",
+   "レリーフ"
+  ],
+  "desc": "平面から形を浮き上がらせて彫る技法。浮き出しの深さで高浮彫・浅浮彫に分けられる。",
+  "ai_generated": true
+ },
+ {
+  "id": "altarpiece",
+  "term": "祭壇画",
+  "category": "形式",
+  "aliases": [
+   "祭壇画",
+   "三連祭壇画",
+   "二連画"
+  ],
+  "desc": "教会の祭壇に置かれる宗教画。複数のパネルを組み合わせたものを二連・三連・多翼祭壇画と呼ぶ。",
+  "ai_generated": true
+ },
+ {
+  "id": "icon",
+  "term": "イコン",
+  "category": "形式",
+  "aliases": [
+   "イコン",
+   "聖像"
+  ],
+  "desc": "東方正教会で崇敬されるキリストや聖人の板絵。定められた図像に従って描かれる。",
+  "ai_generated": true
+ },
+ {
+  "id": "miniature",
+  "term": "細密画",
+  "category": "形式",
+  "aliases": [
+   "細密画",
+   "ミニアチュール",
+   "写本"
+  ],
+  "desc": "写本の挿絵として描かれた小さく精緻な絵画。ペルシアやムガル、中世欧州で発達した。",
+  "ai_generated": true
+ },
+ {
+  "id": "order",
+  "term": "オーダー（柱式）",
+  "category": "建築",
+  "aliases": [
+   "ドーリス式",
+   "イオニア式",
+   "コリント式",
+   "オーダー"
+  ],
+  "desc": "古典建築の柱と梁の比例と装飾の決まり。簡潔なドーリス式、渦巻きのイオニア式、葉飾りのコリント式がある。",
+  "ai_generated": true
+ },
+ {
+  "id": "entasis",
+  "term": "エンタシス",
+  "category": "建築",
+  "aliases": [
+   "エンタシス"
+  ],
+  "desc": "柱の中ほどをわずかに膨らませる工夫。柱が細く見える錯覚を補正するとされる。",
+  "ai_generated": true
+ },
+ {
+  "id": "portico",
+  "term": "柱廊玄関（ポルティコ）",
+  "category": "建築",
+  "aliases": [
+   "ポルティコ",
+   "柱廊玄関",
+   "柱廊"
+  ],
+  "desc": "列柱が屋根を支える玄関部分。古代神殿に由来し、ルネサンス以降の建築に広く用いられた。",
+  "ai_generated": true
+ },
+ {
+  "id": "pointed-arch",
+  "term": "尖頭アーチ",
+  "category": "建築",
+  "aliases": [
+   "尖頭アーチ"
+  ],
+  "desc": "頂部が尖ったアーチ。重さを下へ流しやすく、ゴシック建築の高い空間を可能にした。",
+  "ai_generated": true
+ },
+ {
+  "id": "rib-vault",
+  "term": "リブ・ヴォールト",
+  "category": "建築",
+  "aliases": [
+   "リブヴォールト",
+   "リブ・ヴォールト"
+  ],
+  "desc": "交差する骨組み（リブ）で支えるアーチ状の天井。ゴシック建築の特徴。",
+  "ai_generated": true
+ },
+ {
+  "id": "flying-buttress",
+  "term": "飛び梁（フライング・バットレス）",
+  "category": "建築",
+  "aliases": [
+   "飛び梁",
+   "フライング・バットレス"
+  ],
+  "desc": "建物の外側から壁を支えるアーチ状の支柱。壁を薄くし、大きな窓を開けることを可能にした。",
+  "ai_generated": true
+ },
+ {
+  "id": "rose-window",
+  "term": "バラ窓",
+  "category": "建築",
+  "aliases": [
+   "バラ窓"
+  ],
+  "desc": "ゴシック聖堂の正面や翼廊に設けられる円形のステンドグラス窓。",
+  "ai_generated": true
+ },
+ {
+  "id": "stained-glass",
+  "term": "ステンドグラス",
+  "category": "建築",
+  "aliases": [
+   "ステンドグラス"
+  ],
+  "desc": "色ガラスを鉛の枠でつなぎ合わせた窓。光によって聖書の物語を描き出す。",
+  "ai_generated": true
+ },
+ {
+  "id": "dome",
+  "term": "ドーム",
+  "category": "建築",
+  "aliases": [
+   "ドーム",
+   "円蓋"
+  ],
+  "desc": "半球状の屋根。ローマのパンテオン以来、宗教建築や権力の象徴として用いられた。",
+  "ai_generated": true
+ },
+ {
+  "id": "pendentive",
+  "term": "ペンデンティブ",
+  "category": "建築",
+  "aliases": [
+   "ペンデンティブ"
+  ],
+  "desc": "四角い平面の上に円形のドームを載せるための球面三角形の部分。ビザンティン建築で発達した。",
+  "ai_generated": true
+ },
+ {
+  "id": "oculus",
+  "term": "オクルス",
+  "category": "建築",
+  "aliases": [
+   "オクルス"
+  ],
+  "desc": "ドームの頂部などに開けられた円い開口部。",
+  "ai_generated": true
+ },
+ {
+  "id": "roman-concrete",
+  "term": "ローマン・コンクリート",
+  "category": "建築",
+  "aliases": [
+   "ローマン・コンクリート",
+   "コンクリート"
+  ],
+  "desc": "火山灰と石灰を使った古代ローマのコンクリート。大スパンのドームやヴォールトを可能にした。",
+  "ai_generated": true
+ },
+ {
+  "id": "muqarnas",
+  "term": "ムカルナス",
+  "category": "建築",
+  "aliases": [
+   "ムカルナス"
+  ],
+  "desc": "小さな曲面を段状に重ねた鍾乳石のような装飾。イスラーム建築の天井や入口を飾る。",
+  "ai_generated": true
+ },
+ {
+  "id": "iwan",
+  "term": "イーワーン",
+  "category": "建築",
+  "aliases": [
+   "イーワーン"
+  ],
+  "desc": "三方を壁で囲み、一方が中庭に大きく開いたアーチ状の空間。イランのモスク建築に多い。",
+  "ai_generated": true
+ },
+ {
+  "id": "minaret",
+  "term": "ミナレット",
+  "category": "建築",
+  "aliases": [
+   "ミナレット"
+  ],
+  "desc": "モスクに付属する塔。礼拝の呼びかけ（アザーン）を行う場所。",
+  "ai_generated": true
+ },
+ {
+  "id": "mihrab",
+  "term": "ミフラーブ",
+  "category": "建築",
+  "aliases": [
+   "ミフラーブ"
+  ],
+  "desc": "モスクの壁に設けられた壁龕で、メッカの方向（キブラ）を示す。",
+  "ai_generated": true
+ },
+ {
+  "id": "tilework",
+  "term": "施釉タイル",
+  "category": "技法",
+  "aliases": [
+   "施釉タイル",
+   "タイル・モザイク",
+   "タイル"
+  ],
+  "desc": "釉薬を掛けて焼いた装飾用のタイル。イスラーム建築では壁やドームを覆う。",
+  "ai_generated": true
+ },
+ {
+  "id": "pietra-dura",
+  "term": "ピエトラ・ドゥーラ",
+  "category": "技法",
+  "aliases": [
+   "ピエトラ・ドゥーラ",
+   "貴石象嵌"
+  ],
+  "desc": "大理石などに色石を嵌め込んで絵や文様を表す技法。タージ・マハルの花文様が有名。",
+  "ai_generated": true
+ },
+ {
+  "id": "stupa",
+  "term": "ストゥーパ（仏塔）",
+  "category": "建築",
+  "aliases": [
+   "ストゥーパ",
+   "仏塔"
+  ],
+  "desc": "仏陀の遺骨（仏舎利）を納める塔。インドの半球形から、東アジアでは多層の塔へと変化した。",
+  "ai_generated": true
+ },
+ {
+  "id": "torana",
+  "term": "トーラナ",
+  "category": "建築",
+  "aliases": [
+   "トーラナ",
+   "塔門"
+  ],
+  "desc": "ストゥーパの四方に立つ門。仏伝などの浮彫で飾られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "vimana",
+  "term": "ヴィマーナ",
+  "category": "建築",
+  "aliases": [
+   "ヴィマーナ"
+  ],
+  "desc": "南インドのヒンドゥー寺院で、本尊を祀る聖室の上にそびえる塔。",
+  "ai_generated": true
+ },
+ {
+  "id": "garan",
+  "term": "伽藍",
+  "category": "建築",
+  "aliases": [
+   "伽藍"
+  ],
+  "desc": "寺院の主要な建物の配置や集まり。金堂・塔・講堂などからなる。",
+  "ai_generated": true
+ },
+ {
+  "id": "shinden",
+  "term": "寝殿造",
+  "category": "建築",
+  "aliases": [
+   "寝殿造"
+  ],
+  "desc": "平安貴族の住宅様式。中央の寝殿と池のある庭を、渡り廊下でつながる建物が囲む。",
+  "ai_generated": true
+ },
+ {
+  "id": "shoin",
+  "term": "書院造",
+  "category": "建築",
+  "aliases": [
+   "書院造"
+  ],
+  "desc": "室町から江戸の武家住宅の様式。床の間・違い棚・畳敷きなど、現代の和室の原型。",
+  "ai_generated": true
+ },
+ {
+  "id": "sukiya",
+  "term": "数寄屋造",
+  "category": "建築",
+  "aliases": [
+   "数寄屋造",
+   "数寄屋"
+  ],
+  "desc": "茶室の美意識を取り入れた簡素で洗練された住宅様式。",
+  "ai_generated": true
+ },
+ {
+  "id": "tenshu",
+  "term": "天守",
+  "category": "建築",
+  "aliases": [
+   "天守",
+   "小天守",
+   "大天守"
+  ],
+  "desc": "日本の城の中心にそびえる多層の櫓。権威の象徴でもあった。",
+  "ai_generated": true
+ },
+ {
+  "id": "chigi",
+  "term": "千木・鰹木",
+  "category": "建築",
+  "aliases": [
+   "千木",
+   "鰹木"
+  ],
+  "desc": "神社の屋根の上で交差する木（千木）と、棟に並ぶ円柱形の木（鰹木）。",
+  "ai_generated": true
+ },
+ {
+  "id": "tokyo-bracket",
+  "term": "組物（斗栱）",
+  "category": "建築",
+  "aliases": [
+   "組物",
+   "斗栱"
+  ],
+  "desc": "柱の上で軒や屋根の重さを受ける、木材を組み合わせた構造。東アジアの木造建築の要。",
+  "ai_generated": true
+ },
+ {
+  "id": "jocho-style",
+  "term": "定朝様",
+  "category": "様式用語",
+  "aliases": [
+   "定朝様"
+  ],
+  "desc": "平安後期の仏師定朝が完成させた、穏やかで浅い彫りの和様の仏像様式。",
+  "ai_generated": true
+ },
+ {
+  "id": "taotie",
+  "term": "饕餮文",
+  "category": "様式用語",
+  "aliases": [
+   "饕餮文",
+   "饕餮"
+  ],
+  "desc": "殷周の青銅器に見られる、獣の顔を左右対称に表した文様。",
+  "ai_generated": true
+ },
+ {
+  "id": "literati",
+  "term": "文人画",
+  "category": "様式用語",
+  "aliases": [
+   "文人画",
+   "南画"
+  ],
+  "desc": "職業画家ではない教養人（文人）が、詩や書とともに心情を表す絵画。",
+  "ai_generated": true
+ },
+ {
+  "id": "kouros",
+  "term": "クーロス",
+  "category": "形式",
+  "aliases": [
+   "クーロス"
+  ],
+  "desc": "古代ギリシアのアルカイック期の若い男性の裸体立像。",
+  "ai_generated": true
+ },
+ {
+  "id": "ukiyo-e-term",
+  "term": "浮世絵",
+  "category": "様式用語",
+  "aliases": [
+   "浮世絵"
+  ],
+  "desc": "江戸時代の町人文化の中で生まれた、美人・役者・名所などを描く版画や肉筆画。",
+  "ai_generated": true
+ }
+]

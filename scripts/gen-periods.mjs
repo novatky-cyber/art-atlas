@@ -1,6 +1,7 @@
 // periods.json の元定義。編集後 `node scripts/gen-periods.mjs` で data/periods.json を再生成。
-import { writeFileSync } from 'node:fs';
-const P = (scheme, id, name_ja, name_en, start, end) => ({ id: `${scheme}:${id}`, scheme, name_ja, name_en, start, end });
+import { readFileSync, writeFileSync } from 'node:fs';
+const BG = JSON.parse(readFileSync(new URL('./period-backgrounds.json', import.meta.url), 'utf8'));
+const P = (scheme, id, name_ja, name_en, start, end) => ({ id: `${scheme}:${id}`, scheme, name_ja, name_en, start, end, background: BG[`${scheme}:${id}`] ?? null, ai_generated: true });
 const periods = [
   // world: 全地域共通の大きな時代区分（探索フィルタ・図鑑・同時代比較で使用）
   P('world', 'prehistory', '先史〜古代前期', 'Prehistory–Early Antiquity', -40000, -1001),

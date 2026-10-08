@@ -1,0 +1,392 @@
+{
+ "cities": [
+  {
+   "id": "new-york",
+   "name_ja": "ニューヨーク",
+   "country_ja": "アメリカ合衆国"
+  },
+  {
+   "id": "chicago",
+   "name_ja": "シカゴ",
+   "country_ja": "アメリカ合衆国"
+  },
+  {
+   "id": "cleveland",
+   "name_ja": "クリーブランド",
+   "country_ja": "アメリカ合衆国"
+  },
+  {
+   "id": "washington",
+   "name_ja": "ワシントンD.C.",
+   "country_ja": "アメリカ合衆国"
+  },
+  {
+   "id": "paris",
+   "name_ja": "パリ",
+   "country_ja": "フランス"
+  },
+  {
+   "id": "london",
+   "name_ja": "ロンドン",
+   "country_ja": "イギリス"
+  },
+  {
+   "id": "amsterdam",
+   "name_ja": "アムステルダム",
+   "country_ja": "オランダ"
+  },
+  {
+   "id": "madrid",
+   "name_ja": "マドリード",
+   "country_ja": "スペイン"
+  },
+  {
+   "id": "florence",
+   "name_ja": "フィレンツェ",
+   "country_ja": "イタリア"
+  },
+  {
+   "id": "rome",
+   "name_ja": "ローマ",
+   "country_ja": "イタリア"
+  },
+  {
+   "id": "vienna",
+   "name_ja": "ウィーン",
+   "country_ja": "オーストリア"
+  },
+  {
+   "id": "berlin",
+   "name_ja": "ベルリン",
+   "country_ja": "ドイツ"
+  },
+  {
+   "id": "athens",
+   "name_ja": "アテネ",
+   "country_ja": "ギリシア"
+  },
+  {
+   "id": "cairo",
+   "name_ja": "カイロ",
+   "country_ja": "エジプト"
+  },
+  {
+   "id": "istanbul",
+   "name_ja": "イスタンブール",
+   "country_ja": "トルコ"
+  },
+  {
+   "id": "tokyo",
+   "name_ja": "東京",
+   "country_ja": "日本"
+  },
+  {
+   "id": "kyoto",
+   "name_ja": "京都",
+   "country_ja": "日本"
+  },
+  {
+   "id": "nara",
+   "name_ja": "奈良",
+   "country_ja": "日本"
+  },
+  {
+   "id": "beijing",
+   "name_ja": "北京",
+   "country_ja": "中国"
+  },
+  {
+   "id": "taipei",
+   "name_ja": "台北",
+   "country_ja": "台湾"
+  },
+  {
+   "id": "seoul",
+   "name_ja": "ソウル",
+   "country_ja": "韓国"
+  },
+  {
+   "id": "delhi",
+   "name_ja": "デリー",
+   "country_ja": "インド"
+  }
+ ],
+ "museums": [
+  {
+   "id": "met",
+   "name_ja": "メトロポリタン美術館",
+   "name_en": "The Metropolitan Museum of Art",
+   "city": "new-york",
+   "match": [
+    "metropolitan museum"
+   ],
+   "url": "https://www.metmuseum.org/"
+  },
+  {
+   "id": "aic",
+   "name_ja": "シカゴ美術館",
+   "name_en": "The Art Institute of Chicago",
+   "city": "chicago",
+   "match": [
+    "art institute of chicago"
+   ],
+   "url": "https://www.artic.edu/"
+  },
+  {
+   "id": "cma",
+   "name_ja": "クリーブランド美術館",
+   "name_en": "The Cleveland Museum of Art",
+   "city": "cleveland",
+   "match": [
+    "cleveland museum of art"
+   ],
+   "url": "https://www.clevelandart.org/"
+  },
+  {
+   "id": "nga",
+   "name_ja": "ワシントン・ナショナル・ギャラリー",
+   "name_en": "National Gallery of Art",
+   "city": "washington",
+   "match": [
+    "national gallery of art"
+   ],
+   "url": "https://www.nga.gov/"
+  },
+  {
+   "id": "freer",
+   "name_ja": "スミソニアン国立アジア美術館",
+   "name_en": "National Museum of Asian Art",
+   "city": "washington",
+   "match": [
+    "freer",
+    "national museum of asian art"
+   ],
+   "url": "https://asia.si.edu/"
+  },
+  {
+   "id": "louvre",
+   "name_ja": "ルーヴル美術館",
+   "name_en": "Musée du Louvre",
+   "city": "paris",
+   "match": [
+    "louvre",
+    "ルーヴル"
+   ],
+   "url": "https://www.louvre.fr/"
+  },
+  {
+   "id": "orsay",
+   "name_ja": "オルセー美術館",
+   "name_en": "Musée d'Orsay",
+   "city": "paris",
+   "match": [
+    "orsay",
+    "オルセー"
+   ],
+   "url": "https://www.musee-orsay.fr/"
+  },
+  {
+   "id": "british-museum",
+   "name_ja": "大英博物館",
+   "name_en": "British Museum",
+   "city": "london",
+   "match": [
+    "british museum",
+    "大英博物館"
+   ],
+   "url": "https://www.britishmuseum.org/"
+  },
+  {
+   "id": "national-gallery-london",
+   "name_ja": "ナショナル・ギャラリー（ロンドン）",
+   "name_en": "National Gallery, London",
+   "city": "london",
+   "match": [
+    "national gallery, london",
+    "ナショナル・ギャラリー"
+   ],
+   "url": "https://www.nationalgallery.org.uk/"
+  },
+  {
+   "id": "va",
+   "name_ja": "ヴィクトリア＆アルバート博物館",
+   "name_en": "Victoria and Albert Museum",
+   "city": "london",
+   "match": [
+    "victoria and albert"
+   ],
+   "url": "https://www.vam.ac.uk/"
+  },
+  {
+   "id": "rijksmuseum",
+   "name_ja": "アムステルダム国立美術館",
+   "name_en": "Rijksmuseum",
+   "city": "amsterdam",
+   "match": [
+    "rijksmuseum"
+   ],
+   "url": "https://www.rijksmuseum.nl/"
+  },
+  {
+   "id": "prado",
+   "name_ja": "プラド美術館",
+   "name_en": "Museo del Prado",
+   "city": "madrid",
+   "match": [
+    "prado",
+    "プラド"
+   ],
+   "url": "https://www.museodelprado.es/"
+  },
+  {
+   "id": "uffizi",
+   "name_ja": "ウフィツィ美術館",
+   "name_en": "Uffizi Gallery",
+   "city": "florence",
+   "match": [
+    "uffizi",
+    "ウフィツィ"
+   ],
+   "url": "https://www.uffizi.it/"
+  },
+  {
+   "id": "vatican",
+   "name_ja": "ヴァチカン美術館",
+   "name_en": "Vatican Museums",
+   "city": "rome",
+   "match": [
+    "vatican",
+    "ヴァチカン",
+    "バチカン"
+   ],
+   "url": "https://www.museivaticani.va/"
+  },
+  {
+   "id": "khm",
+   "name_ja": "ウィーン美術史美術館",
+   "name_en": "Kunsthistorisches Museum",
+   "city": "vienna",
+   "match": [
+    "kunsthistorisches"
+   ],
+   "url": "https://www.khm.at/"
+  },
+  {
+   "id": "pergamon",
+   "name_ja": "ペルガモン博物館",
+   "name_en": "Pergamonmuseum",
+   "city": "berlin",
+   "match": [
+    "pergamon"
+   ],
+   "url": "https://www.smb.museum/"
+  },
+  {
+   "id": "namuseum-athens",
+   "name_ja": "アテネ国立考古学博物館",
+   "name_en": "National Archaeological Museum, Athens",
+   "city": "athens",
+   "match": [
+    "national archaeological museum",
+    "アテネ国立考古学博物館"
+   ],
+   "url": "https://www.namuseum.gr/"
+  },
+  {
+   "id": "egyptian-museum",
+   "name_ja": "エジプト考古学博物館",
+   "name_en": "Egyptian Museum",
+   "city": "cairo",
+   "match": [
+    "egyptian museum"
+   ],
+   "url": null
+  },
+  {
+   "id": "topkapi",
+   "name_ja": "トプカプ宮殿博物館",
+   "name_en": "Topkapı Palace Museum",
+   "city": "istanbul",
+   "match": [
+    "topkapi",
+    "トプカプ"
+   ],
+   "url": null
+  },
+  {
+   "id": "tnm",
+   "name_ja": "東京国立博物館",
+   "name_en": "Tokyo National Museum",
+   "city": "tokyo",
+   "match": [
+    "tokyo national museum",
+    "東京国立博物館"
+   ],
+   "url": "https://www.tnm.jp/"
+  },
+  {
+   "id": "kyohaku",
+   "name_ja": "京都国立博物館",
+   "name_en": "Kyoto National Museum",
+   "city": "kyoto",
+   "match": [
+    "kyoto national museum",
+    "京都国立博物館"
+   ],
+   "url": "https://www.kyohaku.go.jp/"
+  },
+  {
+   "id": "narahaku",
+   "name_ja": "奈良国立博物館",
+   "name_en": "Nara National Museum",
+   "city": "nara",
+   "match": [
+    "nara national museum",
+    "奈良国立博物館"
+   ],
+   "url": "https://www.narahaku.go.jp/"
+  },
+  {
+   "id": "palace-museum",
+   "name_ja": "故宮博物院（北京）",
+   "name_en": "Palace Museum",
+   "city": "beijing",
+   "match": [
+    "palace museum",
+    "故宮博物院"
+   ],
+   "url": "https://en.dpm.org.cn/"
+  },
+  {
+   "id": "npm",
+   "name_ja": "国立故宮博物院（台北）",
+   "name_en": "National Palace Museum",
+   "city": "taipei",
+   "match": [
+    "national palace museum",
+    "國立故宮博物院"
+   ],
+   "url": "https://www.npm.gov.tw/"
+  },
+  {
+   "id": "nmk",
+   "name_ja": "韓国国立中央博物館",
+   "name_en": "National Museum of Korea",
+   "city": "seoul",
+   "match": [
+    "national museum of korea"
+   ],
+   "url": "https://www.museum.go.kr/"
+  },
+  {
+   "id": "nmi",
+   "name_ja": "インド国立博物館",
+   "name_en": "National Museum, New Delhi",
+   "city": "delhi",
+   "match": [
+    "national museum, new delhi"
+   ],
+   "url": "https://nationalmuseumindia.gov.in/"
+  }
+ ]
+}

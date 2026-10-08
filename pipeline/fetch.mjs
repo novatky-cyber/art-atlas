@@ -5,11 +5,12 @@
 //   node pipeline/fetch.mjs --refresh    全シードを再取得
 //   node pipeline/fetch.mjs --only=id1,id2
 //   node pipeline/fetch.mjs --batch=batch-002
+//   node pipeline/fetch.mjs --curate-only   通信せず、取得済みデータにシードの分類・解説だけを反映
 //
 // 事実（作品名・作家・年代・所蔵）と画像 URL・ライセンスは取得データのみを使う。
 // 見どころ・豆知識はシードの ai ブロック（ai_generated: true）から付与する。
 import { readFileSync, writeFileSync, readdirSync, existsSync } from 'node:fs';
-import { SOURCES, MUSEUMS } from './lib/sources.mjs';
+import { SOURCES, MUSEUMS, plate } from './lib/sources.mjs';
 import { matches } from './lib/match.mjs';
 import { stats } from './lib/http.mjs';
 import { assignPeriod } from './lib/periods.mjs';
@@ -26,7 +27,7 @@ const periods = read('data/periods.json');
 const regionById = Object.fromEntries(regions.map((r) => [r.id, r]));
 const styleById = Object.fromEntries(read('data/styles.json').map((s) => [s.id, s]));
 
-const seedFiles = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => /^batch-\d+\.json$/.test(f)).sort();
+const seedFiles = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => f.endsWith('.json')).sort();
 const seeds = seedFiles.flatMap((f) => read(`pipeline/seeds/${f}`).map((s) => ({ ...s, batch: f.replace('.json', '') })));
 const existing = existsSync(new URL('data/artworks.json', root)) ? read('data/artworks.json') : [];
 const prev = Object.fromEntries(existing.map((a) => [a.id, a]));
@@ -54,6 +55,7 @@ async function accept(c, match) {
 }
 
 async function resolve(seed) {
+  if (seed.source === 'plate') return plate.candidateFromSeed(seed);
   for (const p of plans(seed)) {
     const src = SOURCES[p.source];
     if (!src) continue;
@@ -92,6 +94,7 @@ function compose(seed, fetched) {
     region: seed.region,
     region_group: region.group,
     style: seed.style,
+    themes: seed.themes ?? [],
     period,
     era,
     year,
@@ -119,6 +122,7 @@ function refreshCurated(seed, a) {
     region: seed.region,
     region_group: region.group,
     style: seed.style,
+    themes: seed.themes ?? [],
     period,
     era,
     title_ja: a.title_ja_source === 'wikidata' ? a.title_ja : seed.ai?.title_ja || a.title_ja,
@@ -133,7 +137,8 @@ for (const seed of seeds) {
   const old = prev[seed.id];
   const force = (args.refresh && wants(seed)) || only?.has(seed.id);
   if (old && !force) { out.push(refreshCurated(seed, old)); continue; }
-  if (!old && !wants(seed)) continue;
+  if (!old && (!wants(seed) || args['curate-only'])) continue;
+  if (args['curate-only']) { out.push(refreshCurated(seed, old)); continue; }
   process.stdout.write(`- ${seed.id} … `);
   const c = await resolve(seed);
   if (c) {
@@ -158,8 +163,8 @@ for (const a of out) {
   else seen.set(k, a.id);
 }
 
-if (!args.dry) {
-  writeFileSync(new URL('data/artworks.json', root), JSON.stringify(out, null, 1) + '\n');
+if (!args.dry) writeFileSync(new URL('data/artworks.json', root), JSON.stringify(out, null, 1) + '\n');
+if (!args.dry && !args['curate-only']) {
   writeFileSync(new URL('data/fetch-report.json', root), JSON.stringify({
     generated_at: new Date().toISOString(),
     seeds: seeds.length,

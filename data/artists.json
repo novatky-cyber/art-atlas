@@ -1,0 +1,731 @@
+[
+ {
+  "id": "bruegel",
+  "name_ja": "ピーテル・ブリューゲル（父）",
+  "name_en": "Pieter Bruegel the Elder",
+  "match": [
+   "bruegel"
+  ],
+  "life": "c.1525–1569",
+  "region": "europe-northwest",
+  "styles": [
+   "northern-renaissance"
+  ],
+  "bio": "農民の暮らしや諺、季節の風景を、ユーモアと深い観察眼で描いたフランドルの画家。",
+  "ai_generated": true
+ },
+ {
+  "id": "vermeer",
+  "name_ja": "ヨハネス・フェルメール",
+  "name_en": "Johannes Vermeer",
+  "match": [
+   "vermeer"
+  ],
+  "life": "1632–1675",
+  "region": "europe-northwest",
+  "styles": [
+   "dutch-golden-age"
+  ],
+  "bio": "デルフトで窓辺の光に満ちた室内画を描いた。現存作品は30数点と少ない。",
+  "ai_generated": true
+ },
+ {
+  "id": "rembrandt",
+  "name_ja": "レンブラント・ファン・レイン",
+  "name_en": "Rembrandt van Rijn",
+  "match": [
+   "rembrandt"
+  ],
+  "life": "1606–1669",
+  "region": "europe-northwest",
+  "styles": [
+   "dutch-golden-age"
+  ],
+  "bio": "光と闇のドラマ、深い人間洞察で知られるオランダ最大の画家。自画像を生涯描き続けた。",
+  "ai_generated": true
+ },
+ {
+  "id": "van-gogh",
+  "name_ja": "フィンセント・ファン・ゴッホ",
+  "name_en": "Vincent van Gogh",
+  "match": [
+   "gogh"
+  ],
+  "life": "1853–1890",
+  "region": "europe-northwest",
+  "styles": [
+   "post-impressionism"
+  ],
+  "bio": "オランダ出身。うねる筆致と強烈な色彩で、わずか10年の画業に約2000点を残した。",
+  "ai_generated": true
+ },
+ {
+  "id": "david",
+  "name_ja": "ジャック＝ルイ・ダヴィッド",
+  "name_en": "Jacques-Louis David",
+  "match": [
+   "jacques louis david"
+  ],
+  "life": "1748–1825",
+  "region": "europe-northwest",
+  "styles": [
+   "neoclassicism"
+  ],
+  "bio": "新古典主義の旗手。革命期には政治にも関与し、のちにナポレオンの首席画家となった。",
+  "ai_generated": true
+ },
+ {
+  "id": "el-greco",
+  "name_ja": "エル・グレコ",
+  "name_en": "El Greco",
+  "match": [
+   "greco",
+   "theotokopoulos"
+  ],
+  "life": "1541–1614",
+  "region": "europe-south",
+  "styles": [
+   "mannerism"
+  ],
+  "bio": "クレタ島生まれ。ヴェネツィア、ローマを経てトレドで活躍し、引き伸ばされた人体と幻視的な色彩を特徴とした。",
+  "ai_generated": true
+ },
+ {
+  "id": "caravaggio",
+  "name_ja": "カラヴァッジョ",
+  "name_en": "Caravaggio",
+  "match": [
+   "caravaggio"
+  ],
+  "life": "1571–1610",
+  "region": "europe-south",
+  "styles": [
+   "baroque"
+  ],
+  "bio": "強烈な明暗と生身の人間の写実でバロック絵画を切り開いた。激しい気性で殺人事件も起こした。",
+  "ai_generated": true
+ },
+ {
+  "id": "velazquez",
+  "name_ja": "ディエゴ・ベラスケス",
+  "name_en": "Diego Velázquez",
+  "match": [
+   "velazquez"
+  ],
+  "life": "1599–1660",
+  "region": "europe-south",
+  "styles": [
+   "baroque"
+  ],
+  "bio": "スペイン国王フェリペ4世の宮廷画家。『ラス・メニーナス』で知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "van-eyck",
+  "name_ja": "ヤン・ファン・エイク",
+  "name_en": "Jan van Eyck",
+  "match": [
+   "eyck"
+  ],
+  "life": "c.1390–1441",
+  "region": "europe-northwest",
+  "styles": [
+   "early-netherlandish"
+  ],
+  "bio": "油彩技法を極め、宝石や布の質感まで再現した初期ネーデルラント絵画の巨匠。",
+  "ai_generated": true
+ },
+ {
+  "id": "campin",
+  "name_ja": "ロベール・カンパン",
+  "name_en": "Robert Campin",
+  "match": [
+   "campin"
+  ],
+  "life": "c.1375–1444",
+  "region": "europe-northwest",
+  "styles": [
+   "early-netherlandish"
+  ],
+  "bio": "トゥルネーで工房を営み、写実的な宗教画の先駆者となった。",
+  "ai_generated": true
+ },
+ {
+  "id": "duccio",
+  "name_ja": "ドゥッチョ",
+  "name_en": "Duccio di Buoninsegna",
+  "match": [
+   "duccio"
+  ],
+  "life": "c.1255–1319",
+  "region": "europe-south",
+  "styles": [
+   "trecento"
+  ],
+  "bio": "シエナ派の祖。ビザンティン様式に人間的な情感を吹き込んだ。",
+  "ai_generated": true
+ },
+ {
+  "id": "botticelli",
+  "name_ja": "サンドロ・ボッティチェリ",
+  "name_en": "Sandro Botticelli",
+  "match": [
+   "botticelli"
+  ],
+  "life": "c.1445–1510",
+  "region": "europe-south",
+  "styles": [
+   "early-renaissance"
+  ],
+  "bio": "メディチ家の庇護の下で『ヴィーナスの誕生』などを描いたフィレンツェの画家。",
+  "ai_generated": true
+ },
+ {
+  "id": "raphael",
+  "name_ja": "ラファエロ・サンツィオ",
+  "name_en": "Raphael",
+  "match": [
+   "raphael",
+   "raffaello"
+  ],
+  "life": "1483–1520",
+  "region": "europe-south",
+  "styles": [
+   "high-renaissance"
+  ],
+  "bio": "調和と優美の画家。ヴァチカン宮殿の壁画で知られ、37歳で早世した。",
+  "ai_generated": true
+ },
+ {
+  "id": "titian",
+  "name_ja": "ティツィアーノ・ヴェチェッリオ",
+  "name_en": "Titian",
+  "match": [
+   "titian",
+   "tiziano"
+  ],
+  "life": "c.1488–1576",
+  "region": "europe-south",
+  "styles": [
+   "venetian-renaissance"
+  ],
+  "bio": "ヴェネツィア派最大の画家。色彩の魔術師と呼ばれ、欧州の王侯に重用された。",
+  "ai_generated": true
+ },
+ {
+  "id": "durer",
+  "name_ja": "アルブレヒト・デューラー",
+  "name_en": "Albrecht Dürer",
+  "match": [
+   "durer"
+  ],
+  "life": "1471–1528",
+  "region": "europe-central",
+  "styles": [
+   "northern-renaissance"
+  ],
+  "bio": "ニュルンベルクの画家・版画家。イタリアの理論を北方に伝え、版画で国際的名声を得た。",
+  "ai_generated": true
+ },
+ {
+  "id": "watteau",
+  "name_ja": "アントワーヌ・ヴァトー",
+  "name_en": "Antoine Watteau",
+  "match": [
+   "watteau"
+  ],
+  "life": "1684–1721",
+  "region": "europe-northwest",
+  "styles": [
+   "rococo"
+  ],
+  "bio": "雅宴画（フェート・ギャラント）を創始し、ロココ絵画の基調を作った。",
+  "ai_generated": true
+ },
+ {
+  "id": "fragonard",
+  "name_ja": "ジャン＝オノレ・フラゴナール",
+  "name_en": "Jean-Honoré Fragonard",
+  "match": [
+   "fragonard"
+  ],
+  "life": "1732–1806",
+  "region": "europe-northwest",
+  "styles": [
+   "rococo"
+  ],
+  "bio": "軽快な筆致で恋愛の情景を描いたロココ最後の巨匠。",
+  "ai_generated": true
+ },
+ {
+  "id": "delacroix",
+  "name_ja": "ウジェーヌ・ドラクロワ",
+  "name_en": "Eugène Delacroix",
+  "match": [
+   "delacroix"
+  ],
+  "life": "1798–1863",
+  "region": "europe-northwest",
+  "styles": [
+   "romanticism"
+  ],
+  "bio": "フランス・ロマン主義の旗手。『民衆を導く自由の女神』で知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "courbet",
+  "name_ja": "ギュスターヴ・クールベ",
+  "name_en": "Gustave Courbet",
+  "match": [
+   "courbet"
+  ],
+  "life": "1819–1877",
+  "region": "europe-northwest",
+  "styles": [
+   "realism"
+  ],
+  "bio": "レアリスムを掲げ、地方の現実を大画面に描いてアカデミーに挑んだ。",
+  "ai_generated": true
+ },
+ {
+  "id": "millet",
+  "name_ja": "ジャン＝フランソワ・ミレー",
+  "name_en": "Jean-François Millet",
+  "match": [
+   "millet"
+  ],
+  "life": "1814–1875",
+  "region": "europe-northwest",
+  "styles": [
+   "barbizon"
+  ],
+  "bio": "バルビゾン村で農民の労働を尊厳をもって描いた。『落穂拾い』で知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "monet",
+  "name_ja": "クロード・モネ",
+  "name_en": "Claude Monet",
+  "match": [
+   "monet"
+  ],
+  "life": "1840–1926",
+  "region": "europe-northwest",
+  "styles": [
+   "impressionism"
+  ],
+  "bio": "印象派の中心人物。光の移ろいを追って積み藁や睡蓮の連作を描いた。",
+  "ai_generated": true
+ },
+ {
+  "id": "degas",
+  "name_ja": "エドガー・ドガ",
+  "name_en": "Edgar Degas",
+  "match": [
+   "degas"
+  ],
+  "life": "1834–1917",
+  "region": "europe-northwest",
+  "styles": [
+   "impressionism"
+  ],
+  "bio": "踊り子や競馬、都市生活を、写真のような構図で描いた。彫刻も手がけた。",
+  "ai_generated": true
+ },
+ {
+  "id": "renoir",
+  "name_ja": "ピエール＝オーギュスト・ルノワール",
+  "name_en": "Pierre-Auguste Renoir",
+  "match": [
+   "renoir"
+  ],
+  "life": "1841–1919",
+  "region": "europe-northwest",
+  "styles": [
+   "impressionism"
+  ],
+  "bio": "幸福な人々と柔らかな光を描き続けた印象派の画家。",
+  "ai_generated": true
+ },
+ {
+  "id": "seurat",
+  "name_ja": "ジョルジュ・スーラ",
+  "name_en": "Georges Seurat",
+  "match": [
+   "seurat"
+  ],
+  "life": "1859–1891",
+  "region": "europe-northwest",
+  "styles": [
+   "neo-impressionism"
+  ],
+  "bio": "色彩理論に基づく点描技法を確立し、31歳で早世した。",
+  "ai_generated": true
+ },
+ {
+  "id": "caillebotte",
+  "name_ja": "ギュスターヴ・カイユボット",
+  "name_en": "Gustave Caillebotte",
+  "match": [
+   "caillebotte"
+  ],
+  "life": "1848–1894",
+  "region": "europe-northwest",
+  "styles": [
+   "impressionism"
+  ],
+  "bio": "近代都市パリを描いた画家で、印象派の仲間の作品を買い支えた収集家でもある。",
+  "ai_generated": true
+ },
+ {
+  "id": "cezanne",
+  "name_ja": "ポール・セザンヌ",
+  "name_en": "Paul Cézanne",
+  "match": [
+   "cezanne"
+  ],
+  "life": "1839–1906",
+  "region": "europe-northwest",
+  "styles": [
+   "post-impressionism"
+  ],
+  "bio": "自然を円筒・球・円錐で捉えよと説き、近代絵画の父と呼ばれる。",
+  "ai_generated": true
+ },
+ {
+  "id": "gauguin",
+  "name_ja": "ポール・ゴーギャン",
+  "name_en": "Paul Gauguin",
+  "match": [
+   "gauguin"
+  ],
+  "life": "1848–1903",
+  "region": "europe-northwest",
+  "styles": [
+   "post-impressionism"
+  ],
+  "bio": "株式仲買人から画家に転じ、ブルターニュとタヒチで平面的で象徴的な絵画を描いた。",
+  "ai_generated": true
+ },
+ {
+  "id": "toulouse-lautrec",
+  "name_ja": "アンリ・ド・トゥールーズ＝ロートレック",
+  "name_en": "Henri de Toulouse-Lautrec",
+  "match": [
+   "lautrec"
+  ],
+  "life": "1864–1901",
+  "region": "europe-northwest",
+  "styles": [
+   "post-impressionism"
+  ],
+  "bio": "モンマルトルの夜の世界を描き、ポスター芸術を革新した。",
+  "ai_generated": true
+ },
+ {
+  "id": "turner",
+  "name_ja": "J.M.W.ターナー",
+  "name_en": "J. M. W. Turner",
+  "match": [
+   "turner"
+  ],
+  "life": "1775–1851",
+  "region": "europe-northwest",
+  "styles": [
+   "romanticism"
+  ],
+  "bio": "光と大気を描いたイギリスの風景画家。晩年の作品は抽象に近づいた。",
+  "ai_generated": true
+ },
+ {
+  "id": "cole",
+  "name_ja": "トマス・コール",
+  "name_en": "Thomas Cole",
+  "match": [
+   "thomas cole"
+  ],
+  "life": "1801–1848",
+  "region": "north-america",
+  "styles": [
+   "hudson-river-school"
+  ],
+  "bio": "ハドソン・リヴァー派の創始者。アメリカの原生自然を崇高に描いた。",
+  "ai_generated": true
+ },
+ {
+  "id": "homer",
+  "name_ja": "ウィンスロー・ホーマー",
+  "name_en": "Winslow Homer",
+  "match": [
+   "winslow homer"
+  ],
+  "life": "1836–1910",
+  "region": "north-america",
+  "styles": [
+   "american-realism"
+  ],
+  "bio": "南北戦争の従軍画家から出発し、海と人間の対峙を描いたアメリカの画家。",
+  "ai_generated": true
+ },
+ {
+  "id": "klimt",
+  "name_ja": "グスタフ・クリムト",
+  "name_en": "Gustav Klimt",
+  "match": [
+   "klimt"
+  ],
+  "life": "1862–1918",
+  "region": "europe-central",
+  "styles": [
+   "vienna-secession"
+  ],
+  "bio": "ウィーン分離派の初代会長。金箔を多用した『接吻』で知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "canova",
+  "name_ja": "アントニオ・カノーヴァ",
+  "name_en": "Antonio Canova",
+  "match": [
+   "canova"
+  ],
+  "life": "1757–1822",
+  "region": "europe-south",
+  "styles": [
+   "neoclassicism"
+  ],
+  "bio": "新古典主義を代表する彫刻家。滑らかな大理石の肌の表現で名高い。",
+  "ai_generated": true
+ },
+ {
+  "id": "gerome",
+  "name_ja": "ジャン＝レオン・ジェローム",
+  "name_en": "Jean-Léon Gérôme",
+  "match": [
+   "gerome"
+  ],
+  "life": "1824–1904",
+  "region": "europe-northwest",
+  "styles": [
+   "academic-art"
+  ],
+  "bio": "アカデミスムの重鎮。歴史画や東方趣味の作品、彫刻を手がけた。",
+  "ai_generated": true
+ },
+ {
+  "id": "palladio",
+  "name_ja": "アンドレア・パッラーディオ",
+  "name_en": "Andrea Palladio",
+  "match": [
+   "palladio",
+   "パッラーディオ",
+   "パラディオ"
+  ],
+  "life": "1508–1580",
+  "region": "europe-south",
+  "styles": [
+   "high-renaissance"
+  ],
+  "bio": "ヴェネト地方で古代ローマに学んだ別荘や聖堂を設計し、『建築四書』を著した。",
+  "ai_generated": true
+ },
+ {
+  "id": "gaudi",
+  "name_ja": "アントニ・ガウディ",
+  "name_en": "Antoni Gaudí",
+  "match": [
+   "gaudi",
+   "ガウディ"
+  ],
+  "life": "1852–1926",
+  "region": "europe-south",
+  "styles": [
+   "art-nouveau"
+  ],
+  "bio": "バルセロナで自然の形に学んだ独創的な建築を生み出したモデルニスモの建築家。",
+  "ai_generated": true
+ },
+ {
+  "id": "sinan",
+  "name_ja": "ミマール・スィナン",
+  "name_en": "Mimar Sinan",
+  "match": [
+   "sinan",
+   "スィナン",
+   "シナン"
+  ],
+  "life": "c.1490–1588",
+  "region": "arab-ottoman",
+  "styles": [
+   "ottoman"
+  ],
+  "bio": "オスマン帝国の宮廷建築家。スレイマニエ・モスクなど数多くのモスクを設計した。",
+  "ai_generated": true
+ },
+ {
+  "id": "hokusai",
+  "name_ja": "葛飾北斎",
+  "name_en": "Katsushika Hokusai",
+  "match": [
+   "hokusai"
+  ],
+  "life": "1760–1849",
+  "region": "japan",
+  "styles": [
+   "ukiyo-e"
+  ],
+  "bio": "90歳近くまで描き続けた浮世絵師。風景版画『冨嶽三十六景』や『北斎漫画』で世界的に知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "hiroshige",
+  "name_ja": "歌川広重",
+  "name_en": "Utagawa Hiroshige",
+  "match": [
+   "hiroshige"
+  ],
+  "life": "1797–1858",
+  "region": "japan",
+  "styles": [
+   "ukiyo-e"
+  ],
+  "bio": "『東海道五十三次』『名所江戸百景』など、情緒豊かな風景版画で人気を博した。",
+  "ai_generated": true
+ },
+ {
+  "id": "sharaku",
+  "name_ja": "東洲斎写楽",
+  "name_en": "Tōshūsai Sharaku",
+  "match": [
+   "sharaku"
+  ],
+  "life": "活動 1794–1795",
+  "region": "japan",
+  "styles": [
+   "ukiyo-e"
+  ],
+  "bio": "約10か月で役者絵を中心に約140点を残して姿を消した謎の絵師。",
+  "ai_generated": true
+ },
+ {
+  "id": "korin",
+  "name_ja": "尾形光琳",
+  "name_en": "Ogata Kōrin",
+  "match": [
+   "korin"
+  ],
+  "life": "1658–1716",
+  "region": "japan",
+  "styles": [
+   "rinpa"
+  ],
+  "bio": "京都の呉服商に生まれ、宗達に学んで琳派の装飾様式を大成した。",
+  "ai_generated": true
+ },
+ {
+  "id": "kano-sansetsu",
+  "name_ja": "狩野山雪",
+  "name_en": "Kanō Sansetsu",
+  "match": [
+   "sansetsu"
+  ],
+  "life": "1590–1651",
+  "region": "japan",
+  "styles": [
+   "kano-school"
+  ],
+  "bio": "京狩野2代目。理知的で奇抜な構成の障壁画を描いた。",
+  "ai_generated": true
+ },
+ {
+  "id": "guo-xi",
+  "name_ja": "郭熙",
+  "name_en": "Guo Xi",
+  "match": [
+   "guo xi"
+  ],
+  "life": "c.1000–c.1090",
+  "region": "china",
+  "styles": [
+   "northern-song-landscape"
+  ],
+  "bio": "北宋の宮廷画家。画論『林泉高致』で三遠法を説いた。",
+  "ai_generated": true
+ },
+ {
+  "id": "huizong",
+  "name_ja": "徽宗",
+  "name_en": "Emperor Huizong",
+  "match": [
+   "huizong"
+  ],
+  "life": "1082–1135",
+  "region": "china",
+  "styles": [
+   "song-academy"
+  ],
+  "bio": "北宋の皇帝。書画に優れ、宮廷画院を整備した。",
+  "ai_generated": true
+ },
+ {
+  "id": "qian-xuan",
+  "name_ja": "銭選",
+  "name_en": "Qian Xuan",
+  "match": [
+   "qian xuan"
+  ],
+  "life": "c.1235–after 1301",
+  "region": "china",
+  "styles": [
+   "yuan-literati"
+  ],
+  "bio": "宋末元初の遺民画家。古風な青緑山水と花鳥で知られる。",
+  "ai_generated": true
+ },
+ {
+  "id": "zhao-mengfu",
+  "name_ja": "趙孟頫",
+  "name_en": "Zhao Mengfu",
+  "match": [
+   "zhao mengfu"
+  ],
+  "life": "1254–1322",
+  "region": "china",
+  "styles": [
+   "yuan-literati"
+  ],
+  "bio": "宋の皇族出身ながら元に仕えた書画家。文人画の理論を確立した。",
+  "ai_generated": true
+ },
+ {
+  "id": "han-gan",
+  "name_ja": "韓幹",
+  "name_en": "Han Gan",
+  "match": [
+   "han gan"
+  ],
+  "life": "活動 c.742–756",
+  "region": "china",
+  "styles": [
+   "tang"
+  ],
+  "bio": "唐の玄宗の宮廷で馬を描いた名手。",
+  "ai_generated": true
+ },
+ {
+  "id": "bada-shanren",
+  "name_ja": "八大山人（朱耷）",
+  "name_en": "Bada Shanren (Zhu Da)",
+  "match": [
+   "bada shanren",
+   "zhu da"
+  ],
+  "life": "1626–1705",
+  "region": "china",
+  "styles": [
+   "qing-individualists"
+  ],
+  "bio": "明の皇族の末裔。奇抜で簡潔な水墨の花鳥で知られる。",
+  "ai_generated": true
+ }
+]

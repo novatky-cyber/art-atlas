@@ -3,3 +3,5 @@ dist
 public/data
 *.log
 .DS_Store
+
+nightly-summary.json

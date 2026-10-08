@@ -1,8 +1,12 @@
 import { useEffect, useState } from 'react';
 
 // ハッシュ方式の最小ルーター（GitHub Pages でリロードしても 404 にならない）
-export function useRoute(): string[] {
-  const parse = () => (location.hash.replace(/^#\/?/, '').split('?')[0] || '').split('/').filter(Boolean).map(decodeURIComponent);
+const parse = () => {
+  const [path, query = ''] = location.hash.replace(/^#\/?/, '').split('?');
+  return { parts: path.split('/').filter(Boolean).map(decodeURIComponent), query: new URLSearchParams(query) };
+};
+
+export function useRoute() {
   const [route, setRoute] = useState(parse);
   useEffect(() => {
     const on = () => {
@@ -16,6 +20,6 @@ export function useRoute(): string[] {
 }
 
 export const href = (...parts: string[]) => '#/' + parts.map(encodeURIComponent).join('/');
-export const go = (...parts: string[]) => {
-  location.hash = href(...parts);
+export const go = (path: string) => {
+  location.hash = path.startsWith('#') ? path : '#/' + path;
 };

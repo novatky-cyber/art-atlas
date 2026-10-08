@@ -113,6 +113,15 @@ export const aic = {
     const r = await getJson(`${AIC}/artworks/${enc(id)}?fields=${AIC_FIELDS}`);
     return aicCandidate(r?.data);
   },
+  /** 代表作（is_boosted）かつパブリックドメインの作品をまとめて取得（夜間の自動追加用） */
+  async pool(offset = 0, limit = 100) {
+    const params = new URLSearchParams({ limit: String(limit), from: String(offset), fields: AIC_FIELDS });
+    params.set('query[bool][must][0][term][is_public_domain]', 'true');
+    params.set('query[bool][must][1][term][is_boosted]', 'true');
+    params.set('query[bool][must][2][exists][field]', 'image_id');
+    const r = await getJson(`${AIC}/artworks/search?${params}`);
+    return (r?.data ?? []).map(aicCandidate).filter(Boolean);
+  },
   async *search(q, max = 25) {
     const r = await getJson(`${AIC}/artworks/search?q=${enc(q)}&limit=${max}&fields=${AIC_FIELDS}`);
     for (const o of r?.data ?? []) {
@@ -165,6 +174,11 @@ export const cleveland = {
   async byId(id) {
     const r = await getJson(`${CMA}/${enc(id)}`);
     return cmaCandidate(r?.data);
+  },
+  /** 館の代表作（highlight）かつ CC0 の作品をまとめて取得（夜間の自動追加用） */
+  async pool(offset = 0, limit = 100) {
+    const r = await getJson(`${CMA}/?highlight=1&cc0=1&has_image=1&limit=${limit}&skip=${offset}`);
+    return (r?.data ?? []).map(cmaCandidate).filter(Boolean);
   },
   async *search(q, max = 25) {
     const r = await getJson(`${CMA}/?q=${enc(q)}&has_image=1&cc0=1&limit=${max}`);
@@ -302,10 +316,11 @@ async function wdCandidate(e) {
     record: null,
     // record は ok 判定後に遅延生成（追加 API 呼び出しを節約）
     async build() {
-      const refIds = [...claimVals(e, 'P84'), ...claimVals(e, 'P131').slice(0, 1), ...claimVals(e, 'P17').slice(0, 1)].map((v) => v.id);
+      const refIds = [...claimVals(e, 'P84'), ...claimVals(e, 'P170'), ...claimVals(e, 'P195').slice(0, 1), ...claimVals(e, 'P131').slice(0, 1), ...claimVals(e, 'P17').slice(0, 1)].map((v) => v.id);
       const refs = await wdEntities([...new Set(refIds)]);
       const lbl = (id) => label(refs[id], 'ja') ?? label(refs[id], 'en');
-      const architects = claimVals(e, 'P84').map((v) => lbl(v.id)).filter(Boolean);
+      const architects = [...claimVals(e, 'P84'), ...claimVals(e, 'P170')].map((v) => lbl(v.id)).filter(Boolean);
+      const collection = claimVals(e, 'P195').slice(0, 1).map((v) => lbl(v.id)).filter(Boolean);
       const place = [claimVals(e, 'P131')[0], claimVals(e, 'P17')[0]].map((v) => v && lbl(v.id)).filter(Boolean);
       const thumb = await commonsImage(img, 500);
       const large = await commonsImage(img, 1920);
@@ -324,7 +339,7 @@ async function wdCandidate(e) {
           culture: null,
           medium: null,
           dimensions: null,
-          repository: place.join('、') || null,
+          repository: [...collection, ...place].join('、') || null,
           credit_line: null,
           object_url: `https://www.wikidata.org/wiki/${e.id}`,
         },
@@ -340,7 +355,8 @@ async function wdCandidate(e) {
       return true;
     },
   };
-  cand.ok = Boolean(img && hasCoord);
+  // 建築・遺跡は座標、美術品は所蔵（P195）を持つ項目だけを対象にする（小説や人物などを除外）
+  cand.ok = Boolean(img && (hasCoord || claimVals(e, 'P195').length));
   return cand;
 }
 export const wikidata = {
@@ -356,6 +372,40 @@ export const wikidata = {
       const c = await wdCandidate(ents[id]);
       if (c) yield c;
     }
+  },
+};
+
+// ---------------- 解説プレート（鑑賞者が撮影したキャプションの AI 読み取り） ----------------
+// オープンアクセスで見つからない作品用。公開画像は持たない（自分の写真は手帳内でのみ表示）。
+export const plate = {
+  candidateFromSeed(seed) {
+    const p = seed.plate ?? {};
+    return {
+      source: 'plate',
+      sourceId: seed.id,
+      title: p.title ?? '',
+      artist: p.artist ?? '',
+      all: '',
+      yearStart: p.year_start ?? null,
+      yearEnd: p.year_end ?? p.year_start ?? null,
+      ok: Boolean(p.title),
+      record: {
+        facts: {
+          title: p.title,
+          artist: p.artist ?? null,
+          artist_bio: null,
+          date: p.date ?? null,
+          culture: p.culture ?? null,
+          medium: p.technique ?? null,
+          dimensions: null,
+          repository: p.collection ?? null,
+          credit_line: null,
+          object_url: null,
+        },
+        image: null,
+        source: { name: '解説プレート（鑑賞者撮影）からの AI 読み取り', id: seed.id, api_url: '' },
+      },
+    };
   },
 };
 

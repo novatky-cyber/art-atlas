@@ -5,7 +5,9 @@
     "name_ja": "先史〜古代前期",
     "name_en": "Prehistory–Early Antiquity",
     "start": -40000,
-    "end": -1001
+    "end": -1001,
+    "background": "農耕と定住が始まり、エジプト・メソポタミア・インダス・黄河流域に最初の文明と王権が生まれた時代。巨大建造物と文字が現れる。",
+    "ai_generated": true
   },
   {
     "id": "world:antiquity",
@@ -13,7 +15,9 @@
     "name_ja": "古代",
     "name_en": "Antiquity",
     "start": -1000,
-    "end": 499
+    "end": 499,
+    "background": "ギリシア・ローマ、ペルシア、インドのマウリヤ・グプタ、中国の秦漢など大帝国が並び立ち、仏教・キリスト教が広がった時代。",
+    "ai_generated": true
   },
   {
     "id": "world:early-medieval",
@@ -21,7 +25,9 @@
     "name_ja": "中世前期",
     "name_en": "Early Middle Ages",
     "start": 500,
-    "end": 999
+    "end": 999,
+    "background": "ローマ崩壊後の欧州でキリスト教が社会の軸となり、西アジアではイスラームが興り、東では唐が国際的な文化を花開かせた。",
+    "ai_generated": true
   },
   {
     "id": "world:high-medieval",
@@ -29,7 +35,9 @@
     "name_ja": "中世後期",
     "name_en": "High & Late Middle Ages",
     "start": 1000,
-    "end": 1399
+    "end": 1399,
+    "background": "十字軍や交易路で東西が結ばれ、欧州ではゴシック大聖堂、中国では宋の文人文化、日本では武士の時代が始まった。",
+    "ai_generated": true
   },
   {
     "id": "world:early-modern-1",
@@ -37,7 +45,9 @@
     "name_ja": "15〜16世紀",
     "name_en": "15th–16th c.",
     "start": 1400,
-    "end": 1599
+    "end": 1599,
+    "background": "欧州のルネサンスと大航海、オスマン・サファヴィー・ムガルの三大帝国、明の繁栄、日本の戦国から桃山へと続く変革期。",
+    "ai_generated": true
   },
   {
     "id": "world:early-modern-2",
@@ -45,7 +55,9 @@
     "name_ja": "17〜18世紀",
     "name_en": "17th–18th c.",
     "start": 1600,
-    "end": 1799
+    "end": 1799,
+    "background": "絶対王政と市民社会の成長、清と江戸幕府の安定期。各地で宮廷文化と町人・市民の文化が並行して成熟した。",
+    "ai_generated": true
   },
   {
     "id": "world:c19",
@@ -53,7 +65,9 @@
     "name_ja": "19世紀",
     "name_en": "19th c.",
     "start": 1800,
-    "end": 1899
+    "end": 1899,
+    "background": "産業革命と国民国家、植民地支配の時代。写真や鉄道が生まれ、美術はアカデミーから離れて個人の表現へ向かった。",
+    "ai_generated": true
   },
   {
     "id": "world:c20",
@@ -61,7 +75,9 @@
     "name_ja": "20世紀前半",
     "name_en": "Early 20th c.",
     "start": 1900,
-    "end": 1960
+    "end": 1960,
+    "background": "二度の世界大戦と急速な近代化の時代。抽象やキュビスムなど、見たままを描くことから離れた表現が次々と生まれた。",
+    "ai_generated": true
   },
   {
     "id": "western:early-christian",
@@ -69,7 +85,9 @@
     "name_ja": "初期キリスト教・ビザンティン初期",
     "name_en": "Early Christian",
     "start": 300,
-    "end": 799
+    "end": 799,
+    "background": "ローマ帝国でキリスト教が公認され、バシリカ式聖堂やモザイク装飾が生まれた。東では首都コンスタンティノープルが繁栄。",
+    "ai_generated": true
   },
   {
     "id": "western:early-medieval",
@@ -77,7 +95,9 @@
     "name_ja": "中世前期（カロリング・オットー朝）",
     "name_en": "Early Medieval",
     "start": 800,
-    "end": 1049
+    "end": 1049,
+    "background": "カール大帝の帝国とオットー朝の下、修道院が学問と美術の中心となり、写本や金工が発達した。",
+    "ai_generated": true
   },
   {
     "id": "western:romanesque",
@@ -85,7 +105,9 @@
     "name_ja": "ロマネスク期（11〜12世紀）",
     "name_en": "Romanesque era",
     "start": 1050,
-    "end": 1199
+    "end": 1199,
+    "background": "巡礼と修道院の時代。各地に石造の聖堂が建てられ、扉口や柱頭の彫刻で聖書の物語が語られた。",
+    "ai_generated": true
   },
   {
     "id": "western:gothic",
@@ -93,7 +115,9 @@
     "name_ja": "ゴシック期（13〜14世紀）",
     "name_en": "Gothic era",
     "start": 1200,
-    "end": 1399
+    "end": 1399,
+    "background": "都市と大学の発展、司教座聖堂の建設ラッシュの時代。光を神の象徴とする思想がステンドグラスを生んだ。",
+    "ai_generated": true
   },
   {
     "id": "western:c15",
@@ -101,7 +125,9 @@
     "name_ja": "15世紀",
     "name_en": "15th century",
     "start": 1400,
-    "end": 1499
+    "end": 1499,
+    "background": "イタリアでは古代の再発見と遠近法、フランドルでは油彩による写実が進み、メディチ家など商人が芸術を支えた。",
+    "ai_generated": true
   },
   {
     "id": "western:c16",
@@ -109,7 +135,9 @@
     "name_ja": "16世紀",
     "name_en": "16th century",
     "start": 1500,
-    "end": 1599
+    "end": 1599,
+    "background": "宗教改革と対抗宗教改革、大航海の時代。盛期ルネサンスの巨匠たちの後、マニエリスムが広がった。",
+    "ai_generated": true
   },
   {
     "id": "western:c17",
@@ -117,7 +145,9 @@
     "name_ja": "17世紀",
     "name_en": "17th century",
     "start": 1600,
-    "end": 1699
+    "end": 1699,
+    "background": "カトリック教会と絶対王政が劇的なバロック美術を求める一方、オランダでは市民が絵画の買い手となった。",
+    "ai_generated": true
   },
   {
     "id": "western:c18",
@@ -125,7 +155,9 @@
     "name_ja": "18世紀",
     "name_en": "18th century",
     "start": 1700,
-    "end": 1799
+    "end": 1799,
+    "background": "啓蒙思想の世紀。前半は貴族のサロン文化がロココを、後半は古代への憧れが新古典主義を生んだ。",
+    "ai_generated": true
   },
   {
     "id": "western:c19a",
@@ -133,7 +165,9 @@
     "name_ja": "19世紀前半",
     "name_en": "Early 19th century",
     "start": 1800,
-    "end": 1849
+    "end": 1849,
+    "background": "フランス革命とナポレオン後の動乱期。理性の新古典主義と感情のロマン主義がせめぎ合った。",
+    "ai_generated": true
   },
   {
     "id": "western:c19b",
@@ -141,7 +175,9 @@
     "name_ja": "19世紀後半",
     "name_en": "Late 19th century",
     "start": 1850,
-    "end": 1899
+    "end": 1899,
+    "background": "鉄道と写真の普及、パリの都市改造の時代。印象派が戸外の光と近代生活を描き、日本美術も流行した。",
+    "ai_generated": true
   },
   {
     "id": "western:c20",
@@ -149,7 +185,9 @@
     "name_ja": "20世紀前半",
     "name_en": "Early 20th century",
     "start": 1900,
-    "end": 1960
+    "end": 1960,
+    "background": "世紀末の不安と二度の大戦。表現主義・キュビスムなど前衛が既成の美の規範を壊していった。",
+    "ai_generated": true
   },
   {
     "id": "japan:jomon",
@@ -157,7 +195,9 @@
     "name_ja": "縄文時代",
     "name_en": "Jōmon",
     "start": -14000,
-    "end": -301
+    "end": -301,
+    "background": "狩猟採集を基盤に定住した人々が、1万年以上にわたり土器と土偶を作り続けた。",
+    "ai_generated": true
   },
   {
     "id": "japan:yayoi",
@@ -165,7 +205,9 @@
     "name_ja": "弥生時代",
     "name_en": "Yayoi",
     "start": -300,
-    "end": 249
+    "end": 249,
+    "background": "稲作と金属器が大陸から伝わり、ムラとクニが生まれた。銅鐸や簡素な弥生土器が特徴。",
+    "ai_generated": true
   },
   {
     "id": "japan:kofun",
@@ -173,7 +215,9 @@
     "name_ja": "古墳時代",
     "name_en": "Kofun",
     "start": 250,
-    "end": 537
+    "end": 537,
+    "background": "各地の豪族が巨大な前方後円墳を築き、ヤマト王権が成立した。埴輪や武具・馬具が副葬された。",
+    "ai_generated": true
   },
   {
     "id": "japan:asuka",
@@ -181,7 +225,9 @@
     "name_ja": "飛鳥時代",
     "name_en": "Asuka",
     "start": 538,
-    "end": 709
+    "end": 709,
+    "background": "仏教が公伝し、聖徳太子らが寺院を建立。朝鮮半島・中国の技術者が仏像や伽藍をもたらした。",
+    "ai_generated": true
   },
   {
     "id": "japan:nara",
@@ -189,7 +235,9 @@
     "name_ja": "奈良時代",
     "name_en": "Nara",
     "start": 710,
-    "end": 793
+    "end": 793,
+    "background": "平城京を都に律令国家が完成。聖武天皇が国家仏教として東大寺大仏を造立し、唐風文化が栄えた。",
+    "ai_generated": true
   },
   {
     "id": "japan:heian",
@@ -197,7 +245,9 @@
     "name_ja": "平安時代",
     "name_en": "Heian",
     "start": 794,
-    "end": 1184
+    "end": 1184,
+    "background": "京都に都が移り、遣唐使停止後に和様の国風文化が成熟。末法思想から極楽浄土への信仰が広がった。",
+    "ai_generated": true
   },
   {
     "id": "japan:kamakura",
@@ -205,7 +255,9 @@
     "name_ja": "鎌倉時代",
     "name_en": "Kamakura",
     "start": 1185,
-    "end": 1332
+    "end": 1332,
+    "background": "武士が政権を握り、写実的で力強い彫刻が好まれた。禅宗が伝来し、新しい仏教が民衆に広がった。",
+    "ai_generated": true
   },
   {
     "id": "japan:muromachi",
@@ -213,7 +265,9 @@
     "name_ja": "南北朝・室町時代",
     "name_en": "Nanbokuchō–Muromachi",
     "start": 1333,
-    "end": 1572
+    "end": 1572,
+    "background": "足利将軍家の下で禅文化・水墨画・能・茶の湯が育ち、のちに戦国の動乱へと向かった。",
+    "ai_generated": true
   },
   {
     "id": "japan:momoyama",
@@ -221,7 +275,9 @@
     "name_ja": "安土桃山時代",
     "name_en": "Momoyama",
     "start": 1573,
-    "end": 1614
+    "end": 1614,
+    "background": "信長・秀吉による天下統一の時代。城郭と金碧障壁画が権力を誇示し、茶の湯がわび茶へ深化した。",
+    "ai_generated": true
   },
   {
     "id": "japan:edo",
@@ -229,7 +285,9 @@
     "name_ja": "江戸時代",
     "name_en": "Edo",
     "start": 1615,
-    "end": 1867
+    "end": 1867,
+    "background": "徳川幕府による約260年の平和。町人文化が浮世絵や歌舞伎を生み、琳派・文人画など多様な画派が並び立った。",
+    "ai_generated": true
   },
   {
     "id": "japan:meiji",
@@ -237,7 +295,9 @@
     "name_ja": "明治時代以降",
     "name_en": "Meiji and later",
     "start": 1868,
-    "end": 1960
+    "end": 1960,
+    "background": "開国と近代化の時代。西洋美術が導入され、日本画と洋画という区分が生まれた。",
+    "ai_generated": true
   },
   {
     "id": "china:neolithic",
@@ -245,7 +305,9 @@
     "name_ja": "新石器時代",
     "name_en": "Neolithic",
     "start": -7000,
-    "end": -1601
+    "end": -1601,
+    "background": "黄河・長江流域で農耕が始まり、彩陶や黒陶、玉器が作られた。",
+    "ai_generated": true
   },
   {
     "id": "china:shang",
@@ -253,7 +315,9 @@
     "name_ja": "殷（商）",
     "name_en": "Shang",
     "start": -1600,
-    "end": -1047
+    "end": -1047,
+    "background": "最古の王朝とされる殷では、甲骨文字による占いと祖先祭祀が行われ、青銅器文化が頂点を迎えた。",
+    "ai_generated": true
   },
   {
     "id": "china:zhou",
@@ -261,7 +325,9 @@
     "name_ja": "周（西周・春秋・戦国）",
     "name_en": "Zhou",
     "start": -1046,
-    "end": -222
+    "end": -222,
+    "background": "周の封建制から春秋戦国の動乱へ。孔子や老子など諸子百家が現れ、青銅器は銘文で功績を記すようになった。",
+    "ai_generated": true
   },
   {
     "id": "china:qin-han",
@@ -269,7 +335,9 @@
     "name_ja": "秦・漢",
     "name_en": "Qin–Han",
     "start": -221,
-    "end": 219
+    "end": 219,
+    "background": "始皇帝が中国を統一し、漢は400年にわたる帝国を築いた。シルクロードが開かれ、儒教が国家の学問となった。",
+    "ai_generated": true
   },
   {
     "id": "china:six-dynasties",
@@ -277,7 +345,9 @@
     "name_ja": "六朝・南北朝",
     "name_en": "Six Dynasties",
     "start": 220,
-    "end": 580
+    "end": 580,
+    "background": "分裂と遊牧民の王朝の時代。仏教が広がって石窟寺院が開かれ、書や山水画の理論が生まれた。",
+    "ai_generated": true
   },
   {
     "id": "china:sui-tang",
@@ -285,7 +355,9 @@
     "name_ja": "隋・唐",
     "name_en": "Sui–Tang",
     "start": 581,
-    "end": 906
+    "end": 906,
+    "background": "長安を中心とする国際帝国。シルクロード交易で西方の文物が流入し、仏教美術と宮廷文化が栄えた。",
+    "ai_generated": true
   },
   {
     "id": "china:five-dynasties-song",
@@ -293,7 +365,9 @@
     "name_ja": "五代・宋",
     "name_en": "Five Dynasties–Song",
     "start": 907,
-    "end": 1270
+    "end": 1270,
+    "background": "科挙で選ばれた士大夫が社会を担い、山水画・花鳥画、洗練された陶磁が発達した。",
+    "ai_generated": true
   },
   {
     "id": "china:yuan",
@@ -301,7 +375,9 @@
     "name_ja": "元",
     "name_en": "Yuan",
     "start": 1271,
-    "end": 1367
+    "end": 1367,
+    "background": "モンゴルの支配下で、仕官を拒んだ文人が書画に心情を託した。青花磁器が生まれたのもこの時代。",
+    "ai_generated": true
   },
   {
     "id": "china:ming",
@@ -309,7 +385,9 @@
     "name_ja": "明",
     "name_en": "Ming",
     "start": 1368,
-    "end": 1643
+    "end": 1643,
+    "background": "漢民族の王朝が復活し、景徳鎮の官窯や紫禁城が造られた。蘇州の文人画家たちが活躍した。",
+    "ai_generated": true
   },
   {
     "id": "china:qing",
@@ -317,7 +395,9 @@
     "name_ja": "清",
     "name_en": "Qing",
     "start": 1644,
-    "end": 1911
+    "end": 1911,
+    "background": "満洲族の王朝が康熙・雍正・乾隆の盛期を築き、宮廷では西洋の画法も取り入れられた。",
+    "ai_generated": true
   },
   {
     "id": "china:republic",
@@ -325,7 +405,9 @@
     "name_ja": "中華民国期",
     "name_en": "Republic",
     "start": 1912,
-    "end": 1960
+    "end": 1960,
+    "background": "清の滅亡後、伝統絵画の革新と西洋美術の受容が模索された。",
+    "ai_generated": true
   },
   {
     "id": "korea:three-kingdoms",
@@ -333,7 +415,9 @@
     "name_ja": "三国時代",
     "name_en": "Three Kingdoms",
     "start": -57,
-    "end": 667
+    "end": 667,
+    "background": "高句麗・百済・新羅が並立し、仏教と古墳文化が栄えた。百済は日本に仏教美術を伝えた。",
+    "ai_generated": true
   },
   {
     "id": "korea:unified-silla",
@@ -341,7 +425,9 @@
     "name_ja": "統一新羅",
     "name_en": "Unified Silla",
     "start": 668,
-    "end": 917
+    "end": 917,
+    "background": "新羅が半島を統一し、慶州に仏国寺や石窟庵を建立。唐との交流で仏教美術が成熟した。",
+    "ai_generated": true
   },
   {
     "id": "korea:goryeo",
@@ -349,7 +435,9 @@
     "name_ja": "高麗",
     "name_en": "Goryeo",
     "start": 918,
-    "end": 1391
+    "end": 1391,
+    "background": "仏教を国教とした王朝。翡色の青磁と精緻な仏画が生まれた。",
+    "ai_generated": true
   },
   {
     "id": "korea:joseon",
@@ -357,7 +445,9 @@
     "name_ja": "朝鮮王朝",
     "name_en": "Joseon",
     "start": 1392,
-    "end": 1897
+    "end": 1897,
+    "background": "儒教を国の理念とし、簡素な白磁や、朝鮮の実景を描く真景山水が発達した。",
+    "ai_generated": true
   },
   {
     "id": "korea:modern",
@@ -365,7 +455,9 @@
     "name_ja": "近代",
     "name_en": "Modern",
     "start": 1898,
-    "end": 1960
+    "end": 1960,
+    "background": "開国と植民地支配を経て、伝統と近代の表現が模索された。",
+    "ai_generated": true
   },
   {
     "id": "islamic:early",
@@ -373,7 +465,9 @@
     "name_ja": "初期イスラーム（ウマイヤ・アッバース朝）",
     "name_en": "Early Islamic",
     "start": 622,
-    "end": 999
+    "end": 999,
+    "background": "アラビア半島から急速に広がったイスラーム帝国が、ビザンティンとペルシアの伝統を受け継ぎ独自の宗教美術を築いた。",
+    "ai_generated": true
   },
   {
     "id": "islamic:medieval",
@@ -381,7 +475,9 @@
     "name_ja": "中期（セルジューク・ファーティマ・アイユーブ朝）",
     "name_en": "Middle period",
     "start": 1000,
-    "end": 1249
+    "end": 1249,
+    "background": "トルコ系のセルジューク朝などが台頭し、イーワーンをもつモスクや陶器・金属器が発達した。",
+    "ai_generated": true
   },
   {
     "id": "islamic:mongol-timurid",
@@ -389,7 +485,9 @@
     "name_ja": "モンゴル〜ティムール朝期・マムルーク朝",
     "name_en": "Mongol–Timurid",
     "start": 1250,
-    "end": 1499
+    "end": 1499,
+    "background": "モンゴルの侵入後、イルハン朝・ティムール朝が中国の要素も取り込み、青いタイルの建築と写本芸術を開花させた。",
+    "ai_generated": true
   },
   {
     "id": "islamic:gunpowder-empires",
@@ -397,7 +495,9 @@
     "name_ja": "三大帝国期（サファヴィー・オスマン・ムガル）",
     "name_en": "Safavid–Ottoman",
     "start": 1500,
-    "end": 1799
+    "end": 1799,
+    "background": "オスマン・サファヴィー・ムガルの三大帝国が並び立ち、モスク建築・絨毯・細密画が頂点を迎えた。",
+    "ai_generated": true
   },
   {
     "id": "islamic:modern",
@@ -405,7 +505,9 @@
     "name_ja": "近代（ガージャール朝・オスマン後期）",
     "name_en": "Qajar & late Ottoman",
     "start": 1800,
-    "end": 1960
+    "end": 1960,
+    "background": "欧州列強の進出の中で、伝統と西洋の影響が混じり合った。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:ancient",
@@ -413,7 +515,9 @@
     "name_ja": "古代（インダス〜マウリヤ）",
     "name_en": "Ancient",
     "start": -3000,
-    "end": -185
+    "end": -185,
+    "background": "インダス文明ののち、アショーカ王が仏教を保護し、石柱やストゥーパを各地に建てた。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:kushan",
@@ -421,7 +525,9 @@
     "name_ja": "シュンガ・クシャーン朝",
     "name_en": "Shunga–Kushan",
     "start": -184,
-    "end": 319
+    "end": 319,
+    "background": "中央アジアから来たクシャーン朝の下、ガンダーラとマトゥラーで最初期の仏像が作られた。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:gupta",
@@ -429,7 +535,9 @@
     "name_ja": "グプタ朝",
     "name_en": "Gupta",
     "start": 320,
-    "end": 599
+    "end": 599,
+    "background": "インド古典文化の黄金期。仏像の理想美が完成し、ヒンドゥー教の神像や寺院も発達した。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:medieval",
@@ -437,7 +545,9 @@
     "name_ja": "中世（パッラヴァ・チョーラ・パーラ等）",
     "name_en": "Medieval",
     "start": 600,
-    "end": 1205
+    "end": 1205,
+    "background": "地方王朝が競って巨大なヒンドゥー寺院を建立。南インドのチョーラ朝はブロンズ像で名高い。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:sultanate",
@@ -445,7 +555,9 @@
     "name_ja": "デリー・スルタン朝期",
     "name_en": "Sultanate",
     "start": 1206,
-    "end": 1525
+    "end": 1525,
+    "background": "デリーを中心にイスラーム王朝が成立し、モスクや墓廟にインドとイスラームの様式が融合した。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:mughal",
@@ -453,7 +565,9 @@
     "name_ja": "ムガル朝・ラージプート諸国",
     "name_en": "Mughal",
     "start": 1526,
-    "end": 1857
+    "end": 1857,
+    "background": "ムガル帝国がペルシアとインドの文化を融合させ、タージ・マハルや宮廷細密画を生んだ。",
+    "ai_generated": true
   },
   {
     "id": "south-asia:colonial",
@@ -461,7 +575,9 @@
     "name_ja": "英領期",
     "name_en": "Colonial",
     "start": 1858,
-    "end": 1960
+    "end": 1960,
+    "background": "英国の支配下で、伝統工芸の変容と近代美術の模索が進んだ。",
+    "ai_generated": true
   },
   {
     "id": "southeast-asia:early",
@@ -469,7 +585,9 @@
     "name_ja": "初期（扶南・ドヴァーラヴァティー等）",
     "name_en": "Early",
     "start": -500,
-    "end": 699
+    "end": 699,
+    "background": "インドとの交易を通じてヒンドゥー教・仏教が伝わり、港市国家が栄えた。",
+    "ai_generated": true
   },
   {
     "id": "southeast-asia:classical",
@@ -477,7 +595,9 @@
     "name_ja": "古典期（シャイレーンドラ・前アンコール）",
     "name_en": "Classical",
     "start": 700,
-    "end": 899
+    "end": 899,
+    "background": "ジャワのシャイレーンドラ朝がボロブドゥールを、カンボジアでは前アンコール期の王国が神像を生んだ。",
+    "ai_generated": true
   },
   {
     "id": "southeast-asia:angkor",
@@ -485,7 +605,9 @@
     "name_ja": "アンコール・パガン期",
     "name_en": "Angkor–Bagan",
     "start": 900,
-    "end": 1299
+    "end": 1299,
+    "background": "アンコール朝とパガン朝が巨大寺院群を築いた、東南アジア古典文明の最盛期。",
+    "ai_generated": true
   },
   {
     "id": "southeast-asia:post-classical",
@@ -493,7 +615,9 @@
     "name_ja": "スコータイ・アユタヤ・マジャパヒト期",
     "name_en": "Post-classical",
     "start": 1300,
-    "end": 1767
+    "end": 1767,
+    "background": "上座部仏教が広がり、タイのスコータイ・アユタヤ朝などで優美な仏像が作られた。",
+    "ai_generated": true
   },
   {
     "id": "southeast-asia:modern",
@@ -501,7 +625,9 @@
     "name_ja": "近代",
     "name_en": "Modern",
     "start": 1768,
-    "end": 1960
+    "end": 1960,
+    "background": "植民地化と独立の中で、伝統と近代の表現が交差した。",
+    "ai_generated": true
   },
   {
     "id": "egypt:predynastic",
@@ -509,7 +635,9 @@
     "name_ja": "先王朝・初期王朝",
     "name_en": "Predynastic–Early Dynastic",
     "start": -5000,
-    "end": -2687
+    "end": -2687,
+    "background": "ナイル流域の諸勢力が統一され、ファラオを頂点とする国家と象形文字が生まれた。",
+    "ai_generated": true
   },
   {
     "id": "egypt:old-kingdom",
@@ -517,7 +645,9 @@
     "name_ja": "古王国",
     "name_en": "Old Kingdom",
     "start": -2686,
-    "end": -2161
+    "end": -2161,
+    "background": "ピラミッドの時代。神である王の永遠の生を保証するため、巨大な墓と彫像が作られた。",
+    "ai_generated": true
   },
   {
     "id": "egypt:middle-kingdom",
@@ -525,7 +655,9 @@
     "name_ja": "中王国（第1中間期含む）",
     "name_en": "Middle Kingdom",
     "start": -2160,
-    "end": -1651
+    "end": -1651,
+    "background": "再統一後、王権は人間味を帯び、文学や工芸が成熟した。",
+    "ai_generated": true
   },
   {
     "id": "egypt:new-kingdom",
@@ -533,7 +665,9 @@
     "name_ja": "新王国（第2中間期含む）",
     "name_en": "New Kingdom",
     "start": -1650,
-    "end": -1070
+    "end": -1070,
+    "background": "帝国として最も繁栄した時代。カルナック神殿や王家の谷の墓、アマルナ美術が生まれた。",
+    "ai_generated": true
   },
   {
     "id": "egypt:late",
@@ -541,7 +675,9 @@
     "name_ja": "第3中間期・末期王朝",
     "name_en": "Third Intermediate–Late",
     "start": -1069,
-    "end": -333
+    "end": -333,
+    "background": "異民族の支配と復興を繰り返し、古い様式の復古が好まれた。",
+    "ai_generated": true
   },
   {
     "id": "egypt:ptolemaic-roman",
@@ -549,7 +685,9 @@
     "name_ja": "プトレマイオス朝・ローマ支配期",
     "name_en": "Ptolemaic–Roman",
     "start": -332,
-    "end": 400
+    "end": 400,
+    "background": "アレクサンドロスの後継者プトレマイオス朝、続いてローマが支配し、ギリシアとエジプトの文化が融合した。",
+    "ai_generated": true
   },
   {
     "id": "near-east:sumer-akkad",
@@ -557,7 +695,9 @@
     "name_ja": "シュメール・アッカド",
     "name_en": "Sumer–Akkad",
     "start": -4000,
-    "end": -2001
+    "end": -2001,
+    "background": "メソポタミア南部に都市国家が生まれ、楔形文字とジッグラトが作られた。",
+    "ai_generated": true
   },
   {
     "id": "near-east:babylon",
@@ -565,7 +705,9 @@
     "name_ja": "古バビロニア・ヒッタイト",
     "name_en": "Old Babylonian–Hittite",
     "start": -2000,
-    "end": -1001
+    "end": -1001,
+    "background": "ハンムラビ法典のバビロニアとアナトリアのヒッタイトが並び立った。",
+    "ai_generated": true
   },
   {
     "id": "near-east:assyria",
@@ -573,7 +715,9 @@
     "name_ja": "新アッシリア・新バビロニア",
     "name_en": "Neo-Assyrian",
     "start": -1000,
-    "end": -551
+    "end": -551,
+    "background": "新アッシリア帝国が宮殿を浮彫で飾り、王の武勇と狩猟を誇示した。のち新バビロニアがイシュタル門を築く。",
+    "ai_generated": true
   },
   {
     "id": "near-east:achaemenid",
@@ -581,7 +725,9 @@
     "name_ja": "アケメネス朝",
     "name_en": "Achaemenid",
     "start": -550,
-    "end": -331
+    "end": -331,
+    "background": "ペルシア帝国がエジプトからインダスまでを支配し、ペルセポリスに諸民族の朝貢を表した。",
+    "ai_generated": true
   },
   {
     "id": "near-east:parthian-sasanian",
@@ -589,7 +735,9 @@
     "name_ja": "パルティア・ササン朝",
     "name_en": "Parthian–Sasanian",
     "start": -330,
-    "end": 650
+    "end": 650,
+    "background": "ローマと対峙したパルティアとササン朝が、王権を示す銀器や岩壁浮彫を残した。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:aegean",
@@ -597,7 +745,9 @@
     "name_ja": "エーゲ文明（キクラデス・ミノア・ミケーネ）",
     "name_en": "Aegean Bronze Age",
     "start": -3200,
-    "end": -1101
+    "end": -1101,
+    "background": "キクラデス諸島、クレタのミノア、本土のミケーネと、エーゲ海に青銅器文明が栄えた。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:geometric",
@@ -605,7 +755,9 @@
     "name_ja": "幾何学様式期",
     "name_en": "Geometric",
     "start": -1100,
-    "end": -701
+    "end": -701,
+    "background": "暗黒時代を経てポリスが形成され、幾何学文様の陶器が墓標として用いられた。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:archaic",
@@ -613,7 +765,9 @@
     "name_ja": "アルカイック期",
     "name_en": "Archaic",
     "start": -700,
-    "end": -481
+    "end": -481,
+    "background": "植民と交易で東方やエジプトの影響を受け、等身大の石像や神殿建築が始まった。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:classical",
@@ -621,7 +775,9 @@
     "name_ja": "クラシック期",
     "name_en": "Classical",
     "start": -480,
-    "end": -324
+    "end": -324,
+    "background": "ペルシア戦争に勝利したアテネの最盛期。民主政のもとパルテノン神殿と理想的人体表現が完成した。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:hellenistic",
@@ -629,7 +785,9 @@
     "name_ja": "ヘレニズム期",
     "name_en": "Hellenistic",
     "start": -323,
-    "end": -32
+    "end": -32,
+    "background": "アレクサンドロスの東方遠征後、ギリシア文化が広域に広がり、劇的で感情豊かな表現が好まれた。",
+    "ai_generated": true
   },
   {
     "id": "greco-roman:roman-imperial",
@@ -637,7 +795,9 @@
     "name_ja": "ローマ帝政期",
     "name_en": "Roman Imperial",
     "start": -31,
-    "end": 500
+    "end": 500,
+    "background": "ローマ帝国が地中海世界を統一し、コンクリートによる巨大建築と写実的な肖像が発達した。",
+    "ai_generated": true
   },
   {
     "id": "americas:preclassic",
@@ -645,7 +805,9 @@
     "name_ja": "先古典期",
     "name_en": "Preclassic",
     "start": -2000,
-    "end": 249
+    "end": 249,
+    "background": "オルメカなど最初の文明が生まれ、巨石人頭像や神殿を築いた。",
+    "ai_generated": true
   },
   {
     "id": "americas:classic",
@@ -653,7 +815,9 @@
     "name_ja": "古典期",
     "name_en": "Classic",
     "start": 250,
-    "end": 899
+    "end": 899,
+    "background": "マヤの都市国家が文字と暦を発達させ、テオティワカンが巨大都市となった。",
+    "ai_generated": true
   },
   {
     "id": "americas:postclassic",
@@ -661,7 +825,9 @@
     "name_ja": "後古典期（アステカ・インカ）",
     "name_en": "Postclassic",
     "start": 900,
-    "end": 1550
+    "end": 1550,
+    "background": "アステカとインカの帝国が栄えたが、16世紀にスペインに征服された。",
+    "ai_generated": true
   },
   {
     "id": "americas:colonial",
@@ -669,6 +835,8 @@
     "name_ja": "植民地期以降",
     "name_en": "Colonial and later",
     "start": 1551,
-    "end": 1960
+    "end": 1960,
+    "background": "スペインの支配下で、先住民の伝統とキリスト教美術が混ざり合った。",
+    "ai_generated": true
   }
 ]

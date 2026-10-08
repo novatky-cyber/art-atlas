@@ -4,7 +4,7 @@ const root = new URL('../', import.meta.url);
 const read = (p) => JSON.parse(readFileSync(new URL(p, root), 'utf8'));
 const targets = read('config/targets.json');
 const regions = Object.fromEntries(read('data/regions.json').map((r) => [r.id, r]));
-const seeds = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => /^batch-\d+\.json$/.test(f)).sort()
+const seeds = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => f.endsWith('.json')).sort()
   .flatMap((f) => read(`pipeline/seeds/${f}`));
 const arts = existsSync(new URL('data/artworks.json', root)) ? read('data/artworks.json') : [];
 const N = Number(process.argv[2] ?? 100);

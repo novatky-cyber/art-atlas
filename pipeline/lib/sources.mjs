@@ -18,7 +18,7 @@ function metCandidate(o) {
     sourceId: String(o.objectID),
     title: o.title || '',
     artist,
-    all: [o.title, artist, o.culture, o.period, o.dynasty, o.classification, o.objectName, o.medium, o.department, o.country, o.objectDate].join(' | '),
+    all: [o.title, artist, o.culture, o.period, o.dynasty, o.classification, o.objectName, o.medium, o.department, o.country, o.region, o.city, o.objectDate].join(' | '),
     yearStart: num(o.objectBeginDate),
     yearEnd: num(o.objectEndDate),
     ok: Boolean(o.isPublicDomain && (o.primaryImageSmall || o.primaryImage)),
@@ -46,13 +46,22 @@ function metCandidate(o) {
     },
   };
 }
+// Met の検索 API（/search）は 2026 年時点で HTTP 410 を返すため、
+// 失敗時は Wikidata の「Met object ID（P3634）」で作品を探してから /objects/{id} で取得する。
+let metSearchGone = false;
 export const met = {
   async byId(id) {
     return metCandidate(await getJson(`${MET}/objects/${enc(id)}`));
   },
   async *search(q, max = 25) {
-    const r = await getJson(`${MET}/search?hasImages=true&q=${enc(q)}`);
-    for (const id of (r?.objectIDs ?? []).slice(0, max)) {
+    let ids = [];
+    if (!metSearchGone) {
+      const r = await getJson(`${MET}/search?hasImages=true&q=${enc(q)}`);
+      if (r) ids = r.objectIDs ?? [];
+      else metSearchGone = true;
+    }
+    if (metSearchGone) ids = await wikidataExternalIds(q, 'P3634', 10);
+    for (const id of ids.slice(0, max)) {
       const c = await this.byId(id);
       if (c) yield c;
     }
@@ -234,6 +243,14 @@ const COMMONS = 'https://commons.wikimedia.org/w/api.php';
 const claimVals = (e, p) => (e.claims?.[p] ?? []).filter((c) => c.mainsnak?.datavalue).map((c) => c.mainsnak.datavalue.value);
 const label = (e, lang) => e?.labels?.[lang]?.value ?? null;
 
+/** Wikidata 全文検索で、指定プロパティ（美術館の所蔵品ID など）を持つ項目の値を集める */
+async function wikidataExternalIds(q, prop, limit) {
+  const r = await getJson(`${WD}?action=query&list=search&format=json&srlimit=${limit}&srsearch=${enc(q + ' haswbstatement:' + prop)}`);
+  const qids = (r?.query?.search ?? []).map((s) => s.title).filter((t) => /^Q\d+$/.test(t));
+  const ents = await wdEntities(qids);
+  return qids.flatMap((id) => claimVals(ents[id] ?? {}, prop)).filter((v) => typeof v === 'string');
+}
+
 async function wdEntities(ids) {
   if (!ids.length) return {};
   const r = await getJson(`${WD}?action=wbgetentities&ids=${ids.join('|')}&props=labels|descriptions|claims|aliases&languages=ja|en&format=json`);
@@ -268,7 +285,7 @@ async function wdCandidate(e) {
   if (!e || e.missing !== undefined) return null;
   const img = claimVals(e, 'P18')[0];
   const hasCoord = claimVals(e, 'P625').length > 0;
-  const inception = claimVals(e, 'P571').map(wdYear).filter(Boolean);
+  const inception = ['P571', 'P580', 'P1619'].flatMap((p) => claimVals(e, p)).map(wdYear).filter(Boolean);
   const d = inception[0] ?? null;
   const en = label(e, 'en') ?? '';
   const desc = e.descriptions?.en?.value ?? '';
@@ -294,7 +311,7 @@ async function wdCandidate(e) {
       const large = await commonsImage(img, 1920);
       const meta = large?.extmetadata ?? thumb?.extmetadata ?? {};
       const licenseName = stripHtml(meta.LicenseShortName?.value);
-      const free = /public domain|cc0|cc by|cc-by|pd/i.test(licenseName);
+      const free = Boolean(licenseName); // Commons は自由ライセンスのみ受け入れるため、名称があれば可
       if (!thumb?.thumburl || !free) return false;
       this.ok = true;
       this.record = {

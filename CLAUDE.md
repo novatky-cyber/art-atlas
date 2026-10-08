@@ -21,6 +21,9 @@ iPhone のホーム画面で使う個人用 PWA。静的サイト（Vite + React
 - 事実（作品名・作家・年代・所蔵・画像URL・ライセンス）は取得データのみ。シードに事実を書き込まない（`match` は照合条件であって表示されない）。
 - 見どころ・豆知識・様式解説は AI 生成で、`ai_generated: true` を必ず保持する。
 - 画像はリポジトリに保存しない（出典 URL を参照）。
+- **Met の検索 API（/search）は HTTP 410 で廃止済み**。Met は Wikidata の P3634（Met object ID）経由で探してから /objects/{id} を取得する。
+  そのため Met のシードは Wikidata 上の作品名（英語ラベル）で見つかる `queries` を書く（例：「Mezzetin」「The Harvesters」）。
+  確実な Met ID が分かる場合は `source_id` を併記すると最も確実。Wikidata にない無名の工芸品は AIC / Cleveland を `source` にする。
 
 ## 「作品を100点追加して」と言われたときの手順
 

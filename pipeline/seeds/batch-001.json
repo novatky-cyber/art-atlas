@@ -225,8 +225,8 @@
   "source": "met",
   "query": "Annunciation Triptych Merode Altarpiece",
   "queries": [
-   "Annunciation Triptych (Merode Altarpiece)",
-   "Merode Altarpiece"
+   "Merode Altarpiece",
+   "Annunciation Triptych"
   ],
   "match": {
    "title": [
@@ -294,7 +294,11 @@
     "細く繊細な輪郭線というボッティチェリらしい線の美しさ。"
    ],
    "trivia": "サヴォナローラの説教の影響が強かった晩年のフィレンツェで、個人の信仰のために描かれたと考えられている。"
-  }
+  },
+  "queries": [
+   "Last Communion of Saint Jerome",
+   "Last Communion of Saint Jerome Botticelli"
+  ]
  },
  {
   "id": "raphael-colonna-altarpiece",
@@ -317,7 +321,11 @@
     "若きラファエロが師ペルジーノの様式から一歩踏み出す過渡期の作品。"
    ],
    "trivia": "ペルージャの女子修道院のために描かれた。修道女たちの要望で幼子イエスに服を着せたと伝えられる。"
-  }
+  },
+  "queries": [
+   "Colonna Altarpiece",
+   "Madonna and Child Enthroned with Saints Raphael"
+  ]
  },
  {
   "id": "titian-venus-lute-player",
@@ -341,7 +349,10 @@
     "音楽（聴覚）と美（視覚）のどちらが優れるかという議論を想起させる主題。"
    ],
    "trivia": "ティツィアーノ晩年の作で、工房の手も入っているとされる。同じ主題の別バージョンがケンブリッジのフィッツウィリアム美術館にある。"
-  }
+  },
+  "queries": [
+   "Venus and the Lute Player"
+  ]
  },
  {
   "id": "durer-adam-and-eve",
@@ -391,7 +402,10 @@
     "背後の庭園に背を向けた女性像が、報われない恋を暗示する。"
    ],
    "trivia": "ワトーは雅宴画（フェート・ギャラント）というジャンルを確立した。コメディア・デラルテの役者は彼の好んだ主題だった。"
-  }
+  },
+  "queries": [
+   "Mezzetin"
+  ]
  },
  {
   "id": "fragonard-love-letter",
@@ -414,7 +428,11 @@
     "小型犬や花など、恋愛を暗示するロココらしい小道具。"
    ],
    "trivia": "手紙の宛名は判読が難しく、モデルが誰かについては諸説ある。"
-  }
+  },
+  "queries": [
+   "The Love Letter Fragonard",
+   "The Love Letter"
+  ]
  },
  {
   "id": "delacroix-abduction-rebecca",
@@ -437,7 +455,10 @@
     "輪郭よりも色と筆触で形をつくる、ロマン主義らしい描法。"
    ],
    "trivia": "ウォルター・スコットの小説『アイヴァンホー』の一場面に基づく。ドラクロワは文学から多くの主題を得た。"
-  }
+  },
+  "queries": [
+   "The Abduction of Rebecca"
+  ]
  },
  {
   "id": "courbet-young-ladies-village",
@@ -460,7 +481,10 @@
     "理想化されない地方の日常を、大画面で堂々と描いたこと自体が挑戦だった。"
    ],
    "trivia": "モデルはクールベの3人の妹とされる。1852年のサロン出品時には「醜い」と酷評された。"
-  }
+  },
+  "queries": [
+   "Young Ladies of the Village"
+  ]
  },
  {
   "id": "millet-haystacks-autumn",
@@ -483,7 +507,11 @@
     "落ち着いた土色と柔らかな光が、収穫後の穏やかさを伝える。"
    ],
    "trivia": "四季を描く連作の注文の一部とされる。積み藁は後にモネの連作でも重要な主題になった。"
-  }
+  },
+  "queries": [
+   "Haystacks Autumn Millet",
+   "Haystacks: Autumn"
+  ]
  },
  {
   "id": "monet-water-lilies-bridge",
@@ -508,7 +536,10 @@
     "空を描かず池と植物だけで画面を満たす、晩年の睡蓮連作につながる構図。"
    ],
    "trivia": "モネはジヴェルニーの自宅に水の庭を造り、浮世絵にも見られる日本の橋をかけた。"
-  }
+  },
+  "queries": [
+   "Bridge over a Pond of Water Lilies"
+  ]
  },
  {
   "id": "degas-dance-class",
@@ -531,7 +562,11 @@
     "休憩中の踊り子たちの退屈やけだるさまで描く観察眼。"
    ],
    "trivia": "中央の教師は実在のバレエ教師ジュール・ペローがモデルとされる。ドガは同時期に構図違いの作品をオルセー美術館所蔵作にも残している。"
-  }
+  },
+  "queries": [
+   "The Dance Class Degas",
+   "The Dance Class"
+  ]
  },
  {
   "id": "renoir-two-sisters",
@@ -637,7 +672,11 @@
    "title": [
     "orana"
    ],
-   "artist": "gauguin"
+   "artist": "gauguin",
+   "year": [
+    1891,
+    1892
+   ]
   },
   "genre": "painting",
   "region": "europe-northwest",
@@ -650,7 +689,10 @@
     "左奥の天使と祈る女性たちのポーズは、ジャワのボロブドゥールの浮彫写真に基づくとされる。"
    ],
    "trivia": "題名はタヒチ語で天使の挨拶「アヴェ・マリア」を意味する。ゴーギャンが最初のタヒチ滞在で描いた代表作。"
-  }
+  },
+  "queries": [
+   "Ia Orana Maria"
+  ]
  },
  {
   "id": "lautrec-at-the-moulin-rouge",
@@ -767,7 +809,11 @@
     "白いドレスと周囲の明るい色彩の、春のような軽やかさ。"
    ],
    "trivia": "モデルは銀行家オットー・プリマヴェージの娘で、当時9歳ほど。プリマヴェージ家はクリムトやウィーン工房の重要なパトロンだった。"
-  }
+  },
+  "queries": [
+   "Mäda Primavesi",
+   "Mada Primavesi"
+  ]
  },
  {
   "id": "canova-perseus",
@@ -790,7 +836,11 @@
     "メドゥーサの顔は恐ろしさより哀しみを帯びて表現される。"
    ],
    "trivia": "ナポレオンがアポロ・ベルヴェデーレをパリへ持ち去った後、その台座に置かれたヴァチカンの像があり、本作はそのもう一つのバージョンにあたる。"
-  }
+  },
+  "queries": [
+   "Perseus with the Head of Medusa Canova",
+   "Perseus with the Head of Medusa"
+  ]
  },
  {
   "id": "unicorn-rests-in-garden",
@@ -815,7 +865,11 @@
     "白い体の赤いしみは、ザクロの果汁とも傷ともとれる謎めいた表現。"
    ],
    "trivia": "7枚組の連作の1枚で、ニューヨークの分館クロイスターズに展示されている。ザクロは豊穣や結婚の象徴ともキリストの受難の象徴とも解釈される。"
-  }
+  },
+  "queries": [
+   "The Unicorn Rests in a Garden",
+   "Unicorn in Captivity"
+  ]
  },
  {
   "id": "gubbio-studiolo",
@@ -837,7 +891,11 @@
     "学問・音楽・武芸など、ルネサンスの理想の君主の教養を象徴する部屋。"
    ],
    "trivia": "ウルビーノ公フェデリーコ・ダ・モンテフェルトロの宮殿にあった小部屋を丸ごと移築したもの。"
-  }
+  },
+  "queries": [
+   "Studiolo from the Ducal Palace in Gubbio",
+   "Gubbio Studiolo"
+  ]
  },
  {
   "id": "david-plate-goliath",
@@ -863,7 +921,11 @@
     "鋳造後に打ち出しと彫りで仕上げられた精緻な銀細工。"
    ],
    "trivia": "1902年にキプロスで発見された9枚組の銀皿の1枚。皇帝ヘラクレイオスがペルシアに勝利した頃に制作されたとされる。"
-  }
+  },
+  "queries": [
+   "Plate with the Battle of David and Goliath",
+   "David and Goliath plate"
+  ]
  },
  {
   "id": "cuxa-cloister",
@@ -885,7 +947,10 @@
     "中庭を囲む回廊は、修道士たちの瞑想と祈りの空間だった。"
    ],
    "trivia": "ピレネー山麓の修道院の回廊の一部を、20世紀にニューヨークへ移して再構成したもの。"
-  }
+  },
+  "queries": [
+   "Cuxa Cloister"
+  ]
  },
  {
   "id": "notre-dame-de-paris",
@@ -1041,7 +1106,11 @@
    "title": [
     "pygmalion"
    ],
-   "artist": "r"
+   "artist": "gerome",
+   "year": [
+    1885,
+    1895
+   ]
   },
   "genre": "painting",
   "region": "europe-northwest",
@@ -1054,7 +1123,11 @@
     "アトリエの壁の仮面や彫刻が、芸術家の工房という舞台設定を示す。"
    ],
    "trivia": "ジェロームは画家であると同時に彫刻家でもあり、同じ主題の大理石像も制作した。"
-  }
+  },
+  "queries": [
+   "Pygmalion and Galatea Gérôme",
+   "Pygmalion and Galatea"
+  ]
  },
  {
   "id": "hokusai-great-wave",
@@ -1101,7 +1174,11 @@
     "わずかな色数で、晩夏から初秋の澄んだ朝の空気を表現している。"
    ],
    "trivia": "「凱風」は南風、「快晴」は晴天の意。通称「赤富士」として親しまれ、「神奈川沖浪裏」と並ぶ北斎の代表作。"
-  }
+  },
+  "queries": [
+   "Fine Wind, Clear Morning",
+   "Fine Wind Clear Morning Hokusai"
+  ]
  },
  {
   "id": "hiroshige-sudden-shower-atake",
@@ -1196,7 +1273,10 @@
     "人物を描かずに『伊勢物語』の場面を連想させる、引き算のデザイン。"
    ],
    "trivia": "『伊勢物語』の八橋の段（かきつばたの歌）に基づく。根津美術館の国宝「燕子花図屏風」より後年の作とされる。"
-  }
+  },
+  "queries": [
+   "Irises at Yatsuhashi"
+  ]
  },
  {
   "id": "kano-sansetsu-old-plum",
@@ -1218,7 +1298,11 @@
     "枝先の小さな花と、岩のように荒々しい幹の対比。"
    ],
    "trivia": "京狩野の狩野山雪の作。もとは京都・妙心寺の塔頭天祥院の襖絵だった。"
-  }
+  },
+  "queries": [
+   "The Old Plum",
+   "Old Plum Kano Sansetsu"
+  ]
  },
  {
   "id": "haniwa-figure",
@@ -1272,7 +1356,12 @@
     "実用品でありながら、強い造形意欲が感じられる。"
    ],
    "trivia": "縄文土器は世界でも最古級の土器の一つで、1万年以上にわたって作られ続けた。"
-  }
+  },
+  "queries": [
+   "Jōmon jar",
+   "Jomon",
+   "Jōmon"
+  ]
  },
  {
   "id": "kamakura-amida",
@@ -1542,7 +1631,11 @@
     "背後の大きな光背には、炎や飛天が細かく表される。"
    ],
    "trivia": "弥勒は未来に現れて人々を救うとされる仏。北魏時代には金銅仏が盛んに造られ、本作はその代表的な大作として知られる。"
-  }
+  },
+  "queries": [
+   "Buddha Maitreya",
+   "Maitreya Northern Wei"
+  ]
  },
  {
   "id": "streams-and-mountains-without-end",
@@ -1587,7 +1680,10 @@
     "墨の濃淡で霧や空気の層を表す、北宋山水の高度な技法。"
    ],
    "trivia": "郭熙は北宋の宮廷画家で、山水画論『林泉高致』で高遠・深遠・平遠の「三遠法」を説いたことで知られる。"
-  }
+  },
+  "queries": [
+   "Old Trees, Level Distance"
+  ]
  },
  {
   "id": "huizong-finches-bamboo",
@@ -1610,7 +1706,11 @@
     "画面の余白と簡潔な構図が、宮廷趣味の気品を感じさせる。"
    ],
    "trivia": "北宋の皇帝徽宗は書画に優れ、画院を整備した。痩せて鋭い独自の書体「痩金体」でも知られる。"
-  }
+  },
+  "queries": [
+   "Finches and bamboo",
+   "Finches and Bamboo Huizong"
+  ]
  },
  {
   "id": "qian-xuan-wang-xizhi-geese",
@@ -1633,7 +1733,10 @@
     "単純化された木や岩の形に、宋の写実から離れた意図的な古拙さがある。"
    ],
    "trivia": "銭選は宋の滅亡後に元に仕えず、書画に生きた遺民画家。"
-  }
+  },
+  "queries": [
+   "Wang Xizhi Watching Geese"
+  ]
  },
  {
   "id": "zhao-mengfu-twin-pines",
@@ -1656,7 +1759,10 @@
     "広い余白が、静かで内省的な空気を生む。"
    ],
    "trivia": "趙孟頫は宋の皇族の末裔ながら元朝に仕えた書画家。「書画同源」を唱え、文人画の方向を決定づけた。"
-  }
+  },
+  "queries": [
+   "Twin Pines, Level Distance"
+  ]
  },
  {
   "id": "han-gan-night-shining-white",
@@ -1678,7 +1784,10 @@
     "画面を埋める多数の印章と題跋が、千年以上の鑑賞の歴史を物語る。"
    ],
    "trivia": "「照夜白」は唐の玄宗皇帝の愛馬の名。韓幹は馬の名手として知られた宮廷画家。"
-  }
+  },
+  "queries": [
+   "Night-Shining White"
+  ]
  },
  {
   "id": "bada-shanren-fish-and-rocks",
@@ -1703,7 +1812,11 @@
     "濡れた墨の大胆な筆致による、極度に簡略化された形。"
    ],
    "trivia": "八大山人（朱耷）は明の皇族の末裔。明の滅亡後に僧となり、屈折した心情を奇抜な表現に託したとされる。"
-  }
+  },
+  "queries": [
+   "Fish and Rocks Bada Shanren",
+   "Fish and Rocks"
+  ]
  },
  {
   "id": "ming-blue-and-white",
@@ -1735,7 +1848,12 @@
     "釉の下に描くため、色が長く褪せずに保たれる。"
    ],
    "trivia": "景徳鎮で量産された青花は、アジア・中東・ヨーロッパへ輸出され、各地の陶磁器生産に大きな影響を与えた。"
-  }
+  },
+  "queries": [
+   "Ming blue and white",
+   "blue and white jar Ming",
+   "Ming porcelain"
+  ]
  },
  {
   "id": "forbidden-city",
@@ -1838,6 +1956,10 @@
    "title": [
     "mihrab"
    ],
+   "year": [
+    1300,
+    1400
+   ],
    "any": [
     "isfahan"
    ]
@@ -1853,7 +1975,11 @@
     "小さく切った施釉タイルを組み合わせる高度な技法。"
    ],
    "trivia": "14世紀半ば、イスファハーンのマドラサ（学院）のために作られたとされる。ミフラーブはモスク内部で礼拝の方向（キブラ）を示す。"
-  }
+  },
+  "queries": [
+   "Mihrab Isfahan",
+   "Mihrab (Prayer Niche)"
+  ]
  },
  {
   "id": "shahnama-feast-of-sada",
@@ -1875,7 +2001,11 @@
     "高い視点から見下ろす平面的な空間に、物語が重層的に広がる。"
    ],
    "trivia": "サファヴィー朝のシャー・タフマースプのために作られた豪華写本の一葉。「サデ」は火の発見を祝う古代イランの祭り。"
-  }
+  },
+  "queries": [
+   "The Feast of Sada",
+   "Feast of Sada"
+  ]
  },
  {
   "id": "mamluk-mosque-lamp",
@@ -1884,6 +2014,10 @@
   "match": {
    "title": [
     "mosque lamp"
+   ],
+   "year": [
+    1250,
+    1520
    ]
   },
   "genre": "craft",
@@ -1897,7 +2031,11 @@
     "寄進者の紋章やコーランの「光の章」の一節が記されることが多い。"
    ],
    "trivia": "マムルーク朝の首都カイロのモスクや廟に吊るされた。中に油と芯を入れたガラス容器を置いて灯した。"
-  }
+  },
+  "queries": [
+   "Mosque Lamp Mamluk",
+   "Mosque Lamp"
+  ]
  },
  {
   "id": "iznik-dish",
@@ -1945,7 +2083,10 @@
     "詩の銘文が家の主人を称え、もてなしの空間を演出する。"
    ],
    "trivia": "18世紀初頭のダマスカスの邸宅の冬の応接室を移設したもの。ニスの変色により、当初はもっと鮮やかだったとされる。"
-  }
+  },
+  "queries": [
+   "Damascus Room"
+  ]
  },
  {
   "id": "emperors-carpet",
@@ -1968,7 +2109,11 @@
     "極めて高い結び目の密度による、絵画のように精緻な表現。"
    ],
    "trivia": "16世紀サファヴィー朝の宮廷工房製とされる。かつてハプスブルク家が所有したことからこの名で呼ばれる。対になる一枚がウィーンにある。"
-  }
+  },
+  "queries": [
+   "The Emperor's Carpet",
+   "Emperor's Carpet"
+  ]
  },
  {
   "id": "dome-of-the-rock",
@@ -1990,7 +2135,12 @@
     "内部にはビザンティン風の金地モザイクで植物や宝飾が表される。"
    ],
    "trivia": "7世紀末、ウマイヤ朝のカリフ、アブドゥルマリクによって建てられた。現存する最古級のイスラーム建築。"
-  }
+  },
+  "queries": [
+   "Dome of the Rock",
+   "Dome of the Rock Jerusalem",
+   "Qubbat al-Sakhra"
+  ]
  },
  {
   "id": "alhambra",
@@ -2144,7 +2294,11 @@
     "周囲の花の縁取りが画面を豪華な宝飾品のように見せる。"
    ],
    "trivia": "いわゆる「シャー・ジャハーン・アルバム」の一葉。横顔の肖像はムガル宮廷の公式な皇帝像の形式だった。"
-  }
+  },
+  "queries": [
+   "Shah Jahan on a Terrace",
+   "Shah Jahan Holding a Pendant"
+  ]
  },
  {
   "id": "chola-nataraja",
@@ -2343,7 +2497,10 @@
     "パピルスや蓮をかたどった柱頭が、ナイルの湿地を象徴する。"
    ],
    "trivia": "アスワン・ハイ・ダム建設で水没の危機にあった遺跡を救った謝礼として、エジプトから米国に贈られた。"
-  }
+  },
+  "queries": [
+   "Temple of Dendur"
+  ]
  },
  {
   "id": "william-hippo",
@@ -2372,7 +2529,12 @@
     "水辺の植物の文様で、カバが川の中にいる様子を表している。"
    ],
    "trivia": "メトロポリタン美術館の非公式マスコットで「ウィリアム」の愛称を持つ。墓に納められた際、力を封じるため脚が折られていたとされる。"
-  }
+  },
+  "queries": [
+   "William hippopotamus",
+   "Statuette of a Hippopotamus",
+   "hippopotamus faience"
+  ]
  },
  {
   "id": "new-york-kouros",
@@ -2386,8 +2548,8 @@
     "marble"
    ],
    "year": [
-    -650,
-    -550
+    -600,
+    -570
    ]
   },
   "genre": "sculpture",
@@ -2401,7 +2563,11 @@
     "エジプトの立像の影響を受けつつ、裸体で表される点がギリシア的。"
    ],
    "trivia": "アッティカで作られた、最初期の等身大大理石クーロス像の一つ。紀元前590〜580年頃とされる。"
-  }
+  },
+  "queries": [
+   "Marble statue of a kouros",
+   "kouros"
+  ]
  },
  {
   "id": "geometric-krater",
@@ -2430,7 +2596,12 @@
     "大きな器は墓の上に置かれ、墓標の役割を果たした。"
    ],
    "trivia": "クラテルはワインを水で割るための器。アテネのディピュロン墓地出土の大型器が幾何学様式の代表作として知られる。"
-  }
+  },
+  "queries": [
+   "Terracotta krater Geometric",
+   "Geometric krater",
+   "krater Hirschfeld"
+  ]
  },
  {
   "id": "assyrian-lamassu",
@@ -2456,7 +2627,11 @@
     "角のある冠は神性を示す。"
    ],
    "trivia": "新アッシリアのアッシュールナツィルパル2世のニムルドの宮殿の門を守っていた守護獣。"
-  }
+  },
+  "queries": [
+   "Human-headed winged lion",
+   "lamassu Nimrud"
+  ]
  },
  {
   "id": "parthenon",
@@ -2577,7 +2752,11 @@
     "額の象嵌や細かな文様に、宮廷工房の高い技術が表れる。"
    ],
    "trivia": "16世紀のベニン王国の王オバ・エシギエが、母イディアを称えて儀礼で身につけたものとされる。大英博物館などにも類例がある。"
-  }
+  },
+  "queries": [
+   "Queen Mother Pendant Mask Iyoba",
+   "Iyoba"
+  ]
  },
  {
   "id": "machu-picchu",

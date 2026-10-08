@@ -24,6 +24,7 @@ const args = Object.fromEntries(process.argv.slice(2).map((a) => {
 const regions = read('data/regions.json');
 const periods = read('data/periods.json');
 const regionById = Object.fromEntries(regions.map((r) => [r.id, r]));
+const styleById = Object.fromEntries(read('data/styles.json').map((s) => [s.id, s]));
 
 const seedFiles = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => /^batch-\d+\.json$/.test(f)).sort();
 const seeds = seedFiles.flatMap((f) => read(`pipeline/seeds/${f}`).map((s) => ({ ...s, batch: f.replace('.json', '') })));
@@ -74,7 +75,13 @@ function compose(seed, fetched) {
   const ys = fetched.yearStart ?? fetched.yearEnd;
   const ye = fetched.yearEnd ?? fetched.yearStart;
   let year = ys != null ? Math.round((ys + ye) / 2) : null;
-  const { period, era, estimatedYear } = assignPeriod(periods, region.period_scheme, year, seed.period);
+  let { period, era, estimatedYear } = assignPeriod(periods, region.period_scheme, year, seed.period);
+  if (year == null && estimatedYear == null) {
+    // 取得データに年がない場合は様式の年代幅の中央を推定値とする（year_estimated で明示）
+    const st = styleById[seed.style];
+    estimatedYear = Math.round((Math.max(st.start, -3000) + st.end) / 2);
+    ({ period, era } = assignPeriod(periods, region.period_scheme, estimatedYear, seed.period));
+  }
   const yearEstimated = year == null && estimatedYear != null;
   if (year == null) year = estimatedYear;
   const r = fetched.record;

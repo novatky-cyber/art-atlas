@@ -1,0 +1,82 @@
+name: Fetch artwork data
+
+# 美術館 API / Wikidata から作品データを取得して data/ にコミットし、そのままサイトを再公開する。
+# Actions タブ → 「Fetch artwork data」→「Run workflow」で手動実行。
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'missing = 未取得のシードだけ取得 / refresh = 全件を再取得'
+        type: choice
+        options: [missing, refresh]
+        default: missing
+      only:
+        description: '特定の作品IDだけ取得（カンマ区切り、空欄で全体）'
+        required: false
+        default: ''
+      batch:
+        description: '特定のバッチだけ対象（例 batch-002、空欄で全体）'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: fetch-data
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch
+        env:
+          SI_API_KEY: ${{ secrets.SI_API_KEY }}
+          MODE: ${{ inputs.mode }}
+          ONLY: ${{ inputs.only }}
+          BATCH: ${{ inputs.batch }}
+        run: |
+          ARGS=""
+          if [ "$MODE" = "refresh" ]; then ARGS="$ARGS --refresh"; fi
+          if [ -n "$ONLY" ]; then ARGS="$ARGS --only=$ONLY"; fi
+          if [ -n "$BATCH" ]; then ARGS="$ARGS --batch=$BATCH"; fi
+          node pipeline/fetch.mjs $ARGS | tee fetch.log
+      - run: npm run validate
+      - name: Summary
+        run: |
+          echo '## 取得結果' >> "$GITHUB_STEP_SUMMARY"
+          tail -n 3 fetch.log >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          node scripts/status.mjs >> "$GITHUB_STEP_SUMMARY" || true
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/artworks.json data/fetch-report.json
+          if git diff --cached --quiet; then
+            echo "変更なし"
+          else
+            git commit -m "data: fetch artworks ($(date -u +%Y-%m-%d))"
+            git push origin HEAD:main
+          fi
+
+  deploy:
+    needs: fetch
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

@@ -3,7 +3,7 @@ import { mkdirSync, copyFileSync, existsSync, writeFileSync } from 'node:fs';
 const root = new URL('../', import.meta.url);
 const out = new URL('public/data/', root);
 mkdirSync(out, { recursive: true });
-for (const f of ['artworks', 'styles', 'regions', 'periods']) {
+for (const f of ['artworks', 'styles', 'regions', 'periods', 'artists', 'museums', 'glossary', 'themes']) {
   const src = new URL(`data/${f}.json`, root);
   if (existsSync(src)) copyFileSync(src, new URL(`${f}.json`, out));
   else writeFileSync(new URL(`${f}.json`, out), '[]\n');

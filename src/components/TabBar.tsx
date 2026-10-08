@@ -1,11 +1,10 @@
 import { href } from '../lib/router';
 
 const TABS = [
-  { key: '', label: '探索', icon: '◎' },
-  { key: 'quiz', label: '今日の10問', icon: '✎' },
-  { key: 'collection', label: '図鑑', icon: '▦' },
-  { key: 'compare', label: '同時代', icon: '⇆' },
-  { key: 'settings', label: '設定', icon: '⚙' },
+  { key: '', label: '手帳', icon: '✎' },
+  { key: 'explore', label: '探索', icon: '◎' },
+  { key: 'timeline', label: '年表', icon: '☰' },
+  { key: 'connect', label: 'つなぐ', icon: '⟡' },
 ];
 
 export function TabBar({ current }: { current: string }) {

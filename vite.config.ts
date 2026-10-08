@@ -34,7 +34,7 @@ export default defineConfig({
         runtimeCaching: [
           {
             // 美術館・Wikimedia の画像（クロスオリジン）を見た分だけキャッシュ
-            urlPattern: ({ request }) => request.destination === 'image',
+            urlPattern: ({ request, url }) => request.destination === 'image' && !url.hostname.endsWith('supabase.co'),
             handler: 'CacheFirst',
             options: {
               cacheName: 'art-images',

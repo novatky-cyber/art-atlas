@@ -1,61 +1,80 @@
-import { useRef, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useDb } from '../lib/data';
-import { emptyProgress, exportProgress, sanitize, useProgress } from '../lib/storage';
+import { useAuth } from '../lib/auth';
+import { useNotes } from '../lib/notes';
+import { supabase, type JobRun } from '../lib/supabase';
 
 export function Settings() {
   const db = useDb();
-  const [p, update] = useProgress();
+  const { session, owner, signOut } = useAuth();
+  const { notes } = useNotes();
+  const [jobs, setJobs] = useState<JobRun[]>([]);
   const [msg, setMsg] = useState('');
-  const file = useRef<HTMLInputElement>(null);
 
-  const onImport = async (f: File) => {
-    try {
-      const data = sanitize(JSON.parse(await f.text()));
-      if (!confirm(`バックアップを読み込みます（獲得カード ${Object.keys(data.collected).length} 枚）。現在の進捗は上書きされます。よろしいですか？`)) return;
-      update(() => data);
-      setMsg('読み込みました。');
-    } catch (e) {
-      setMsg('読み込めませんでした：' + (e as Error).message);
-    }
+  useEffect(() => {
+    if (owner) supabase.from('job_runs').select('id,kind,status,summary,created_at').order('created_at', { ascending: false }).limit(10).then(({ data }) => setJobs((data as JobRun[]) ?? []));
+  }, [owner]);
+
+  const exportJson = async () => {
+    setMsg('書き出しています…');
+    const [c, p] = await Promise.all([supabase.from('checkins').select('*'), supabase.from('pin_positions').select('*')]);
+    const blob = new Blob([JSON.stringify({ app: 'art-atlas', exported_at: new Date().toISOString(), notes, checkins: c.data ?? [], pin_positions: p.data ?? [] }, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `art-atlas-notebook-${new Date().toISOString().slice(0, 10)}.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    setTimeout(() => URL.revokeObjectURL(url), 1000);
+    setMsg('書き出しました（写真そのものは含まれません。写真は Supabase に保存されています）');
   };
 
   return (
     <div className="page">
-      <h1>設定・バックアップ</h1>
-      <section className="panel">
-        <h2>学習データのバックアップ</h2>
-        <p className="small">
-          進捗はこの端末のブラウザ内（localStorage）にだけ保存されます。ホーム画面アプリを削除したり、Safari のデータを消去すると失われるため、
-          ときどきエクスポートして iCloud Drive などに保存してください。
-        </p>
-        <div className="row">
-          <button className="btn primary" onClick={() => exportProgress(p)}>JSONをエクスポート</button>
-          <button className="btn" onClick={() => file.current?.click()}>JSONをインポート</button>
-          <input ref={file} type="file" accept="application/json,.json" hidden onChange={(e) => e.target.files?.[0] && onImport(e.target.files[0])} />
-        </div>
-        {msg && <p className="small">{msg}</p>}
-        <p className="small muted">
-          獲得カード {Object.keys(p.collected).length} 枚 ・ 学習済み {Object.keys(p.cards).length} 枚 ・ 回答日数 {Object.keys(p.history).length} 日
-        </p>
-      </section>
+      <button className="back" onClick={() => history.back()}>‹ 戻る</button>
+      <h1>設定</h1>
+      {session ? (
+        <section className="panel">
+          <h2>アカウント</h2>
+          <p className="small">{session.user.email} でログイン中{owner ? '（持ち主）' : ''}</p>
+          <button className="btn" onClick={signOut}>ログアウト</button>
+        </section>
+      ) : (
+        <p className="small"><a href="#/">手帳</a>からログインしてください。</p>
+      )}
+      {owner && (
+        <>
+          <section className="panel">
+            <h2>バックアップ</h2>
+            <p className="small">記録・チェックイン・注釈位置を JSON で書き出します。</p>
+            <button className="btn primary" onClick={exportJson}>JSONをエクスポート</button>
+            {msg && <p className="small">{msg}</p>}
+          </section>
+          <section className="panel">
+            <h2>夜間の自動処理</h2>
+            {jobs.length ? (
+              <ul className="job-list">
+                {jobs.map((j) => (
+                  <li key={j.id} className={j.status === 'failure' ? 'error' : ''}>
+                    {new Date(j.created_at).toLocaleString('ja-JP')}：{j.status === 'success' ? '成功' : j.status === 'partial' ? '一部失敗' : '失敗'} {j.summary}
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p className="small muted">まだ実行記録はありません。</p>
+            )}
+            <p className="tiny muted">詳細は GitHub の Actions タブ「Nightly」で確認できます。失敗時は Issue も作成されます。</p>
+          </section>
+        </>
+      )}
       <section className="panel">
         <h2>収録データ</h2>
-        <p className="small">
-          作品 {db.artworks.length} 点 ・ 様式 {db.styles.length} ・ 地域 {db.regions.length} ・ 時代区分 {db.periods.length}
-        </p>
+        <p className="small">作品 {db.artworks.length} 点 ・ 様式 {db.styles.length} ・ 作家 {db.artists.length} ・ 用語 {db.glossary.length}</p>
         <p className="small muted">
-          作品名・作家・年代・所蔵などの事実は、各美術館のオープンアクセスAPIと Wikidata / Wikimedia Commons から取得したデータです。
-          「見どころ」「豆知識」「様式の解説」はAIが生成した文章で、誤りを含む可能性があります。画像は各出典のURLを参照しています（パブリックドメインまたはフリーライセンス）。
+          作品名・作家・年代・所蔵などの事実は、各美術館のオープンアクセスAPIと Wikidata / Wikimedia Commons から取得したデータです（解説プレートから作成した作品は、その読み取り結果）。
+          見どころ・物語・技法・豆知識・様式解説はAI生成で、誤りを含む可能性があります。
         </p>
-      </section>
-      <section className="panel">
-        <h2>リセット</h2>
-        <button
-          className="btn danger"
-          onClick={() => confirm('すべての学習進捗を消去します。元に戻せません。よろしいですか？') && update(() => emptyProgress())}
-        >
-          進捗をすべて消去
-        </button>
       </section>
     </div>
   );

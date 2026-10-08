@@ -11,6 +11,11 @@ const periods = read('data/periods.json');
 const styles = read('data/styles.json');
 const targets = read('config/targets.json');
 const GENRES = ['painting', 'sculpture', 'architecture', 'craft'];
+const artists = read('data/artists.json');
+const { museums, cities } = read('data/museums.json');
+const glossary = read('data/glossary.json');
+const themes = read('data/themes.json');
+const themeIds = new Set(themes.map((t) => t.id));
 
 const regionIds = new Set(regions.map((r) => r.id));
 const periodIds = new Set(periods.map((p) => p.id));
@@ -35,7 +40,7 @@ for (const s of styles) {
   if (s.ai_generated !== true) err(`styles: ${s.id} ai_generated: true が必要`);
 }
 
-const seedFiles = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => /^batch-\d+\.json$/.test(f));
+const seedFiles = readdirSync(new URL('pipeline/seeds/', root)).filter((f) => f.endsWith('.json'));
 const seedIds = new Set();
 for (const f of seedFiles) {
   for (const s of read(`pipeline/seeds/${f}`)) {
@@ -43,28 +48,40 @@ for (const f of seedFiles) {
     if (!s.id || !/^[a-z0-9-]+$/.test(s.id)) err(`${at} id は英小文字・数字・ハイフンのみ`);
     if (seedIds.has(s.id)) err(`${at} id 重複`);
     seedIds.add(s.id);
-    if (!['met', 'aic', 'cleveland', 'smithsonian', 'wikidata'].includes(s.source)) err(`${at} source 不正 ${s.source}`);
-    if (!s.query && !s.queries?.length && !s.source_id) err(`${at} query/source_id なし`);
+    if (!['met', 'aic', 'cleveland', 'smithsonian', 'wikidata', 'plate'].includes(s.source)) err(`${at} source 不正 ${s.source}`);
+    if (s.source === 'plate' ? !s.plate?.title : !s.query && !s.queries?.length && !s.source_id) err(`${at} query/source_id（plate は plate.title）なし`);
     if (!GENRES.includes(s.genre)) err(`${at} genre 不正 ${s.genre}`);
     if (!regionIds.has(s.region)) err(`${at} region 不正 ${s.region}`);
     if (!styleIds.has(s.style)) err(`${at} style 不正 ${s.style}`);
     if (s.period && !periodIds.has(s.period)) err(`${at} period 不正 ${s.period}`);
-    if (!s.match || !Object.keys(s.match).length) warns.push(`${at} match 条件なし（誤取得の恐れ）`);
+    if (!s.source_id && s.source !== 'plate' && (!s.match || !Object.keys(s.match).length)) warns.push(`${at} match 条件なし（誤取得の恐れ）`);
     const ai = s.ai ?? {};
     if (!ai.title_ja) err(`${at} ai.title_ja なし`);
-    if (!Array.isArray(ai.highlights) || ai.highlights.length !== 3) err(`${at} ai.highlights は3点必要`);
+    if (!Array.isArray(ai.highlights) || ai.highlights.length < 3 || ai.highlights.length > 4) err(`${at} ai.highlights は3〜4点必要`);
+    for (const h of ai.highlights ?? []) {
+      if (typeof h !== 'object' || !h.text || !(h.x >= 0 && h.x <= 100) || !(h.y >= 0 && h.y <= 100)) err(`${at} highlights は {text, x(0-100), y(0-100)} 形式`);
+    }
+    if (!ai.story) err(`${at} ai.story（物語と時代背景）なし`);
+    if (!ai.technique) err(`${at} ai.technique（制作方法）なし`);
+    for (const t of s.themes ?? []) if (!themeIds.has(t)) err(`${at} themes 不正 ${t}`);
     if (!ai.trivia) err(`${at} ai.trivia なし`);
     const st = styles.find((x) => x.id === s.style);
     if (st && !st.regions.includes(s.region)) warns.push(`${at} style ${s.style} の想定地域に ${s.region} がない`);
   }
 }
 
+const cityIds = new Set(cities.map((c) => c.id));
+for (const m of museums) if (!cityIds.has(m.city)) err(`museums: ${m.id} の city ${m.city} が不正`);
+for (const a of artists) for (const st of a.styles) if (!styleIds.has(st)) err(`artists: ${a.id} の style ${st} が不正`);
+for (const t of themes) for (const st of t.styles) if (!styleIds.has(st)) err(`themes: ${t.id} の style ${st} が不正`);
+for (const g of glossary) if (!g.aliases?.length) err(`glossary: ${g.id} aliases なし`);
+
 if (existsSync(new URL('data/artworks.json', root))) {
   const arts = read('data/artworks.json');
   for (const a of arts) {
     if (!seedIds.has(a.id)) warns.push(`artworks: ${a.id} に対応するシードがない`);
-    if (!a.image?.thumb) err(`artworks: ${a.id} 画像なし`);
-    if (!a.image?.license) err(`artworks: ${a.id} ライセンスなし`);
+    if (a.source?.key !== 'plate' && !a.image?.thumb) err(`artworks: ${a.id} 画像なし`);
+    if (a.image && !a.image.license) err(`artworks: ${a.id} ライセンスなし`);
     if (!a.facts?.title) err(`artworks: ${a.id} 作品名なし`);
     if (a.ai?.ai_generated !== true) err(`artworks: ${a.id} ai_generated フラグなし`);
   }

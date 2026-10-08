@@ -4,6 +4,7 @@ import { displayTitle } from '../lib/data';
 
 export function ArtImage({ a, large = false, className }: { a: Artwork; large?: boolean; className?: string }) {
   const [failed, setFailed] = useState(false);
+  if (!a.image) return <div className={`img-fallback ${className ?? ''}`}>公開画像なし</div>;
   if (failed) return <div className={`img-fallback ${className ?? ''}`}>画像を読み込めません</div>;
   return (
     <img

@@ -1947,10 +1947,11 @@
  {
   "id": "hokusai-fine-wind-clear-morning",
   "source": "aic",
-  "query": "Fine Wind, Clear Weather Hokusai",
+  "query": "South Wind, Clear Sky Hokusai",
   "match": {
    "title_any": [
     "fine wind",
+    "south wind",
     "red fuji",
     "gaifu"
    ],
@@ -1983,9 +1984,10 @@
    "technique": "多色摺木版画（錦絵）。少ない色数とぼかし摺りで、山肌の色の移り変わりを表現している。"
   },
   "queries": [
-   "Fine Wind, Clear Weather",
+   "South Wind, Clear Sky Hokusai",
+   "South Wind, Clear Sky",
    "Red Fuji Hokusai",
-   "Fine Wind Clear Morning"
+   "Fine Wind, Clear Morning"
   ],
   "themes": [
    "nature-garden"

@@ -64,7 +64,7 @@ export function Settings() {
             ) : (
               <p className="small muted">まだ実行記録はありません。</p>
             )}
-            <p className="tiny muted">詳細は GitHub の Actions タブ「Nightly」で確認できます。失敗時は Issue も作成されます。</p>
+            <p className="tiny muted">毎晩3時前に Claude Code のスケジュール実行が記録の解説と作品追加を行い、GitHub Actions「Publish」が公開します。取得・公開の失敗時は GitHub に Issue が作成されます。</p>
           </section>
         </>
       )}

@@ -30,6 +30,7 @@ export interface Note {
   moods: string[];
   photos: string[];
   plate_photos: string[];
+  plate_text: string | null; // 端末 OCR で読み取ったプレートの文字（本人が確認・修正）
   ai_result: {
     extracted?: { title?: string; artist?: string; date?: string; technique?: string; collection?: string };
     confidence?: number;

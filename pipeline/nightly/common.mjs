@@ -1,16 +1,10 @@
 import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
-import { createClient } from '@supabase/supabase-js';
 import { norm } from '../lib/match.mjs';
 
 export const root = new URL('../../', import.meta.url);
 export const read = (p) => JSON.parse(readFileSync(new URL(p, root), 'utf8'));
 export const readIf = (p, d) => (existsSync(new URL(p, root)) ? read(p) : d);
 export const write = (p, v) => writeFileSync(new URL(p, root), JSON.stringify(v, null, 1) + '\n');
-
-export const SUPABASE_URL = process.env.SUPABASE_URL || 'https://mcpibsyhekyboohsgrbr.supabase.co';
-export const supabase = process.env.SUPABASE_SERVICE_ROLE_KEY
-  ? createClient(SUPABASE_URL, process.env.SUPABASE_SERVICE_ROLE_KEY, { auth: { persistSession: false } })
-  : null;
 
 export const today = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10); // 日本時間の日付
 
@@ -43,8 +37,3 @@ export function uniqueId(base, ids) {
   return id;
 }
 
-/** 取得データの事実部分だけを Claude に渡す形にする */
-export const factsOf = (c) => {
-  const f = c.record.facts;
-  return { title: f.title, artist: f.artist, date: f.date, culture: f.culture, medium: f.medium, repository: f.repository, credit_line: f.credit_line };
-};

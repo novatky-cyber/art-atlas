@@ -1,0 +1,63 @@
+name: Publish
+
+# シード（pipeline/seeds/）が main に入ったら、作品データを取得して公開する。
+# 夜間ルーティン（Claude Code）が作った PR のマージで自動的に動く。Claude API は使わない。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'pipeline/seeds/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Fetch new artworks
+        env:
+          SI_API_KEY: ${{ secrets.SI_API_KEY }}
+        run: node pipeline/fetch.mjs | tee fetch.log
+      - run: npm run validate
+      - name: Summary
+        if: always()
+        run: |
+          echo '## 取得結果' >> "$GITHUB_STEP_SUMMARY"
+          tail -n 3 fetch.log >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/artworks.json data/fetch-report.json
+          if git diff --cached --quiet; then echo "変更なし"; else git commit -m "data: publish ($(date -u +%Y-%m-%d))" && git push origin HEAD:main; fi
+      - name: Record failure (Issue)
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "作品データの取得・公開に失敗 ($(date -u +%Y-%m-%d))" --body "実行ログ: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID" || true
+
+  deploy:
+    needs: fetch
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

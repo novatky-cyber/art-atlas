@@ -3127,6 +3127,75 @@
   ]
  },
  {
+  "id": "hokusai-fine-wind-clear-morning",
+  "batch": "batch-001",
+  "genre": "painting",
+  "region": "japan",
+  "region_group": "japan",
+  "style": "ukiyo-e",
+  "themes": [
+   "nature-garden"
+  ],
+  "period": "japan:edo",
+  "era": "world:c19",
+  "year": 1833,
+  "year_start": 1830,
+  "year_end": 1835,
+  "year_estimated": false,
+  "title_ja": "冨嶽三十六景 凱風快晴（赤富士）",
+  "title_ja_source": "ai",
+  "facts": {
+   "title": "South Wind, Clear Sky, from Thirty-Six Views of Mount Fuji",
+   "artist": "Katsushika Hokusai (Japanese, 1760–1849)",
+   "artist_bio": null,
+   "date": "early 1830s",
+   "culture": "Japan, Edo period (1615–1868)",
+   "medium": "color woodblock print",
+   "dimensions": "25.6 x 37.5 cm (10 1/16 x 14 3/4 in.)",
+   "repository": "The Cleveland Museum of Art",
+   "credit_line": "Bequest of Edward L. Whittemore",
+   "object_url": "https://clevelandart.org/art/1930.189"
+  },
+  "image": {
+   "thumb": "https://openaccess-cdn.clevelandart.org/1930.189/1930.189_web.jpg",
+   "large": "https://openaccess-cdn.clevelandart.org/1930.189/1930.189_print.jpg",
+   "license": "CC0",
+   "credit": "The Cleveland Museum of Art",
+   "source_url": "https://clevelandart.org/art/1930.189"
+  },
+  "source": {
+   "name": "Cleveland Museum of Art Open Access API",
+   "id": "111654",
+   "api_url": "https://openaccess-api.clevelandart.org/api/artworks/111654",
+   "key": "cleveland"
+  },
+  "ai": {
+   "title_ja": "冨嶽三十六景 凱風快晴（赤富士）",
+   "highlights": [
+    {
+     "text": "朝日に赤く染まる富士山が、ほぼそれだけで画面を構成するシンプルさ。",
+     "x": 55,
+     "y": 45
+    },
+    {
+     "text": "鱗のように並ぶ雲と、山肌の下方に広がる樹林の濃い緑。",
+     "x": 30,
+     "y": 20
+    },
+    {
+     "text": "わずかな色数で、晩夏から初秋の澄んだ朝の空気を表現している。",
+     "x": 50,
+     "y": 85
+    }
+   ],
+   "trivia": "「凱風」は南風、「快晴」は晴天の意。通称「赤富士」として親しまれ、「神奈川沖浪裏」と並ぶ北斎の代表作。",
+   "story": "「冨嶽三十六景」の中でも、富士山だけを大きく描いた大胆な構図の一枚。輸入顔料のベロ藍を使った青い空が、当時の人々に新鮮な印象を与えた。",
+   "technique": "多色摺木版画（錦絵）。少ない色数とぼかし摺りで、山肌の色の移り変わりを表現している。",
+   "ai_generated": true
+  },
+  "fetched_at": "2026-10-08"
+ },
+ {
   "id": "hiroshige-sudden-shower-atake",
   "batch": "batch-001",
   "genre": "painting",

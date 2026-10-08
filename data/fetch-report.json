@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-10-08T09:04:20.325Z",
+  "generated_at": "2026-10-08T09:06:10.191Z",
   "seeds": 108,
-  "artworks": 107,
-  "newly_fetched": 3,
-  "unresolved": [
-    {
-      "id": "hokusai-fine-wind-clear-morning",
-      "batch": "batch-001",
-      "source": "aic",
-      "query": "Fine Wind, Clear Weather Hokusai"
-    }
-  ],
+  "artworks": 108,
+  "newly_fetched": 1,
+  "unresolved": [],
   "duplicates": [],
   "by_source": {
     "met": 54,
     "aic": 14,
-    "cleveland": 8,
+    "cleveland": 9,
     "wikidata": 31
   },
   "http": {
-    "requests": 17,
+    "requests": 10,
     "failures": 1
   }
 }

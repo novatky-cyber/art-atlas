@@ -1,0 +1,20 @@
+[
+  { "id": "europe-south", "name_ja": "南欧", "name_en": "Southern Europe", "group": "western", "period_scheme": "western", "note": "イタリア・スペイン・ポルトガル" },
+  { "id": "europe-northwest", "name_ja": "北西欧", "name_en": "Northwestern Europe", "group": "western", "period_scheme": "western", "note": "フランス・ネーデルラント・イギリス" },
+  { "id": "europe-central", "name_ja": "中欧・北欧", "name_en": "Central & Northern Europe", "group": "western", "period_scheme": "western", "note": "ドイツ・オーストリア・スイス・スカンディナヴィア" },
+  { "id": "europe-east", "name_ja": "東欧・ビザンティン", "name_en": "Eastern Europe & Byzantium", "group": "western", "period_scheme": "western", "note": "ビザンティン帝国・ロシア・東欧" },
+  { "id": "north-america", "name_ja": "北米", "name_en": "North America", "group": "western", "period_scheme": "western", "note": "アメリカ合衆国・カナダ（植民地期以降）" },
+  { "id": "japan", "name_ja": "日本", "name_en": "Japan", "group": "japan", "period_scheme": "japan", "note": "" },
+  { "id": "china", "name_ja": "中国", "name_en": "China", "group": "china", "period_scheme": "china", "note": "古代中国（殷・周）を含む" },
+  { "id": "korea", "name_ja": "朝鮮半島", "name_en": "Korea", "group": "other", "period_scheme": "korea", "note": "" },
+  { "id": "iran-central-asia", "name_ja": "イラン・中央アジア", "name_en": "Iran & Central Asia", "group": "islamic", "period_scheme": "islamic", "note": "ペルシア・ティムール朝・サファヴィー朝" },
+  { "id": "arab-ottoman", "name_ja": "アラブ・オスマン・マグリブ", "name_en": "Arab World, Ottoman & Maghreb", "group": "islamic", "period_scheme": "islamic", "note": "シリア・エジプト（イスラーム期）・トルコ・北アフリカ・アンダルス" },
+  { "id": "south-asia", "name_ja": "南アジア", "name_en": "South Asia", "group": "south-southeast-asia", "period_scheme": "south-asia", "note": "インド・パキスタン・スリランカ・ネパール（ムガル朝を含む）" },
+  { "id": "southeast-asia", "name_ja": "東南アジア", "name_en": "Southeast Asia", "group": "south-southeast-asia", "period_scheme": "southeast-asia", "note": "カンボジア・タイ・インドネシア・ミャンマー・ベトナム" },
+  { "id": "egypt-ancient", "name_ja": "古代エジプト", "name_en": "Ancient Egypt", "group": "ancient", "period_scheme": "egypt", "note": "先王朝〜ローマ支配期" },
+  { "id": "ancient-near-east", "name_ja": "古代オリエント", "name_en": "Ancient Near East", "group": "ancient", "period_scheme": "near-east", "note": "メソポタミア・アッシリア・ペルシア（イスラーム以前）" },
+  { "id": "greco-roman", "name_ja": "ギリシア・ローマ", "name_en": "Greco-Roman", "group": "ancient", "period_scheme": "greco-roman", "note": "エーゲ文明・ギリシア・エトルリア・ローマ" },
+  { "id": "africa", "name_ja": "アフリカ", "name_en": "Sub-Saharan Africa", "group": "other", "period_scheme": "world", "note": "サハラ以南" },
+  { "id": "americas-indigenous", "name_ja": "中南米（先住民文化）", "name_en": "Indigenous Americas", "group": "other", "period_scheme": "americas", "note": "メソアメリカ・アンデス" },
+  { "id": "oceania", "name_ja": "オセアニア", "name_en": "Oceania", "group": "other", "period_scheme": "world", "note": "" }
+]

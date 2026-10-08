@@ -1,0 +1,1735 @@
+[
+  {
+    "id": "byzantine",
+    "name_ja": "ビザンティン美術",
+    "name_en": "Byzantine",
+    "regions": [
+      "europe-east",
+      "europe-south"
+    ],
+    "start": 330,
+    "end": 1453,
+    "summary": "東ローマ帝国で発展したキリスト教美術。金地のモザイクやイコンに、超越的で静謐な聖性を表す。",
+    "features": [
+      "金地の背景と正面性の強い人物",
+      "細長くフラットな身体と大きな目",
+      "ドーム中心の集中式聖堂"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "early-medieval",
+    "name_ja": "中世初期美術（カロリング・オットー朝）",
+    "name_en": "Carolingian & Ottonian",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 750,
+    "end": 1050,
+    "summary": "古代復興を意識した写本・金工・象牙彫刻が中心。修道院と宮廷が担い手。",
+    "features": [
+      "装飾写本と金工の豪華さ",
+      "古代風の人物表現の模倣",
+      "平面的で力強い輪郭"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "romanesque",
+    "name_ja": "ロマネスク",
+    "name_en": "Romanesque",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1000,
+    "end": 1200,
+    "summary": "巡礼と修道院の時代の様式。厚い壁と半円アーチの重厚な聖堂、柱頭や扉口の素朴で力強い彫刻。",
+    "features": [
+      "半円アーチと厚い壁、小さな窓",
+      "柱頭・タンパンの物語彫刻",
+      "人物はデフォルメされ表現的"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "gothic",
+    "name_ja": "ゴシック",
+    "name_en": "Gothic",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1140,
+    "end": 1500,
+    "summary": "尖頭アーチ・リブヴォールト・飛び梁で高く明るい空間を実現した様式。ステンドグラスと優美な彫刻・工芸も特徴。",
+    "features": [
+      "尖頭アーチと垂直性の強調",
+      "大きなステンドグラスの窓",
+      "S字に身体をひねる優美な人物像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "trecento",
+    "name_ja": "イタリア・ゴシック絵画（トレチェント）",
+    "name_en": "Italian Gothic painting",
+    "regions": [
+      "europe-south"
+    ],
+    "start": 1260,
+    "end": 1400,
+    "summary": "シエナ派やジョットらによる13〜14世紀イタリア絵画。ビザンティンの金地を残しつつ、量感と感情表現が芽生える。",
+    "features": [
+      "金地テンペラの祭壇画",
+      "人物に量感と柔らかな感情",
+      "建築的な額縁と多翼形式"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "international-gothic",
+    "name_ja": "国際ゴシック",
+    "name_en": "International Gothic",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1375,
+    "end": 1450,
+    "summary": "14世紀末〜15世紀初頭に欧州宮廷で共有された優雅な様式。装飾性と細密な自然描写が同居する。",
+    "features": [
+      "流れるような衣文線と細身の人物",
+      "金や群青を多用した華麗な色彩",
+      "宮廷的・物語的な細部"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "early-netherlandish",
+    "name_ja": "初期ネーデルラント絵画",
+    "name_en": "Early Netherlandish",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1420,
+    "end": 1530,
+    "summary": "ファン・エイクらが油彩技法を磨き、宝石や布の質感、光の反射まで描き分けた写実の極み。",
+    "features": [
+      "極めて細密な質感描写",
+      "日常空間に宗教的象徴を潜ませる",
+      "透明感のある油彩の層"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "early-renaissance",
+    "name_ja": "初期ルネサンス",
+    "name_en": "Early Renaissance",
+    "regions": [
+      "europe-south"
+    ],
+    "start": 1400,
+    "end": 1490,
+    "summary": "フィレンツェを中心に、線遠近法・人体の量感・古代への関心が結びついた様式。",
+    "features": [
+      "線遠近法による奥行き",
+      "明快な輪郭と均整の取れた構図",
+      "古代建築モチーフの引用"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "high-renaissance",
+    "name_ja": "盛期ルネサンス",
+    "name_en": "High Renaissance",
+    "regions": [
+      "europe-south"
+    ],
+    "start": 1490,
+    "end": 1530,
+    "summary": "レオナルド、ミケランジェロ、ラファエロに代表される調和と理想美の頂点。建築ではブラマンテやパラーディオの古典主義。",
+    "features": [
+      "ピラミッド型の安定した構図",
+      "理想化された人物と自然な動き",
+      "左右対称・比例を重んじる建築"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "venetian-renaissance",
+    "name_ja": "ヴェネツィア派",
+    "name_en": "Venetian School",
+    "regions": [
+      "europe-south"
+    ],
+    "start": 1470,
+    "end": 1600,
+    "summary": "ベッリーニ、ジョルジョーネ、ティツィアーノらによる色彩重視の絵画。線より色と光で形を作る。",
+    "features": [
+      "豊かな色彩と柔らかな光",
+      "官能的な裸婦や詩的な風景",
+      "大胆な筆触（後期ティツィアーノ）"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "northern-renaissance",
+    "name_ja": "北方ルネサンス",
+    "name_en": "Northern Renaissance",
+    "regions": [
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1490,
+    "end": 1600,
+    "summary": "デューラー、ホルバイン、ブリューゲルらアルプス以北の16世紀美術。版画の普及と農民・風景への関心。",
+    "features": [
+      "緻密な線描と版画表現",
+      "農民生活や風景への関心",
+      "イタリア的人体理論と北方的写実の融合"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mannerism",
+    "name_ja": "マニエリスム",
+    "name_en": "Mannerism",
+    "regions": [
+      "europe-south"
+    ],
+    "start": 1520,
+    "end": 1610,
+    "summary": "盛期ルネサンス後の技巧的・緊張感ある様式。引き伸ばされた人体や不安定な空間、冷たい色彩。",
+    "features": [
+      "引き伸ばされた人体",
+      "不自然・不安定な空間",
+      "人工的で鮮烈な色彩"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "baroque",
+    "name_ja": "バロック",
+    "name_en": "Baroque",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1600,
+    "end": 1730,
+    "summary": "強い明暗、劇的な動き、感情への訴えを特徴とする17世紀の様式。対抗宗教改革と絶対王政の美術。",
+    "features": [
+      "強烈な明暗（キアロスクーロ）",
+      "斜めの動き・劇的な瞬間",
+      "曲面と装飾が躍動する建築"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "flemish-baroque",
+    "name_ja": "フランドル・バロック",
+    "name_en": "Flemish Baroque",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1600,
+    "end": 1700,
+    "summary": "ルーベンス、ヴァン・ダイクらアントウェルペンを中心とする華麗なバロック絵画。",
+    "features": [
+      "うねるような肉体と動き",
+      "温かく豊かな色彩",
+      "王侯貴族の優雅な肖像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "dutch-golden-age",
+    "name_ja": "オランダ黄金時代",
+    "name_en": "Dutch Golden Age",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1600,
+    "end": 1700,
+    "summary": "市民社会が支えた17世紀オランダ絵画。風俗画・静物画・風景画・集団肖像が発達し、光の描写が冴える。",
+    "features": [
+      "室内に差し込む静かな光",
+      "市民の日常や静物を主題に",
+      "小ぶりな画面と緻密な仕上げ"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "rococo",
+    "name_ja": "ロココ",
+    "name_en": "Rococo",
+    "regions": [
+      "europe-northwest",
+      "europe-central",
+      "europe-south"
+    ],
+    "start": 1715,
+    "end": 1780,
+    "summary": "フランス宮廷文化に始まる軽やかで優美な様式。恋愛・遊楽の主題、パステル調、曲線装飾。",
+    "features": [
+      "パステル調の明るい色彩",
+      "恋愛や雅宴など軽やかな主題",
+      "C字・S字の曲線装飾"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "neoclassicism",
+    "name_ja": "新古典主義",
+    "name_en": "Neoclassicism",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1760,
+    "end": 1830,
+    "summary": "古代ギリシア・ローマを理想とし、明晰な線と道徳的主題を重んじた様式。",
+    "features": [
+      "明晰な輪郭と抑制された色彩",
+      "古代の英雄・道徳的主題",
+      "彫刻的で静的な構図"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "romanticism",
+    "name_ja": "ロマン主義",
+    "name_en": "Romanticism",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1790,
+    "end": 1850,
+    "summary": "理性より感情・想像力・崇高な自然を重んじた運動。劇的な色彩と筆致で人間の情熱や自然の脅威を描く。",
+    "features": [
+      "激しい感情や劇的な事件",
+      "崇高な自然・嵐・炎",
+      "奔放な筆致と色彩"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "academic-art",
+    "name_ja": "アカデミスム",
+    "name_en": "Academic Art",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1830,
+    "end": 1900,
+    "summary": "美術アカデミーやサロンで正統とされた、精緻な仕上げと歴史・神話主題の絵画・彫刻。",
+    "features": [
+      "筆跡を残さない滑らかな仕上げ",
+      "神話・歴史・東方趣味の主題",
+      "理想化された人体"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "realism",
+    "name_ja": "レアリスム",
+    "name_en": "Realism",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1840,
+    "end": 1880,
+    "summary": "クールベらによる、理想化を拒み同時代の人々をありのままに描く運動。",
+    "features": [
+      "労働者・農民・地方の日常",
+      "理想化しない人物",
+      "大画面に日常を描く挑発性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "barbizon",
+    "name_ja": "バルビゾン派",
+    "name_en": "Barbizon School",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1830,
+    "end": 1880,
+    "summary": "フォンテーヌブローの森近くの村に集った画家たち。戸外での自然観察と農村風景を重視。",
+    "features": [
+      "素朴な農村と森の風景",
+      "落ち着いた土色の色調",
+      "農民の労働への共感"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "pre-raphaelite",
+    "name_ja": "ラファエル前派",
+    "name_en": "Pre-Raphaelite",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1848,
+    "end": 1900,
+    "summary": "ラファエロ以前の純粋さを掲げた英国の画家集団。鮮やかな色彩と細密描写、文学・中世主題。",
+    "features": [
+      "宝石のような鮮やかな色彩",
+      "植物まで細密に描く",
+      "中世・文学に基づく主題"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "impressionism",
+    "name_ja": "印象派",
+    "name_en": "Impressionism",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1865,
+    "end": 1895,
+    "summary": "移ろう光と大気を、明るい色彩と素早い筆触でとらえた運動。近代都市の余暇も主題に。",
+    "features": [
+      "筆触分割による明るい色彩",
+      "戸外の光と影の色",
+      "都市生活・余暇・水辺の主題"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "neo-impressionism",
+    "name_ja": "新印象派（点描）",
+    "name_en": "Neo-Impressionism",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1884,
+    "end": 1910,
+    "summary": "スーラ、シニャックらが色彩理論に基づき純色の点を並べ、視覚混合を狙った様式。",
+    "features": [
+      "規則正しい点描",
+      "静止した幾何学的構図",
+      "補色の対比の理論的利用"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "post-impressionism",
+    "name_ja": "ポスト印象派",
+    "name_en": "Post-Impressionism",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1885,
+    "end": 1910,
+    "summary": "セザンヌ、ゴッホ、ゴーギャン、ロートレックら、印象派を超えて構築性・表現性・象徴性を追求した画家たち。",
+    "features": [
+      "うねる筆致や構築的な色面",
+      "輪郭線と平塗り（総合主義）",
+      "強い主観と色彩の象徴性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "symbolism",
+    "name_ja": "象徴主義",
+    "name_en": "Symbolism",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1870,
+    "end": 1910,
+    "summary": "目に見えない観念・夢・神秘を、神話や寓意的イメージで表そうとした潮流。",
+    "features": [
+      "夢幻的・神秘的な雰囲気",
+      "神話・宿命の女などの寓意",
+      "装飾的で内省的な画面"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "art-nouveau",
+    "name_ja": "アール・ヌーヴォー／モデルニスモ",
+    "name_en": "Art Nouveau / Modernisme",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central"
+    ],
+    "start": 1890,
+    "end": 1914,
+    "summary": "植物の曲線や有機的形態を建築・工芸・ポスターに展開した世紀末様式。スペインではモデルニスモ。",
+    "features": [
+      "植物的なうねる曲線",
+      "鉄・ガラス・タイルの新素材",
+      "建築と装飾の総合"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "vienna-secession",
+    "name_ja": "ウィーン分離派",
+    "name_en": "Vienna Secession",
+    "regions": [
+      "europe-central"
+    ],
+    "start": 1897,
+    "end": 1918,
+    "summary": "クリムトらがアカデミーから分離して結成。金箔や幾何学文様による装飾的平面性が特徴。",
+    "features": [
+      "金箔や文様による装飾的背景",
+      "平面的なパターンと写実的な顔の対比",
+      "総合芸術への志向"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "expressionism",
+    "name_ja": "表現主義",
+    "name_en": "Expressionism",
+    "regions": [
+      "europe-central",
+      "europe-northwest"
+    ],
+    "start": 1905,
+    "end": 1930,
+    "summary": "内面の感情を強烈な色彩と歪んだ形で外に表す20世紀初頭の運動（ドイツの橋派・青騎士など）。",
+    "features": [
+      "歪んだ形と強い輪郭",
+      "非自然な激しい色彩",
+      "不安・叫びなど内面の表出"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "fauvism",
+    "name_ja": "フォーヴィスム",
+    "name_en": "Fauvism",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1905,
+    "end": 1910,
+    "summary": "マティスらによる、純色を大胆に用いた「野獣」の絵画。",
+    "features": [
+      "原色に近い強烈な色彩",
+      "奥行きより平面性",
+      "素早く荒々しい筆致"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "cubism",
+    "name_ja": "キュビスム",
+    "name_en": "Cubism",
+    "regions": [
+      "europe-northwest"
+    ],
+    "start": 1907,
+    "end": 1925,
+    "summary": "ピカソとブラックが始めた、対象を幾何学的に分解し複数の視点を一画面に組み込む表現。",
+    "features": [
+      "対象の幾何学的分解",
+      "複数視点の同時表現",
+      "抑えた色調（分析的キュビスム）"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "gothic-revival",
+    "name_ja": "ゴシック・リヴァイヴァル",
+    "name_en": "Gothic Revival",
+    "regions": [
+      "europe-northwest",
+      "north-america"
+    ],
+    "start": 1750,
+    "end": 1900,
+    "summary": "18〜19世紀に中世ゴシックを復興した建築様式。国民的・宗教的な理想と結びついた。",
+    "features": [
+      "尖頭アーチと尖塔",
+      "垂直線を強調した外観",
+      "中世風装飾の近代的再現"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "beaux-arts",
+    "name_ja": "ボザール／歴史主義建築",
+    "name_en": "Beaux-Arts / Historicism",
+    "regions": [
+      "europe-south",
+      "europe-northwest",
+      "europe-central",
+      "north-america"
+    ],
+    "start": 1850,
+    "end": 1920,
+    "summary": "過去の様式を折衷し、壮麗な公共建築を生んだ19世紀建築。",
+    "features": [
+      "左右対称の壮麗なファサード",
+      "古典・バロックの折衷",
+      "大階段・ドームなどの記念性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "hudson-river-school",
+    "name_ja": "ハドソン・リヴァー派",
+    "name_en": "Hudson River School",
+    "regions": [
+      "north-america"
+    ],
+    "start": 1825,
+    "end": 1880,
+    "summary": "トマス・コールに始まるアメリカの風景画派。未開の大自然を崇高かつ国民的な象徴として描く。",
+    "features": [
+      "雄大なパノラマ風景",
+      "光に満ちたドラマチックな空",
+      "開拓と原生自然の対比"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "american-realism",
+    "name_ja": "アメリカン・リアリズム",
+    "name_en": "American Realism",
+    "regions": [
+      "north-america"
+    ],
+    "start": 1860,
+    "end": 1930,
+    "summary": "ホーマー、イーキンズらによる、アメリカの生活と自然を率直に描いた写実絵画。",
+    "features": [
+      "海・狩猟・スポーツなど米国的主題",
+      "力強く率直な写実",
+      "人間と自然の緊張関係"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "russian-icon",
+    "name_ja": "ロシア・イコン",
+    "name_en": "Russian Icon",
+    "regions": [
+      "europe-east"
+    ],
+    "start": 1000,
+    "end": 1700,
+    "summary": "ビザンティンから受け継いだ聖像画をロシアで発展させたもの。ルブリョフらが代表。",
+    "features": [
+      "金地と逆遠近法",
+      "柔らかな色調と細長い人物",
+      "典礼に基づく定型的図像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "jomon",
+    "name_ja": "縄文の造形",
+    "name_en": "Jōmon",
+    "regions": [
+      "japan"
+    ],
+    "start": -14000,
+    "end": -300,
+    "summary": "縄目文様や力強い立体装飾をもつ土器・土偶。世界最古級の土器文化。",
+    "features": [
+      "縄を転がした縄目文様",
+      "火焔のような立体的口縁",
+      "誇張された人体の土偶"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "kofun-haniwa",
+    "name_ja": "古墳時代の造形（埴輪）",
+    "name_en": "Kofun / Haniwa",
+    "regions": [
+      "japan"
+    ],
+    "start": 250,
+    "end": 600,
+    "summary": "古墳の墳丘に並べられた素焼きの埴輪や、銅鏡・武具などの副葬品。",
+    "features": [
+      "素焼きの赤褐色の土",
+      "目と口をくり抜いた素朴な顔",
+      "円筒・人物・動物・家形"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "asuka-hakuho-buddhist",
+    "name_ja": "飛鳥・白鳳の仏教美術",
+    "name_en": "Asuka–Hakuhō Buddhist",
+    "regions": [
+      "japan"
+    ],
+    "start": 538,
+    "end": 710,
+    "summary": "朝鮮半島・中国南北朝の影響を受けた初期仏教美術。法隆寺がその宝庫。",
+    "features": [
+      "杏仁形の目とアルカイック・スマイル",
+      "左右対称で正面性の強い仏像",
+      "大陸系の伽藍配置"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "tempyo",
+    "name_ja": "天平文化",
+    "name_en": "Tenpyō",
+    "regions": [
+      "japan"
+    ],
+    "start": 710,
+    "end": 794,
+    "summary": "唐の国際色豊かな文化を吸収した奈良時代の美術。写実的な仏像と壮大な官寺。",
+    "features": [
+      "唐風の写実的で量感ある仏像",
+      "乾漆・塑像の技法",
+      "巨大な国家的寺院"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "heian-court",
+    "name_ja": "平安・国風文化",
+    "name_en": "Heian Court / Kokufū",
+    "regions": [
+      "japan"
+    ],
+    "start": 894,
+    "end": 1185,
+    "summary": "遣唐使停止後に成熟した和様の美。定朝様の穏やかな仏像、寝殿造、極楽浄土の表現。",
+    "features": [
+      "穏やかで浅い彫りの定朝様",
+      "浄土を表す阿弥陀堂と庭園",
+      "優美で繊細な和様"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "yamato-e",
+    "name_ja": "やまと絵",
+    "name_en": "Yamato-e",
+    "regions": [
+      "japan"
+    ],
+    "start": 900,
+    "end": 1600,
+    "summary": "日本の風景・物語・季節を描いた絵画様式。絵巻や屏風に展開。",
+    "features": [
+      "吹抜屋台・引目鉤鼻",
+      "季節や名所の情趣",
+      "物語を連続的に描く絵巻"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "kamakura-sculpture",
+    "name_ja": "鎌倉彫刻（慶派）",
+    "name_en": "Kamakura sculpture / Kei school",
+    "regions": [
+      "japan"
+    ],
+    "start": 1185,
+    "end": 1333,
+    "summary": "運慶・快慶らの写実的で力強い仏像。玉眼による生々しい表情。",
+    "features": [
+      "玉眼（水晶の目）",
+      "筋肉や衣文の写実的表現",
+      "躍動感ある力強い姿"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "zen-ink",
+    "name_ja": "禅と水墨画",
+    "name_en": "Zen & Ink Painting",
+    "regions": [
+      "japan"
+    ],
+    "start": 1300,
+    "end": 1600,
+    "summary": "宋元画の影響を受け、禅宗寺院を中心に広まった墨の濃淡による表現。雪舟が大成。",
+    "features": [
+      "墨の濃淡とにじみ",
+      "余白を生かした構図",
+      "山水・禅機図・花鳥"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "kitayama-higashiyama",
+    "name_ja": "北山・東山文化（書院造・庭園）",
+    "name_en": "Muromachi architecture & gardens",
+    "regions": [
+      "japan"
+    ],
+    "start": 1390,
+    "end": 1500,
+    "summary": "室町幕府の将軍たちが育んだ建築・庭園・茶の湯の文化。武家・公家・禅の融合。",
+    "features": [
+      "金閣・銀閣など楼閣建築",
+      "枯山水などの禅宗庭園",
+      "書院造と床の間"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "castle-architecture",
+    "name_ja": "城郭建築",
+    "name_en": "Japanese Castle",
+    "regions": [
+      "japan"
+    ],
+    "start": 1570,
+    "end": 1650,
+    "summary": "戦国末期から近世初期に築かれた天守と石垣を中心とする城。",
+    "features": [
+      "高い石垣と多層の天守",
+      "白漆喰の壁と瓦屋根の重なり",
+      "防御と権威の象徴性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "shrine-architecture",
+    "name_ja": "神社建築",
+    "name_en": "Shinto shrine architecture",
+    "regions": [
+      "japan"
+    ],
+    "start": 500,
+    "end": 1900,
+    "summary": "仏教以前からの信仰に基づく建築。白木・切妻・高床などの古式を伝える。",
+    "features": [
+      "白木や朱塗りの木造",
+      "千木・鰹木・切妻屋根",
+      "自然（山・海）との一体性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "sukiya",
+    "name_ja": "数寄屋造",
+    "name_en": "Sukiya-zukuri",
+    "regions": [
+      "japan"
+    ],
+    "start": 1600,
+    "end": 1900,
+    "summary": "茶室の美意識を取り入れた簡素で洗練された住宅建築。",
+    "features": [
+      "細い柱と簡素な意匠",
+      "庭と一体化した開放性",
+      "自然素材の質感"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "kano-school",
+    "name_ja": "狩野派",
+    "name_en": "Kanō School",
+    "regions": [
+      "japan"
+    ],
+    "start": 1480,
+    "end": 1868,
+    "summary": "室町から江戸まで幕府の御用絵師を務めた画派。漢画と大和絵を融合し、金碧障壁画を大成。",
+    "features": [
+      "金地の豪壮な障壁画",
+      "力強い輪郭線",
+      "松・鷹・唐獅子など格調ある主題"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "rinpa",
+    "name_ja": "琳派",
+    "name_en": "Rinpa",
+    "regions": [
+      "japan"
+    ],
+    "start": 1600,
+    "end": 1868,
+    "summary": "本阿弥光悦・俵屋宗達に始まり、尾形光琳が発展させた装飾的な画派。私淑によって継承。",
+    "features": [
+      "金銀地に大胆なデザイン",
+      "たらし込みの技法",
+      "同一モチーフのリズミカルな反復"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "ukiyo-e",
+    "name_ja": "浮世絵",
+    "name_en": "Ukiyo-e",
+    "regions": [
+      "japan"
+    ],
+    "start": 1670,
+    "end": 1900,
+    "summary": "江戸の町人文化が生んだ木版画・肉筆画。美人・役者・名所が主題。",
+    "features": [
+      "多色摺木版（錦絵）の明快な色面",
+      "大胆なトリミングと構図",
+      "美人・役者・名所風景"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "nanga",
+    "name_ja": "文人画（南画）",
+    "name_en": "Nanga / Literati",
+    "regions": [
+      "japan"
+    ],
+    "start": 1700,
+    "end": 1900,
+    "summary": "中国の文人画に憧れた江戸中期以降の画家たちの絵画。池大雅・与謝蕪村など。",
+    "features": [
+      "柔らかな筆致の山水",
+      "賛（詩文）を伴う画面",
+      "理想郷・隠逸の主題"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "maruyama-shijo",
+    "name_ja": "円山四条派・写生派",
+    "name_en": "Maruyama–Shijō",
+    "regions": [
+      "japan"
+    ],
+    "start": 1760,
+    "end": 1900,
+    "summary": "円山応挙に始まる写生重視の画派。伊藤若冲ら京都の個性的画家も同時代に活躍。",
+    "features": [
+      "実物観察に基づく写生",
+      "柔らかな立体感",
+      "動植物の生き生きとした描写"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "shang-zhou-bronze",
+    "name_ja": "殷周の青銅器",
+    "name_en": "Shang–Zhou Bronzes",
+    "regions": [
+      "china"
+    ],
+    "start": -1600,
+    "end": -221,
+    "summary": "祖先祭祀のための青銅礼器。饕餮文など神秘的な文様が全面を覆う。",
+    "features": [
+      "饕餮文（獣面文）",
+      "左右対称で厳格な器形",
+      "鋳造による精緻な文様"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "han",
+    "name_ja": "秦漢の美術",
+    "name_en": "Qin–Han",
+    "regions": [
+      "china"
+    ],
+    "start": -221,
+    "end": 220,
+    "summary": "統一帝国の力を示す兵馬俑や画像石、副葬品の陶製模型など。",
+    "features": [
+      "躍動的な動物表現",
+      "画像石・画像塼の線刻",
+      "副葬用の明器"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "chinese-buddhist-sculpture",
+    "name_ja": "中国仏教彫刻（南北朝〜唐）",
+    "name_en": "Chinese Buddhist sculpture",
+    "regions": [
+      "china"
+    ],
+    "start": 386,
+    "end": 907,
+    "summary": "北魏の細身で神秘的な仏から、唐の豊満で写実的な仏へと展開した。",
+    "features": [
+      "北魏：細長い体と鋭い衣のひだ",
+      "唐：豊満で量感ある体",
+      "石窟寺院と金銅仏"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "tang",
+    "name_ja": "唐の美術",
+    "name_en": "Tang",
+    "regions": [
+      "china"
+    ],
+    "start": 618,
+    "end": 907,
+    "summary": "シルクロードを通じた国際色豊かな文化。唐三彩、宮廷画、金銀器。",
+    "features": [
+      "三彩釉の流れる色彩",
+      "ふくよかな美人と馬",
+      "西方由来のモチーフ"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "northern-song-landscape",
+    "name_ja": "北宋山水画",
+    "name_en": "Northern Song landscape",
+    "regions": [
+      "china"
+    ],
+    "start": 960,
+    "end": 1127,
+    "summary": "雄大な山を中心に据えた記念碑的山水画。范寛・郭熙らが代表。",
+    "features": [
+      "画面中央にそびえる主山",
+      "三遠法による奥行き",
+      "細かな皴法による岩の質感"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "song-academy",
+    "name_ja": "宋の院体画",
+    "name_en": "Song Academy painting",
+    "regions": [
+      "china"
+    ],
+    "start": 960,
+    "end": 1279,
+    "summary": "宮廷画院の精緻な花鳥画や、南宋の余白を生かした抒情的な山水。",
+    "features": [
+      "精緻な花鳥の写生",
+      "南宋：対角線構図と大きな余白",
+      "詩情と静けさ"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "song-ceramics",
+    "name_ja": "宋代陶磁",
+    "name_en": "Song ceramics",
+    "regions": [
+      "china"
+    ],
+    "start": 960,
+    "end": 1279,
+    "summary": "青磁・白磁・天目など、釉の色と器形の美を極めた陶磁。",
+    "features": [
+      "単色釉の静かな美しさ",
+      "簡潔で洗練された器形",
+      "汝窯・定窯・鈞窯・龍泉窯など"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "yuan-literati",
+    "name_ja": "元の文人画",
+    "name_en": "Yuan literati painting",
+    "regions": [
+      "china"
+    ],
+    "start": 1271,
+    "end": 1368,
+    "summary": "モンゴル支配下で士大夫が書画に心情を託した。趙孟頫・元四大家。",
+    "features": [
+      "書のような筆線",
+      "簡潔で内省的な山水",
+      "詩・書・画の一体化"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "ming-qing-painting",
+    "name_ja": "明清の絵画（浙派・呉派・正統派）",
+    "name_en": "Ming–Qing painting",
+    "regions": [
+      "china"
+    ],
+    "start": 1368,
+    "end": 1911,
+    "summary": "職業画家の浙派、文人の呉派、清の正統派などが展開した。",
+    "features": [
+      "古典の様式を学び再構成",
+      "文人の雅趣と職業画の技巧",
+      "大画面の掛軸・画巻"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "qing-individualists",
+    "name_ja": "清初の個性派",
+    "name_en": "Qing Individualists",
+    "regions": [
+      "china"
+    ],
+    "start": 1640,
+    "end": 1720,
+    "summary": "八大山人・石濤ら明の遺民画家による、型破りで表現的な絵画。",
+    "features": [
+      "極端に簡略化した形",
+      "大胆な余白",
+      "白目をむいた魚や鳥など奇抜な表現"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "ming-qing-porcelain",
+    "name_ja": "明清の磁器",
+    "name_en": "Ming–Qing porcelain",
+    "regions": [
+      "china"
+    ],
+    "start": 1368,
+    "end": 1911,
+    "summary": "景徳鎮の官窯を中心とした青花・五彩・粉彩などの磁器。世界中に輸出された。",
+    "features": [
+      "コバルトの青花",
+      "五彩・粉彩の華やかな色絵",
+      "年款銘入りの官窯"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "chinese-imperial-architecture",
+    "name_ja": "中国宮殿・祭祀建築",
+    "name_en": "Chinese imperial architecture",
+    "regions": [
+      "china"
+    ],
+    "start": 1400,
+    "end": 1911,
+    "summary": "明清の皇帝のための宮殿・壇廟建築。軸線に沿った厳格な配置と彩色。",
+    "features": [
+      "南北軸に沿う左右対称の配置",
+      "黄瑠璃瓦と朱の柱",
+      "基壇の上に立つ大屋根"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "goryeo-celadon",
+    "name_ja": "高麗青磁",
+    "name_en": "Goryeo celadon",
+    "regions": [
+      "korea"
+    ],
+    "start": 918,
+    "end": 1392,
+    "summary": "翡色と呼ばれる澄んだ青緑の釉と、象嵌の技法が特徴の高麗の青磁。",
+    "features": [
+      "翡色の青緑釉",
+      "白黒の象嵌文様",
+      "梅瓶など優美な器形"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "joseon",
+    "name_ja": "朝鮮王朝の美術",
+    "name_en": "Joseon art",
+    "regions": [
+      "korea"
+    ],
+    "start": 1392,
+    "end": 1897,
+    "summary": "儒教的な質素さを尊ぶ白磁や粉青沙器、真景山水などの絵画。",
+    "features": [
+      "簡素で温かみのある白磁",
+      "粉青沙器の自由な文様",
+      "月壺のゆるやかな歪み"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "early-islamic",
+    "name_ja": "初期イスラーム美術（ウマイヤ・アッバース朝）",
+    "name_en": "Early Islamic",
+    "regions": [
+      "arab-ottoman",
+      "iran-central-asia"
+    ],
+    "start": 650,
+    "end": 1000,
+    "summary": "ビザンティンやササン朝の伝統を受け継ぎつつ、イスラームの宗教建築と装飾を確立した。",
+    "features": [
+      "ドームとモザイク装飾",
+      "植物・幾何学文様",
+      "クーフィー体の書"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "moorish-nasrid",
+    "name_ja": "ムーア様式（アンダルス・ナスル朝）",
+    "name_en": "Moorish / Nasrid",
+    "regions": [
+      "arab-ottoman"
+    ],
+    "start": 750,
+    "end": 1492,
+    "summary": "イベリア半島と北アフリカのイスラーム建築。馬蹄形アーチと繊細なスタッコ装飾。",
+    "features": [
+      "馬蹄形・多弁形アーチ",
+      "ムカルナスとスタッコ装飾",
+      "中庭と水の庭園"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mamluk",
+    "name_ja": "マムルーク朝美術",
+    "name_en": "Mamluk",
+    "regions": [
+      "arab-ottoman"
+    ],
+    "start": 1250,
+    "end": 1517,
+    "summary": "エジプト・シリアのマムルーク朝の美術。エナメル彩ガラスや象嵌金属器、壮大な宗教建築。",
+    "features": [
+      "大きな銘文帯",
+      "エナメル彩のモスク・ランプ",
+      "多色石材とドーム"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "ilkhanid-timurid",
+    "name_ja": "イルハン朝・ティムール朝様式",
+    "name_en": "Ilkhanid & Timurid",
+    "regions": [
+      "iran-central-asia"
+    ],
+    "start": 1256,
+    "end": 1507,
+    "summary": "モンゴル支配期以降のイラン・中央アジアの美術。青いタイルで覆われた壮大な建築。",
+    "features": [
+      "施釉タイルのモザイク",
+      "青いリブ付きドーム",
+      "巨大なイーワーン"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "persian-miniature",
+    "name_ja": "ペルシア細密画",
+    "name_en": "Persian miniature",
+    "regions": [
+      "iran-central-asia"
+    ],
+    "start": 1300,
+    "end": 1700,
+    "summary": "写本挿絵として発展した細密画。鮮やかな色彩と装飾的な空間で物語を描く。",
+    "features": [
+      "宝石のような鮮やかな色彩",
+      "高い視点の平面的空間",
+      "詩書の挿絵としての物語性"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "safavid",
+    "name_ja": "サファヴィー朝美術",
+    "name_en": "Safavid",
+    "regions": [
+      "iran-central-asia"
+    ],
+    "start": 1501,
+    "end": 1736,
+    "summary": "イスファハーンを都とした王朝の美術。モスク建築、絨毯、写本芸術が頂点に達した。",
+    "features": [
+      "七色タイルの華やかなドーム",
+      "精緻な宮廷絨毯",
+      "優美な人物の細密画"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "ottoman",
+    "name_ja": "オスマン様式",
+    "name_en": "Ottoman",
+    "regions": [
+      "arab-ottoman"
+    ],
+    "start": 1300,
+    "end": 1900,
+    "summary": "ビザンティンの大ドームを継承し発展させた建築と、イズニク陶器などの工芸。",
+    "features": [
+      "大ドームと鉛筆型ミナレット",
+      "イズニクのチューリップ・カーネーション文",
+      "赤（ボーレ）を含む鮮やかな釉彩"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mughal",
+    "name_ja": "ムガル様式",
+    "name_en": "Mughal",
+    "regions": [
+      "south-asia"
+    ],
+    "start": 1526,
+    "end": 1857,
+    "summary": "ペルシアとインドの伝統を融合したムガル帝国の美術。写実的な宮廷肖像画と白大理石建築。",
+    "features": [
+      "白大理石と象嵌（ピエトラ・ドゥーラ）",
+      "左右対称の庭園（チャハール・バーグ）",
+      "写実的な横顔の肖像画"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "early-buddhist-india",
+    "name_ja": "初期仏教美術（マウリヤ・シュンガ）",
+    "name_en": "Early Buddhist India",
+    "regions": [
+      "south-asia"
+    ],
+    "start": -300,
+    "end": 100,
+    "summary": "アショーカ王の石柱やサーンチーのストゥーパ。仏陀を姿でなく象徴で表す。",
+    "features": [
+      "ストゥーパと塔門（トーラナ）",
+      "仏陀を法輪・足跡などで表す",
+      "豊穣の女神ヤクシー"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "gandhara",
+    "name_ja": "ガンダーラ美術",
+    "name_en": "Gandhara",
+    "regions": [
+      "south-asia"
+    ],
+    "start": 1,
+    "end": 500,
+    "summary": "ヘレニズムの影響を受けた仏教美術。初期の仏像を生み出した。",
+    "features": [
+      "ギリシア彫刻風の写実と衣文",
+      "波打つ髪と口ひげ",
+      "灰色の片岩"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mathura-gupta",
+    "name_ja": "マトゥラー・グプタ美術",
+    "name_en": "Mathura & Gupta",
+    "regions": [
+      "south-asia"
+    ],
+    "start": 100,
+    "end": 600,
+    "summary": "インド的な仏像の古典。グプタ朝で薄い衣が体に密着する理想美が完成。",
+    "features": [
+      "薄く体に張り付く衣",
+      "伏し目がちな静かな表情",
+      "赤色砂岩（マトゥラー）"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "chola",
+    "name_ja": "チョーラ朝美術",
+    "name_en": "Chola",
+    "regions": [
+      "south-asia"
+    ],
+    "start": 850,
+    "end": 1280,
+    "summary": "南インドのチョーラ朝のブロンズ像と巨大寺院。踊るシヴァ（ナタラージャ）が象徴。",
+    "features": [
+      "失蝋法による優美なブロンズ",
+      "火炎輪の中で踊るシヴァ",
+      "そびえるヴィマーナ（本殿塔）"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "hindu-temple",
+    "name_ja": "ヒンドゥー寺院建築",
+    "name_en": "Hindu temple architecture",
+    "regions": [
+      "south-asia",
+      "southeast-asia"
+    ],
+    "start": 500,
+    "end": 1700,
+    "summary": "神の宇宙山を表す寺院建築。北のナーガラ様式、南のドラヴィダ様式など。",
+    "features": [
+      "山を象る高い塔",
+      "壁面を埋める神像彫刻",
+      "聖室への軸線"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "rajput",
+    "name_ja": "ラージプート絵画",
+    "name_en": "Rajput painting",
+    "regions": [
+      "south-asia"
+    ],
+    "start": 1550,
+    "end": 1900,
+    "summary": "ラージャスターンやパンジャーブ丘陵の宮廷で描かれた絵画。クリシュナ物語などが主題。",
+    "features": [
+      "鮮烈な原色の平塗り",
+      "クリシュナと恋愛の主題",
+      "様式化された横顔"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "khmer",
+    "name_ja": "クメール美術",
+    "name_en": "Khmer",
+    "regions": [
+      "southeast-asia"
+    ],
+    "start": 600,
+    "end": 1300,
+    "summary": "前アンコール期からアンコール朝にかけてのカンボジアの美術。壮大な寺院と気品ある神像。",
+    "features": [
+      "宇宙を表す同心方形の寺院",
+      "浅浮彫の長大な回廊",
+      "穏やかな微笑の神像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "javanese-classical",
+    "name_ja": "ジャワ古典美術",
+    "name_en": "Classical Javanese",
+    "regions": [
+      "southeast-asia"
+    ],
+    "start": 700,
+    "end": 1000,
+    "summary": "シャイレーンドラ朝などによる中部ジャワの仏教・ヒンドゥー建築と彫刻。",
+    "features": [
+      "段状のピラミッド型寺院",
+      "物語浮彫の回廊",
+      "仏塔（ストゥーパ）の反復"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "southeast-asian-buddhist",
+    "name_ja": "東南アジア上座部仏教美術",
+    "name_en": "Theravada Southeast Asia",
+    "regions": [
+      "southeast-asia"
+    ],
+    "start": 1000,
+    "end": 1900,
+    "summary": "パガン、スコータイ、アユタヤなどの仏教美術。",
+    "features": [
+      "炎形の頭頂（ラッサミー）",
+      "遊行仏など優美な姿態",
+      "鐘形の仏塔"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "egypt-old-kingdom",
+    "name_ja": "古代エジプト古王国",
+    "name_en": "Egyptian Old Kingdom",
+    "regions": [
+      "egypt-ancient"
+    ],
+    "start": -2686,
+    "end": -2160,
+    "summary": "ピラミッドの時代。厳格な正面性と永遠性を表す彫像。",
+    "features": [
+      "ピラミッドとマスタバ",
+      "正面性と左脚を踏み出す立像",
+      "硬い石材と簡潔な量塊"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "egypt-middle-kingdom",
+    "name_ja": "古代エジプト中王国",
+    "name_en": "Egyptian Middle Kingdom",
+    "regions": [
+      "egypt-ancient"
+    ],
+    "start": -2055,
+    "end": -1650,
+    "summary": "王像に人間的な表情が現れ、副葬品の模型やファイアンスが発達した。",
+    "features": [
+      "憂いを帯びた王の顔",
+      "青いファイアンスの小像",
+      "生活を表す副葬模型"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "egypt-new-kingdom",
+    "name_ja": "古代エジプト新王国",
+    "name_en": "Egyptian New Kingdom",
+    "regions": [
+      "egypt-ancient"
+    ],
+    "start": -1550,
+    "end": -1070,
+    "summary": "帝国の繁栄期。巨大神殿、王家の谷、アマルナ美術の自然主義。",
+    "features": [
+      "巨大な列柱と塔門の神殿",
+      "優美な壁画と浮彫",
+      "アマルナ期の柔らかな人体"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "egypt-late-ptolemaic",
+    "name_ja": "古代エジプト末期・プトレマイオス朝",
+    "name_en": "Late & Ptolemaic Egypt",
+    "regions": [
+      "egypt-ancient"
+    ],
+    "start": -664,
+    "end": 300,
+    "summary": "伝統様式の復古と、ギリシア・ローマとの融合。",
+    "features": [
+      "古王国風の復古的様式",
+      "ギリシア的な写実の混入",
+      "ローマ皇帝をファラオとして表す"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mesopotamian",
+    "name_ja": "メソポタミア美術",
+    "name_en": "Mesopotamian",
+    "regions": [
+      "ancient-near-east"
+    ],
+    "start": -3500,
+    "end": -539,
+    "summary": "シュメールからアッシリア・新バビロニアまで。王権を示す浮彫や守護獣。",
+    "features": [
+      "宮殿を飾る物語浮彫",
+      "人頭有翼獣などの守護像",
+      "楔形文字の碑文"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "achaemenid-sasanian",
+    "name_ja": "アケメネス朝・ササン朝美術",
+    "name_en": "Achaemenid & Sasanian",
+    "regions": [
+      "ancient-near-east"
+    ],
+    "start": -550,
+    "end": 651,
+    "summary": "古代ペルシア帝国の宮廷美術。ペルセポリスの浮彫や銀器。",
+    "features": [
+      "行列する朝貢者の浮彫",
+      "金銀の豪華な器",
+      "王の狩猟図"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "cycladic-aegean",
+    "name_ja": "エーゲ文明（キクラデス・ミノア）",
+    "name_en": "Aegean Bronze Age",
+    "regions": [
+      "greco-roman"
+    ],
+    "start": -3200,
+    "end": -1100,
+    "summary": "キクラデス諸島の大理石像やクレタの宮殿文化。",
+    "features": [
+      "極度に抽象化した大理石像",
+      "胸の前で腕を組む女性像",
+      "海洋モチーフ"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "greek-geometric-archaic",
+    "name_ja": "ギリシア幾何学様式・アルカイック",
+    "name_en": "Greek Geometric & Archaic",
+    "regions": [
+      "greco-roman"
+    ],
+    "start": -900,
+    "end": -480,
+    "summary": "幾何学文様の陶器から、エジプトの影響を受けた硬い立像（クーロス）へ。",
+    "features": [
+      "幾何学文様の帯で埋めた壺",
+      "正面向きの直立像",
+      "アルカイック・スマイル"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "greek-classical",
+    "name_ja": "ギリシア・クラシック",
+    "name_en": "Greek Classical",
+    "regions": [
+      "greco-roman"
+    ],
+    "start": -480,
+    "end": -323,
+    "summary": "理想的比例とコントラポストを確立した古典期。パルテノン神殿が象徴。",
+    "features": [
+      "コントラポスト（片脚重心）",
+      "理想的比例の人体",
+      "ドーリス式・イオニア式の神殿"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "hellenistic",
+    "name_ja": "ヘレニズム",
+    "name_en": "Hellenistic",
+    "regions": [
+      "greco-roman"
+    ],
+    "start": -323,
+    "end": -31,
+    "summary": "アレクサンドロス以後の広域文化。劇的な動きと感情、写実性。",
+    "features": [
+      "ねじれた激しい動き",
+      "苦悩や老いなど感情・写実",
+      "劇的な群像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "roman",
+    "name_ja": "古代ローマ",
+    "name_en": "Roman",
+    "regions": [
+      "greco-roman"
+    ],
+    "start": -509,
+    "end": 476,
+    "summary": "ギリシアを継承しつつ、コンクリートとアーチで巨大建築を実現。写実的な肖像彫刻。",
+    "features": [
+      "アーチ・ヴォールト・ドーム",
+      "コンクリートによる大空間",
+      "写実的な肖像"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "benin",
+    "name_ja": "ベニン王国の美術",
+    "name_en": "Benin Kingdom",
+    "regions": [
+      "africa"
+    ],
+    "start": 1300,
+    "end": 1900,
+    "summary": "現ナイジェリアのベニン王国の宮廷美術。真鍮鋳造と象牙彫刻。",
+    "features": [
+      "真鍮・象牙の宮廷工芸",
+      "王（オバ）や王母の権威表現",
+      "首飾りや冠の様式化"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "african-sculpture",
+    "name_ja": "アフリカの彫刻・仮面",
+    "name_en": "African sculpture",
+    "regions": [
+      "africa"
+    ],
+    "start": 1500,
+    "end": 1960,
+    "summary": "サハラ以南の多様な民族による儀礼用の彫刻と仮面。",
+    "features": [
+      "木彫の大胆な形の抽象化",
+      "儀礼・祖先との関わり",
+      "部族ごとの様式"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "mesoamerican",
+    "name_ja": "メソアメリカ美術（オルメカ・マヤ・アステカ）",
+    "name_en": "Mesoamerican",
+    "regions": [
+      "americas-indigenous"
+    ],
+    "start": -1500,
+    "end": 1521,
+    "summary": "メキシコ〜中米の諸文明。階段ピラミッドと神々の彫刻。",
+    "features": [
+      "階段状ピラミッド神殿",
+      "神話的な動物・神の彫刻",
+      "暦と天文の重視"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "andean",
+    "name_ja": "アンデス美術（モチェ・インカ）",
+    "name_en": "Andean",
+    "regions": [
+      "americas-indigenous"
+    ],
+    "start": -1000,
+    "end": 1572,
+    "summary": "南米アンデスの諸文化。精緻な石組み、土器、織物、金工。",
+    "features": [
+      "隙間のない精緻な石組み",
+      "台形の窓や出入口",
+      "鐙形注口土器と金工"
+    ],
+    "ai_generated": true
+  },
+  {
+    "id": "oceanic",
+    "name_ja": "オセアニアの美術",
+    "name_en": "Oceanic",
+    "regions": [
+      "oceania"
+    ],
+    "start": 1000,
+    "end": 1960,
+    "summary": "メラネシア・ポリネシアなどの儀礼彫刻と装飾。",
+    "features": [
+      "祖先像と儀礼用彫刻",
+      "貝・羽根など多様な素材",
+      "強い様式化"
+    ],
+    "ai_generated": true
+  }
+]

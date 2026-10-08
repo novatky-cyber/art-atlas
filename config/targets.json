@@ -1,0 +1,13 @@
+{
+  "$comment": "地域グループごとの目標作品数。値を変えると図鑑の達成率や scripts/status.mjs の不足数計算に反映されます。",
+  "total": 2000,
+  "groups": {
+    "western": { "label": "西洋", "target": 800 },
+    "japan": { "label": "日本", "target": 350 },
+    "china": { "label": "中国", "target": 250 },
+    "islamic": { "label": "イスラム・中東", "target": 200 },
+    "south-southeast-asia": { "label": "南・東南アジア", "target": 150 },
+    "ancient": { "label": "古代", "target": 150 },
+    "other": { "label": "その他", "target": 100 }
+  }
+}

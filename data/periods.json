@@ -1,0 +1,674 @@
+[
+  {
+    "id": "world:prehistory",
+    "scheme": "world",
+    "name_ja": "先史〜古代前期",
+    "name_en": "Prehistory–Early Antiquity",
+    "start": -40000,
+    "end": -1001
+  },
+  {
+    "id": "world:antiquity",
+    "scheme": "world",
+    "name_ja": "古代",
+    "name_en": "Antiquity",
+    "start": -1000,
+    "end": 499
+  },
+  {
+    "id": "world:early-medieval",
+    "scheme": "world",
+    "name_ja": "中世前期",
+    "name_en": "Early Middle Ages",
+    "start": 500,
+    "end": 999
+  },
+  {
+    "id": "world:high-medieval",
+    "scheme": "world",
+    "name_ja": "中世後期",
+    "name_en": "High & Late Middle Ages",
+    "start": 1000,
+    "end": 1399
+  },
+  {
+    "id": "world:early-modern-1",
+    "scheme": "world",
+    "name_ja": "15〜16世紀",
+    "name_en": "15th–16th c.",
+    "start": 1400,
+    "end": 1599
+  },
+  {
+    "id": "world:early-modern-2",
+    "scheme": "world",
+    "name_ja": "17〜18世紀",
+    "name_en": "17th–18th c.",
+    "start": 1600,
+    "end": 1799
+  },
+  {
+    "id": "world:c19",
+    "scheme": "world",
+    "name_ja": "19世紀",
+    "name_en": "19th c.",
+    "start": 1800,
+    "end": 1899
+  },
+  {
+    "id": "world:c20",
+    "scheme": "world",
+    "name_ja": "20世紀前半",
+    "name_en": "Early 20th c.",
+    "start": 1900,
+    "end": 1960
+  },
+  {
+    "id": "western:early-christian",
+    "scheme": "western",
+    "name_ja": "初期キリスト教・ビザンティン初期",
+    "name_en": "Early Christian",
+    "start": 300,
+    "end": 799
+  },
+  {
+    "id": "western:early-medieval",
+    "scheme": "western",
+    "name_ja": "中世前期（カロリング・オットー朝）",
+    "name_en": "Early Medieval",
+    "start": 800,
+    "end": 1049
+  },
+  {
+    "id": "western:romanesque",
+    "scheme": "western",
+    "name_ja": "ロマネスク期（11〜12世紀）",
+    "name_en": "Romanesque era",
+    "start": 1050,
+    "end": 1199
+  },
+  {
+    "id": "western:gothic",
+    "scheme": "western",
+    "name_ja": "ゴシック期（13〜14世紀）",
+    "name_en": "Gothic era",
+    "start": 1200,
+    "end": 1399
+  },
+  {
+    "id": "western:c15",
+    "scheme": "western",
+    "name_ja": "15世紀",
+    "name_en": "15th century",
+    "start": 1400,
+    "end": 1499
+  },
+  {
+    "id": "western:c16",
+    "scheme": "western",
+    "name_ja": "16世紀",
+    "name_en": "16th century",
+    "start": 1500,
+    "end": 1599
+  },
+  {
+    "id": "western:c17",
+    "scheme": "western",
+    "name_ja": "17世紀",
+    "name_en": "17th century",
+    "start": 1600,
+    "end": 1699
+  },
+  {
+    "id": "western:c18",
+    "scheme": "western",
+    "name_ja": "18世紀",
+    "name_en": "18th century",
+    "start": 1700,
+    "end": 1799
+  },
+  {
+    "id": "western:c19a",
+    "scheme": "western",
+    "name_ja": "19世紀前半",
+    "name_en": "Early 19th century",
+    "start": 1800,
+    "end": 1849
+  },
+  {
+    "id": "western:c19b",
+    "scheme": "western",
+    "name_ja": "19世紀後半",
+    "name_en": "Late 19th century",
+    "start": 1850,
+    "end": 1899
+  },
+  {
+    "id": "western:c20",
+    "scheme": "western",
+    "name_ja": "20世紀前半",
+    "name_en": "Early 20th century",
+    "start": 1900,
+    "end": 1960
+  },
+  {
+    "id": "japan:jomon",
+    "scheme": "japan",
+    "name_ja": "縄文時代",
+    "name_en": "Jōmon",
+    "start": -14000,
+    "end": -301
+  },
+  {
+    "id": "japan:yayoi",
+    "scheme": "japan",
+    "name_ja": "弥生時代",
+    "name_en": "Yayoi",
+    "start": -300,
+    "end": 249
+  },
+  {
+    "id": "japan:kofun",
+    "scheme": "japan",
+    "name_ja": "古墳時代",
+    "name_en": "Kofun",
+    "start": 250,
+    "end": 537
+  },
+  {
+    "id": "japan:asuka",
+    "scheme": "japan",
+    "name_ja": "飛鳥時代",
+    "name_en": "Asuka",
+    "start": 538,
+    "end": 709
+  },
+  {
+    "id": "japan:nara",
+    "scheme": "japan",
+    "name_ja": "奈良時代",
+    "name_en": "Nara",
+    "start": 710,
+    "end": 793
+  },
+  {
+    "id": "japan:heian",
+    "scheme": "japan",
+    "name_ja": "平安時代",
+    "name_en": "Heian",
+    "start": 794,
+    "end": 1184
+  },
+  {
+    "id": "japan:kamakura",
+    "scheme": "japan",
+    "name_ja": "鎌倉時代",
+    "name_en": "Kamakura",
+    "start": 1185,
+    "end": 1332
+  },
+  {
+    "id": "japan:muromachi",
+    "scheme": "japan",
+    "name_ja": "南北朝・室町時代",
+    "name_en": "Nanbokuchō–Muromachi",
+    "start": 1333,
+    "end": 1572
+  },
+  {
+    "id": "japan:momoyama",
+    "scheme": "japan",
+    "name_ja": "安土桃山時代",
+    "name_en": "Momoyama",
+    "start": 1573,
+    "end": 1614
+  },
+  {
+    "id": "japan:edo",
+    "scheme": "japan",
+    "name_ja": "江戸時代",
+    "name_en": "Edo",
+    "start": 1615,
+    "end": 1867
+  },
+  {
+    "id": "japan:meiji",
+    "scheme": "japan",
+    "name_ja": "明治時代以降",
+    "name_en": "Meiji and later",
+    "start": 1868,
+    "end": 1960
+  },
+  {
+    "id": "china:neolithic",
+    "scheme": "china",
+    "name_ja": "新石器時代",
+    "name_en": "Neolithic",
+    "start": -7000,
+    "end": -1601
+  },
+  {
+    "id": "china:shang",
+    "scheme": "china",
+    "name_ja": "殷（商）",
+    "name_en": "Shang",
+    "start": -1600,
+    "end": -1047
+  },
+  {
+    "id": "china:zhou",
+    "scheme": "china",
+    "name_ja": "周（西周・春秋・戦国）",
+    "name_en": "Zhou",
+    "start": -1046,
+    "end": -222
+  },
+  {
+    "id": "china:qin-han",
+    "scheme": "china",
+    "name_ja": "秦・漢",
+    "name_en": "Qin–Han",
+    "start": -221,
+    "end": 219
+  },
+  {
+    "id": "china:six-dynasties",
+    "scheme": "china",
+    "name_ja": "六朝・南北朝",
+    "name_en": "Six Dynasties",
+    "start": 220,
+    "end": 580
+  },
+  {
+    "id": "china:sui-tang",
+    "scheme": "china",
+    "name_ja": "隋・唐",
+    "name_en": "Sui–Tang",
+    "start": 581,
+    "end": 906
+  },
+  {
+    "id": "china:five-dynasties-song",
+    "scheme": "china",
+    "name_ja": "五代・宋",
+    "name_en": "Five Dynasties–Song",
+    "start": 907,
+    "end": 1270
+  },
+  {
+    "id": "china:yuan",
+    "scheme": "china",
+    "name_ja": "元",
+    "name_en": "Yuan",
+    "start": 1271,
+    "end": 1367
+  },
+  {
+    "id": "china:ming",
+    "scheme": "china",
+    "name_ja": "明",
+    "name_en": "Ming",
+    "start": 1368,
+    "end": 1643
+  },
+  {
+    "id": "china:qing",
+    "scheme": "china",
+    "name_ja": "清",
+    "name_en": "Qing",
+    "start": 1644,
+    "end": 1911
+  },
+  {
+    "id": "china:republic",
+    "scheme": "china",
+    "name_ja": "中華民国期",
+    "name_en": "Republic",
+    "start": 1912,
+    "end": 1960
+  },
+  {
+    "id": "korea:three-kingdoms",
+    "scheme": "korea",
+    "name_ja": "三国時代",
+    "name_en": "Three Kingdoms",
+    "start": -57,
+    "end": 667
+  },
+  {
+    "id": "korea:unified-silla",
+    "scheme": "korea",
+    "name_ja": "統一新羅",
+    "name_en": "Unified Silla",
+    "start": 668,
+    "end": 917
+  },
+  {
+    "id": "korea:goryeo",
+    "scheme": "korea",
+    "name_ja": "高麗",
+    "name_en": "Goryeo",
+    "start": 918,
+    "end": 1391
+  },
+  {
+    "id": "korea:joseon",
+    "scheme": "korea",
+    "name_ja": "朝鮮王朝",
+    "name_en": "Joseon",
+    "start": 1392,
+    "end": 1897
+  },
+  {
+    "id": "korea:modern",
+    "scheme": "korea",
+    "name_ja": "近代",
+    "name_en": "Modern",
+    "start": 1898,
+    "end": 1960
+  },
+  {
+    "id": "islamic:early",
+    "scheme": "islamic",
+    "name_ja": "初期イスラーム（ウマイヤ・アッバース朝）",
+    "name_en": "Early Islamic",
+    "start": 622,
+    "end": 999
+  },
+  {
+    "id": "islamic:medieval",
+    "scheme": "islamic",
+    "name_ja": "中期（セルジューク・ファーティマ・アイユーブ朝）",
+    "name_en": "Middle period",
+    "start": 1000,
+    "end": 1249
+  },
+  {
+    "id": "islamic:mongol-timurid",
+    "scheme": "islamic",
+    "name_ja": "モンゴル〜ティムール朝期・マムルーク朝",
+    "name_en": "Mongol–Timurid",
+    "start": 1250,
+    "end": 1499
+  },
+  {
+    "id": "islamic:gunpowder-empires",
+    "scheme": "islamic",
+    "name_ja": "三大帝国期（サファヴィー・オスマン・ムガル）",
+    "name_en": "Safavid–Ottoman",
+    "start": 1500,
+    "end": 1799
+  },
+  {
+    "id": "islamic:modern",
+    "scheme": "islamic",
+    "name_ja": "近代（ガージャール朝・オスマン後期）",
+    "name_en": "Qajar & late Ottoman",
+    "start": 1800,
+    "end": 1960
+  },
+  {
+    "id": "south-asia:ancient",
+    "scheme": "south-asia",
+    "name_ja": "古代（インダス〜マウリヤ）",
+    "name_en": "Ancient",
+    "start": -3000,
+    "end": -185
+  },
+  {
+    "id": "south-asia:kushan",
+    "scheme": "south-asia",
+    "name_ja": "シュンガ・クシャーン朝",
+    "name_en": "Shunga–Kushan",
+    "start": -184,
+    "end": 319
+  },
+  {
+    "id": "south-asia:gupta",
+    "scheme": "south-asia",
+    "name_ja": "グプタ朝",
+    "name_en": "Gupta",
+    "start": 320,
+    "end": 599
+  },
+  {
+    "id": "south-asia:medieval",
+    "scheme": "south-asia",
+    "name_ja": "中世（パッラヴァ・チョーラ・パーラ等）",
+    "name_en": "Medieval",
+    "start": 600,
+    "end": 1205
+  },
+  {
+    "id": "south-asia:sultanate",
+    "scheme": "south-asia",
+    "name_ja": "デリー・スルタン朝期",
+    "name_en": "Sultanate",
+    "start": 1206,
+    "end": 1525
+  },
+  {
+    "id": "south-asia:mughal",
+    "scheme": "south-asia",
+    "name_ja": "ムガル朝・ラージプート諸国",
+    "name_en": "Mughal",
+    "start": 1526,
+    "end": 1857
+  },
+  {
+    "id": "south-asia:colonial",
+    "scheme": "south-asia",
+    "name_ja": "英領期",
+    "name_en": "Colonial",
+    "start": 1858,
+    "end": 1960
+  },
+  {
+    "id": "southeast-asia:early",
+    "scheme": "southeast-asia",
+    "name_ja": "初期（扶南・ドヴァーラヴァティー等）",
+    "name_en": "Early",
+    "start": -500,
+    "end": 699
+  },
+  {
+    "id": "southeast-asia:classical",
+    "scheme": "southeast-asia",
+    "name_ja": "古典期（シャイレーンドラ・前アンコール）",
+    "name_en": "Classical",
+    "start": 700,
+    "end": 899
+  },
+  {
+    "id": "southeast-asia:angkor",
+    "scheme": "southeast-asia",
+    "name_ja": "アンコール・パガン期",
+    "name_en": "Angkor–Bagan",
+    "start": 900,
+    "end": 1299
+  },
+  {
+    "id": "southeast-asia:post-classical",
+    "scheme": "southeast-asia",
+    "name_ja": "スコータイ・アユタヤ・マジャパヒト期",
+    "name_en": "Post-classical",
+    "start": 1300,
+    "end": 1767
+  },
+  {
+    "id": "southeast-asia:modern",
+    "scheme": "southeast-asia",
+    "name_ja": "近代",
+    "name_en": "Modern",
+    "start": 1768,
+    "end": 1960
+  },
+  {
+    "id": "egypt:predynastic",
+    "scheme": "egypt",
+    "name_ja": "先王朝・初期王朝",
+    "name_en": "Predynastic–Early Dynastic",
+    "start": -5000,
+    "end": -2687
+  },
+  {
+    "id": "egypt:old-kingdom",
+    "scheme": "egypt",
+    "name_ja": "古王国",
+    "name_en": "Old Kingdom",
+    "start": -2686,
+    "end": -2161
+  },
+  {
+    "id": "egypt:middle-kingdom",
+    "scheme": "egypt",
+    "name_ja": "中王国（第1中間期含む）",
+    "name_en": "Middle Kingdom",
+    "start": -2160,
+    "end": -1651
+  },
+  {
+    "id": "egypt:new-kingdom",
+    "scheme": "egypt",
+    "name_ja": "新王国（第2中間期含む）",
+    "name_en": "New Kingdom",
+    "start": -1650,
+    "end": -1070
+  },
+  {
+    "id": "egypt:late",
+    "scheme": "egypt",
+    "name_ja": "第3中間期・末期王朝",
+    "name_en": "Third Intermediate–Late",
+    "start": -1069,
+    "end": -333
+  },
+  {
+    "id": "egypt:ptolemaic-roman",
+    "scheme": "egypt",
+    "name_ja": "プトレマイオス朝・ローマ支配期",
+    "name_en": "Ptolemaic–Roman",
+    "start": -332,
+    "end": 400
+  },
+  {
+    "id": "near-east:sumer-akkad",
+    "scheme": "near-east",
+    "name_ja": "シュメール・アッカド",
+    "name_en": "Sumer–Akkad",
+    "start": -4000,
+    "end": -2001
+  },
+  {
+    "id": "near-east:babylon",
+    "scheme": "near-east",
+    "name_ja": "古バビロニア・ヒッタイト",
+    "name_en": "Old Babylonian–Hittite",
+    "start": -2000,
+    "end": -1001
+  },
+  {
+    "id": "near-east:assyria",
+    "scheme": "near-east",
+    "name_ja": "新アッシリア・新バビロニア",
+    "name_en": "Neo-Assyrian",
+    "start": -1000,
+    "end": -551
+  },
+  {
+    "id": "near-east:achaemenid",
+    "scheme": "near-east",
+    "name_ja": "アケメネス朝",
+    "name_en": "Achaemenid",
+    "start": -550,
+    "end": -331
+  },
+  {
+    "id": "near-east:parthian-sasanian",
+    "scheme": "near-east",
+    "name_ja": "パルティア・ササン朝",
+    "name_en": "Parthian–Sasanian",
+    "start": -330,
+    "end": 650
+  },
+  {
+    "id": "greco-roman:aegean",
+    "scheme": "greco-roman",
+    "name_ja": "エーゲ文明（キクラデス・ミノア・ミケーネ）",
+    "name_en": "Aegean Bronze Age",
+    "start": -3200,
+    "end": -1101
+  },
+  {
+    "id": "greco-roman:geometric",
+    "scheme": "greco-roman",
+    "name_ja": "幾何学様式期",
+    "name_en": "Geometric",
+    "start": -1100,
+    "end": -701
+  },
+  {
+    "id": "greco-roman:archaic",
+    "scheme": "greco-roman",
+    "name_ja": "アルカイック期",
+    "name_en": "Archaic",
+    "start": -700,
+    "end": -481
+  },
+  {
+    "id": "greco-roman:classical",
+    "scheme": "greco-roman",
+    "name_ja": "クラシック期",
+    "name_en": "Classical",
+    "start": -480,
+    "end": -324
+  },
+  {
+    "id": "greco-roman:hellenistic",
+    "scheme": "greco-roman",
+    "name_ja": "ヘレニズム期",
+    "name_en": "Hellenistic",
+    "start": -323,
+    "end": -32
+  },
+  {
+    "id": "greco-roman:roman-imperial",
+    "scheme": "greco-roman",
+    "name_ja": "ローマ帝政期",
+    "name_en": "Roman Imperial",
+    "start": -31,
+    "end": 500
+  },
+  {
+    "id": "americas:preclassic",
+    "scheme": "americas",
+    "name_ja": "先古典期",
+    "name_en": "Preclassic",
+    "start": -2000,
+    "end": 249
+  },
+  {
+    "id": "americas:classic",
+    "scheme": "americas",
+    "name_ja": "古典期",
+    "name_en": "Classic",
+    "start": 250,
+    "end": 899
+  },
+  {
+    "id": "americas:postclassic",
+    "scheme": "americas",
+    "name_ja": "後古典期（アステカ・インカ）",
+    "name_en": "Postclassic",
+    "start": 900,
+    "end": 1550
+  },
+  {
+    "id": "americas:colonial",
+    "scheme": "americas",
+    "name_ja": "植民地期以降",
+    "name_en": "Colonial and later",
+    "start": 1551,
+    "end": 1960
+  }
+]

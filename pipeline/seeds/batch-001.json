@@ -1,0 +1,2627 @@
+[
+ {
+  "id": "bruegel-harvesters",
+  "source": "met",
+  "source_id": "435809",
+  "query": "The Harvesters Bruegel",
+  "match": {
+   "title": [
+    "harvesters"
+   ],
+   "artist": "bruegel",
+   "year": [
+    1560,
+    1570
+   ]
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "northern-renaissance",
+  "ai": {
+   "title_ja": "穀物の収穫",
+   "highlights": [
+    "黄金色の麦畑と、木陰で昼食をとる農民たちの対比。労働と休息が一枚に共存している。",
+    "画面右奥へ広がる遠景の村や水辺が、季節の空気感まで伝える。",
+    "高い視点から見下ろす構図が、人々の営みを自然の大きな循環の一部として見せる。"
+   ],
+   "trivia": "「季節画」連作6点のうちの1点とされ、現存は5点。依頼主はアントウェルペンの商人と考えられている。"
+  }
+ },
+ {
+  "id": "vermeer-water-pitcher",
+  "source": "met",
+  "source_id": "437881",
+  "query": "Young Woman with a Water Pitcher",
+  "match": {
+   "title": [
+    "water pitcher"
+   ],
+   "artist": "vermeer"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "dutch-golden-age",
+  "ai": {
+   "title_ja": "水差しを持つ女",
+   "highlights": [
+    "左の窓から差し込む柔らかな光が、白い頭巾と青い衣に冷ややかな輝きを与える。",
+    "金属の水差しと盆に映り込む絨毯の色まで描く、繊細な反射表現。",
+    "窓を開ける一瞬の動作を、永遠に止まったような静けさで描いている。"
+   ],
+   "trivia": "フェルメールの現存作品は30数点とされ、そのうち5点をメトロポリタン美術館が所蔵している。"
+  }
+ },
+ {
+  "id": "rembrandt-aristotle",
+  "source": "met",
+  "source_id": "437394",
+  "query": "Aristotle with a Bust of Homer",
+  "match": {
+   "title": [
+    "aristotle"
+   ],
+   "artist": "rembrandt"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "dutch-golden-age",
+  "ai": {
+   "title_ja": "ホメロスの胸像を見つめるアリストテレス",
+   "highlights": [
+    "暗闇から浮かび上がる顔と金鎖。強い明暗が思索の深さを演出する。",
+    "厚く盛られた絵具が、袖の白いひだや鎖の金に物質的な輝きを与えている。",
+    "哲学者の手は詩人の胸像に、鎖には自分の弟子アレクサンドロス大王の肖像のメダルが下がる。"
+   ],
+   "trivia": "シチリアの貴族ルッフォの注文作。1961年のオークションで当時の絵画として史上最高額で落札され話題になった。"
+  }
+ },
+ {
+  "id": "van-gogh-wheat-field-cypresses",
+  "source": "met",
+  "source_id": "436535",
+  "query": "Wheat Field with Cypresses",
+  "match": {
+   "title": [
+    "wheat field",
+    "cypress"
+   ],
+   "artist": "gogh"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "post-impressionism",
+  "ai": {
+   "title_ja": "糸杉のある麦畑",
+   "highlights": [
+    "炎のように天へ伸びる糸杉が、画面に強い垂直のリズムを与える。",
+    "渦巻く雲と波打つ麦が、同じうねる筆致で描かれ、風景全体が呼吸しているように見える。",
+    "厚塗りの絵具の盛り上がりそのものが、光や風の質感になっている。"
+   ],
+   "trivia": "サン＝レミの療養院に滞在中の1889年に描かれた。ゴッホは糸杉を「エジプトのオベリスクのように美しい」と書き送っている。"
+  }
+ },
+ {
+  "id": "david-death-of-socrates",
+  "source": "met",
+  "source_id": "436105",
+  "query": "The Death of Socrates",
+  "match": {
+   "title": [
+    "death of socrates"
+   ],
+   "artist": "david"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "neoclassicism",
+  "ai": {
+   "title_ja": "ソクラテスの死",
+   "highlights": [
+    "毒杯に手を伸ばしながらも天を指すソクラテス。死を前にした理性の勝利が主題。",
+    "人物は浮彫のように横一列に並び、明晰な輪郭線で彫刻的に描かれる。",
+    "嘆く弟子たちの多様な感情と、中心人物の毅然とした姿の対比。"
+   ],
+   "trivia": "フランス革命の2年前、1787年のサロンに出品された。寝台の端で背を向けて座る老人はプラトンとされる。"
+  }
+ },
+ {
+  "id": "el-greco-view-of-toledo",
+  "source": "met",
+  "source_id": "436575",
+  "query": "View of Toledo",
+  "match": {
+   "title": [
+    "toledo"
+   ],
+   "artist": "greco"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "mannerism",
+  "ai": {
+   "title_ja": "トレド眺望",
+   "highlights": [
+    "嵐の前のような暗い空と、不気味に光る緑の丘。現実の風景を超えた幻視的な表現。",
+    "大聖堂やアルカサルの位置を実際とは変え、象徴的に配置している。",
+    "筆の速い流れが、建物や雲を揺らめくように見せる。"
+   ],
+   "trivia": "スペイン絵画における独立した風景画の最初期の例のひとつとされる。"
+  }
+ },
+ {
+  "id": "caravaggio-musicians",
+  "source": "met",
+  "source_id": "435844",
+  "query": "The Musicians Caravaggio",
+  "match": {
+   "title": [
+    "musicians"
+   ],
+   "artist": "caravaggio"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "baroque",
+  "ai": {
+   "title_ja": "音楽家たち",
+   "highlights": [
+    "密着するように配置された若者たちが、鑑賞者のすぐ目の前にいる感覚をつくる。",
+    "リュートを調弦する少年のうるんだ目と、柔らかな肌の写実。",
+    "矢筒を持つ翼の少年はキューピッドで、「音楽と愛」の寓意を示す。"
+   ],
+   "trivia": "カラヴァッジョ初期の作品で、パトロンのデル・モンテ枢機卿のために描かれた。奥でこちらを見つめる人物は、画家の自画像とする説がある。"
+  }
+ },
+ {
+  "id": "velazquez-juan-de-pareja",
+  "source": "met",
+  "source_id": "437869",
+  "query": "Juan de Pareja",
+  "match": {
+   "title": [
+    "pareja"
+   ],
+   "artist": "vel"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "baroque",
+  "ai": {
+   "title_ja": "フアン・デ・パレーハ",
+   "highlights": [
+    "まっすぐこちらを見据える視線が、人物の誇りと知性を伝える。",
+    "灰緑色の背景と黒い衣の中で、白いレースの襟だけが素早い筆致で輝く。",
+    "近くでは粗い筆跡なのに、離れると完璧な質感に見える技法の妙。"
+   ],
+   "trivia": "モデルはベラスケスの工房で働いた助手で、のちに自由の身となり画家として活動した。1650年にローマで展示され絶賛されたという。"
+  }
+ },
+ {
+  "id": "van-eyck-crucifixion-last-judgment",
+  "source": "met",
+  "source_id": "436282",
+  "query": "The Crucifixion; The Last Judgment",
+  "match": {
+   "title": [
+    "crucifixion"
+   ],
+   "artist": "eyck"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "early-netherlandish",
+  "ai": {
+   "title_ja": "磔刑／最後の審判（二連画）",
+   "highlights": [
+    "左翼は群衆で埋め尽くされた磔刑、右翼は天国と地獄の最後の審判。",
+    "地獄の場面では、骸骨のような死の下に怪物と罪人がひしめく圧倒的な細密描写。",
+    "遠景のエルサレムの街や雪山まで描き込まれ、極小の画面に壮大な世界が広がる。"
+   ],
+   "trivia": "ヤン・ファン・エイクと工房の作とされる。もとは中央パネルを持つ三連祭壇画の両翼だった可能性が指摘されている。"
+  }
+ },
+ {
+  "id": "merode-altarpiece",
+  "source": "met",
+  "query": "Annunciation Triptych Merode Altarpiece",
+  "queries": [
+   "Annunciation Triptych (Merode Altarpiece)",
+   "Merode Altarpiece"
+  ],
+  "match": {
+   "title": [
+    "annunciation"
+   ],
+   "any": [
+    "campin"
+   ]
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "early-netherlandish",
+  "ai": {
+   "title_ja": "受胎告知三連祭壇画（メロード祭壇画）",
+   "highlights": [
+    "受胎告知の場面が、15世紀フランドルの市民の居間に置き換えられている。",
+    "右翼で鼠捕りを作るヨセフ。悪魔を捕らえる象徴と解釈される。",
+    "百合・消えたばかりのろうそく・水盤など、日用品に宗教的意味が込められる。"
+   ],
+   "trivia": "ロベール・カンパンとその工房の作とされ、ニューヨークの分館クロイスターズで展示されている。"
+  }
+ },
+ {
+  "id": "duccio-madonna",
+  "source": "met",
+  "source_id": "438754",
+  "query": "Madonna and Child Duccio",
+  "match": {
+   "title": [
+    "madonna"
+   ],
+   "artist": "duccio"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "trecento",
+  "ai": {
+   "title_ja": "聖母子",
+   "highlights": [
+    "金地を背景に、聖母が幼子を見つめる親密なしぐさ。ビザンティン的な形式に人間的な情感が加わる。",
+    "幼子が聖母のヴェールに手を伸ばす自然な動き。",
+    "下部に描かれた欄干が、絵の空間と鑑賞者の空間をつなぐ工夫とされる。"
+   ],
+   "trivia": "2004年に美術館が4500万ドル以上で購入した。額縁にはろうそくの焦げ跡が残り、礼拝に使われたことを物語る。"
+  }
+ },
+ {
+  "id": "botticelli-last-communion-jerome",
+  "source": "met",
+  "query": "The Last Communion of Saint Jerome",
+  "match": {
+   "title": [
+    "jerome"
+   ],
+   "artist": "botticelli"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "early-renaissance",
+  "ai": {
+   "title_ja": "聖ヒエロニムスの最後の聖体拝領",
+   "highlights": [
+    "簡素な小屋の中で、衰弱した老聖人が最後の聖体を受ける静かな場面。",
+    "屋根の木組みや床が遠近法でまとめられた、小さく親密な空間。",
+    "細く繊細な輪郭線というボッティチェリらしい線の美しさ。"
+   ],
+   "trivia": "サヴォナローラの説教の影響が強かった晩年のフィレンツェで、個人の信仰のために描かれたと考えられている。"
+  }
+ },
+ {
+  "id": "raphael-colonna-altarpiece",
+  "source": "met",
+  "query": "Madonna and Child Enthroned with Saints Raphael",
+  "match": {
+   "title": [
+    "enthroned"
+   ],
+   "artist": "raphael"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "high-renaissance",
+  "ai": {
+   "title_ja": "聖母子と諸聖人（コロンナ祭壇画）",
+   "highlights": [
+    "玉座の聖母子を中心に聖人たちが左右対称に並ぶ、安定したピラミッド構図。",
+    "上部の半円には父なる神が描かれ、天と地の階層を示す。",
+    "若きラファエロが師ペルジーノの様式から一歩踏み出す過渡期の作品。"
+   ],
+   "trivia": "ペルージャの女子修道院のために描かれた。修道女たちの要望で幼子イエスに服を着せたと伝えられる。"
+  }
+ },
+ {
+  "id": "titian-venus-lute-player",
+  "source": "met",
+  "query": "Venus and the Lute Player",
+  "match": {
+   "title": [
+    "venus",
+    "lute"
+   ],
+   "artist": "titian"
+  },
+  "genre": "painting",
+  "region": "europe-south",
+  "style": "venetian-renaissance",
+  "ai": {
+   "title_ja": "ヴィーナスとリュート奏者",
+   "highlights": [
+    "横たわるヴィーナスの柔らかな肌と、温かい光に包まれた色彩。",
+    "奥に広がる夕暮れの風景が、詩的で音楽的な雰囲気を高める。",
+    "音楽（聴覚）と美（視覚）のどちらが優れるかという議論を想起させる主題。"
+   ],
+   "trivia": "ティツィアーノ晩年の作で、工房の手も入っているとされる。同じ主題の別バージョンがケンブリッジのフィッツウィリアム美術館にある。"
+  }
+ },
+ {
+  "id": "durer-adam-and-eve",
+  "source": "met",
+  "query": "Adam and Eve Dürer engraving",
+  "match": {
+   "title": [
+    "adam and eve"
+   ],
+   "artist": "rer",
+   "year": [
+    1500,
+    1510
+   ]
+  },
+  "genre": "painting",
+  "region": "europe-central",
+  "style": "northern-renaissance",
+  "ai": {
+   "title_ja": "アダムとエヴァ（銅版画）",
+   "highlights": [
+    "古代彫刻を思わせる理想的な比例の裸体。イタリアで学んだ人体理論の成果。",
+    "足元の猫と鼠、背景の動物たちは人間の気質（四体液）を象徴するとされる。",
+    "枝に掛けた札には画家の署名と1504年の年記が刻まれる。"
+   ],
+   "trivia": "デューラーは数年にわたって人体比例を研究し、その集大成としてこの版画を制作した。版画は広く流通し、欧州中の芸術家に影響を与えた。"
+  }
+ },
+ {
+  "id": "watteau-mezzetin",
+  "source": "met",
+  "query": "Mezzetin Watteau",
+  "match": {
+   "title": [
+    "mezzetin"
+   ],
+   "artist": "watteau"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "rococo",
+  "ai": {
+   "title_ja": "メズタン",
+   "highlights": [
+    "イタリア喜劇の道化メズタンが、ギターを抱えて恋の歌を歌う。",
+    "天を仰ぐ顔に漂う、喜劇の役柄なのにどこか切ない表情。",
+    "背後の庭園に背を向けた女性像が、報われない恋を暗示する。"
+   ],
+   "trivia": "ワトーは雅宴画（フェート・ギャラント）というジャンルを確立した。コメディア・デラルテの役者は彼の好んだ主題だった。"
+  }
+ },
+ {
+  "id": "fragonard-love-letter",
+  "source": "met",
+  "query": "The Love Letter Fragonard",
+  "match": {
+   "title": [
+    "love letter"
+   ],
+   "artist": "fragonard"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "rococo",
+  "ai": {
+   "title_ja": "恋文",
+   "highlights": [
+    "花束に挟んだ手紙を持ち、意味ありげにこちらを振り返る女性。",
+    "青いドレスと黄金色の室内が素早い筆さばきで描かれ、軽やかな印象を与える。",
+    "小型犬や花など、恋愛を暗示するロココらしい小道具。"
+   ],
+   "trivia": "手紙の宛名は判読が難しく、モデルが誰かについては諸説ある。"
+  }
+ },
+ {
+  "id": "delacroix-abduction-rebecca",
+  "source": "met",
+  "query": "The Abduction of Rebecca",
+  "match": {
+   "title": [
+    "rebecca"
+   ],
+   "artist": "delacroix"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "romanticism",
+  "ai": {
+   "title_ja": "レベッカの略奪",
+   "highlights": [
+    "燃える城を背景に、女性が騎馬の男たちにさらわれる劇的な瞬間。",
+    "赤や緑の強い色彩と渦巻く動きが、混乱と激情を伝える。",
+    "輪郭よりも色と筆触で形をつくる、ロマン主義らしい描法。"
+   ],
+   "trivia": "ウォルター・スコットの小説『アイヴァンホー』の一場面に基づく。ドラクロワは文学から多くの主題を得た。"
+  }
+ },
+ {
+  "id": "courbet-young-ladies-village",
+  "source": "met",
+  "query": "Young Ladies of the Village",
+  "match": {
+   "title": [
+    "young ladies"
+   ],
+   "artist": "courbet"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "realism",
+  "ai": {
+   "title_ja": "村の娘たち",
+   "highlights": [
+    "画家の故郷オルナンの谷間で、3人の娘が牛飼いの少女に施しを与える。",
+    "大きな風景に対して人物が小さく、遠近感がやや不自然な点が当時批判された。",
+    "理想化されない地方の日常を、大画面で堂々と描いたこと自体が挑戦だった。"
+   ],
+   "trivia": "モデルはクールベの3人の妹とされる。1852年のサロン出品時には「醜い」と酷評された。"
+  }
+ },
+ {
+  "id": "millet-haystacks-autumn",
+  "source": "met",
+  "query": "Haystacks: Autumn Millet",
+  "match": {
+   "title": [
+    "haystacks"
+   ],
+   "artist": "millet"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "barbizon",
+  "ai": {
+   "title_ja": "積み藁：秋",
+   "highlights": [
+    "巨大な積み藁の量感が、静かな夕暮れの平原に記念碑のようにそびえる。",
+    "羊の群れと羊飼いが小さく描かれ、農村の時間の流れを感じさせる。",
+    "落ち着いた土色と柔らかな光が、収穫後の穏やかさを伝える。"
+   ],
+   "trivia": "四季を描く連作の注文の一部とされる。積み藁は後にモネの連作でも重要な主題になった。"
+  }
+ },
+ {
+  "id": "monet-water-lilies-bridge",
+  "source": "met",
+  "source_id": "437127",
+  "query": "Bridge over a Pond of Water Lilies",
+  "match": {
+   "title": [
+    "bridge",
+    "water lilies"
+   ],
+   "artist": "monet"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "impressionism",
+  "ai": {
+   "title_ja": "睡蓮の池にかかる橋",
+   "highlights": [
+    "画面いっぱいに広がる緑の葉の中に、日本風の太鼓橋が弧を描く。",
+    "水面の睡蓮・映り込み・柳の葉が、細かな筆触で溶け合う。",
+    "空を描かず池と植物だけで画面を満たす、晩年の睡蓮連作につながる構図。"
+   ],
+   "trivia": "モネはジヴェルニーの自宅に水の庭を造り、浮世絵にも見られる日本の橋をかけた。"
+  }
+ },
+ {
+  "id": "degas-dance-class",
+  "source": "met",
+  "query": "The Dance Class Degas",
+  "match": {
+   "title": [
+    "dance class"
+   ],
+   "artist": "degas"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "impressionism",
+  "ai": {
+   "title_ja": "ダンス教室",
+   "highlights": [
+    "杖を持つ老教師を中心に、踊り子たちのそれぞれ自然な仕草がとらえられる。",
+    "斜めに走る床板と、画面端で切られた人物がスナップ写真のような臨場感を生む。",
+    "休憩中の踊り子たちの退屈やけだるさまで描く観察眼。"
+   ],
+   "trivia": "中央の教師は実在のバレエ教師ジュール・ペローがモデルとされる。ドガは同時期に構図違いの作品をオルセー美術館所蔵作にも残している。"
+  }
+ },
+ {
+  "id": "renoir-two-sisters",
+  "source": "aic",
+  "source_id": "14655",
+  "query": "Two Sisters (On the Terrace)",
+  "match": {
+   "title": [
+    "two sisters"
+   ],
+   "artist": "renoir"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "impressionism",
+  "ai": {
+   "title_ja": "二人の姉妹（テラスにて）",
+   "highlights": [
+    "鮮やかな赤い帽子が画面の焦点となり、若い女性の頬の色と響き合う。",
+    "背景の川辺の風景は素早く軽い筆触で、人物は滑らかに描き分けられる。",
+    "籠の毛糸玉や花の色が、画面に春のような華やかさを添える。"
+   ],
+   "trivia": "セーヌ川の島シャトゥーのレストランのテラスで描かれた。モデルの2人は実際には姉妹ではないとされる。"
+  }
+ },
+ {
+  "id": "seurat-grande-jatte",
+  "source": "aic",
+  "source_id": "27992",
+  "query": "A Sunday on La Grande Jatte",
+  "match": {
+   "title": [
+    "grande jatte"
+   ],
+   "artist": "seurat"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "neo-impressionism",
+  "ai": {
+   "title_ja": "グランド・ジャット島の日曜日の午後",
+   "highlights": [
+    "無数の色の点が、離れて見ると目の中で混ざり合い明るい色彩になる。",
+    "人物は横向き・正面向きに固定され、古代の浮彫のような静けさがある。",
+    "日傘・猿を連れた女性など、パリ近郊の余暇の様子が多彩に描かれる。"
+   ],
+   "trivia": "完成まで約2年を費やし、多数の習作を描いた。後年、絵の周囲に点描の縁取りが加えられている。"
+  }
+ },
+ {
+  "id": "caillebotte-paris-street-rainy-day",
+  "source": "aic",
+  "source_id": "20684",
+  "query": "Paris Street; Rainy Day",
+  "match": {
+   "title": [
+    "paris street"
+   ],
+   "artist": "caillebotte"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "impressionism",
+  "ai": {
+   "title_ja": "パリの通り、雨",
+   "highlights": [
+    "ハウスマン改造後の広い街路と石畳が、雨に濡れて鈍く光る。",
+    "画面中央の街灯が絵を左右に分割し、近景と遠景のリズムを作る。",
+    "右端で切れた人物など、写真的な構図が近代都市の匿名性を感じさせる。"
+   ],
+   "trivia": "1877年の第3回印象派展に出品された大作。印象派の中でも滑らかな仕上げが特徴的。"
+  }
+ },
+ {
+  "id": "cezanne-card-players",
+  "source": "met",
+  "source_id": "435868",
+  "query": "The Card Players Cézanne",
+  "match": {
+   "title": [
+    "card players"
+   ],
+   "artist": "zanne"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "post-impressionism",
+  "ai": {
+   "title_ja": "カード遊びをする人々",
+   "highlights": [
+    "カードに集中する農夫たちが、まるで静物のように堅固に構築されている。",
+    "人物・テーブル・壁が色面のブロックとして組み立てられる。",
+    "沈黙の中で時間が止まったような、記念碑的な静けさ。"
+   ],
+   "trivia": "セザンヌはこの主題で5点の油彩を描いた。モデルは故郷エクス近郊の農民たち。"
+  }
+ },
+ {
+  "id": "gauguin-ia-orana-maria",
+  "source": "met",
+  "query": "Ia Orana Maria (Hail Mary)",
+  "match": {
+   "title": [
+    "orana"
+   ],
+   "artist": "gauguin"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "post-impressionism",
+  "ai": {
+   "title_ja": "イア・オラナ・マリア（マリアを拝す）",
+   "highlights": [
+    "タヒチの母子が聖母子として描かれ、頭上には光輪が浮かぶ。",
+    "鮮やかな平塗りの色面と、バナナや花の装飾的な配置。",
+    "左奥の天使と祈る女性たちのポーズは、ジャワのボロブドゥールの浮彫写真に基づくとされる。"
+   ],
+   "trivia": "題名はタヒチ語で天使の挨拶「アヴェ・マリア」を意味する。ゴーギャンが最初のタヒチ滞在で描いた代表作。"
+  }
+ },
+ {
+  "id": "lautrec-at-the-moulin-rouge",
+  "source": "aic",
+  "source_id": "61128",
+  "query": "At the Moulin Rouge Toulouse-Lautrec",
+  "match": {
+   "title": [
+    "moulin rouge"
+   ],
+   "artist": "lautrec"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "post-impressionism",
+  "ai": {
+   "title_ja": "ムーラン・ルージュにて",
+   "highlights": [
+    "右端から緑がかった顔の女性が突き出し、不気味な照明の効果を強調する。",
+    "斜めに走る手すりが、画面に動きと奥行きを与える。",
+    "奥には小柄な画家自身の姿も描き込まれている。"
+   ],
+   "trivia": "右端の部分は一時切り取られ、後に再び縫い合わされたことが調査で分かっている。"
+  }
+ },
+ {
+  "id": "turner-burning-houses-parliament",
+  "source": "cleveland",
+  "query": "The Burning of the Houses of Lords and Commons",
+  "match": {
+   "title": [
+    "burning of the houses"
+   ],
+   "artist": "turner"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "romanticism",
+  "ai": {
+   "title_ja": "国会議事堂の火災",
+   "highlights": [
+    "夜空を焦がす炎と、水面に映る光が画面全体を輝かせる。",
+    "群衆や橋は溶けるように描かれ、自然現象そのものが主役になる。",
+    "黄・橙・赤の色彩が、崇高な破壊のスペクタクルを生む。"
+   ],
+   "trivia": "1834年10月にロンドンの国会議事堂が焼失した火災をターナーは実際に目撃し、同主題の油彩を2点描いた。"
+  }
+ },
+ {
+  "id": "cole-the-oxbow",
+  "source": "met",
+  "source_id": "10497",
+  "query": "The Oxbow Thomas Cole",
+  "match": {
+   "title": [
+    "oxbow"
+   ],
+   "artist": "cole"
+  },
+  "genre": "painting",
+  "region": "north-america",
+  "style": "hudson-river-school",
+  "ai": {
+   "title_ja": "オックスボウ（嵐の後のマサチューセッツ州ノーサンプトン、ホリヨーク山からの眺め）",
+   "highlights": [
+    "左の嵐の荒野と、右の陽光に照らされた耕地。画面が対角線で二分される。",
+    "蛇行する川が、自然と文明の境界を象徴的に描き出す。",
+    "中景の崖の上で、画家自身が小さくイーゼルに向かっている。"
+   ],
+   "trivia": "遠くの丘の木々の伐採跡が、ヘブライ文字で「ノア」と読めるという説がある（逆さに読むと「全能者」とも）。"
+  }
+ },
+ {
+  "id": "homer-gulf-stream",
+  "source": "met",
+  "query": "The Gulf Stream Winslow Homer",
+  "match": {
+   "title": [
+    "gulf stream"
+   ],
+   "artist": "homer"
+  },
+  "genre": "painting",
+  "region": "north-america",
+  "style": "american-realism",
+  "ai": {
+   "title_ja": "メキシコ湾流",
+   "highlights": [
+    "マストを失った小舟に横たわる男。周囲には鮫が群がり、遠くに竜巻が迫る。",
+    "荒れる海の青と鮫の口の赤が、緊張感のある色彩を生む。",
+    "男の表情は静かで、運命に対する諦観とも不屈ともとれる。"
+   ],
+   "trivia": "ホーマーは「男は救われる」と語ったと伝わるが、結末は鑑賞者に委ねられている。カリブ海への旅の経験がもとになった。"
+  }
+ },
+ {
+  "id": "klimt-mada-primavesi",
+  "source": "met",
+  "query": "Mäda Primavesi Klimt",
+  "match": {
+   "title": [
+    "primavesi"
+   ],
+   "artist": "klimt"
+  },
+  "genre": "painting",
+  "region": "europe-central",
+  "style": "vienna-secession",
+  "ai": {
+   "title_ja": "メーダ・プリマヴェージ",
+   "highlights": [
+    "脚を開いて堂々と立つ少女の姿が、子どもらしい自信と緊張を伝える。",
+    "背景を埋め尽くす花や文様が、平面的な装飾空間をつくる。",
+    "白いドレスと周囲の明るい色彩の、春のような軽やかさ。"
+   ],
+   "trivia": "モデルは銀行家オットー・プリマヴェージの娘で、当時9歳ほど。プリマヴェージ家はクリムトやウィーン工房の重要なパトロンだった。"
+  }
+ },
+ {
+  "id": "canova-perseus",
+  "source": "met",
+  "query": "Perseus with the Head of Medusa Canova",
+  "match": {
+   "title": [
+    "perseus"
+   ],
+   "artist": "canova"
+  },
+  "genre": "sculpture",
+  "region": "europe-south",
+  "style": "neoclassicism",
+  "ai": {
+   "title_ja": "メドゥーサの首を持つペルセウス",
+   "highlights": [
+    "勝利のポーズで首を掲げる英雄。古代の名作アポロ・ベルヴェデーレを手本にしている。",
+    "滑らかに磨かれた大理石が、理想化された若い肉体の美しさを際立たせる。",
+    "メドゥーサの顔は恐ろしさより哀しみを帯びて表現される。"
+   ],
+   "trivia": "ナポレオンがアポロ・ベルヴェデーレをパリへ持ち去った後、その台座に置かれたヴァチカンの像があり、本作はそのもう一つのバージョンにあたる。"
+  }
+ },
+ {
+  "id": "unicorn-rests-in-garden",
+  "source": "met",
+  "query": "The Unicorn Rests in a Garden",
+  "match": {
+   "title": [
+    "unicorn"
+   ],
+   "any": [
+    "tapestr"
+   ]
+  },
+  "genre": "craft",
+  "region": "europe-northwest",
+  "style": "gothic",
+  "ai": {
+   "title_ja": "庭で休む一角獣（一角獣のタペストリー）",
+   "highlights": [
+    "柵に囲まれ、鎖につながれた一角獣。千花模様（ミルフルール）の草花が背景を埋める。",
+    "描かれた植物の多くが実在種として特定できるほど写実的。",
+    "白い体の赤いしみは、ザクロの果汁とも傷ともとれる謎めいた表現。"
+   ],
+   "trivia": "7枚組の連作の1枚で、ニューヨークの分館クロイスターズに展示されている。ザクロは豊穣や結婚の象徴ともキリストの受難の象徴とも解釈される。"
+  }
+ },
+ {
+  "id": "gubbio-studiolo",
+  "source": "met",
+  "query": "Studiolo from the Ducal Palace in Gubbio",
+  "match": {
+   "title": [
+    "studiolo"
+   ]
+  },
+  "genre": "craft",
+  "region": "europe-south",
+  "style": "early-renaissance",
+  "ai": {
+   "title_ja": "グッビオ公爵宮殿のストゥディオーロ（書斎）",
+   "highlights": [
+    "棚・本・楽器・甲冑がすべて木の象嵌（インタルシア）による騙し絵。",
+    "わずかに開いた扉や置き忘れた物まで、遠近法で立体的に見せる。",
+    "学問・音楽・武芸など、ルネサンスの理想の君主の教養を象徴する部屋。"
+   ],
+   "trivia": "ウルビーノ公フェデリーコ・ダ・モンテフェルトロの宮殿にあった小部屋を丸ごと移築したもの。"
+  }
+ },
+ {
+  "id": "david-plate-goliath",
+  "source": "met",
+  "query": "Plate with the Battle of David and Goliath",
+  "match": {
+   "title": [
+    "david",
+    "goliath"
+   ],
+   "any": [
+    "silver"
+   ]
+  },
+  "genre": "craft",
+  "region": "europe-east",
+  "style": "byzantine",
+  "ai": {
+   "title_ja": "ダヴィデとゴリアテの戦いを表した皿（ダヴィデ皿）",
+   "highlights": [
+    "3段に分けて、対話・戦闘・首をはねる場面が物語のように展開する。",
+    "古代ローマ風の写実的な人体表現が、7世紀の銀器に受け継がれている。",
+    "鋳造後に打ち出しと彫りで仕上げられた精緻な銀細工。"
+   ],
+   "trivia": "1902年にキプロスで発見された9枚組の銀皿の1枚。皇帝ヘラクレイオスがペルシアに勝利した頃に制作されたとされる。"
+  }
+ },
+ {
+  "id": "cuxa-cloister",
+  "source": "met",
+  "query": "Cuxa Cloister",
+  "match": {
+   "title": [
+    "cuxa"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "style": "romanesque",
+  "ai": {
+   "title_ja": "サン＝ミシェル＝ド＝キュクサ修道院の回廊",
+   "highlights": [
+    "半円アーチと素朴な柱が連なる、ロマネスク特有の重厚で静かなリズム。",
+    "柱頭には獅子や怪物、植物文様が力強く彫られている。",
+    "中庭を囲む回廊は、修道士たちの瞑想と祈りの空間だった。"
+   ],
+   "trivia": "ピレネー山麓の修道院の回廊の一部を、20世紀にニューヨークへ移して再構成したもの。"
+  }
+ },
+ {
+  "id": "notre-dame-de-paris",
+  "source": "wikidata",
+  "source_id": "Q2981",
+  "query": "Notre-Dame de Paris cathedral",
+  "match": {
+   "title": [
+    "notre dame"
+   ],
+   "any": [
+    "paris"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "style": "gothic",
+  "ai": {
+   "title_ja": "ノートルダム大聖堂（パリ）",
+   "highlights": [
+    "西正面は水平・垂直の線がきっちり整理された、初期ゴシックの古典的なファサード。",
+    "側面に並ぶ飛び梁が、高い壁と大きな窓を外から支える。",
+    "バラ窓のステンドグラスが内部を色彩豊かな光で満たす。"
+   ],
+   "trivia": "2019年の火災で尖塔と屋根を失ったが、修復を経て2024年12月に再開した。"
+  }
+ },
+ {
+  "id": "villa-rotonda",
+  "source": "wikidata",
+  "query": "Villa La Rotonda Palladio",
+  "queries": [
+   "Villa La Rotonda",
+   "Villa Capra"
+  ],
+  "match": {
+   "title": [
+    "rotonda"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-south",
+  "style": "high-renaissance",
+  "ai": {
+   "title_ja": "ヴィラ・ロトンダ",
+   "highlights": [
+    "正方形の建物の四面すべてに神殿風の柱廊玄関がつく、完全な対称形。",
+    "中央のドームの円形ホールを中心に、幾何学的に部屋が配置される。",
+    "丘の上に立ち、四方の景色を楽しむために設計された。"
+   ],
+   "trivia": "パラーディオの代表作。彼の様式は英国や米国に広まり、トマス・ジェファソンのモンティチェロなどに影響を与えた。"
+  }
+ },
+ {
+  "id": "palace-of-versailles",
+  "source": "wikidata",
+  "source_id": "Q2946",
+  "query": "Palace of Versailles",
+  "match": {
+   "title": [
+    "versailles"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "style": "baroque",
+  "ai": {
+   "title_ja": "ヴェルサイユ宮殿",
+   "highlights": [
+    "庭園側に長く続くファサードと、軸線に沿った幾何学式庭園の壮大なスケール。",
+    "鏡の間は窓と鏡が向かい合い、光が反射し合う豪華な空間。",
+    "建築・庭園・室内装飾が王の権威を示す一体の舞台になっている。"
+   ],
+   "trivia": "ルイ13世の狩猟小屋をルイ14世が大改築した。1919年には鏡の間で第一次世界大戦の講和条約が調印された。"
+  }
+ },
+ {
+  "id": "hagia-sophia",
+  "source": "wikidata",
+  "source_id": "Q12506",
+  "query": "Hagia Sophia",
+  "match": {
+   "title": [
+    "hagia sophia"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-east",
+  "style": "byzantine",
+  "ai": {
+   "title_ja": "アヤソフィア（ハギア・ソフィア）",
+   "highlights": [
+    "直径約30メートルの大ドームが、窓の連なりで浮かんでいるように見える。",
+    "ペンデンティブ（球面三角形）で、四角い平面の上に円いドームを載せている。",
+    "キリスト教のモザイクとイスラームの円盤状の書板が同じ空間に共存する。"
+   ],
+   "trivia": "537年にユスティニアヌス帝が完成させた。大聖堂、モスク、博物館を経て、2020年に再びモスクとなった。"
+  }
+ },
+ {
+  "id": "sagrada-familia",
+  "source": "wikidata",
+  "source_id": "Q48435",
+  "query": "Sagrada Família",
+  "match": {
+   "title": [
+    "sagrada"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-south",
+  "style": "art-nouveau",
+  "ai": {
+   "title_ja": "サグラダ・ファミリア",
+   "highlights": [
+    "トウモロコシのような形の塔が林立し、遠くからも独特のシルエットを示す。",
+    "内部の柱は木の枝のように分岐し、森の中にいるような空間を作る。",
+    "生誕のファサードには植物や動物の彫刻が溢れんばかりに施される。"
+   ],
+   "trivia": "ガウディが1883年から生涯をかけて取り組み、死後も建設が続いている。ガウディ没後100年の2026年を目標に、中央の「イエスの塔」の完成が目指されてきた。"
+  }
+ },
+ {
+  "id": "palace-of-westminster",
+  "source": "wikidata",
+  "query": "Palace of Westminster",
+  "match": {
+   "title": [
+    "westminster"
+   ],
+   "any": [
+    "palace"
+   ]
+  },
+  "genre": "architecture",
+  "region": "europe-northwest",
+  "style": "gothic-revival",
+  "ai": {
+   "title_ja": "ウェストミンスター宮殿（英国国会議事堂）",
+   "highlights": [
+    "テムズ川沿いに続く長いファサードを、細かな垂直線の装飾が覆う。",
+    "時計塔（エリザベス・タワー）とヴィクトリア・タワーが両端でアクセントになる。",
+    "中世ゴシックを国家の伝統の象徴として復興した19世紀の建築。"
+   ],
+   "trivia": "1834年の大火の後、チャールズ・バリーとオーガスタス・ピュージンが再建した。ターナーが描いたのはこの火災である。"
+  }
+ },
+ {
+  "id": "gerome-pygmalion-galatea",
+  "source": "met",
+  "query": "Pygmalion and Galatea Gérôme",
+  "match": {
+   "title": [
+    "pygmalion"
+   ],
+   "artist": "r"
+  },
+  "genre": "painting",
+  "region": "europe-northwest",
+  "style": "academic-art",
+  "ai": {
+   "title_ja": "ピュグマリオンとガラテア",
+   "highlights": [
+    "大理石の像が下半身から生身へと変わっていく、変身の瞬間の表現。",
+    "筆跡を残さない滑らかな仕上げが、彫刻と肉体の質感を描き分ける。",
+    "アトリエの壁の仮面や彫刻が、芸術家の工房という舞台設定を示す。"
+   ],
+   "trivia": "ジェロームは画家であると同時に彫刻家でもあり、同じ主題の大理石像も制作した。"
+  }
+ },
+ {
+  "id": "hokusai-great-wave",
+  "source": "met",
+  "source_id": "45434",
+  "query": "Under the Wave off Kanagawa",
+  "match": {
+   "title": [
+    "under the wave off kanagawa"
+   ],
+   "artist": "hokusai"
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "ukiyo-e",
+  "ai": {
+   "title_ja": "冨嶽三十六景 神奈川沖浪裏",
+   "highlights": [
+    "爪のように砕ける大波が画面左を覆い、遠くの富士山を小さく見せる大胆な構図。",
+    "波間で身をかがめる押送船の漕ぎ手たちが、自然の猛威と人間の営みを対比させる。",
+    "輸入顔料ベロ藍（プルシアンブルー）の鮮やかな青が印象を決定づける。"
+   ],
+   "trivia": "1830年代初めの作。木版画なので世界各地の美術館に多数の摺りが現存し、ドビュッシーの交響詩『海』の楽譜表紙にも使われた。"
+  }
+ },
+ {
+  "id": "hokusai-fine-wind-clear-morning",
+  "source": "met",
+  "query": "Fine Wind, Clear Morning Hokusai",
+  "match": {
+   "title": [
+    "fine wind"
+   ],
+   "artist": "hokusai"
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "ukiyo-e",
+  "ai": {
+   "title_ja": "冨嶽三十六景 凱風快晴（赤富士）",
+   "highlights": [
+    "朝日に赤く染まる富士山が、ほぼそれだけで画面を構成するシンプルさ。",
+    "鱗のように並ぶ雲と、山肌の下方に広がる樹林の濃い緑。",
+    "わずかな色数で、晩夏から初秋の澄んだ朝の空気を表現している。"
+   ],
+   "trivia": "「凱風」は南風、「快晴」は晴天の意。通称「赤富士」として親しまれ、「神奈川沖浪裏」と並ぶ北斎の代表作。"
+  }
+ },
+ {
+  "id": "hiroshige-sudden-shower-atake",
+  "source": "met",
+  "query": "Sudden Shower over Shin-Ōhashi Bridge and Atake",
+  "match": {
+   "title": [
+    "sudden shower"
+   ],
+   "artist": "hiroshige"
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "ukiyo-e",
+  "ai": {
+   "title_ja": "名所江戸百景 大はしあたけの夕立",
+   "highlights": [
+    "空から斜めに降り注ぐ無数の細い線が、激しい夕立を表す。",
+    "橋を急ぐ人々の姿勢が、雨の冷たさと慌ただしさを伝える。",
+    "橋を斜めに横切らせ、対岸を霞ませる構図が奥行きを生む。"
+   ],
+   "trivia": "ゴッホがこの作品を油彩で模写したことで知られ、ジャポニスムの象徴的な一枚となった。"
+  }
+ },
+ {
+  "id": "hiroshige-plum-park-kameido",
+  "source": "met",
+  "query": "Plum Park in Kameido Hiroshige",
+  "match": {
+   "title": [
+    "plum"
+   ],
+   "artist": "hiroshige",
+   "any": [
+    "kameido"
+   ]
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "ukiyo-e",
+  "ai": {
+   "title_ja": "名所江戸百景 亀戸梅屋舗",
+   "highlights": [
+    "手前の梅の古木の枝を画面いっぱいに大きく配し、奥の人々を小さく見せる。",
+    "赤から白へのグラデーションの空が、早春の夕暮れを感じさせる。",
+    "極端な近景と遠景の組み合わせは、写真のクローズアップのような効果をもつ。"
+   ],
+   "trivia": "梅屋敷の名木「臥竜梅」を描いたもの。ゴッホが模写した作品としても有名。"
+  }
+ },
+ {
+  "id": "sharaku-otani-oniji",
+  "source": "met",
+  "query": "Ōtani Oniji III Sharaku",
+  "match": {
+   "title": [
+    "oniji"
+   ],
+   "artist": "sharaku"
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "ukiyo-e",
+  "ai": {
+   "title_ja": "三代目大谷鬼次の江戸兵衛",
+   "highlights": [
+    "突き出した両手と、への字に結んだ口。悪役の凄みを誇張した表情。",
+    "黒雲母摺の背景が、人物の顔と手を浮かび上がらせる。",
+    "大首絵（上半身のクローズアップ）で、役者の個性を鋭く捉える。"
+   ],
+   "trivia": "写楽は1794年からわずか10か月ほどで約140点を残し姿を消した謎の絵師。正体は阿波藩の能役者・斎藤十郎兵衛とする説が有力。"
+  }
+ },
+ {
+  "id": "korin-irises-yatsuhashi",
+  "source": "met",
+  "query": "Irises at Yatsuhashi (Eight Bridges)",
+  "match": {
+   "title": [
+    "irises"
+   ],
+   "artist": "korin"
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "rinpa",
+  "ai": {
+   "title_ja": "八橋図屏風",
+   "highlights": [
+    "金地の上に、群青と緑青の燕子花（かきつばた）が律動的に並ぶ。",
+    "ジグザグに折れ曲がる板橋が、六曲一双の屏風全体をつなぐ。",
+    "人物を描かずに『伊勢物語』の場面を連想させる、引き算のデザイン。"
+   ],
+   "trivia": "『伊勢物語』の八橋の段（かきつばたの歌）に基づく。根津美術館の国宝「燕子花図屏風」より後年の作とされる。"
+  }
+ },
+ {
+  "id": "kano-sansetsu-old-plum",
+  "source": "met",
+  "query": "The Old Plum Kano Sansetsu",
+  "match": {
+   "title": [
+    "old plum"
+   ]
+  },
+  "genre": "painting",
+  "region": "japan",
+  "style": "kano-school",
+  "ai": {
+   "title_ja": "老梅図襖",
+   "highlights": [
+    "屈曲しながら横へ伸びる梅の老木が、4面の襖を貫く。",
+    "金地を背景にした幹のねじれが、ほとんど抽象的な造形の迫力を持つ。",
+    "枝先の小さな花と、岩のように荒々しい幹の対比。"
+   ],
+   "trivia": "京狩野の狩野山雪の作。もとは京都・妙心寺の塔頭天祥院の襖絵だった。"
+  }
+ },
+ {
+  "id": "haniwa-figure",
+  "source": "met",
+  "query": "Haniwa",
+  "match": {
+   "title": [
+    "haniwa"
+   ],
+   "year": [
+    200,
+    700
+   ]
+  },
+  "genre": "sculpture",
+  "region": "japan",
+  "style": "kofun-haniwa",
+  "ai": {
+   "title_ja": "埴輪",
+   "highlights": [
+    "目と口をくり抜いただけの素朴な表現が、かえって豊かな表情を感じさせる。",
+    "素焼きの赤褐色の土の温かみ。",
+    "輪積みで作られた円筒の構造が、人物や動物の形に発展している。"
+   ],
+   "trivia": "埴輪は古墳の墳丘や周囲に並べられた。用途は葬送儀礼や王の権威の表示など諸説ある。"
+  }
+ },
+ {
+  "id": "jomon-vessel",
+  "source": "met",
+  "query": "Jōmon jar",
+  "match": {
+   "any": [
+    "jomon"
+   ],
+   "title_any": [
+    "jar",
+    "vessel",
+    "bowl",
+    "pot"
+   ]
+  },
+  "genre": "craft",
+  "region": "japan",
+  "style": "jomon",
+  "ai": {
+   "title_ja": "縄文土器",
+   "highlights": [
+    "縄を転がして付けた縄目文様が、表面にリズミカルな質感を与える。",
+    "粘土紐を貼り付けた立体的な装飾が、器の口縁を力強く飾る。",
+    "実用品でありながら、強い造形意欲が感じられる。"
+   ],
+   "trivia": "縄文土器は世界でも最古級の土器の一つで、1万年以上にわたって作られ続けた。"
+  }
+ },
+ {
+  "id": "kamakura-amida",
+  "source": "met",
+  "query": "Amida Buddha Kamakura period wood",
+  "match": {
+   "any": [
+    "amida",
+    "kamakura",
+    "sculpture"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "japan",
+  "style": "kamakura-sculpture",
+  "ai": {
+   "title_ja": "阿弥陀如来像（鎌倉時代）",
+   "highlights": [
+    "穏やかな表情の中に、鎌倉時代らしい引き締まった写実性が見られる。",
+    "衣のひだの深く鋭い彫りが、体の量感を強調する。",
+    "漆箔（漆と金箔）の仕上げが、仏の放つ光を表す。"
+   ],
+   "trivia": "阿弥陀如来は西方極楽浄土の仏。平安後期から鎌倉時代にかけて浄土信仰が広まり、多くの阿弥陀像が造られた。"
+  }
+ },
+ {
+  "id": "horyu-ji",
+  "source": "wikidata",
+  "query": "Hōryū-ji",
+  "match": {
+   "title": [
+    "horyu"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "asuka-hakuho-buddhist",
+  "ai": {
+   "title_ja": "法隆寺",
+   "highlights": [
+    "金堂と五重塔が左右に並ぶ独特の伽藍配置。",
+    "柱の中ほどがわずかに膨らむエンタシス風の柱が、飛鳥様式の特徴とされる。",
+    "深い軒を支える雲形の組物（雲斗・雲肘木）。"
+   ],
+   "trivia": "西院伽藍は現存する世界最古級の木造建築群とされ、1993年に日本初の世界文化遺産の一つとなった。"
+  }
+ },
+ {
+  "id": "byodo-in",
+  "source": "wikidata",
+  "query": "Byōdō-in",
+  "match": {
+   "title": [
+    "byodo"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "heian-court",
+  "ai": {
+   "title_ja": "平等院鳳凰堂",
+   "highlights": [
+    "池に浮かぶように建つ鳳凰堂が、水面に映って極楽浄土の宮殿を表す。",
+    "中堂から左右に翼廊が伸び、鳥が翼を広げたような姿を見せる。",
+    "堂内には定朝作の阿弥陀如来坐像が安置される。"
+   ],
+   "trivia": "藤原頼通が1052年に父道長の別荘を寺に改めた。10円硬貨の図柄として知られる。"
+  }
+ },
+ {
+  "id": "todai-ji",
+  "source": "wikidata",
+  "query": "Tōdai-ji",
+  "match": {
+   "title": [
+    "todai"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "tempyo",
+  "ai": {
+   "title_ja": "東大寺",
+   "highlights": [
+    "大仏殿は世界最大級の木造建築のひとつで、圧倒的なスケールを誇る。",
+    "内部の盧舎那仏（奈良の大仏）は天平の国家的事業の象徴。",
+    "南大門は鎌倉時代の大仏様（天竺様）の豪快な構造を伝える。"
+   ],
+   "trivia": "聖武天皇の発願で752年に大仏開眼。現在の大仏殿は江戸時代の再建で、創建時より横幅が小さい。"
+  }
+ },
+ {
+  "id": "kinkaku-ji",
+  "source": "wikidata",
+  "query": "Kinkaku-ji",
+  "match": {
+   "title": [
+    "kinkaku"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "kitayama-higashiyama",
+  "ai": {
+   "title_ja": "鹿苑寺金閣",
+   "highlights": [
+    "金箔で覆われた上層が、鏡湖池の水面に映り込む。",
+    "層ごとに寝殿造・武家造・禅宗様と様式が異なる三層構造。",
+    "池泉回遊式庭園と一体となり、極楽浄土を表すとされる。"
+   ],
+   "trivia": "足利義満の山荘・北山殿を起源とする。1950年に放火で焼失し、1955年に再建された。三島由紀夫『金閣寺』の題材。"
+  }
+ },
+ {
+  "id": "himeji-castle",
+  "source": "wikidata",
+  "query": "Himeji Castle",
+  "match": {
+   "title": [
+    "himeji"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "castle-architecture",
+  "period": "japan:momoyama",
+  "ai": {
+   "title_ja": "姫路城",
+   "highlights": [
+    "白漆喰総塗籠の壁が、白鷺が羽を広げたような優美な姿を見せる。",
+    "大天守と3つの小天守を渡櫓でつなぐ連立式天守。",
+    "複雑に折れ曲がる通路や狭間など、実戦的な防御の工夫が随所にある。"
+   ],
+   "trivia": "現在の天守は池田輝政により1609年頃に完成。1993年に法隆寺とともに日本初の世界文化遺産に登録された。"
+  }
+ },
+ {
+  "id": "itsukushima-shrine",
+  "source": "wikidata",
+  "query": "Itsukushima Shrine",
+  "match": {
+   "title": [
+    "itsukushima"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "shrine-architecture",
+  "period": "japan:heian",
+  "ai": {
+   "title_ja": "厳島神社",
+   "highlights": [
+    "満潮時には社殿と大鳥居が海に浮かんで見える、海上の社殿。",
+    "朱塗りの回廊が水平に伸び、寝殿造の様式を伝える。",
+    "背後の弥山と海を含めた景観全体が信仰の対象になっている。"
+   ],
+   "trivia": "平清盛が12世紀に社殿を整えたとされる。1996年に世界文化遺産に登録された。"
+  }
+ },
+ {
+  "id": "katsura-imperial-villa",
+  "source": "wikidata",
+  "query": "Katsura Imperial Villa",
+  "match": {
+   "title": [
+    "katsura"
+   ]
+  },
+  "genre": "architecture",
+  "region": "japan",
+  "style": "sukiya",
+  "ai": {
+   "title_ja": "桂離宮",
+   "highlights": [
+    "雁行形に連なる書院群が、庭への多様な眺めを生み出す。",
+    "細い柱と障子による簡素で軽やかな数寄屋の意匠。",
+    "池を巡る回遊式庭園に茶屋が点在し、歩くごとに景色が変わる。"
+   ],
+   "trivia": "八条宮家の別荘として17世紀に造営された。建築家ブルーノ・タウトが絶賛し、近代建築家に再評価されるきっかけとなった。"
+  }
+ },
+ {
+  "id": "shang-ritual-bronze",
+  "source": "cleveland",
+  "query": "Shang dynasty ritual vessel bronze",
+  "match": {
+   "any": [
+    "shang",
+    "bronze"
+   ],
+   "title_any": [
+    "vessel",
+    "ding",
+    "gu",
+    "jue",
+    "zun",
+    "fangyi",
+    "gui",
+    "you",
+    "jia",
+    "he",
+    "lei"
+   ]
+  },
+  "genre": "craft",
+  "region": "china",
+  "style": "shang-zhou-bronze",
+  "ai": {
+   "title_ja": "殷代の青銅祭器",
+   "highlights": [
+    "器の表面を覆う饕餮文（獣面文）が、神秘的な力を感じさせる。",
+    "左右対称の厳格な造形と、鋭く立ち上がる稜線（扉稜）。",
+    "細かな雷文が地文として埋め尽くし、主文様を浮かび上がらせる。"
+   ],
+   "trivia": "殷の青銅器は祖先の祭祀に酒や食物を供えるための器。陶製の鋳型（陶范）を組み合わせて鋳造された。"
+  }
+ },
+ {
+  "id": "tang-sancai-horse",
+  "source": "met",
+  "query": "Tang dynasty horse three-color glaze",
+  "match": {
+   "title_any": [
+    "horse"
+   ],
+   "any": [
+    "tang"
+   ],
+   "year": [
+    600,
+    800
+   ]
+  },
+  "genre": "sculpture",
+  "region": "china",
+  "style": "tang",
+  "ai": {
+   "title_ja": "唐代の馬俑",
+   "highlights": [
+    "引き締まった首と力強い脚に、唐の人々が愛した西域の名馬の理想が表れる。",
+    "鞍や装飾帯まで丁寧に造形され、貴族の乗馬の豪華さを伝える。",
+    "釉薬の流れや土の質感に、唐代陶塑の生気がある。"
+   ],
+   "trivia": "唐の貴族の墓には、馬・駱駝・楽人などの俑（副葬用の人形）が多数納められた。三彩の俑はとくに盛唐期に流行した。"
+  }
+ },
+ {
+  "id": "northern-wei-maitreya",
+  "source": "met",
+  "query": "Buddha Maitreya (Mile) Northern Wei",
+  "match": {
+   "title": [
+    "maitreya"
+   ],
+   "any": [
+    "northern wei"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "china",
+  "style": "chinese-buddhist-sculpture",
+  "ai": {
+   "title_ja": "弥勒仏立像（北魏）",
+   "highlights": [
+    "細長い体と、魚のヒレのように左右へ鋭く広がる衣の裾。",
+    "右手を上げ（施無畏印）、人々の恐れを取り除く仕草を示す。",
+    "背後の大きな光背には、炎や飛天が細かく表される。"
+   ],
+   "trivia": "弥勒は未来に現れて人々を救うとされる仏。北魏時代には金銅仏が盛んに造られ、本作はその代表的な大作として知られる。"
+  }
+ },
+ {
+  "id": "streams-and-mountains-without-end",
+  "source": "cleveland",
+  "query": "Streams and Mountains without End",
+  "match": {
+   "title": [
+    "streams and mountains"
+   ]
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "northern-song-landscape",
+  "ai": {
+   "title_ja": "渓山無尽図",
+   "highlights": [
+    "横長の画巻を右から左へ繰り広げると、山・川・村が途切れずに続いていく。",
+    "冬枯れの木々と淡い墨の山並みが、静かで澄んだ空気を伝える。",
+    "小さな旅人や舟を探しながら、絵の中を旅するように鑑賞できる。"
+   ],
+   "trivia": "北宋後期の作とされる手巻で、巻末には後世の鑑賞者たちによる多数の跋文（感想文）が連なる。"
+  }
+ },
+ {
+  "id": "guo-xi-old-trees-level-distance",
+  "source": "met",
+  "query": "Old Trees, Level Distance Guo Xi",
+  "match": {
+   "title": [
+    "old trees"
+   ],
+   "artist": "guo xi"
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "northern-song-landscape",
+  "ai": {
+   "title_ja": "樹色平遠図",
+   "highlights": [
+    "手前のねじれた古木と、遠くまで広がる水辺の平らな景色の対比。",
+    "郭熙が説いた「平遠」（近くから遠くを見渡す視点）の実践。",
+    "墨の濃淡で霧や空気の層を表す、北宋山水の高度な技法。"
+   ],
+   "trivia": "郭熙は北宋の宮廷画家で、山水画論『林泉高致』で高遠・深遠・平遠の「三遠法」を説いたことで知られる。"
+  }
+ },
+ {
+  "id": "huizong-finches-bamboo",
+  "source": "met",
+  "query": "Finches and bamboo Emperor Huizong",
+  "match": {
+   "title": [
+    "finches"
+   ],
+   "artist": "huizong"
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "song-academy",
+  "ai": {
+   "title_ja": "竹禽図",
+   "highlights": [
+    "竹の枝にとまる小鳥の羽毛まで、極めて繊細な筆で写されている。",
+    "細い竹の枝のしなりと、とまる鳥の体の重さの微妙な均衡。",
+    "画面の余白と簡潔な構図が、宮廷趣味の気品を感じさせる。"
+   ],
+   "trivia": "北宋の皇帝徽宗は書画に優れ、画院を整備した。痩せて鋭い独自の書体「痩金体」でも知られる。"
+  }
+ },
+ {
+  "id": "qian-xuan-wang-xizhi-geese",
+  "source": "met",
+  "query": "Wang Xizhi Watching Geese Qian Xuan",
+  "match": {
+   "title": [
+    "wang xizhi"
+   ],
+   "artist": "qian xuan"
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "yuan-literati",
+  "ai": {
+   "title_ja": "王羲之観鵞図",
+   "highlights": [
+    "東屋から池の鵞鳥を眺める書聖・王羲之。鵞鳥の首の動きから筆法を学んだという逸話に基づく。",
+    "青緑山水の鮮やかな彩色が、古風で理想化された世界をつくる。",
+    "単純化された木や岩の形に、宋の写実から離れた意図的な古拙さがある。"
+   ],
+   "trivia": "銭選は宋の滅亡後に元に仕えず、書画に生きた遺民画家。"
+  }
+ },
+ {
+  "id": "zhao-mengfu-twin-pines",
+  "source": "met",
+  "query": "Twin Pines, Level Distance Zhao Mengfu",
+  "match": {
+   "title": [
+    "twin pines"
+   ],
+   "artist": "zhao mengfu"
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "yuan-literati",
+  "ai": {
+   "title_ja": "双松平遠図",
+   "highlights": [
+    "2本の松と遠くの平らな山並みを、わずかな墨線で描く。",
+    "書の筆法で描かれた線そのものが鑑賞の対象になる。",
+    "広い余白が、静かで内省的な空気を生む。"
+   ],
+   "trivia": "趙孟頫は宋の皇族の末裔ながら元朝に仕えた書画家。「書画同源」を唱え、文人画の方向を決定づけた。"
+  }
+ },
+ {
+  "id": "han-gan-night-shining-white",
+  "source": "met",
+  "query": "Night-Shining White Han Gan",
+  "match": {
+   "title": [
+    "night shining white"
+   ]
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "tang",
+  "ai": {
+   "title_ja": "照夜白図",
+   "highlights": [
+    "杭につながれ、いななき暴れる名馬の力強い一瞬。",
+    "最小限の墨線と淡い陰影で、筋肉の盛り上がりと気性を表す。",
+    "画面を埋める多数の印章と題跋が、千年以上の鑑賞の歴史を物語る。"
+   ],
+   "trivia": "「照夜白」は唐の玄宗皇帝の愛馬の名。韓幹は馬の名手として知られた宮廷画家。"
+  }
+ },
+ {
+  "id": "bada-shanren-fish-and-rocks",
+  "source": "met",
+  "query": "Fish and Rocks Bada Shanren Zhu Da",
+  "match": {
+   "title": [
+    "fish"
+   ],
+   "any": [
+    "zhu da"
+   ]
+  },
+  "genre": "painting",
+  "region": "china",
+  "style": "qing-individualists",
+  "ai": {
+   "title_ja": "魚石図",
+   "highlights": [
+    "白目をむいた魚が、こちらを睨むような奇妙な表情を見せる。",
+    "不安定に積み重なる岩と、大きな余白の緊張感。",
+    "濡れた墨の大胆な筆致による、極度に簡略化された形。"
+   ],
+   "trivia": "八大山人（朱耷）は明の皇族の末裔。明の滅亡後に僧となり、屈折した心情を奇抜な表現に託したとされる。"
+  }
+ },
+ {
+  "id": "ming-blue-and-white",
+  "source": "met",
+  "query": "Ming dynasty blue and white porcelain jar",
+  "match": {
+   "any": [
+    "ming",
+    "porcelain",
+    "blue"
+   ],
+   "title_any": [
+    "jar",
+    "vase",
+    "meiping",
+    "bottle",
+    "dish",
+    "bowl"
+   ]
+  },
+  "genre": "craft",
+  "region": "china",
+  "style": "ming-qing-porcelain",
+  "ai": {
+   "title_ja": "明代の青花磁器",
+   "highlights": [
+    "白い磁胎にコバルトの青で描かれた文様が、鮮やかなコントラストを生む。",
+    "龍・花・波などの文様が器の形に沿ってリズミカルに配置される。",
+    "釉の下に描くため、色が長く褪せずに保たれる。"
+   ],
+   "trivia": "景徳鎮で量産された青花は、アジア・中東・ヨーロッパへ輸出され、各地の陶磁器生産に大きな影響を与えた。"
+  }
+ },
+ {
+  "id": "forbidden-city",
+  "source": "wikidata",
+  "source_id": "Q80290",
+  "query": "Forbidden City",
+  "match": {
+   "title": [
+    "forbidden city"
+   ]
+  },
+  "genre": "architecture",
+  "region": "china",
+  "style": "chinese-imperial-architecture",
+  "ai": {
+   "title_ja": "紫禁城（故宮）",
+   "highlights": [
+    "南北の中軸線に沿って門と殿舎が左右対称に連なる、壮大な配置。",
+    "皇帝の色である黄色の瑠璃瓦と、朱塗りの壁・柱。",
+    "白い大理石の三層基壇の上に建つ太和殿が、皇帝の権威を示す。"
+   ],
+   "trivia": "明の永楽帝が1420年に完成させ、清末まで約500年間、皇帝の宮殿として使われた。現在は故宮博物院。"
+  }
+ },
+ {
+  "id": "temple-of-heaven",
+  "source": "wikidata",
+  "query": "Temple of Heaven Beijing",
+  "queries": [
+   "Temple of Heaven"
+  ],
+  "match": {
+   "title": [
+    "temple of heaven"
+   ]
+  },
+  "genre": "architecture",
+  "region": "china",
+  "style": "chinese-imperial-architecture",
+  "ai": {
+   "title_ja": "天壇",
+   "highlights": [
+    "三重の青い瑠璃瓦の円屋根をもつ祈年殿が、天を象徴する。",
+    "円（天）と方（地）の形を組み合わせた、宇宙観に基づく設計。",
+    "釘をほとんど使わない木組みの構造。"
+   ],
+   "trivia": "明清の皇帝が天を祀り、五穀豊穣を祈った場所。青は天の色とされた。"
+  }
+ },
+ {
+  "id": "goryeo-celadon",
+  "source": "met",
+  "query": "Goryeo celadon maebyeong",
+  "match": {
+   "any": [
+    "goryeo",
+    "celadon"
+   ]
+  },
+  "genre": "craft",
+  "region": "korea",
+  "style": "goryeo-celadon",
+  "ai": {
+   "title_ja": "高麗青磁",
+   "highlights": [
+    "「翡色」と称えられた、澄んだ青緑色の釉。",
+    "白土・黒土を埋め込む象嵌の技法による、繊細な文様。",
+    "柔らかな曲線を描く優美な器形。"
+   ],
+   "trivia": "中国・宋の文人も高麗青磁の色を称賛した記録が残る。象嵌青磁は高麗独自の発展とされる。"
+  }
+ },
+ {
+  "id": "joseon-moon-jar",
+  "source": "met",
+  "query": "Moon jar Joseon",
+  "match": {
+   "title": [
+    "moon jar"
+   ]
+  },
+  "genre": "craft",
+  "region": "korea",
+  "style": "joseon",
+  "ai": {
+   "title_ja": "白磁大壺（月壺）",
+   "highlights": [
+    "満月を思わせる丸く大きな白磁の壺。",
+    "上下を別々に作って接合するため、わずかな歪みが生じ、それが温かみを生む。",
+    "装飾を排した乳白色の肌に、朝鮮王朝の簡素の美学が表れる。"
+   ],
+   "trivia": "17〜18世紀の朝鮮王朝で作られた。「月壺（タルハンアリ）」の名は20世紀に付けられたとされる。"
+  }
+ },
+ {
+  "id": "isfahan-mihrab",
+  "source": "met",
+  "query": "Mihrab (Prayer Niche) Isfahan",
+  "match": {
+   "title": [
+    "mihrab"
+   ],
+   "any": [
+    "isfahan"
+   ]
+  },
+  "genre": "craft",
+  "region": "iran-central-asia",
+  "style": "ilkhanid-timurid",
+  "ai": {
+   "title_ja": "ミフラーブ（イスファハーン）",
+   "highlights": [
+    "メッカの方角を示す壁龕を、色とりどりのタイル・モザイクが埋め尽くす。",
+    "縁を囲むクーフィー体・ナスフ体の大きな銘文帯。",
+    "小さく切った施釉タイルを組み合わせる高度な技法。"
+   ],
+   "trivia": "14世紀半ば、イスファハーンのマドラサ（学院）のために作られたとされる。ミフラーブはモスク内部で礼拝の方向（キブラ）を示す。"
+  }
+ },
+ {
+  "id": "shahnama-feast-of-sada",
+  "source": "met",
+  "query": "The Feast of Sada Shahnama Shah Tahmasp",
+  "match": {
+   "title": [
+    "feast of sada"
+   ]
+  },
+  "genre": "painting",
+  "region": "iran-central-asia",
+  "style": "persian-miniature",
+  "ai": {
+   "title_ja": "サデの祭り（シャー・タフマースプの『シャーナーメ』より）",
+   "highlights": [
+    "火を発見した伝説の王を祝う場面。岩山には動物や顔が隠れている。",
+    "宝石のような色彩と、限りなく細かい筆による描写。",
+    "高い視点から見下ろす平面的な空間に、物語が重層的に広がる。"
+   ],
+   "trivia": "サファヴィー朝のシャー・タフマースプのために作られた豪華写本の一葉。「サデ」は火の発見を祝う古代イランの祭り。"
+  }
+ },
+ {
+  "id": "mamluk-mosque-lamp",
+  "source": "met",
+  "query": "Mosque Lamp Mamluk enameled glass",
+  "match": {
+   "title": [
+    "mosque lamp"
+   ]
+  },
+  "genre": "craft",
+  "region": "arab-ottoman",
+  "style": "mamluk",
+  "ai": {
+   "title_ja": "モスク・ランプ（マムルーク朝）",
+   "highlights": [
+    "透明なガラスにエナメル彩と金彩で、大きな銘文が施されている。",
+    "光を通すと文様が浮かび上がり、聖なる光の比喩となる。",
+    "寄進者の紋章やコーランの「光の章」の一節が記されることが多い。"
+   ],
+   "trivia": "マムルーク朝の首都カイロのモスクや廟に吊るされた。中に油と芯を入れたガラス容器を置いて灯した。"
+  }
+ },
+ {
+  "id": "iznik-dish",
+  "source": "met",
+  "query": "Iznik dish tulips",
+  "match": {
+   "any": [
+    "iznik"
+   ],
+   "title_any": [
+    "dish",
+    "plate"
+   ]
+  },
+  "genre": "craft",
+  "region": "arab-ottoman",
+  "style": "ottoman",
+  "ai": {
+   "title_ja": "イズニク陶器の皿",
+   "highlights": [
+    "チューリップ・カーネーション・ヒヤシンスなど、写実と様式化が融合した草花文。",
+    "鮮やかなコバルト青・トルコ石色に、盛り上がる赤（ボーレ）が加わる。",
+    "白い化粧土と透明釉による、陶器とは思えない明るい白地。"
+   ],
+   "trivia": "イズニクはアナトリア西部の町。16世紀のオスマン宮廷の工房がデザインを主導し、モスクのタイルも生産した。"
+  }
+ },
+ {
+  "id": "damascus-room",
+  "source": "met",
+  "query": "Damascus Room",
+  "match": {
+   "title": [
+    "damascus room"
+   ]
+  },
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "style": "ottoman",
+  "ai": {
+   "title_ja": "ダマスカスの部屋",
+   "highlights": [
+    "壁と天井を覆う木製パネルに、金や色彩で花や器、銘文が描かれる。",
+    "一段低い玄関部分と、一段高い応接の間という伝統的な構成。",
+    "詩の銘文が家の主人を称え、もてなしの空間を演出する。"
+   ],
+   "trivia": "18世紀初頭のダマスカスの邸宅の冬の応接室を移設したもの。ニスの変色により、当初はもっと鮮やかだったとされる。"
+  }
+ },
+ {
+  "id": "emperors-carpet",
+  "source": "met",
+  "query": "The Emperor's Carpet",
+  "match": {
+   "title": [
+    "emperor",
+    "carpet"
+   ]
+  },
+  "genre": "craft",
+  "region": "iran-central-asia",
+  "style": "safavid",
+  "ai": {
+   "title_ja": "皇帝の絨毯",
+   "highlights": [
+    "深紅の地に、唐草の蔓と花、雲文、動物が対称的に織り出される。",
+    "中国由来の雲や麒麟のモチーフが、ペルシアの文様と融合している。",
+    "極めて高い結び目の密度による、絵画のように精緻な表現。"
+   ],
+   "trivia": "16世紀サファヴィー朝の宮廷工房製とされる。かつてハプスブルク家が所有したことからこの名で呼ばれる。対になる一枚がウィーンにある。"
+  }
+ },
+ {
+  "id": "dome-of-the-rock",
+  "source": "wikidata",
+  "query": "Dome of the Rock",
+  "match": {
+   "title": [
+    "dome of the rock"
+   ]
+  },
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "style": "early-islamic",
+  "ai": {
+   "title_ja": "岩のドーム",
+   "highlights": [
+    "八角形の建物の上に輝く黄金のドームが、エルサレムの景観を象徴する。",
+    "外壁を覆う青を基調としたタイルは、16世紀のオスマン朝期に貼り替えられたもの。",
+    "内部にはビザンティン風の金地モザイクで植物や宝飾が表される。"
+   ],
+   "trivia": "7世紀末、ウマイヤ朝のカリフ、アブドゥルマリクによって建てられた。現存する最古級のイスラーム建築。"
+  }
+ },
+ {
+  "id": "alhambra",
+  "source": "wikidata",
+  "source_id": "Q47476",
+  "query": "Alhambra",
+  "match": {
+   "title": [
+    "alhambra"
+   ]
+  },
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "style": "moorish-nasrid",
+  "ai": {
+   "title_ja": "アルハンブラ宮殿",
+   "highlights": [
+    "獅子の中庭を囲む細い柱と、レースのように繊細なスタッコ装飾。",
+    "天井から垂れ下がる鍾乳石のようなムカルナス装飾。",
+    "水路・噴水・池を巡らせ、水と光で楽園を表現する。"
+   ],
+   "trivia": "イベリア半島最後のイスラーム王朝、ナスル朝の宮殿。1492年にグラナダがキリスト教勢力に明け渡された。"
+  }
+ },
+ {
+  "id": "shah-mosque-isfahan",
+  "source": "wikidata",
+  "query": "Shah Mosque Isfahan",
+  "queries": [
+   "Shah Mosque Isfahan",
+   "Imam Mosque Isfahan",
+   "Shah Mosque"
+  ],
+  "match": {
+   "any": [
+    "isfahan"
+   ],
+   "title_any": [
+    "shah mosque",
+    "imam mosque",
+    "masjed"
+   ]
+  },
+  "genre": "architecture",
+  "region": "iran-central-asia",
+  "style": "safavid",
+  "ai": {
+   "title_ja": "イマーム・モスク（旧シャー・モスク）",
+   "highlights": [
+    "青を基調とした七彩タイルが、ドームや壁面を隙間なく覆う。",
+    "広場に面した入口から本堂へ、軸線を45度ずらしてメッカに向ける工夫。",
+    "巨大なイーワーンとムカルナスが、劇的な入口空間をつくる。"
+   ],
+   "trivia": "サファヴィー朝のアッバース1世がイスファハーンの王の広場（現イマーム広場）に建設させた。"
+  }
+ },
+ {
+  "id": "suleymaniye-mosque",
+  "source": "wikidata",
+  "query": "Süleymaniye Mosque",
+  "match": {
+   "title": [
+    "suleymaniye"
+   ]
+  },
+  "genre": "architecture",
+  "region": "arab-ottoman",
+  "style": "ottoman",
+  "ai": {
+   "title_ja": "スレイマニエ・モスク",
+   "highlights": [
+    "中央の大ドームを半ドームが支え、段々と積み上がる外観。",
+    "4本の鉛筆のように細いミナレットが空へ伸びる。",
+    "内部は窓からの光に満ち、イズニクタイルが要所を飾る。"
+   ],
+   "trivia": "建築家ミマール・スィナンがスレイマン1世のために1550年代に建てた。アヤソフィアのドーム構造を研究・発展させたとされる。"
+  }
+ },
+ {
+  "id": "gur-e-amir",
+  "source": "wikidata",
+  "query": "Gur-e-Amir",
+  "queries": [
+   "Gur-e-Amir",
+   "Gur-i Amir"
+  ],
+  "match": {
+   "title_any": [
+    "gur e amir",
+    "gur i amir",
+    "guri amir",
+    "gur emir"
+   ]
+  },
+  "genre": "architecture",
+  "region": "iran-central-asia",
+  "style": "ilkhanid-timurid",
+  "ai": {
+   "title_ja": "グーリ・アミール廟",
+   "highlights": [
+    "縦溝（リブ）の入った青いドームが、高いドラムの上にそびえる。",
+    "外壁を幾何学文様と銘文のタイルが覆う。",
+    "内部は金で装飾され、ティムールの墓石には暗緑色の軟玉（ネフライト）が使われている。"
+   ],
+   "trivia": "サマルカンドにあるティムールとその一族の霊廟。その意匠はムガル朝のタージ・マハルなどにも影響を与えたとされる。"
+  }
+ },
+ {
+  "id": "taj-mahal",
+  "source": "wikidata",
+  "source_id": "Q9141",
+  "query": "Taj Mahal",
+  "match": {
+   "title": [
+    "taj mahal"
+   ]
+  },
+  "genre": "architecture",
+  "region": "south-asia",
+  "style": "mughal",
+  "ai": {
+   "title_ja": "タージ・マハル",
+   "highlights": [
+    "白大理石の霊廟が、完全な左右対称で水路の庭園の奥に立つ。",
+    "色石を嵌め込むピエトラ・ドゥーラの花文様と、コーランの銘文。",
+    "四隅のミナレットはわずかに外側へ傾けられているとされる。"
+   ],
+   "trivia": "ムガル皇帝シャー・ジャハーンが亡き妃ムムターズ・マハルのために建てた。1632年頃に着工し、約20年を要した。"
+  }
+ },
+ {
+  "id": "shah-jahan-on-terrace",
+  "source": "met",
+  "query": "Shah Jahan on a Terrace, Holding a Pendant Set with His Portrait",
+  "match": {
+   "title": [
+    "shah jahan"
+   ],
+   "any": [
+    "terrace"
+   ]
+  },
+  "genre": "painting",
+  "region": "south-asia",
+  "style": "mughal",
+  "ai": {
+   "title_ja": "テラスに立つシャー・ジャハーン",
+   "highlights": [
+    "横顔で描かれる皇帝の頭部に、金色の光輪が輝く。",
+    "宝石を嵌めた肖像のペンダントや衣装の細部が、驚くほど精密に描かれる。",
+    "周囲の花の縁取りが画面を豪華な宝飾品のように見せる。"
+   ],
+   "trivia": "いわゆる「シャー・ジャハーン・アルバム」の一葉。横顔の肖像はムガル宮廷の公式な皇帝像の形式だった。"
+  }
+ },
+ {
+  "id": "chola-nataraja",
+  "source": "met",
+  "query": "Shiva as Lord of Dance (Nataraja) Chola",
+  "match": {
+   "title_any": [
+    "nataraja",
+    "lord of dance"
+   ],
+   "any": [
+    "chola"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "south-asia",
+  "style": "chola",
+  "ai": {
+   "title_ja": "ナタラージャ（踊るシヴァ）",
+   "highlights": [
+    "炎の輪の中で、片足を上げて宇宙の破壊と創造の舞いを踊るシヴァ。",
+    "足元に踏まれる小人は、無知の象徴とされる。",
+    "四本の腕が均衡を保ち、静と動が一体化した造形。"
+   ],
+   "trivia": "チョーラ朝の青銅像は失蝋法で鋳造された。祭礼のときには行列で運ばれる「行道像」でもあった。"
+  }
+ },
+ {
+  "id": "gandhara-bodhisattva",
+  "source": "met",
+  "query": "Gandhara Bodhisattva",
+  "match": {
+   "any": [
+    "gandhara"
+   ],
+   "title_any": [
+    "bodhisattva",
+    "maitreya",
+    "buddha"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "south-asia",
+  "style": "gandhara",
+  "ai": {
+   "title_ja": "ガンダーラの仏・菩薩像",
+   "highlights": [
+    "ギリシア・ローマ彫刻を思わせる写実的な顔立ちと衣のひだ。",
+    "波打つ髪や口ひげ、装身具など、王侯の姿を映した菩薩の表現。",
+    "灰色の片岩に彫られた、落ち着いた質感。"
+   ],
+   "trivia": "ガンダーラは現在のパキスタン北西部。アレクサンドロスの遠征以後のヘレニズム文化の影響を受け、最初期の仏像が生まれた地のひとつ。"
+  }
+ },
+ {
+  "id": "sanchi-stupa",
+  "source": "wikidata",
+  "query": "Sanchi",
+  "queries": [
+   "Great Stupa Sanchi",
+   "Sanchi"
+  ],
+  "match": {
+   "any": [
+    "sanchi"
+   ]
+  },
+  "genre": "architecture",
+  "region": "south-asia",
+  "style": "early-buddhist-india",
+  "ai": {
+   "title_ja": "サーンチーの大ストゥーパ",
+   "highlights": [
+    "半球形の覆鉢が、仏陀の遺骨を納める宇宙の象徴として盛り上がる。",
+    "四方の塔門（トーラナ）を埋め尽くす、仏伝やジャータカの浮彫。",
+    "仏陀を人の姿で表さず、菩提樹や法輪で象徴する初期仏教美術。"
+   ],
+   "trivia": "起源はアショーカ王の時代（前3世紀）にさかのぼる。塔門の浮彫は前1世紀頃のものとされる。"
+  }
+ },
+ {
+  "id": "brihadisvara-temple",
+  "source": "wikidata",
+  "query": "Brihadisvara Temple Thanjavur",
+  "queries": [
+   "Brihadisvara Temple, Thanjavur",
+   "Brihadeeswarar Temple"
+  ],
+  "match": {
+   "any": [
+    "thanjavur"
+   ]
+  },
+  "genre": "architecture",
+  "region": "south-asia",
+  "style": "chola",
+  "ai": {
+   "title_ja": "ブリハディーシュヴァラ寺院",
+   "highlights": [
+    "約60メートルの高さにそびえる本殿の塔（ヴィマーナ）。",
+    "塔の頂部に載る巨大な冠石（一枚岩とも伝えられる）。",
+    "壁面の神像彫刻と、内部に残るチョーラ期の壁画。"
+   ],
+   "trivia": "チョーラ朝の王ラージャラージャ1世が11世紀初めに建立した。「大チョーラ朝寺院群」として世界遺産。"
+  }
+ },
+ {
+  "id": "krishna-govardhan-phnom-da",
+  "source": "cleveland",
+  "query": "Krishna Lifting Mount Govardhan",
+  "match": {
+   "title": [
+    "krishna",
+    "govardhan"
+   ],
+   "any": [
+    "cambodia"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "southeast-asia",
+  "style": "khmer",
+  "ai": {
+   "title_ja": "ゴーヴァルダナ山を持ち上げるクリシュナ",
+   "highlights": [
+    "左腕を高く掲げ、豪雨から人々を守るため山を持ち上げる若きクリシュナ。",
+    "しなやかな体の量感と、穏やかな顔の表情。",
+    "石の塊から彫り出しながら、自立する立体として完成させた技術。"
+   ],
+   "trivia": "前アンコール期のプノン・ダー様式の代表作。修復により欠損部分が補われ、本来の姿に近づけられた。"
+  }
+ },
+ {
+  "id": "angkor-wat",
+  "source": "wikidata",
+  "source_id": "Q43473",
+  "query": "Angkor Wat",
+  "match": {
+   "title": [
+    "angkor wat"
+   ]
+  },
+  "genre": "architecture",
+  "region": "southeast-asia",
+  "style": "khmer",
+  "ai": {
+   "title_ja": "アンコール・ワット",
+   "highlights": [
+    "蓮の蕾のような5つの塔が、神々の住む須弥山を表す。",
+    "回廊に延々と続く浅浮彫は『マハーバーラタ』『ラーマーヤナ』などを描く。",
+    "西向きの正面と環濠が、天体の運行と結びついた設計を示す。"
+   ],
+   "trivia": "12世紀前半、スーリヤヴァルマン2世がヴィシュヌ神に捧げて建てた。後に仏教寺院となり、カンボジア国旗にも描かれる。"
+  }
+ },
+ {
+  "id": "borobudur",
+  "source": "wikidata",
+  "source_id": "Q34651",
+  "query": "Borobudur",
+  "match": {
+   "title": [
+    "borobudur"
+   ]
+  },
+  "genre": "architecture",
+  "region": "southeast-asia",
+  "style": "javanese-classical",
+  "ai": {
+   "title_ja": "ボロブドゥール",
+   "highlights": [
+    "方形の基壇に円形の壇が重なる、立体的な曼荼羅のような構造。",
+    "回廊を巡ると、仏伝や経典の物語浮彫が順に現れる。",
+    "最上部には鐘形の小ストゥーパが並び、中に仏像が座る。"
+   ],
+   "trivia": "8〜9世紀にシャイレーンドラ朝の下で建立された。長く火山灰と密林に埋もれ、19世紀に再発見された。"
+  }
+ },
+ {
+  "id": "temple-of-dendur",
+  "source": "met",
+  "query": "Temple of Dendur",
+  "match": {
+   "title": [
+    "dendur"
+   ]
+  },
+  "genre": "architecture",
+  "region": "egypt-ancient",
+  "style": "egypt-late-ptolemaic",
+  "ai": {
+   "title_ja": "デンドゥール神殿",
+   "highlights": [
+    "門と小さな神殿からなる、伝統的なエジプト神殿の簡潔な構成。",
+    "外壁の浮彫には、ファラオの姿をしたローマ皇帝アウグストゥスが神々に捧げ物をする場面が刻まれる。",
+    "パピルスや蓮をかたどった柱頭が、ナイルの湿地を象徴する。"
+   ],
+   "trivia": "アスワン・ハイ・ダム建設で水没の危機にあった遺跡を救った謝礼として、エジプトから米国に贈られた。"
+  }
+ },
+ {
+  "id": "william-hippo",
+  "source": "met",
+  "query": "Statuette of a Hippopotamus",
+  "match": {
+   "title": [
+    "hippopotamus"
+   ],
+   "any": [
+    "faience"
+   ],
+   "year": [
+    -2100,
+    -1700
+   ]
+  },
+  "genre": "craft",
+  "region": "egypt-ancient",
+  "style": "egypt-middle-kingdom",
+  "ai": {
+   "title_ja": "カバの小像（ウィリアム）",
+   "highlights": [
+    "鮮やかな青のファイアンスに、ナイルの水草や花が黒で描かれる。",
+    "丸々とした体つきの愛らしさの一方、カバは危険な動物でもあった。",
+    "水辺の植物の文様で、カバが川の中にいる様子を表している。"
+   ],
+   "trivia": "メトロポリタン美術館の非公式マスコットで「ウィリアム」の愛称を持つ。墓に納められた際、力を封じるため脚が折られていたとされる。"
+  }
+ },
+ {
+  "id": "new-york-kouros",
+  "source": "met",
+  "query": "Marble statue of a kouros (youth)",
+  "match": {
+   "title": [
+    "kouros"
+   ],
+   "any": [
+    "marble"
+   ],
+   "year": [
+    -650,
+    -550
+   ]
+  },
+  "genre": "sculpture",
+  "region": "greco-roman",
+  "style": "greek-geometric-archaic",
+  "ai": {
+   "title_ja": "クーロス像（ニューヨークのクーロス）",
+   "highlights": [
+    "左脚を一歩踏み出し、両腕を体側につけた直立の姿勢。",
+    "幾何学的に整理された髪、膝、腹筋の表現。",
+    "エジプトの立像の影響を受けつつ、裸体で表される点がギリシア的。"
+   ],
+   "trivia": "アッティカで作られた、最初期の等身大大理石クーロス像の一つ。紀元前590〜580年頃とされる。"
+  }
+ },
+ {
+  "id": "geometric-krater",
+  "source": "met",
+  "query": "Terracotta krater Geometric",
+  "match": {
+   "title": [
+    "krater"
+   ],
+   "any": [
+    "geometric"
+   ],
+   "year": [
+    -800,
+    -700
+   ]
+  },
+  "genre": "craft",
+  "region": "greco-roman",
+  "style": "greek-geometric-archaic",
+  "ai": {
+   "title_ja": "幾何学様式のクラテル",
+   "highlights": [
+    "器の全面が、帯状に区切られた幾何学文様で埋め尽くされる。",
+    "葬列や戦車の行進が、三角形の胴をもつ様式化された人物で表される。",
+    "大きな器は墓の上に置かれ、墓標の役割を果たした。"
+   ],
+   "trivia": "クラテルはワインを水で割るための器。アテネのディピュロン墓地出土の大型器が幾何学様式の代表作として知られる。"
+  }
+ },
+ {
+  "id": "assyrian-lamassu",
+  "source": "met",
+  "query": "Human-headed winged lion (lamassu)",
+  "match": {
+   "title_any": [
+    "lamassu",
+    "human headed winged"
+   ],
+   "any": [
+    "nimrud"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "ancient-near-east",
+  "style": "mesopotamian",
+  "ai": {
+   "title_ja": "人頭有翼獣（ラマッス）",
+   "highlights": [
+    "正面から見ると2本、横から見ると4本の脚。合わせて5本の脚で、どちらから見ても完全な姿に見える。",
+    "人間の頭は知恵、獅子（または牡牛）の体は力、翼は速さを表すとされる。",
+    "角のある冠は神性を示す。"
+   ],
+   "trivia": "新アッシリアのアッシュールナツィルパル2世のニムルドの宮殿の門を守っていた守護獣。"
+  }
+ },
+ {
+  "id": "parthenon",
+  "source": "wikidata",
+  "source_id": "Q10288",
+  "query": "Parthenon",
+  "match": {
+   "title": [
+    "parthenon"
+   ]
+  },
+  "genre": "architecture",
+  "region": "greco-roman",
+  "style": "greek-classical",
+  "ai": {
+   "title_ja": "パルテノン神殿",
+   "highlights": [
+    "ドーリス式の列柱が並ぶ、古典建築の規範とされる均整の取れた姿。",
+    "柱のふくらみ（エンタシス）や基壇の反りなど、目の錯覚を補正する繊細な工夫。",
+    "かつて破風やフリーズを飾った彫刻群は、古典期彫刻の最高峰とされる。"
+   ],
+   "trivia": "紀元前447〜432年頃、ペリクレスの時代にアテナ女神のために建てられた。後に教会、モスクにもなり、1687年の爆発で大きく損壊した。"
+  }
+ },
+ {
+  "id": "pantheon-rome",
+  "source": "wikidata",
+  "source_id": "Q99309",
+  "query": "Pantheon Rome",
+  "match": {
+   "title": [
+    "pantheon"
+   ],
+   "any": [
+    "rome"
+   ]
+  },
+  "genre": "architecture",
+  "region": "greco-roman",
+  "style": "roman",
+  "ai": {
+   "title_ja": "パンテオン（ローマ）",
+   "highlights": [
+    "直径約43メートルの無筋コンクリートのドーム。床からドーム頂部までの高さも同じ。",
+    "頂部の円窓（オクルス）から差し込む光が、時間とともに内部を移動する。",
+    "ギリシア神殿風の柱廊玄関と、円形の本体の組み合わせ。"
+   ],
+   "trivia": "現在の建物はハドリアヌス帝の時代（2世紀前半）の再建。7世紀に教会となったことで、ほぼ完全な姿で残った。"
+  }
+ },
+ {
+  "id": "great-pyramid-giza",
+  "source": "wikidata",
+  "source_id": "Q37200",
+  "query": "Great Pyramid of Giza",
+  "match": {
+   "title": [
+    "great pyramid"
+   ]
+  },
+  "genre": "architecture",
+  "region": "egypt-ancient",
+  "style": "egypt-old-kingdom",
+  "ai": {
+   "title_ja": "ギザの大ピラミッド（クフ王のピラミッド）",
+   "highlights": [
+    "底辺約230メートル、当初の高さ約146メートルの巨大な四角錐。",
+    "四辺がほぼ正確に東西南北を向く、高精度の測量。",
+    "内部には「大回廊」や「王の間」などの空間がある。"
+   ],
+   "trivia": "古王国第4王朝のクフ王の墓とされる。古代世界の七不思議のうち、唯一現存するもの。"
+  }
+ },
+ {
+  "id": "cycladic-figure",
+  "source": "met",
+  "query": "Marble female figure Cycladic",
+  "match": {
+   "any": [
+    "cycladic",
+    "marble"
+   ],
+   "title_any": [
+    "figure"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "greco-roman",
+  "style": "cycladic-aegean",
+  "ai": {
+   "title_ja": "キクラデスの女性像",
+   "highlights": [
+    "胸の前で腕を組み、つま先立ちのような姿勢の極度に抽象化された人体。",
+    "鼻だけが突き出した卵形の顔は、当初は目や口が彩色されていたとされる。",
+    "研ぎ澄まされた単純な形は、20世紀の彫刻家たちを魅了した。"
+   ],
+   "trivia": "紀元前3千年紀にエーゲ海のキクラデス諸島で作られた。多くは墓から出土し、用途はよく分かっていない。"
+  }
+ },
+ {
+  "id": "benin-queen-mother-mask",
+  "source": "met",
+  "query": "Queen Mother Pendant Mask: Iyoba",
+  "match": {
+   "title_any": [
+    "iyoba",
+    "queen mother pendant"
+   ]
+  },
+  "genre": "sculpture",
+  "region": "africa",
+  "style": "benin",
+  "ai": {
+   "title_ja": "王母の胸飾り仮面（イヨバ）",
+   "highlights": [
+    "象牙に彫られた、穏やかで威厳のある女性の顔。",
+    "冠の部分にはポルトガル人の頭部が小さく並び、交易の富を象徴する。",
+    "額の象嵌や細かな文様に、宮廷工房の高い技術が表れる。"
+   ],
+   "trivia": "16世紀のベニン王国の王オバ・エシギエが、母イディアを称えて儀礼で身につけたものとされる。大英博物館などにも類例がある。"
+  }
+ },
+ {
+  "id": "machu-picchu",
+  "source": "wikidata",
+  "source_id": "Q676203",
+  "query": "Machu Picchu",
+  "match": {
+   "title": [
+    "machu picchu"
+   ]
+  },
+  "genre": "architecture",
+  "region": "americas-indigenous",
+  "style": "andean",
+  "ai": {
+   "title_ja": "マチュ・ピチュ",
+   "highlights": [
+    "標高約2400メートルの尾根に築かれた、山と一体化した都市景観。",
+    "カミソリの刃も通らないといわれる、精緻な切石の石組み。",
+    "段々畑と水路が、急斜面での生活を支えた。"
+   ],
+   "trivia": "15世紀半ば、インカ皇帝パチャクティの離宮として建設されたと考えられている。1911年にハイラム・ビンガムが世界に紹介した。"
+  }
+ },
+ {
+  "id": "chichen-itza",
+  "source": "wikidata",
+  "query": "Chichen Itza",
+  "match": {
+   "title": [
+    "chichen itza"
+   ]
+  },
+  "genre": "architecture",
+  "region": "americas-indigenous",
+  "style": "mesoamerican",
+  "ai": {
+   "title_ja": "チチェン・イッツァ",
+   "highlights": [
+    "エル・カスティージョ（ククルカンの神殿）は、四面に階段をもつ階段ピラミッド。",
+    "階段数は合計で365段とされ、暦との関連が指摘される。",
+    "春分・秋分には、階段の側面に蛇が降りてくるような影が現れる。"
+   ],
+   "trivia": "マヤ後古典期の大都市で、ユカタン半島北部にある。1988年に世界遺産に登録された。"
+  }
+ }
+]

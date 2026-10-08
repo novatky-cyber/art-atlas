@@ -1,10 +1,14 @@
-import { readFileSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync, mkdirSync } from 'node:fs';
 import { norm } from '../lib/match.mjs';
 
 export const root = new URL('../../', import.meta.url);
 export const read = (p) => JSON.parse(readFileSync(new URL(p, root), 'utf8'));
 export const readIf = (p, d) => (existsSync(new URL(p, root)) ? read(p) : d);
-export const write = (p, v) => writeFileSync(new URL(p, root), JSON.stringify(v, null, 1) + '\n');
+export const write = (p, v) => {
+  const url = new URL(p, root);
+  mkdirSync(new URL('./', url), { recursive: true });
+  writeFileSync(url, JSON.stringify(v, null, 1) + '\n');
+};
 
 export const today = () => new Date(Date.now() + 9 * 3600e3).toISOString().slice(0, 10); // 日本時間の日付
 

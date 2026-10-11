@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-10T20:35:19.314Z",
- "date": "2026-10-11",
+ "generated_at": "2026-10-11T20:59:09.760Z",
+ "date": "2026-10-12",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -13,343 +13,363 @@
  "candidates": [
   {
    "source": "aic",
-   "source_id": "38930",
+   "source_id": "111164",
    "guess_group": "western",
    "facts": {
-    "title": "Two Plant Specimens",
-    "artist": "William Henry Fox Talbot\nEnglish, 1800–1877",
+    "title": "Green and Blue: The Dancer",
+    "artist": "James McNeill Whistler\nAmerican, 1834-1903",
     "artist_bio": null,
-    "date": "1839",
+    "date": "c. 1893",
+    "culture": "United States",
+    "medium": "Watercolor and opaque watercolor over traces of black chalk on brown wove paper laid down on card",
+    "dimensions": "27.5 × 18.3 cm (10 7/8 × 7 1/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by Dr. William D. Shorey; through prior acquisitions of the Charles Deering Collection and through prior bequest of Mrs. Gordon Palmer",
+    "object_url": "https://www.artic.edu/artworks/111164"
+   },
+   "year_start": 1888,
+   "year_end": 1898,
+   "image": "https://www.artic.edu/iiif/2/16c90e2f-1a1c-6b6d-d046-fcfdf20fab4e/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "156442",
+   "guess_group": "western",
+   "facts": {
+    "title": "Coffer",
+    "artist": "Attributed to André-Charles Boulle (born France, 1642–1732)\nParis",
+    "artist_bio": null,
+    "date": "c. 1700–20",
+    "culture": "Paris",
+    "medium": "Oak, tortoiseshell, brass, gilded copper, gilded bronze, pewter, ebony, and oiled paper",
+    "dimensions": "44.5 × 73 × 48.3 cm (17 1/2 × 28 3/4 × 19 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Michael A. Bradshaw and Kenneth S. Harris, Eloise W. Martin, Richard T. Crane, Jr., Memorial, and European Decorative Arts Purchase funds; through prior acquisitions of Mrs. C. H. Boissevain in memory of Henry C. Dangler, Kate S. Buckingham Endowment, David Dangler, Harold T. Martin, and Katherine Field-Rodman",
+    "object_url": "https://www.artic.edu/artworks/156442"
+   },
+   "year_start": 1700,
+   "year_end": 1720,
+   "image": "https://www.artic.edu/iiif/2/be169735-ea1c-7440-c438-bafd24021119/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "31285",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portrait of Mary Adeline Williams",
+    "artist": "Thomas Eakins (American, 1844–1916)",
+    "artist_bio": null,
+    "date": "1899",
+    "culture": "Philadelphia",
+    "medium": "Oil on canvas",
+    "dimensions": "61 × 50.8 cm (24 × 20 1/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Friends of American Art Collection",
+    "object_url": "https://www.artic.edu/artworks/31285"
+   },
+   "year_start": 1899,
+   "year_end": 1899,
+   "image": "https://www.artic.edu/iiif/2/8cb9f5ea-c955-96fd-c2d6-c720b0dbf7d4/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "181145",
+   "guess_group": "western",
+   "facts": {
+    "title": "Cup in the Form of a Horse and Rider",
+    "artist": "Hans Ludwig Kienle (born Ulm [now Germany], 1591–1653)\nUlm (now Germany)",
+    "artist_bio": null,
+    "date": "1630",
+    "culture": "Ulm",
+    "medium": "Silver and gilded silver",
+    "dimensions": "H.: 31.5 cm (12 3/8 in.); 30.5 × 28.9 × 14.3 cm (12 × 11 3/8 × 5 5/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Eloise W. Martin fund; through prior acquisition of the George F. Harding Collection; Henry Horner Strauss, Pauline S. Armstrong, Harry and Maribel G. Blum, Tillie C. Cohn, Richard T. Crane, Jr. Memorial, Stanford Marks, Michael A. Bradshaw and Kenneth S. Harris, Mrs. Edgar J. Uihlein Art Purchase, European Decorative Arts Capital Campaign funds; through prior acquisition from Albert D. Lasker; European Decorative Arts General, Mr. and Mrs. Joseph Varley funds; through prior acquisition of the Kate S. Buckingham Gothic fund; Mary Swissler Oldberg fund; through prior acquisitions of the Howard V. Shaw Memorial and Kate S. Buckingham funds",
+    "object_url": "https://www.artic.edu/artworks/181145"
+   },
+   "year_start": 1630,
+   "year_end": 1630,
+   "image": "https://www.artic.edu/iiif/2/1dcb1fd9-8254-8098-586c-e5b117c00871/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "4773",
+   "guess_group": "western",
+   "facts": {
+    "title": "Isabella Wolff",
+    "artist": "Sir Thomas Lawrence (English, 1769-1830)",
+    "artist_bio": null,
+    "date": "1803–15",
     "culture": "England",
-    "medium": "Photogenic drawing",
-    "dimensions": "22.1 × 18 cm (8 3/4 × 7 1/8 in.); Mount: 29 × 21.5 cm (11 7/16 × 8 1/2 in.); Image/paper: 22.1 × 18.1 cm (8 11/16 × 7 1/8 in.)",
+    "medium": "Oil on canvas",
+    "dimensions": "128.2 × 102.4 cm (50 1/2 × 40 5/16 in.); Framed: 156.2 × 130.5 cm (61 1/2 × 51 3/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Edward E. Ayer Endowment in memory of Charles L. Hutchinson",
-    "object_url": "https://www.artic.edu/artworks/38930"
+    "credit_line": "Mr. and Mrs. W. W. Kimball Collection",
+    "object_url": "https://www.artic.edu/artworks/4773"
    },
-   "year_start": 1839,
-   "year_end": 1839,
-   "image": "https://www.artic.edu/iiif/2/f4b72c7b-83e4-3008-d66f-46d87c30ca96/full/400,/0/default.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "130674",
-   "guess_group": "western",
-   "facts": {
-    "title": "Feast Ladle",
-    "artist": null,
-    "artist_bio": null,
-    "date": "late 1800s–early 1900s",
-    "culture": "Native North America, Northwest Coast, Alaska, Tlingit",
-    "medium": "horn, bone, copper, abalone shell inlay",
-    "dimensions": "Overall: 13 cm (5 1/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "The Harold T. Clark Educational Extension Fund",
-    "object_url": "https://clevelandart.org/art/1953.386"
-   },
-   "year_start": 1850,
-   "year_end": 1950,
-   "image": "https://openaccess-cdn.clevelandart.org/1953.386/1953.386_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "163010",
-   "guess_group": "western",
-   "facts": {
-    "title": "The Cathedral",
-    "artist": "James Ensor (Belgian, 1860–1949)",
-    "artist_bio": null,
-    "date": "1886",
-    "culture": "Belgium, 19th century",
-    "medium": "etching",
-    "dimensions": "Sheet: 31 x 22.4 cm (12 3/16 x 8 13/16 in.); Platemark: 24.2 x 18.8 cm (9 1/2 x 7 3/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Gift of The Print Club of Cleveland",
-    "object_url": "https://clevelandart.org/art/2003.46"
-   },
-   "year_start": 1886,
-   "year_end": 1886,
-   "image": "https://openaccess-cdn.clevelandart.org/2003.46/2003.46_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "127221",
-   "guess_group": "western",
-   "facts": {
-    "title": "Cabinet",
-    "artist": "André-Charles Boulle (French, 1642–1732)",
-    "artist_bio": null,
-    "date": "c. 1690",
-    "culture": "France, late 17th Century",
-    "medium": "ebony, marquetry in metal and tortoise shell",
-    "dimensions": "Overall: 101.3 x 117.6 x 50 cm (39 7/8 x 46 5/16 x 19 11/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "John L. Severance Fund",
-    "object_url": "https://clevelandart.org/art/1949.539"
-   },
-   "year_start": 1685,
-   "year_end": 1695,
-   "image": "https://openaccess-cdn.clevelandart.org/1949.539/1949.539_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "149399",
-   "guess_group": "western",
-   "facts": {
-    "title": "François Tronchin",
-    "artist": "Jean-Etienne Liotard (Swiss, 1702–1789)",
-    "artist_bio": null,
-    "date": "1757",
-    "culture": "Switzerland",
-    "medium": "pastel on parchment",
-    "dimensions": "Unframed: 38 x 46.3 cm (14 15/16 x 18 1/4 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "John L. Severance Fund",
-    "object_url": "https://clevelandart.org/art/1978.54"
-   },
-   "year_start": 1757,
-   "year_end": 1757,
-   "image": "https://openaccess-cdn.clevelandart.org/1978.54/1978.54_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "135706",
-   "guess_group": "western",
-   "facts": {
-    "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
-    "artist": "Rembrandt van Rijn (Dutch, 1606–1669)",
-    "artist_bio": null,
-    "date": "1653-c.1660",
-    "culture": "Rembrandt, 17th century",
-    "medium": "drypoint",
-    "dimensions": "Sheet: 37.5 x 44 cm (14 3/4 x 17 5/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Bequest of Ralph King and Purchase from the J. H. Wade Fund",
-    "object_url": "https://clevelandart.org/art/1959.241"
-   },
-   "year_start": 1653,
-   "year_end": 1665,
-   "image": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "130646",
-   "guess_group": "western",
-   "facts": {
-    "title": "Ewer",
-    "artist": "Saint-Porchaire (French)",
-    "artist_bio": null,
-    "date": "c. 1540–67",
-    "culture": "France",
-    "medium": "lead-glazed, white-paste earthenware with inlaid slip decoration",
-    "dimensions": "Overall: 35.6 x 13.7 cm (14 x 5 3/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Purchase from the J. H. Wade Fund",
-    "object_url": "https://clevelandart.org/art/1953.363"
-   },
-   "year_start": 1540,
-   "year_end": 1567,
-   "image": "https://openaccess-cdn.clevelandart.org/1953.363/1953.363_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "152003",
-   "guess_group": "western",
-   "facts": {
-    "title": "Hen and Chicks Covered Tureen on Stand",
-    "artist": "Chelsea Porcelain Factory (Britain, London, 1745–84)",
-    "artist_bio": null,
-    "date": "c. 1755",
-    "culture": "England, London, Chelsea",
-    "medium": "soft-paste porcelain",
-    "dimensions": "Overall: 24.8 x 34.9 x 25.7 cm (9 3/4 x 13 3/4 x 10 1/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Purchase from the J. H. Wade Fund",
-    "object_url": "https://clevelandart.org/art/1984.58"
-   },
-   "year_start": 1750,
-   "year_end": 1760,
-   "image": "https://openaccess-cdn.clevelandart.org/1984.58/1984.58_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "150174",
-   "guess_group": "western",
-   "facts": {
-    "title": "Dancing Sailors",
-    "artist": "Charles Demuth (American, 1883–1935)",
-    "artist_bio": null,
-    "date": "1917",
-    "culture": "America",
-    "medium": "watercolor over graphite",
-    "dimensions": "Sheet: 20.4 x 25.7 cm (8 1/16 x 10 1/8 in.); Secondary Support: 21.4 x 26.3 cm (8 7/16 x 10 3/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Mr. and Mrs. William H. Marlatt Fund",
-    "object_url": "https://clevelandart.org/art/1980.9"
-   },
-   "year_start": 1917,
-   "year_end": 1917,
-   "image": "https://openaccess-cdn.clevelandart.org/1980.9/1980.9_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "152264",
-   "guess_group": "western",
-   "facts": {
-    "title": "Trophy of the Hunt",
-    "artist": "Adolphe Braun (French, 1812–1877)",
-    "artist_bio": null,
-    "date": "c. 1867",
-    "culture": "France, 19th century",
-    "medium": "carbon print",
-    "dimensions": "Image: 78 x 59.8 cm (30 11/16 x 23 9/16 in.); Framed: 99.7 x 79.4 cm (39 1/4 x 31 1/4 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Andrew R. and Martha Holden Jennings Fund",
-    "object_url": "https://clevelandart.org/art/1985.144"
-   },
-   "year_start": 1862,
-   "year_end": 1872,
-   "image": "https://openaccess-cdn.clevelandart.org/1985.144/1985.144_web.jpg"
+   "year_start": 1803,
+   "year_end": 1815,
+   "image": "https://www.artic.edu/iiif/2/0052fc88-353e-db97-8741-b6b5ec6fb354/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "52736",
+   "source_id": "25332",
    "guess_group": "western",
    "facts": {
-    "title": "The Letter, or The Spanish Conversation",
-    "artist": "Jean-Honoré Fragonard\nFrench, 1732-1806",
+    "title": "Triptych with Scenes from the Life of Christ",
+    "artist": "German; Cologne",
     "artist_bio": null,
-    "date": "c. 1778",
-    "culture": "France",
-    "medium": "Brush and brown ink and brush and brown wash, with graphite, on ivory laid paper",
-    "dimensions": "39.9 × 29 cm (15 3/4 × 11 7/16 in.)",
+    "date": "1350–75",
+    "culture": "Germany",
+    "medium": "Ivory with traces of gold",
+    "dimensions": "25.7 × 17.5 cm (10 1/8 × 6 15/16 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Margaret Day Blake Collection",
-    "object_url": "https://www.artic.edu/artworks/52736"
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "object_url": "https://www.artic.edu/artworks/25332"
    },
-   "year_start": 1773,
-   "year_end": 1783,
-   "image": "https://www.artic.edu/iiif/2/e1cd114a-18c7-f501-af90-4852b47facf1/full/400,/0/default.jpg"
+   "year_start": 1350,
+   "year_end": 1375,
+   "image": "https://www.artic.edu/iiif/2/c5409bc2-35dc-342a-e506-41259963bce0/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "189600",
+   "source_id": "112092",
    "guess_group": "western",
    "facts": {
-    "title": "Fragment",
-    "artist": "Probably Granada, Spain",
+    "title": "Portions of a Jousting Helmet",
+    "artist": "Italian; Milan",
     "artist_bio": null,
-    "date": "Nasrid dynasty (1230–1492), late 15th century",
-    "culture": "Spain",
-    "medium": "Silk, lampas technique; warp-float faced 4:1 satin weave with plain interlacings of secondary binding warps and patterning and self-patterning wefts;",
-    "dimensions": "60.8 × 30.5 cm (23 7/8 × 12 in.)",
+    "date": "1570/80",
+    "culture": "Milan",
+    "medium": "Steel, gilding, and leather",
+    "dimensions": "H.: 40.6 cm (16 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Textile Society; Mrs. Julian Armstrong Jr.; Barbara E. and Richard J. Franke Fund, and the Nicole Williams Contemporary Textile Fund",
-    "object_url": "https://www.artic.edu/artworks/189600"
+    "credit_line": "George F. Harding Collection",
+    "object_url": "https://www.artic.edu/artworks/112092"
    },
-   "year_start": 1475,
-   "year_end": 1500,
-   "image": "https://www.artic.edu/iiif/2/bda9c39c-12d8-e753-3371-7e40230b88b7/full/400,/0/default.jpg"
+   "year_start": 1560,
+   "year_end": 1590,
+   "image": "https://www.artic.edu/iiif/2/846b0cc8-20b5-845a-8f07-f418e6d98ff5/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "76295",
+   "source_id": "23506",
    "guess_group": "western",
    "facts": {
-    "title": "Self-Portrait in a Fur Cap",
-    "artist": "Joseph Wright of Derby\nEnglish, 1734-1797",
+    "title": "Young Bull",
+    "artist": "Albrecht Dürer\nGerman, 1471–1528",
     "artist_bio": null,
-    "date": "1765/68",
-    "culture": "England",
-    "medium": "Monochrome pastel (grisaille) on blue-gray laid paper",
-    "dimensions": "42.5 × 29.5 cm (16 3/4 × 11 5/8 in.)",
+    "date": "c. 1496, erroneously inscribed in another hand 1508",
+    "culture": "Germany",
+    "medium": "Pen and black ink on ivory laid paper",
+    "dimensions": "17.5 × 14 cm (6 15/16 × 5 9/16 in.)",
     "repository": "The Art Institute of Chicago",
     "credit_line": "Clarence Buckingham Collection",
-    "object_url": "https://www.artic.edu/artworks/76295"
+    "object_url": "https://www.artic.edu/artworks/23506"
    },
-   "year_start": 1765,
-   "year_end": 1768,
-   "image": "https://www.artic.edu/iiif/2/f656efb0-b800-1f80-f087-0d21f1a0ee5f/full/400,/0/default.jpg"
+   "year_start": 1508,
+   "year_end": 1508,
+   "image": "https://www.artic.edu/iiif/2/d2529576-bbf0-c631-6f8c-659e825c552d/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "105105",
+   "source_id": "60031",
    "guess_group": "western",
    "facts": {
-    "title": "Cabinet",
-    "artist": "Herter Brothers (American, 1864–1906)\nNew York",
+    "title": "Panorama from the Sasso",
+    "artist": "Claude Lorrain\nFrench, 1600-1682",
     "artist_bio": null,
-    "date": "1878–80",
-    "culture": "New York City",
-    "medium": "Rosewood with ebonized cherry, maple, walnut, satinwood, marquetry of various woods, brass, gilding, and paint",
-    "dimensions": "134.6 × 180.3 × 40.6 cm (53 × 71 × 16 in.)",
+    "date": "1649/1655",
+    "culture": "France",
+    "medium": "Pen and brown ink with brush and brown wash, heightened with white gouache and traces of white chalk, over black chalk and graphite, on cream laid paper",
+    "dimensions": "16.2 × 40.2 cm (6 7/16 × 15 7/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Antiquarian Society through the Capital Campaign",
-    "object_url": "https://www.artic.edu/artworks/105105"
+    "credit_line": "Helen Regenstein Collection",
+    "object_url": "https://www.artic.edu/artworks/60031"
    },
-   "year_start": 1878,
-   "year_end": 1880,
-   "image": "https://www.artic.edu/iiif/2/63610c6d-4b70-6623-6069-c86a6eeff766/full/400,/0/default.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "117901",
-   "guess_group": "western",
-   "facts": {
-    "title": "Smelting Works at Denver",
-    "artist": "Thomas Moran (American, born England, 1837–1926)",
-    "artist_bio": null,
-    "date": "1892",
-    "culture": "America",
-    "medium": "watercolor and gouache",
-    "dimensions": "Sheet: 24 x 31.8 cm (9 7/16 x 12 1/2 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Bequest of Mrs. Henry A. Everett for the Dorothy Burnham Everett Memorial Collection",
-    "object_url": "https://clevelandart.org/art/1938.56"
-   },
-   "year_start": 1892,
-   "year_end": 1892,
-   "image": "https://openaccess-cdn.clevelandart.org/1938.56/1938.56_web.jpg"
+   "year_start": 1649,
+   "year_end": 1655,
+   "image": "https://www.artic.edu/iiif/2/b2228199-cf8f-41a1-9482-b32e654b9011/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "149681",
+   "source_id": "93900",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portrait of a Man in Costume",
+    "artist": "Jean-Honoré Fragonard (French, 1732–1806)",
+    "artist_bio": null,
+    "date": "c. 1767–68",
+    "culture": "France",
+    "medium": "Oil on canvas",
+    "dimensions": "80.3 × 64.7 cm (31 5/8 × 25 1/2 in.); Framed: 105.5 × 89.6 × 12.7 cm (41 1/2 × 35 1/4 × 5 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Mary and Leigh Block in honor of John Maxon",
+    "object_url": "https://www.artic.edu/artworks/93900"
+   },
+   "year_start": 1767,
+   "year_end": 1768,
+   "image": "https://www.artic.edu/iiif/2/9b1c3d61-5f9b-c7a2-a5ea-f48248836160/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "50330",
+   "guess_group": "western",
+   "facts": {
+    "title": "Fall-Front Desk",
+    "artist": "Vienna, Austria",
+    "artist_bio": null,
+    "date": "c. 1810",
+    "culture": "Vienna",
+    "medium": "Various woods and gilt-bronze mounts",
+    "dimensions": "141 × 91.4 × 39.4 cm (55 1/2 × 36 × 15 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of the Centennial Fund; Mrs. Burton W. Hales, Mrs. William O. Hunt, Jessie Spaulding Landon, Mrs. Harold T. Martin, Adelaide Ryerson, Mrs. E. Hall Taylor, Mrs. Chester D. Tripp, and Mrs. Philip K. Wrigley funds",
+    "object_url": "https://www.artic.edu/artworks/50330"
+   },
+   "year_start": 1805,
+   "year_end": 1815,
+   "image": "https://www.artic.edu/iiif/2/02676a81-8689-50ec-7440-162df7b5fc10/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "20432",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Old Savoyard",
+    "artist": "Jean Antoine Watteau\nFrench, 1684-1721",
+    "artist_bio": null,
+    "date": "c. 1715",
+    "culture": "France",
+    "medium": "Red and black chalk on cream laid paper",
+    "dimensions": "35.9 × 22.1 cm (14 3/16 × 8 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Helen Regenstein Collection",
+    "object_url": "https://www.artic.edu/artworks/20432"
+   },
+   "year_start": 1710,
+   "year_end": 1720,
+   "image": "https://www.artic.edu/iiif/2/19ccb5bc-1bee-e0d0-f5cc-9e7cd4134af4/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "160144",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Sick Child I",
+    "artist": "Edvard Munch (Norwegian, 1863-1944)\nprinted by Auguste Clot (French, 1858-1936)",
+    "artist_bio": null,
+    "date": "1896",
+    "culture": "Norway",
+    "medium": "Transfer lithograph printed from two stones in pale blue and black ink on ivory wove paper",
+    "dimensions": "Image: 42 × 57.2 cm (16 9/16 × 22 9/16 in.); Sheet: 48.3 × 63.5 cm (19 1/16 × 25 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Major Acquisitions Fund",
+    "object_url": "https://www.artic.edu/artworks/160144"
+   },
+   "year_start": 1896,
+   "year_end": 1896,
+   "image": "https://www.artic.edu/iiif/2/d661b811-c78c-ac16-b39c-442cbd8c517f/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "70443",
+   "guess_group": "western",
+   "facts": {
+    "title": "Cravat End",
+    "artist": "Flanders, Brussels (present-day Belgium)",
+    "artist_bio": null,
+    "date": "1700-50",
+    "culture": "Flanders",
+    "medium": "Linen, bobbin part-lace of a type known as \"Brussels\" with a Droschel mesh ground",
+    "dimensions": "32.1 × 41.7 cm (12 5/8 × 16 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. John V. Farwell III",
+    "object_url": "https://www.artic.edu/artworks/70443"
+   },
+   "year_start": 1700,
+   "year_end": 1750,
+   "image": "https://www.artic.edu/iiif/2/c91fbeed-e25f-237a-0539-e01f0be65701/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "46230",
+   "guess_group": "western",
+   "facts": {
+    "title": "Reliquary Casket of Saints Adrian and Natalia",
+    "artist": "León, Spain",
+    "artist_bio": null,
+    "date": "1100–50",
+    "culture": "Spain",
+    "medium": "Silver and oak core",
+    "dimensions": "15.9 × 25.4 × 14.5 cm (6 1/4 × 10 × 5 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/46230"
+   },
+   "year_start": 1100,
+   "year_end": 1200,
+   "image": "https://www.artic.edu/iiif/2/e1ac9f2d-591e-6063-ae1b-d0cd1c66a3a3/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "79507",
    "guess_group": "china",
    "facts": {
-    "title": "Fragment (Dress Fabric)",
+    "title": "Pillars of the Country",
+    "artist": "Yao Shou\nChinese, 1423-1495",
+    "artist_bio": null,
+    "date": "Ming dynasty (1368–1644), 1494",
+    "culture": "China",
+    "medium": "Handscroll; ink and color on paper",
+    "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/79507"
+   },
+   "year_start": 1423,
+   "year_end": 1495,
+   "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "35376",
+   "guess_group": "china",
+   "facts": {
+    "title": "Equestrienne",
     "artist": "China",
     "artist_bio": null,
-    "date": "Tang dynasty (CE 618–906), late 8th/early 9th century",
+    "date": "Tang dynasty (618–907), mid-8th century",
     "culture": "China",
-    "medium": "Silk, weft-float faced 1:2 'S' twill weave of complementary wefts and inner warps (samite)",
-    "dimensions": "61.6 × 90.2 cm (24 1/4 × 35 1/2 in.); Weft repeat: H.: 61 cm (24 in.)",
+    "medium": "Earthenware with polychrome pigments",
+    "dimensions": "56.2 × 48.2 × 39 cm (22 1/8 × 19 × 15 3/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Robert Allerton Endowment",
-    "object_url": "https://www.artic.edu/artworks/149681"
+    "credit_line": "Gift of Mrs. Potter Palmer",
+    "object_url": "https://www.artic.edu/artworks/35376"
    },
-   "year_start": 775,
-   "year_end": 825,
-   "image": "https://www.artic.edu/iiif/2/13b2edbf-05dc-a541-af00-6c14408ce6a6/full/400,/0/default.jpg"
+   "year_start": 725,
+   "year_end": 750,
+   "image": "https://www.artic.edu/iiif/2/f18f7064-fb9a-7074-1f1c-f8009eecaec7/full/400,/0/default.jpg"
   },
   {
-   "source": "cleveland",
-   "source_id": "153759",
+   "source": "aic",
+   "source_id": "70003",
    "guess_group": "china",
    "facts": {
-    "title": "Buddhist Priest's Ceremonial Robe",
-    "artist": null,
+    "title": "Funerary Urn (Hunping)",
+    "artist": "China",
     "artist_bio": null,
-    "date": "1400s",
-    "culture": "China, Ming dynasty (1368–1644)",
-    "medium": "silk and gold thread; embroidery",
-    "dimensions": "Overall: 119.4 x 302.1 cm (47 x 118 15/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Leonard C. Hanna Jr. Fund",
-    "object_url": "https://clevelandart.org/art/1987.57"
+    "date": "Western Jin dynasty (A.D. 265–316), late 3rd century",
+    "culture": "China",
+    "medium": "Stoneware with olive-green glaze and molded and applied decoration",
+    "dimensions": "48.7 × 27.5 cm (19 3/16 × 10 13/16 in.); Diam.: 27.5 cm (10 13/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Through prior bequests of Mary Hooker Dole and Grace Brown Palmer; through prior gifts of Josephine P. Albright in memory of Alice Higinbotham Patterson, and Mrs. Kent S. Clow; Russell Tyson, Robert C. Ross endowments",
+    "object_url": "https://www.artic.edu/artworks/70003"
    },
-   "year_start": 1400,
-   "year_end": 1499,
-   "image": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_web.jpg"
+   "year_start": 265,
+   "year_end": 316,
+   "image": "https://www.artic.edu/iiif/2/bf4060c6-8b68-d4f3-acb0-cfeaea86ad05/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -373,26 +393,6 @@
   },
   {
    "source": "aic",
-   "source_id": "189775",
-   "guess_group": "china",
-   "facts": {
-    "title": "The Emperor Sailing from The Story of the Emperor of China",
-    "artist": "After a design by Guy-Louis Vernansal (French, 1648–1729) and others\nWoven at the Manufacture Royale de Beauvais under the direction of Pierre and Etienne Filleul (codirectors, 1711–22)\nFrance, Beauvais",
-    "artist_bio": null,
-    "date": "1716/22",
-    "culture": "Beauvais",
-    "medium": "Wool, silk, and silvered- and-gilt-metal-strip-wrapped silk, slit and double interlocking tapestry weave with some areas of 2:2 plain interlacings of silvered-and-gilt-metal wefts",
-    "dimensions": "385.8 × 355 cm (151 3/4 × 139 3/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Mr. and Mrs. Charles H. Worcester Fund",
-    "object_url": "https://www.artic.edu/artworks/189775"
-   },
-   "year_start": 1716,
-   "year_end": 1722,
-   "image": "https://www.artic.edu/iiif/2/17455fc4-14ec-b892-93d2-ebf89c7c689e/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
    "source_id": "42566",
    "guess_group": "china",
    "facts": {
@@ -413,63 +413,23 @@
   },
   {
    "source": "aic",
-   "source_id": "79507",
+   "source_id": "76279",
    "guess_group": "china",
    "facts": {
-    "title": "Pillars of the Country",
-    "artist": "Yao Shou\nChinese, 1423-1495",
+    "title": "Yang Pu Moving His Family",
+    "artist": "Artist Unknown\nChinese",
     "artist_bio": null,
-    "date": "Ming dynasty (1368–1644), 1494",
+    "date": "Yuan dynasty (1279–1368) 元朝",
     "culture": "China",
-    "medium": "Handscroll; ink and color on paper",
-    "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
+    "medium": "Handscroll; ink and light color on paper",
+    "dimensions": "52.7 × 231.1 cm (20 3/4 × 91 in.)",
     "repository": "The Art Institute of Chicago",
     "credit_line": "Kate S. Buckingham Endowment",
-    "object_url": "https://www.artic.edu/artworks/79507"
+    "object_url": "https://www.artic.edu/artworks/76279"
    },
-   "year_start": 1423,
-   "year_end": 1495,
-   "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/400,/0/default.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "124005",
-   "guess_group": "islamic",
-   "facts": {
-    "title": "Dragon in foliage with lion and phoenix heads",
-    "artist": "Sahkulu (Turkish, active 1526–56)",
-    "artist_bio": null,
-    "date": "mid-1500s",
-    "culture": "Ottoman Turkey, Istanbul",
-    "medium": "Ink, gum tempera, and gold on paper",
-    "dimensions": "Sheet: 17.3 x 40.2 cm (6 13/16 x 15 13/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Purchase from the J. H. Wade Fund",
-    "object_url": "https://clevelandart.org/art/1944.492"
-   },
-   "year_start": 1526,
-   "year_end": 1556,
-   "image": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_web.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "69109",
-   "guess_group": "islamic",
-   "facts": {
-    "title": "Tankard (Hanap) with Tulips, Hyacinths, Roses, and Carnations",
-    "artist": "Turkey\nIznik",
-    "artist_bio": null,
-    "date": "Ottoman dynasty (1299–1923), Late 16th century",
-    "culture": "Turkey",
-    "medium": "Iznik ware, fritware with underglaze painting in blue, turquoise, red, and black",
-    "dimensions": "19.6 × 15 × 10.5 cm (7 3/4 × 5 7/8 × 4 1/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Mary Jane Gunsaulus Collection",
-    "object_url": "https://www.artic.edu/artworks/69109"
-   },
-   "year_start": 1570,
-   "year_end": 1599,
-   "image": "https://www.artic.edu/iiif/2/9c807e61-db58-3f5f-d208-c1786ccbf520/full/400,/0/default.jpg"
+   "year_start": 1279,
+   "year_end": 1368,
+   "image": "https://www.artic.edu/iiif/2/f78addab-4d3a-f87c-4c83-7eae824c7504/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -493,163 +453,163 @@
   },
   {
    "source": "aic",
-   "source_id": "92975",
+   "source_id": "69109",
    "guess_group": "islamic",
    "facts": {
-    "title": "King Anushirwan and the Owls, from the Khamsa of Nizami",
-    "artist": "Iran\nTabriz",
+    "title": "Tankard (Hanap) with Tulips, Hyacinths, Roses, and Carnations",
+    "artist": "Turkey\nIznik",
     "artist_bio": null,
-    "date": "Safavid dynasty (1501–1722), c.1535",
-    "culture": "Iran",
-    "medium": "Ink, opaque watercolor, and gold on paper",
-    "dimensions": "Image: 18 × 11 cm (7 1/8 × 4 3/8 in.); Paper: 27.9 × 15.7 cm (11 × 6 3/16 in.)",
+    "date": "Ottoman dynasty (1299–1923), Late 16th century",
+    "culture": "Turkey",
+    "medium": "Iznik ware, fritware with underglaze painting in blue, turquoise, red, and black",
+    "dimensions": "19.6 × 15 × 10.5 cm (7 3/4 × 5 7/8 × 4 1/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Samuel L. Nickerson Fund",
-    "object_url": "https://www.artic.edu/artworks/92975"
+    "credit_line": "Mary Jane Gunsaulus Collection",
+    "object_url": "https://www.artic.edu/artworks/69109"
    },
-   "year_start": 1535,
-   "year_end": 1535,
-   "image": "https://www.artic.edu/iiif/2/8ef484f2-f83f-113f-ce5c-8d5e48cf5282/full/400,/0/default.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "154288",
-   "guess_group": "islamic",
-   "facts": {
-    "title": "Rustam's seventh course: He kills the White Div, folio 124 from a Shah-nama (Book of Kings) of Firdausi (Persian, about 934–1020)",
-    "artist": "Mir Musavvir (Iranian, c. 1510–1555); Abd al-Vahhab (Persian, active c. 1516)",
-    "artist_bio": null,
-    "date": "1520–37",
-    "culture": "Iran, Tabriz, Safavid period (1501-1722)",
-    "medium": "Gum tempera, ink, gold, and silver on paper",
-    "dimensions": "Sheet: 47.5 x 32.2 cm (18 11/16 x 12 11/16 in.); Image: 28.4 x 18.5 cm (11 3/16 x 7 5/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Leonard C. Hanna Jr. Fund",
-    "object_url": "https://clevelandart.org/art/1988.96"
-   },
-   "year_start": 1520,
-   "year_end": 1537,
-   "image": "https://openaccess-cdn.clevelandart.org/1988.96/1988.96_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "144908",
-   "guess_group": "south-southeast-asia",
-   "facts": {
-    "title": "Mother Goddess",
-    "artist": null,
-    "artist_bio": null,
-    "date": "c. 600",
-    "culture": "Northwestern India, Rajasthan, Udaipur District",
-    "medium": "schist",
-    "dimensions": "Overall: 79.4 x 23.2 cm (31 1/4 x 9 1/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Purchase from the J. H. Wade Fund",
-    "object_url": "https://clevelandart.org/art/1970.12"
-   },
-   "year_start": 500,
-   "year_end": 650,
-   "image": "https://openaccess-cdn.clevelandart.org/1970.12/1970.12_web.jpg"
+   "year_start": 1570,
+   "year_end": 1599,
+   "image": "https://www.artic.edu/iiif/2/9c807e61-db58-3f5f-d208-c1786ccbf520/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "210511",
+   "source_id": "34286",
    "guess_group": "south-southeast-asia",
    "facts": {
-    "title": "A Monumental Portrait of a Monkey",
-    "artist": "India\nRajasthan, Mewar, Udaipur, attributed to the “Stipple Master” (active c. 1692-c. 1715)",
+    "title": "Mirror Frame with Tree of Life Motif",
+    "artist": "India",
     "artist_bio": null,
-    "date": "c. 1705–1710",
+    "date": "Mughal dynasty (1526-1857), 17th/18th century",
+    "culture": "India",
+    "medium": "Nephrite jade, gold, rubies, emeralds, and diamonds inset in the kundan technique",
+    "dimensions": "16.4 × 10.2 × 1 cm (6 7/16 × 4 × 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Mr. and Mrs. Chester D. Tripp",
+    "object_url": "https://www.artic.edu/artworks/34286"
+   },
+   "year_start": 1601,
+   "year_end": 1800,
+   "image": "https://www.artic.edu/iiif/2/fab54305-2a73-37ef-8591-33384cb325b9/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "58540",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Tiered Offering Mandala of the Goddess of Wealth (Vasudhara)",
+    "artist": "Nepal",
+    "artist_bio": null,
+    "date": "19th century",
+    "culture": "Nepal",
+    "medium": "Silver repoussé and gilt copper",
+    "dimensions": "8.9 × 33 cm (3 1/2 × 13 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Russell Tyson Fund",
+    "object_url": "https://www.artic.edu/artworks/58540"
+   },
+   "year_start": 1801,
+   "year_end": 1900,
+   "image": "https://www.artic.edu/iiif/2/3f5efc6f-52b0-d374-308b-34ca095d8624/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "99602",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Fragment of a Hanging",
+    "artist": "Egypt",
+    "artist_bio": null,
+    "date": "5th-6th century",
+    "culture": "Egypt",
+    "medium": "Linen and wool, plain weave with weft uncut pile and embroidered linen pile formed by variations of back and stem stitches",
+    "dimensions": "136.5 × 88.3 cm (53 3/4 × 34 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Grace R. Smith Textile Endowment",
+    "object_url": "https://www.artic.edu/artworks/99602"
+   },
+   "year_start": 401,
+   "year_end": 600,
+   "image": "https://www.artic.edu/iiif/2/548e0a34-6043-2fea-628e-97f46484d3f5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "187528",
+   "guess_group": "other",
+   "facts": {
+    "title": "Head",
+    "artist": "Fang\nGabon\nCentral Africa",
+    "artist_bio": null,
+    "date": "Mid–late 19th century",
+    "culture": "Gabon",
+    "medium": "Wood and copper",
+    "dimensions": "H.: 39.4 cm (15 1/2 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Frederick W. Renshaw Acquisition Fund; Robert Allerton and Ada Turnbull Hertle endowments; Robert Allerton Income Fund; Gladys N. Anderson Endowment",
+    "object_url": "https://www.artic.edu/artworks/187528"
+   },
+   "year_start": 1850,
+   "year_end": 1899,
+   "image": "https://www.artic.edu/iiif/2/73e4f1d9-97a2-1742-5235-72bfcaef9473/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "183077",
+   "guess_group": "other",
+   "facts": {
+    "title": "Chair (Kiti Cha Enzi)",
+    "artist": "Swahili\nLamu, Kenya\nEastern and Southern Africa",
+    "artist_bio": null,
+    "date": "19th century",
+    "culture": "Kenya",
+    "medium": "Wood, ivory, and cotton fiber",
+    "dimensions": "125.7 × 75.6 × 72.4 cm (49 1/2 × 29 3/4 × 28 1/2 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by Marshall Field V",
+    "object_url": "https://www.artic.edu/artworks/183077"
+   },
+   "year_start": 1801,
+   "year_end": 1900,
+   "image": "https://www.artic.edu/iiif/2/6f071f3a-a59e-ee80-6528-ed1fa8670090/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "76816",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "The Young Emperor Akbar Arrests the Insolent Shah Abu’l-Maali, Page from a Manuscript of the Akbarnama",
+    "artist": "India\nDesigned by Basawan, painted by Shankar",
+    "artist_bio": null,
+    "date": "Mughal dynasty (1526-1857), c. 1590-1595",
     "culture": "India",
     "medium": "Opaque watercolor and gold on paper",
-    "dimensions": "Outermost border: 48.5 × 58.7 cm (19 × 23 in.); Image: 45 × 56 cm (17 3/4 × 22 in.)",
+    "dimensions": "Image: 32 × 19.3 cm (12 5/8 × 7 9/16 in.); Outermost border: 33 × 19.6 cm (13 × 7 11/16 in.); Page: 34.4 × 20 cm (13 1/2 × 7 7/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Lacy Armour Fund, James and Marilynn Alsdorf Acquisition Fund",
-    "object_url": "https://www.artic.edu/artworks/210511"
+    "credit_line": "Lucy Maud Buckingham Collection",
+    "object_url": "https://www.artic.edu/artworks/76816"
    },
-   "year_start": 1700,
-   "year_end": 1715,
-   "image": "https://www.artic.edu/iiif/2/4c44ca9b-ed2f-154a-2d2e-c3f25ff9e7a2/full/400,/0/default.jpg"
+   "year_start": 1585,
+   "year_end": 1595,
+   "image": "https://www.artic.edu/iiif/2/c3c4fa77-ae12-1e5e-cc8a-0bde4f1be2ca/full/400,/0/default.jpg"
   },
   {
-   "source": "cleveland",
-   "source_id": "538229",
-   "guess_group": "ancient",
+   "source": "aic",
+   "source_id": "90536",
+   "guess_group": "western",
    "facts": {
-    "title": "Red-Figure Stamnos (Mixing/Storage Vessel): Komos (Musicians and Revelers)",
-    "artist": "Kleophon Painter (Greek, Attic, active c. 440–410 BCE)",
+    "title": "Seated Female Nude",
+    "artist": "Rembrandt van Rijn\nDutch, 1606-1669",
     "artist_bio": null,
-    "date": "c. 435–425 BCE",
-    "culture": null,
-    "medium": "Ceramic",
-    "dimensions": "height: 40.4 cm (15 7/8 in.); Diameter of foot: 13.8 cm (5 7/16 in.); Diameter of mouth: 23.5 cm (9 1/4 in.); width with handles: 39 cm (15 3/8 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "John L. Severance Fund",
-    "object_url": "https://clevelandart.org/art/2023.3"
+    "date": "1660/62",
+    "culture": "Holland",
+    "medium": "Pen and brown ink and brush and brown wash, with subtractive highlights (scraping) and touches of opaque white watercolor corrections, on ivory laid paper, laid down on cream laid card",
+    "dimensions": "Primary/secondary supports: 21.2 × 17.5 cm (8 3/8 × 6 15/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Clarence Buckingham Collection",
+    "object_url": "https://www.artic.edu/artworks/90536"
    },
-   "year_start": -440,
-   "year_end": -420,
-   "image": "https://openaccess-cdn.clevelandart.org/2023.3/2023.3_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "101360",
-   "guess_group": "ancient",
-   "facts": {
-    "title": "Trial Piece Worked on Both Sides",
-    "artist": null,
-    "artist_bio": null,
-    "date": "c. 1391–1353 BCE",
-    "culture": "Egypt, probably Thebes, New Kingdom (1540–1069 BCE), Dynasty 18, reign of Amenhotep III (1390–1352 BCE)",
-    "medium": "limestone",
-    "dimensions": "Overall: 34.4 x 24 x 7 cm (13 9/16 x 9 7/16 x 2 3/4 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
-    "object_url": "https://clevelandart.org/art/1920.1975"
-   },
-   "year_start": -1391,
-   "year_end": -1353,
-   "image": "https://openaccess-cdn.clevelandart.org/1920.1975/1920.1975_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "168747",
-   "guess_group": "other",
-   "facts": {
-    "title": "Male Figure (nkishi)",
-    "artist": null,
-    "artist_bio": null,
-    "date": "late 1800s–early 1900s",
-    "culture": "Africa, Central Africa, Democratic Republic of Congo, Songye-style carver and nganga (priest)",
-    "medium": "Wood, glass beads, brass (including upholstery studs), copper alloy, iron alloy, raffia, reedbuck antelope horn, rawhide, animal hair, human teeth, organic material, minerals, and plant fibers",
-    "dimensions": "Overall: 64 x 24.5 x 24 cm (25 3/16 x 9 5/8 x 9 7/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "René and Odette Delenne Collection, Leonard C. Hanna Jr. Fund",
-    "object_url": "https://clevelandart.org/art/2010.451"
-   },
-   "year_start": 1880,
-   "year_end": 1920,
-   "image": "https://openaccess-cdn.clevelandart.org/2010.451/2010.451_web.jpg"
-  },
-  {
-   "source": "cleveland",
-   "source_id": "286706",
-   "guess_group": "other",
-   "facts": {
-    "title": "Ram Mask (Bolo)",
-    "artist": null,
-    "artist_bio": null,
-    "date": "possibly early 1900s",
-    "culture": "Africa, West Africa, Burkina Faso, Bobo-style blacksmith-carver",
-    "medium": "Wood and paint",
-    "dimensions": "Overall: 45 x 36 x 36 cm (17 11/16 x 14 3/16 x 14 3/16 in.)",
-    "repository": "The Cleveland Museum of Art",
-    "credit_line": "René and Odette Delenne Collection, Leonard C. Hanna Jr. Fund",
-    "object_url": "https://clevelandart.org/art/2016.56"
-   },
-   "year_start": 1900,
-   "year_end": 1920,
-   "image": "https://openaccess-cdn.clevelandart.org/2016.56/2016.56_web.jpg"
+   "year_start": 1660,
+   "year_end": 1662,
+   "image": "https://www.artic.edu/iiif/2/6fa39eac-ad97-a247-920f-210a370a3f52/full/400,/0/default.jpg"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-14T20:45:32.923Z",
- "date": "2026-10-15",
+ "generated_at": "2026-10-15T20:23:05.186Z",
+ "date": "2026-10-16",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -10,5 +10,646 @@
   "ancient": 1,
   "other": 1
  },
- "candidates": []
+ "candidates": [
+  {
+   "source": "cleveland",
+   "source_id": "543981",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Dutton Family in the Drawing Room of Sherborne Park, Gloucestershire",
+    "artist": "Johann Zoffany (German, 1733–1810)",
+    "artist_bio": null,
+    "date": "c. 1772",
+    "culture": "England",
+    "medium": "oil on canvas",
+    "dimensions": "Unframed: 101.5 x 127 cm (39 15/16 x 50 in.); Framed: 124.5 x 149.9 x 7.6 cm (49 x 59 x 3 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/2023.122"
+   },
+   "year_start": 1771,
+   "year_end": 1772,
+   "image": "https://openaccess-cdn.clevelandart.org/2023.122/2023.122_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "121188",
+   "guess_group": "western",
+   "facts": {
+    "title": "Romaine Lacaux",
+    "artist": "Pierre-Auguste Renoir (French, 1841–1919)",
+    "artist_bio": null,
+    "date": "1864",
+    "culture": "France, 19th century",
+    "medium": "oil on fabric",
+    "dimensions": "Framed: 106.7 x 89.2 x 8.9 cm (42 x 35 1/8 x 3 1/2 in.); Unframed: 81.3 x 65 cm (32 x 25 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the Hanna Fund",
+    "object_url": "https://clevelandart.org/art/1942.1065"
+   },
+   "year_start": 1864,
+   "year_end": 1864,
+   "image": "https://openaccess-cdn.clevelandart.org/1942.1065/1942.1065_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "140001",
+   "guess_group": "western",
+   "facts": {
+    "title": "Imperial Red Cross Easter Egg",
+    "artist": "Peter Carl Fabergé (Russian, 1846–1920); Henrik Wigström (Russian, 1862–1923); House of Fabergé (Russian, 1842–1918)",
+    "artist_bio": null,
+    "date": "1915",
+    "culture": "Russia, St. Petersburg",
+    "medium": "gold, silver gilt, enamel, glass, ivory",
+    "dimensions": "Overall: 8.6 x 6.4 cm (3 3/8 x 2 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The India Early Minshall Collection",
+    "object_url": "https://clevelandart.org/art/1963.673"
+   },
+   "year_start": 1915,
+   "year_end": 1915,
+   "image": "https://openaccess-cdn.clevelandart.org/1963.673/1963.673_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "149041",
+   "guess_group": "western",
+   "facts": {
+    "title": "Covered Tureen on Stand (Pot-à-oille)",
+    "artist": "Juste-Aurèle Meissonnier (French, 1695–1750); Pierre-François Bonnestrenne (French); Henry Adnet (French, 1745)",
+    "artist_bio": null,
+    "date": "1735–38",
+    "culture": "France, Paris",
+    "medium": "silver",
+    "dimensions": null,
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1977.182"
+   },
+   "year_start": 1735,
+   "year_end": 1738,
+   "image": "https://openaccess-cdn.clevelandart.org/1977.182/1977.182_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "168417",
+   "guess_group": "western",
+   "facts": {
+    "title": "Pair of Candelabra",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 1790–95",
+    "culture": "Russia, Tula",
+    "medium": "cut and polished steel with gold and silvered decoration",
+    "dimensions": "Overall: 40.7 x 24.8 cm (16 x 9 3/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/2010.2"
+   },
+   "year_start": 1785,
+   "year_end": 1880,
+   "image": "https://openaccess-cdn.clevelandart.org/2010.2/2010.2_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "159277",
+   "guess_group": "western",
+   "facts": {
+    "title": "Lidded Bowl with Iguana",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 600–1100 (Thermoluminescence date, 995–1395)",
+    "culture": "Costa Rica, Southern Nicoya region",
+    "medium": "ceramic, slip",
+    "dimensions": "Base: 15.1 x 35 cm (5 15/16 x 13 3/4 in.); Lid: 29.9 x 38 cm (11 3/4 x 14 15/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Norman O. Stone and Ella A. Stone Memorial Fund",
+    "object_url": "https://clevelandart.org/art/1995.72"
+   },
+   "year_start": 600,
+   "year_end": 1100,
+   "image": "https://openaccess-cdn.clevelandart.org/1995.72/1995.72_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "138885",
+   "guess_group": "western",
+   "facts": {
+    "title": "Hours of Queen Isabella the Catholic, Queen of Spain",
+    "artist": "Master of the First Prayerbook of Maximillian (Flemish, c. 1444–1519); Associates",
+    "artist_bio": null,
+    "date": "c. 1500",
+    "culture": "Flanders, Bruges and Ghent",
+    "medium": "ink, tempera, and gold on vellum",
+    "dimensions": "Codex: 23.5 x 17.3 x 4.8 cm (9 1/4 x 6 13/16 x 1 7/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1963.256"
+   },
+   "year_start": 1495,
+   "year_end": 1505,
+   "image": "https://openaccess-cdn.clevelandart.org/1963.256/1963.256_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "170257",
+   "guess_group": "western",
+   "facts": {
+    "title": "Desk and Bookcase",
+    "artist": "John Townsend (American, 1732–1809)",
+    "artist_bio": null,
+    "date": "c. 1780–95",
+    "culture": "America, Rhode Island, Newport, 18th century",
+    "medium": "\"Plum pudding\" mahogany, red cedar, chestnut, white pine, brass",
+    "dimensions": "Overall: 240 x 108 x 64.8 cm (94 1/2 x 42 1/2 x 25 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of Harvey Buchanan in memory of Penelope Draper Buchanan and Dorothy Tuckerman Draper",
+    "object_url": "https://clevelandart.org/art/2012.43"
+   },
+   "year_start": 1775,
+   "year_end": 1800,
+   "image": "https://openaccess-cdn.clevelandart.org/2012.43/2012.43_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "112586",
+   "guess_group": "western",
+   "facts": {
+    "title": "Venus Reclining in a Landscape",
+    "artist": "Giulio Campagnola (Italian, 1482–1515)",
+    "artist_bio": null,
+    "date": "c. 1508–9",
+    "culture": "Italy, late 15th-early 16th Century",
+    "medium": "engraving",
+    "dimensions": "Platemark: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.); Sheet: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of The Print Club of Cleveland",
+    "object_url": "https://clevelandart.org/art/1931.205"
+   },
+   "year_start": 1508,
+   "year_end": 1509,
+   "image": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "159234",
+   "guess_group": "western",
+   "facts": {
+    "title": "Crucifix with Scenes of the Passion",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 1230–40",
+    "culture": "Italy, Pisa",
+    "medium": "tempera with gold on panel",
+    "dimensions": "Framed: 186.6 x 160.7 x 12.7 cm (73 7/16 x 63 1/4 x 5 in.); Unframed: 185 x 160 x 10.2 cm (72 13/16 x 63 x 4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1995.5"
+   },
+   "year_start": 1225,
+   "year_end": 1245,
+   "image": "https://openaccess-cdn.clevelandart.org/1995.5/1995.5_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "107310",
+   "guess_group": "western",
+   "facts": {
+    "title": "Ivory Plaque with Enthroned Mother of God (\"The Stroganoff Ivory\")",
+    "artist": null,
+    "artist_bio": null,
+    "date": "950–1025",
+    "culture": "Byzantium, Constantinople, Byzantine period",
+    "medium": "ivory",
+    "dimensions": "Overall: 25.3 x 17.2 x 1.8 cm (9 15/16 x 6 3/4 x 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of J. H. Wade",
+    "object_url": "https://clevelandart.org/art/1925.1293"
+   },
+   "year_start": 950,
+   "year_end": 1025,
+   "image": "https://openaccess-cdn.clevelandart.org/1925.1293/1925.1293_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "136682",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portrait of Catherine Grey, Lady Manners",
+    "artist": "Thomas Lawrence (British, 1769–1830)",
+    "artist_bio": null,
+    "date": "1794",
+    "culture": "England, 18th century",
+    "medium": "oil on canvas",
+    "dimensions": "Framed: 280.5 x 185 x 9 cm (110 7/16 x 72 13/16 x 3 9/16 in.); Unframed: 255.3 x 158 cm (100 1/2 x 62 3/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Bequest of John D. Rockefeller Jr.",
+    "object_url": "https://clevelandart.org/art/1961.220"
+   },
+   "year_start": 1794,
+   "year_end": 1794,
+   "image": "https://openaccess-cdn.clevelandart.org/1961.220/1961.220_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "129799",
+   "guess_group": "western",
+   "facts": {
+    "title": "Backrest of a Litter",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1185–1275 (radiocarbon date, 95.4% probability)",
+    "culture": "Central Andes, North Coast, Chimú people, late Intermediate period",
+    "medium": "mixed media:  wood, gold alloy, pigment, shell inlay",
+    "dimensions": "Overall: 60.4 x 95 cm (23 3/4 x 37 3/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1952.233"
+   },
+   "year_start": 1185,
+   "year_end": 1275,
+   "image": "https://openaccess-cdn.clevelandart.org/1952.233/1952.233_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "113202",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Holy Family with Saint John the Baptist and Saint Margaret",
+    "artist": "Filippino Lippi (Italian, c. 1457–1504)",
+    "artist_bio": null,
+    "date": "c. 1488–93",
+    "culture": "Italy",
+    "medium": "tempera and oil on wood",
+    "dimensions": "Framed: 184 x 186 x 9.5 cm (72 7/16 x 73 1/4 x 3 3/4 in.); Diameter: 153 cm (60 1/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The Delia E. Holden Fund and a fund donated as a memorial to Mrs. Holden by her children: Guerdon S. Holden, Delia Holden White, Roberta Holden Bole, Emery Holden Greenough, Gertrude Holden McGinley",
+    "object_url": "https://clevelandart.org/art/1932.227"
+   },
+   "year_start": 1488,
+   "year_end": 1493,
+   "image": "https://openaccess-cdn.clevelandart.org/1932.227/1932.227_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "106841",
+   "guess_group": "western",
+   "facts": {
+    "title": "Table Fountain",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 1320–40",
+    "culture": "France, Paris",
+    "medium": "gilt-silver and translucent enamels",
+    "dimensions": "Overall: 33.8 x 25.4 x 26 cm (13 5/16 x 10 x 10 1/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of J. H. Wade",
+    "object_url": "https://clevelandart.org/art/1924.859"
+   },
+   "year_start": 1320,
+   "year_end": 1340,
+   "image": "https://openaccess-cdn.clevelandart.org/1924.859/1924.859_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "154710",
+   "guess_group": "china",
+   "facts": {
+    "title": "Bell (Lai Zhong)",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 800–700 BCE",
+    "culture": "China, Shaanxi province, Meixian, Western Zhou dynasty (c. 1046–771 BCE)",
+    "medium": "bronze",
+    "dimensions": "Overall: 70.3 x 37 x 26.6 cm (27 11/16 x 14 9/16 x 10 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1989.3"
+   },
+   "year_start": -810,
+   "year_end": -690,
+   "image": "https://openaccess-cdn.clevelandart.org/1989.3/1989.3_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "147576",
+   "guess_group": "china",
+   "facts": {
+    "title": "Mirror with Phoenixes, Birds, Butterflies, and Floral Sprays",
+    "artist": null,
+    "artist_bio": null,
+    "date": "700s",
+    "culture": "China, Tang dynasty (618-907)",
+    "medium": "bronze with silver and gold inlaid lacquer",
+    "dimensions": "Diameter: 19.2 cm (7 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1973.74"
+   },
+   "year_start": 700,
+   "year_end": 799,
+   "image": "https://openaccess-cdn.clevelandart.org/1973.74/1973.74_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "161427",
+   "guess_group": "china",
+   "facts": {
+    "title": "Tomb Guardian with Animal Head",
+    "artist": null,
+    "artist_bio": null,
+    "date": "early 700s",
+    "culture": "China, probably Shaanxi province, Xi'an, Tang dynasty (618-907)",
+    "medium": "glazed earthenware, sancai (three-color) ware",
+    "dimensions": "Overall: 92.3 x 43.8 x 41.9 cm (36 5/16 x 17 1/4 x 16 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of various donors to the department of Asian Art (by exchange)",
+    "object_url": "https://clevelandart.org/art/2000.118.1"
+   },
+   "year_start": 700,
+   "year_end": 725,
+   "image": "https://openaccess-cdn.clevelandart.org/2000.118.1/2000.118.1_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "117940",
+   "guess_group": "china",
+   "facts": {
+    "title": "Cranes and Serpents",
+    "artist": null,
+    "artist_bio": null,
+    "date": "475–221 BCE",
+    "culture": "China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE)",
+    "medium": "lacquered wood with polychromy",
+    "dimensions": "Overall: 132.1 x 124.5 cm (52 x 49 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1938.9"
+   },
+   "year_start": -475,
+   "year_end": -221,
+   "image": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "130939",
+   "guess_group": "china",
+   "facts": {
+    "title": "Amulet in the Form of a Seated Figure with Bovine Head",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 4700–2920 BCE",
+    "culture": "Northeast China, Neolithic period, probably Hongshan culture (4700–2920 BCE)",
+    "medium": "jade (nephrite)",
+    "dimensions": "14.6 x 6 x 4.1 cm (5 3/4 x 2 3/8 x 1 5/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of Severance A. Millikin",
+    "object_url": "https://clevelandart.org/art/1953.628"
+   },
+   "year_start": -4710,
+   "year_end": -2910,
+   "image": "https://openaccess-cdn.clevelandart.org/1953.628/1953.628_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "145937",
+   "guess_group": "china",
+   "facts": {
+    "title": "Vase with Golden Pheasants",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1736–95",
+    "culture": "China, Jiangxi province, Jingdezhen kilns, Qing dynasty (1644-1911), Qianlong mark and period (1736-95)",
+    "medium": "porcelain painted in polychrome enamels over transparent glaze",
+    "dimensions": "Overall: 18.6 x 10.5 cm (7 5/16 x 4 1/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1971.145"
+   },
+   "year_start": 1736,
+   "year_end": 1795,
+   "image": "https://openaccess-cdn.clevelandart.org/1971.145/1971.145_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "143165",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Icon of the Virgin and Child",
+    "artist": null,
+    "artist_bio": null,
+    "date": "500s CE",
+    "culture": "Egypt, Byzantine period",
+    "medium": "wool and dye",
+    "dimensions": "Overall: 178.7 x 110.5 cm (70 3/8 x 43 1/2 in.); Mounted: 197.4 x 128.2 x 6.4 cm (77 11/16 x 50 1/2 x 2 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1967.144"
+   },
+   "year_start": 500,
+   "year_end": 599,
+   "image": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "168322",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Icon of the Mother of God and Infant Christ (Virgin Eleousa)",
+    "artist": "Angelos Akotantos (Cretan, died 1450)",
+    "artist_bio": null,
+    "date": "c. 1425–50",
+    "culture": "Republic of Venice, Kingdom of Candia, Candia (Heraklion, Crete, Greece) or Byzantine Empire, Constantinople (Istanbul, Turkey)",
+    "medium": "tempera and gold on wood",
+    "dimensions": "Unframed: 96 x 70 cm (37 13/16 x 27 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/2010.154"
+   },
+   "year_start": 1420,
+   "year_end": 1455,
+   "image": "https://openaccess-cdn.clevelandart.org/2010.154/2010.154_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "108857",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Royal Carpet with Silk and Metal Thread",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1600–1625",
+    "culture": "Iran, Isfahan, Safavid period (1501-1722)",
+    "medium": "Cotton: warp; cotton and silk: wefts; silk: pile, asymmetrical knot; gilt- and silver-metal thread: brocaded",
+    "dimensions": "Overall: 236.2 x 143.5 cm (93 x 56 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1926.533"
+   },
+   "year_start": 1600,
+   "year_end": 1625,
+   "image": "https://openaccess-cdn.clevelandart.org/1926.533/1926.533_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "123985",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "The Wade Cup with Animated Script",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1200–1221",
+    "culture": "Iran, Seljuq period of Iran (1037–1194)",
+    "medium": "brass inlaid with silver",
+    "dimensions": "Overall: 11.5 cm (4 1/2 in.); Diameter: 16.1 cm (6 5/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1944.485"
+   },
+   "year_start": 1200,
+   "year_end": 1221,
+   "image": "https://openaccess-cdn.clevelandart.org/1944.485/1944.485_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "123432",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1330–35",
+    "culture": "Iran, Tabriz, Ilkhanid period (1256-1353)",
+    "medium": "opaque watercolor, ink, and gold on paper",
+    "dimensions": "Sheet: 45.8 x 34.4 cm (18 1/16 x 13 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Grace Rainey Rogers Fund",
+    "object_url": "https://clevelandart.org/art/1943.658"
+   },
+   "year_start": 1330,
+   "year_end": 1335,
+   "image": "https://openaccess-cdn.clevelandart.org/1943.658/1943.658_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "149101",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Corner Railing Pillar with Drinking Scenes, Yakshis, and Musicians",
+    "artist": null,
+    "artist_bio": null,
+    "date": "100s CE",
+    "culture": "India, Mathura, Kushan period",
+    "medium": "red sandstone",
+    "dimensions": "Overall: 80 x 22.9 x 24 cm (31 1/2 x 9 x 9 7/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1977.34"
+   },
+   "year_start": 100,
+   "year_end": 199,
+   "image": "https://openaccess-cdn.clevelandart.org/1977.34/1977.34_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "144961",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Green Tara",
+    "artist": "Aniko (Nepalese, active in Tibet mid- to late 1200s)",
+    "artist_bio": null,
+    "date": "c. 1260s, mounted 2020",
+    "culture": "Central Tibet",
+    "medium": "thangka; gum tempera, ink, and gold on sized cotton; mount: silk",
+    "dimensions": "Painting: 52.4 x 43.2 cm (20 5/8 x 17 in.); Overall: 107 x 65 cm (42 1/8 x 25 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund by exchange",
+    "object_url": "https://clevelandart.org/art/1970.156"
+   },
+   "year_start": 1250,
+   "year_end": 1270,
+   "image": "https://openaccess-cdn.clevelandart.org/1970.156/1970.156_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "110232",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Sarcophagus",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 100–125 CE",
+    "culture": "Italy, Rome, Roman Empire",
+    "medium": "Greek marble",
+    "dimensions": "Overall: 210 cm (82 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
+    "object_url": "https://clevelandart.org/art/1928.856"
+   },
+   "year_start": 100,
+   "year_end": 125,
+   "image": "https://openaccess-cdn.clevelandart.org/1928.856/1928.856_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "122979",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Saluting Protective Spirit",
+    "artist": null,
+    "artist_bio": null,
+    "date": "883–859 BCE",
+    "culture": "Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE)",
+    "medium": "gypsum",
+    "dimensions": "Overall: 229.9 x 137 cm (90 1/2 x 53 15/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1943.246"
+   },
+   "year_start": -883,
+   "year_end": -859,
+   "image": "https://openaccess-cdn.clevelandart.org/1943.246/1943.246_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "143381",
+   "guess_group": "other",
+   "facts": {
+    "title": "Front Face of a Stela (Free-standing Stone with Relief)",
+    "artist": null,
+    "artist_bio": null,
+    "date": "692",
+    "culture": "Mesoamerica, Guatemala, Department of the Petén, El Perú (also known as Waka'), Maya (250-900), Classic period (200-1000)",
+    "medium": "limestone",
+    "dimensions": "Overall: 274.4 x 182.3 cm (108 1/16 x 71 3/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1967.29"
+   },
+   "year_start": 692,
+   "year_end": 692,
+   "image": "https://openaccess-cdn.clevelandart.org/1967.29/1967.29_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "117905",
+   "guess_group": "other",
+   "facts": {
+    "title": "Ancestral Commemorative Head (uhunmwun-elao)",
+    "artist": null,
+    "artist_bio": null,
+    "date": "possibly mid-1500s or early 1600s",
+    "culture": "Nigeria, Benin Kingdom, Ẹdo peoples, members of the Igun Eronmwon (royal brasscasters) guild",
+    "medium": "Copper alloy and iron",
+    "dimensions": "Overall: 29.9 x 21.6 x 20.4 cm (11 3/4 x 8 1/2 x 8 1/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Dudley P. Allen Fund",
+    "object_url": "https://clevelandart.org/art/1938.6"
+   },
+   "year_start": 1550,
+   "year_end": 1625,
+   "image": "https://openaccess-cdn.clevelandart.org/1938.6/1938.6_web.jpg"
+  }
+ ]
 }

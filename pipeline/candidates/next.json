@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-16T19:58:51.835Z",
- "date": "2026-10-17",
+ "generated_at": "2026-10-17T19:28:11.010Z",
+ "date": "2026-10-18",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -13,43 +13,203 @@
  "candidates": [
   {
    "source": "aic",
-   "source_id": "154238",
+   "source_id": "112092",
    "guess_group": "western",
    "facts": {
-    "title": "Machinist's Apprentice",
-    "artist": "Emma Stebbins (American, 1815–1882)",
+    "title": "Portions of a Jousting Helmet",
+    "artist": "Italian; Milan",
     "artist_bio": null,
-    "date": "c. 1859",
-    "culture": "Rome",
-    "medium": "Marble",
-    "dimensions": "74.9 × 29.9 × 22.9 cm (29 1/2 × 11 3/4 × 9 in.)",
+    "date": "1570/80",
+    "culture": "Milan",
+    "medium": "Steel, gilding, and leather",
+    "dimensions": "H.: 40.6 cm (16 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/154238"
+    "credit_line": "George F. Harding Collection",
+    "object_url": "https://www.artic.edu/artworks/112092"
    },
-   "year_start": 1859,
-   "year_end": 1859,
-   "image": "https://www.artic.edu/iiif/2/9a50bfb5-f590-e734-901c-627991598172/full/400,/0/default.jpg"
+   "year_start": 1560,
+   "year_end": 1590,
+   "image": "https://www.artic.edu/iiif/2/846b0cc8-20b5-845a-8f07-f418e6d98ff5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "142716",
+   "guess_group": "western",
+   "facts": {
+    "title": "Hinds House Window",
+    "artist": "Tiffany Glass & Decorating Company (America, New York, 1892–1902)",
+    "artist_bio": null,
+    "date": "c. 1900",
+    "culture": "America, New York",
+    "medium": "leaded glass",
+    "dimensions": "Unframed: 227.3 x 114.3 cm (89 1/2 x 45 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of Mrs. Robert M. Fallon",
+    "object_url": "https://clevelandart.org/art/1966.432"
+   },
+   "year_start": 1895,
+   "year_end": 1905,
+   "image": "https://openaccess-cdn.clevelandart.org/1966.432/1966.432_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "543981",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Dutton Family in the Drawing Room of Sherborne Park, Gloucestershire",
+    "artist": "Johann Zoffany (German, 1733–1810)",
+    "artist_bio": null,
+    "date": "c. 1772",
+    "culture": "England",
+    "medium": "oil on canvas",
+    "dimensions": "Unframed: 101.5 x 127 cm (39 15/16 x 50 in.); Framed: 124.5 x 149.9 x 7.6 cm (49 x 59 x 3 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/2023.122"
+   },
+   "year_start": 1771,
+   "year_end": 1772,
+   "image": "https://openaccess-cdn.clevelandart.org/2023.122/2023.122_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "140001",
+   "guess_group": "western",
+   "facts": {
+    "title": "Imperial Red Cross Easter Egg",
+    "artist": "Peter Carl Fabergé (Russian, 1846–1920); Henrik Wigström (Russian, 1862–1923); House of Fabergé (Russian, 1842–1918)",
+    "artist_bio": null,
+    "date": "1915",
+    "culture": "Russia, St. Petersburg",
+    "medium": "gold, silver gilt, enamel, glass, ivory",
+    "dimensions": "Overall: 8.6 x 6.4 cm (3 3/8 x 2 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The India Early Minshall Collection",
+    "object_url": "https://clevelandart.org/art/1963.673"
+   },
+   "year_start": 1915,
+   "year_end": 1915,
+   "image": "https://openaccess-cdn.clevelandart.org/1963.673/1963.673_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "141549",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portrait of the Jester Calabazas",
+    "artist": "Diego Velázquez (Spanish, 1599–1660)",
+    "artist_bio": null,
+    "date": "c. 1631–32",
+    "culture": "Spain",
+    "medium": "oil on canvas",
+    "dimensions": "Framed: 199.3 x 133.1 x 12.7 cm (78 7/16 x 52 3/8 x 5 in.); Unframed: 175 x 106 cm (68 7/8 x 41 3/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1965.15"
+   },
+   "year_start": 1631,
+   "year_end": 1632,
+   "image": "https://openaccess-cdn.clevelandart.org/1965.15/1965.15_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "125247",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portrait of Isabella Brant",
+    "artist": "Peter Paul Rubens (Flemish, 1577–1640)",
+    "artist_bio": null,
+    "date": "c. 1620–25",
+    "culture": "Flanders",
+    "medium": "oil on wood",
+    "dimensions": "Framed: 83 x 73.5 x 9 cm (32 11/16 x 28 15/16 x 3 9/16 in.); Unframed: 53 x 46 cm (20 7/8 x 18 1/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Mr. and Mrs. William H. Marlatt Fund",
+    "object_url": "https://clevelandart.org/art/1947.207"
+   },
+   "year_start": 1620,
+   "year_end": 1625,
+   "image": "https://openaccess-cdn.clevelandart.org/1947.207/1947.207_web.jpg"
   },
   {
    "source": "aic",
-   "source_id": "154237",
+   "source_id": "106538",
    "guess_group": "western",
    "facts": {
-    "title": "Machinist",
-    "artist": "Emma Stebbins (American, 1815–1882)",
+    "title": "Two-Handled Covered Cup",
+    "artist": "Cornelius Kierstede (American, 1674–1757)\nNew York",
     "artist_bio": null,
-    "date": "c. 1859",
-    "culture": "Rome",
-    "medium": "Marble",
-    "dimensions": "74.9 × 29.2 × 29.2 cm (29 1/2 × 11 1/2 × 11 1/2 in.)",
+    "date": "1698–1720",
+    "culture": "New York",
+    "medium": "Silver",
+    "dimensions": "12.7 × 20.3 × 12.7 cm (5 3/8 × 8 5/8 × 5 3/4 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/154237"
+    "credit_line": "Purchased with funds provided by Mrs. James W. Alsdorf, Pauline Seipp Armstrong, Marshall Field, Charles C. Haffner III, Mrs. Burton W. Hales, Mrs. Harold T. Martin, Mrs. C. Phillip Miller, Mr. and Mrs. Milo M. Naeve, Mrs. Eric Oldberg,  Mrs. Frank L. Sulzberger, and the Ethel T. Scarborough Fund",
+    "object_url": "https://www.artic.edu/artworks/106538"
    },
-   "year_start": 1859,
-   "year_end": 1859,
-   "image": "https://www.artic.edu/iiif/2/d892d2dd-8497-27d1-23d1-64e8702ee58b/full/400,/0/default.jpg"
+   "year_start": 1698,
+   "year_end": 1720,
+   "image": "https://www.artic.edu/iiif/2/a145f14e-2303-ec8c-4a59-1cee25f1832c/full/400,/0/default.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "134236",
+   "guess_group": "western",
+   "facts": {
+    "title": "Claire Campbell",
+    "artist": "Édouard Manet (French, 1832–1883)",
+    "artist_bio": null,
+    "date": "1876",
+    "culture": "America",
+    "medium": "Pastel with oil on fine-weave canvas",
+    "dimensions": "Unframed: 55.2 x 45.7 cm (21 3/4 x 18 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The Fanny Tewksbury King Collection",
+    "object_url": "https://clevelandart.org/art/1956.718"
+   },
+   "year_start": 1876,
+   "year_end": 1876,
+   "image": "https://openaccess-cdn.clevelandart.org/1956.718/1956.718_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "142559",
+   "guess_group": "western",
+   "facts": {
+    "title": "St. Catherine of Siena and the Beggar",
+    "artist": "Giovanni di Paolo (Italian, c. 1403–1482)",
+    "artist_bio": null,
+    "date": "1460s",
+    "culture": "Italy, Siena",
+    "medium": "tempera and gold on wood",
+    "dimensions": "Framed: 35.6 x 35.7 x 4.5 cm (14 x 14 1/16 x 1 3/4 in.); Unframed: 28.7 x 28.9 cm (11 5/16 x 11 3/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
+    "object_url": "https://clevelandart.org/art/1966.3"
+   },
+   "year_start": 1460,
+   "year_end": 1469,
+   "image": "https://openaccess-cdn.clevelandart.org/1966.3/1966.3_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "148301",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Birth and Naming of John the Baptist",
+    "artist": "Juan de Flandes (Netherlandish, c. 1460–1519)",
+    "artist_bio": null,
+    "date": "1496–99",
+    "culture": "Flanders, early 16th Century",
+    "medium": "oil on wood",
+    "dimensions": "Framed: 99 x 60 x 7.5 cm (39 x 23 5/8 x 2 15/16 in.); Unframed: 88.4 x 49.9 cm (34 13/16 x 19 5/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1975.3"
+   },
+   "year_start": 1496,
+   "year_end": 1499,
+   "image": "https://openaccess-cdn.clevelandart.org/1975.3/1975.3_web.jpg"
   },
   {
    "source": "aic",
@@ -73,203 +233,83 @@
   },
   {
    "source": "aic",
-   "source_id": "199854",
+   "source_id": "154237",
    "guess_group": "western",
    "facts": {
-    "title": "Shaffron",
-    "artist": "Italian, Milan",
+    "title": "Machinist",
+    "artist": "Emma Stebbins (American, 1815–1882)",
     "artist_bio": null,
-    "date": "c. 1575",
+    "date": "c. 1859",
+    "culture": "Rome",
+    "medium": "Marble",
+    "dimensions": "74.9 × 29.2 × 29.2 cm (29 1/2 × 11 1/2 × 11 1/2 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by the Antiquarian Society",
+    "object_url": "https://www.artic.edu/artworks/154237"
+   },
+   "year_start": 1859,
+   "year_end": 1859,
+   "image": "https://www.artic.edu/iiif/2/d892d2dd-8497-27d1-23d1-64e8702ee58b/full/400,/0/default.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "119614",
+   "guess_group": "western",
+   "facts": {
+    "title": "Study for the Nude Youth over the Prophet Daniel (recto); Figure Studies for the Sistine Ceiling (verso)",
+    "artist": "Michelangelo Buonarroti (Italian, 1475–1564)",
+    "artist_bio": null,
+    "date": "1510–11",
     "culture": "Italy",
-    "medium": "Steel with gilding",
-    "dimensions": "H.: 35.6 cm (14 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "George F. Harding Collection",
-    "object_url": "https://www.artic.edu/artworks/199854"
+    "medium": "red chalk over black chalk or charcoal",
+    "dimensions": "Sheet: 34.3 x 24.3 cm (13 1/2 x 9 9/16 in.); Secondary Support: 34.4 x 24.4 cm (13 9/16 x 9 5/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift in memory of Henry G. Dalton by his nephews George S. Kendrick and Harry D. Kendrick",
+    "object_url": "https://clevelandart.org/art/1940.465"
    },
-   "year_start": 1550,
-   "year_end": 1600,
-   "image": "https://www.artic.edu/iiif/2/cac09e60-7c12-5088-3efa-e145b3b47c5b/full/400,/0/default.jpg"
+   "year_start": 1510,
+   "year_end": 1511,
+   "image": "https://openaccess-cdn.clevelandart.org/1940.465/1940.465_web.jpg"
   },
   {
-   "source": "aic",
-   "source_id": "189600",
+   "source": "cleveland",
+   "source_id": "134951",
    "guess_group": "western",
    "facts": {
-    "title": "Fragment",
-    "artist": "Probably Granada, Spain",
+    "title": "Farmhouse on the Slope of a Hill",
+    "artist": "Fra Bartolommeo (Italian, 1472–1517)",
     "artist_bio": null,
-    "date": "Nasrid dynasty (1230–1492), late 15th century",
-    "culture": "Spain",
-    "medium": "Silk, lampas technique; warp-float faced 4:1 satin weave with plain interlacings of secondary binding warps and patterning and self-patterning wefts;",
-    "dimensions": "60.8 × 30.5 cm (23 7/8 × 12 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Textile Society; Mrs. Julian Armstrong Jr.; Barbara E. and Richard J. Franke Fund, and the Nicole Williams Contemporary Textile Fund",
-    "object_url": "https://www.artic.edu/artworks/189600"
+    "date": "c. 1508",
+    "culture": "Italy, Florence",
+    "medium": "pen and brown ink",
+    "dimensions": "Sheet: 22.3 x 29.4 cm (8 3/4 x 11 9/16 in.); Secondary Support: 27.5 x 41.2 cm (10 13/16 x 16 1/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the Hanna Fund, Purchase, Dudley P. Allen Fund, Delia E. Holden Fund and L. E. Holden Fund",
+    "object_url": "https://clevelandart.org/art/1957.498"
    },
-   "year_start": 1475,
-   "year_end": 1500,
-   "image": "https://www.artic.edu/iiif/2/bda9c39c-12d8-e753-3371-7e40230b88b7/full/400,/0/default.jpg"
+   "year_start": 1503,
+   "year_end": 1513,
+   "image": "https://openaccess-cdn.clevelandart.org/1957.498/1957.498_web.jpg"
   },
   {
-   "source": "aic",
-   "source_id": "49691",
+   "source": "cleveland",
+   "source_id": "141168",
    "guess_group": "western",
    "facts": {
-    "title": "Bed Rug",
-    "artist": "Hannah Johnson (American, 1770–1848)\nPossibly Bozrah, New London County, Connecticut, United States",
+    "title": "Panoramic View of the Alps, Les Dents du Midi",
+    "artist": "Gustave Courbet (French, 1819–1877)",
     "artist_bio": null,
-    "date": "1796",
-    "culture": "Connecticut",
-    "medium": "Wool, plain weave; with cut pile formed by wool yarns embroidered in looped running stitches",
-    "dimensions": "249.4 × 246.1 cm (98 1/4 × 97 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Needlework and Textile Guild",
-    "object_url": "https://www.artic.edu/artworks/49691"
+    "date": "1877",
+    "culture": "France, 19th century",
+    "medium": "oil on fabric",
+    "dimensions": "Framed: 172 x 230 x 8.5 cm (67 11/16 x 90 9/16 x 3 3/8 in.); Unframed: 151.2 x 210.2 cm (59 1/2 x 82 3/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund and various donors by exchange",
+    "object_url": "https://clevelandart.org/art/1964.420"
    },
-   "year_start": 1796,
-   "year_end": 1796,
-   "image": "https://www.artic.edu/iiif/2/b8c8710c-ba52-dcdd-9674-49fd5095f4f2/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "196323",
-   "guess_group": "western",
-   "facts": {
-    "title": "Plate 49 from Plan of Chicago 1909: Chicago. View of the City from Jackson Park to Grant Park, Looking Towards the West. The proposed shore treatment as a park enclosing a waterway (or a series of lagoons) is shown, together with the enlarged yacht harbor, recreation piers, and a scheme for Grant Park.",
-    "artist": "Daniel Hudson Burnham, American, 1846-1912\nEdward Herbert Bennett, American, born England, 1874-1954\nJules Guerin, delineator, American, 1866-1946",
-    "artist_bio": null,
-    "date": "1907",
-    "culture": "Chicago",
-    "medium": "Watercolor with graphite on cream wove paper, discolored to tan, laid down on canvas",
-    "dimensions": "103.5 × 480 cm (40 3/4 × 189 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "On permanent loan to The Art Institute of Chicago from the City of Chicago",
-    "object_url": "https://www.artic.edu/artworks/196323"
-   },
-   "year_start": 1907,
-   "year_end": 1907,
-   "image": "https://www.artic.edu/iiif/2/db2379de-daa1-6def-087b-c1e9d8185531/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "103347",
-   "guess_group": "western",
-   "facts": {
-    "title": "Bureau Table",
-    "artist": "Attributed to John Townsend (American, 1732–1809)\nNewport, Rhode Island",
-    "artist_bio": null,
-    "date": "c. 1770",
-    "culture": "Newport",
-    "medium": "Mahogany, chestnut, and tulip poplar",
-    "dimensions": "86.6 × 93.4 × 58 cm (34 1/8 × 36 3/4 × 20 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of Jamee J. and Marshall Field",
-    "object_url": "https://www.artic.edu/artworks/103347"
-   },
-   "year_start": 1770,
-   "year_end": 1770,
-   "image": "https://www.artic.edu/iiif/2/729c7015-ffde-6525-a0c8-6e61b67acbe8/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "112092",
-   "guess_group": "western",
-   "facts": {
-    "title": "Portions of a Jousting Helmet",
-    "artist": "Italian; Milan",
-    "artist_bio": null,
-    "date": "1570/80",
-    "culture": "Milan",
-    "medium": "Steel, gilding, and leather",
-    "dimensions": "H.: 40.6 cm (16 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "George F. Harding Collection",
-    "object_url": "https://www.artic.edu/artworks/112092"
-   },
-   "year_start": 1560,
-   "year_end": 1590,
-   "image": "https://www.artic.edu/iiif/2/846b0cc8-20b5-845a-8f07-f418e6d98ff5/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "80479",
-   "guess_group": "western",
-   "facts": {
-    "title": "Winter, from The Seasons",
-    "artist": "After a design by Charles Le Brun (French, 1619–1690)\nWoven at the workshop of Étienne Le Blond (French, 1652–1727) and Jean de La Croix (French, 1628–1712) at the Manufacture Royale des Gobelins\nFrance, Paris",
-    "artist_bio": null,
-    "date": "1700/20",
-    "culture": "Paris",
-    "medium": "Wool and silk, slit and double interlocking tapestry weave",
-    "dimensions": "540.1 × 384.9 cm (212 5/8 × 151 1/2 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of the Hearst Foundation in memory of William Randolph Hearst",
-    "object_url": "https://www.artic.edu/artworks/80479"
-   },
-   "year_start": 1700,
-   "year_end": 1720,
-   "image": "https://www.artic.edu/iiif/2/9547bd79-e45b-5d25-4442-0a666bb5089e/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "110881",
-   "guess_group": "western",
-   "facts": {
-    "title": "The Road to Calvary",
-    "artist": "Master of the Housebook\nGerman, active c. 1470-1500",
-    "artist_bio": null,
-    "date": "1475/80",
-    "culture": "Germany",
-    "medium": "Drypoint in black on ivory laid paper",
-    "dimensions": "Image: 12.9 × 19.3 cm (5 1/8 × 7 5/8 in.); Sheet, trimmed within platemark: 13 × 19.4 cm (5 1/8 × 7 11/16 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Clarence Buckingham Collection",
-    "object_url": "https://www.artic.edu/artworks/110881"
-   },
-   "year_start": 1470,
-   "year_end": 1485,
-   "image": "https://www.artic.edu/iiif/2/e2271376-79e7-f092-4c0c-610ad9f58e67/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "70443",
-   "guess_group": "western",
-   "facts": {
-    "title": "Cravat End",
-    "artist": "Flanders, Brussels (present-day Belgium)",
-    "artist_bio": null,
-    "date": "1700-50",
-    "culture": "Flanders",
-    "medium": "Linen, bobbin part-lace of a type known as \"Brussels\" with a Droschel mesh ground",
-    "dimensions": "32.1 × 41.7 cm (12 5/8 × 16 3/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by Mr. and Mrs. John V. Farwell III",
-    "object_url": "https://www.artic.edu/artworks/70443"
-   },
-   "year_start": 1700,
-   "year_end": 1750,
-   "image": "https://www.artic.edu/iiif/2/c91fbeed-e25f-237a-0539-e01f0be65701/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "102295",
-   "guess_group": "western",
-   "facts": {
-    "title": "Pitcher",
-    "artist": "Design attributed to Edward C. Moore (American, 1827–1891)\nTiffany and Company (American, founded 1837)\nNew York",
-    "artist_bio": null,
-    "date": "1878",
-    "culture": "New York City",
-    "medium": "Silver, gold, and copper",
-    "dimensions": "20.3 × 12.7 × 15.2 cm (8 7/8 × 5 1/4 × 6 7/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by Mrs. Frank L. Sulzberger",
-    "object_url": "https://www.artic.edu/artworks/102295"
-   },
-   "year_start": 1878,
-   "year_end": 1878,
-   "image": "https://www.artic.edu/iiif/2/631ad042-02e0-e333-112d-6c8e470ad670/full/400,/0/default.jpg"
+   "year_start": 1877,
+   "year_end": 1877,
+   "image": "https://openaccess-cdn.clevelandart.org/1964.420/1964.420_web.jpg"
   },
   {
    "source": "aic",
@@ -292,6 +332,126 @@
    "image": "https://www.artic.edu/iiif/2/568b87d2-25f6-c63b-e8c3-6920bf1b75be/full/400,/0/default.jpg"
   },
   {
+   "source": "cleveland",
+   "source_id": "123616",
+   "guess_group": "china",
+   "facts": {
+    "title": "Amphora Vase",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1723–35",
+    "culture": "China, Jiangxi Province, Jingdezhen, Qing dynasty (1644–1911), Yongzheng mark and period (1723–35)",
+    "medium": "porcelain with celadon glaze",
+    "dimensions": "Overall: 52.1 cm (20 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The Elisabeth Severance Prentiss Collection",
+    "object_url": "https://clevelandart.org/art/1944.190"
+   },
+   "year_start": 1723,
+   "year_end": 1735,
+   "image": "https://openaccess-cdn.clevelandart.org/1944.190/1944.190_web.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "79507",
+   "guess_group": "china",
+   "facts": {
+    "title": "Pillars of the Country",
+    "artist": "Yao Shou\nChinese, 1423-1495",
+    "artist_bio": null,
+    "date": "Ming dynasty (1368–1644), 1494",
+    "culture": "China",
+    "medium": "Handscroll; ink and color on paper",
+    "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/79507"
+   },
+   "year_start": 1423,
+   "year_end": 1495,
+   "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "117940",
+   "guess_group": "china",
+   "facts": {
+    "title": "Cranes and Serpents",
+    "artist": null,
+    "artist_bio": null,
+    "date": "475–221 BCE",
+    "culture": "China, reportedly from Hunan province, Changsha, Warring States period (475–221 BCE), State of Chu (c. 1046–223 BCE)",
+    "medium": "lacquered wood with polychromy",
+    "dimensions": "Overall: 132.1 x 124.5 cm (52 x 49 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1938.9"
+   },
+   "year_start": -475,
+   "year_end": -221,
+   "image": "https://openaccess-cdn.clevelandart.org/1938.9/1938.9_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "154710",
+   "guess_group": "china",
+   "facts": {
+    "title": "Bell (Lai Zhong)",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 800–700 BCE",
+    "culture": "China, Shaanxi province, Meixian, Western Zhou dynasty (c. 1046–771 BCE)",
+    "medium": "bronze",
+    "dimensions": "Overall: 70.3 x 37 x 26.6 cm (27 11/16 x 14 9/16 x 10 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1989.3"
+   },
+   "year_start": -810,
+   "year_end": -690,
+   "image": "https://openaccess-cdn.clevelandart.org/1989.3/1989.3_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "135007",
+   "guess_group": "china",
+   "facts": {
+    "title": "Wine Cup with Children at Play",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1465–87",
+    "culture": "China, Jiangxi province, Jingdezhen, Ming dynasty (1368-1644), Chenghua mark and period (1465-1487)",
+    "medium": "porcelain with underglaze blue and overglaze enamel decoration, docai (\"joined colors\") ware",
+    "dimensions": "Overall: 4.8 cm (1 7/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1957.61"
+   },
+   "year_start": 1465,
+   "year_end": 1487,
+   "image": "https://openaccess-cdn.clevelandart.org/1957.61/1957.61_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "108857",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Royal Carpet with Silk and Metal Thread",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1600–1625",
+    "culture": "Iran, Isfahan, Safavid period (1501-1722)",
+    "medium": "Cotton: warp; cotton and silk: wefts; silk: pile, asymmetrical knot; gilt- and silver-metal thread: brocaded",
+    "dimensions": "Overall: 236.2 x 143.5 cm (93 x 56 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1926.533"
+   },
+   "year_start": 1600,
+   "year_end": 1625,
+   "image": "https://openaccess-cdn.clevelandart.org/1926.533/1926.533_web.jpg"
+  },
+  {
    "source": "aic",
    "source_id": "76869",
    "guess_group": "islamic",
@@ -310,6 +470,26 @@
    "year_start": 1650,
    "year_end": 1675,
    "image": "https://www.artic.edu/iiif/2/441ff42f-7329-1179-3735-e68db890c899/full/400,/0/default.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "123432",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Bahram Gur Arrives at the House of a Merchant, text page (recto); Bahram Gur Slays a Dragon (verso), from a Shahnama (Book of Kings) of Firdausi (940–1019 or 1025), known as the Great Mongol Shahnama",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1330–35",
+    "culture": "Iran, Tabriz, Ilkhanid period (1256-1353)",
+    "medium": "opaque watercolor, ink, and gold on paper",
+    "dimensions": "Sheet: 45.8 x 34.4 cm (18 1/16 x 13 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Grace Rainey Rogers Fund",
+    "object_url": "https://clevelandart.org/art/1943.658"
+   },
+   "year_start": 1330,
+   "year_end": 1335,
+   "image": "https://openaccess-cdn.clevelandart.org/1943.658/1943.658_web.jpg"
   },
   {
    "source": "aic",
@@ -332,6 +512,26 @@
    "image": "https://www.artic.edu/iiif/2/8ef484f2-f83f-113f-ce5c-8d5e48cf5282/full/400,/0/default.jpg"
   },
   {
+   "source": "cleveland",
+   "source_id": "143165",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Icon of the Virgin and Child",
+    "artist": null,
+    "artist_bio": null,
+    "date": "500s CE",
+    "culture": "Egypt, Byzantine period",
+    "medium": "wool and dye",
+    "dimensions": "Overall: 178.7 x 110.5 cm (70 3/8 x 43 1/2 in.); Mounted: 197.4 x 128.2 x 6.4 cm (77 11/16 x 50 1/2 x 2 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1967.144"
+   },
+   "year_start": 500,
+   "year_end": 599,
+   "image": "https://openaccess-cdn.clevelandart.org/1967.144/1967.144_web.jpg"
+  },
+  {
    "source": "aic",
    "source_id": "210482",
    "guess_group": "south-southeast-asia",
@@ -352,64 +552,104 @@
    "image": "https://www.artic.edu/iiif/2/36e70de8-0ba3-2fe5-dd2e-53612b48a395/full/400,/0/default.jpg"
   },
   {
-   "source": "aic",
-   "source_id": "86340",
+   "source": "cleveland",
+   "source_id": "169187",
    "guess_group": "south-southeast-asia",
    "facts": {
-    "title": "Head of a Male Deity (Deva)",
-    "artist": "Cambodia, probably Angkor Thom",
+    "title": "Indian Combat",
+    "artist": "Edmonia Lewis (American, c. 1844–1907)",
     "artist_bio": null,
-    "date": "Angkor period, late 12th–early 13th century",
-    "culture": "Cambodia",
-    "medium": "Sandstone",
-    "dimensions": "85.8 × 49.6 × 40.1 cm (33 3/4 × 19 1/2 × 15 3/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Samuel M. Nickerson Fund",
-    "object_url": "https://www.artic.edu/artworks/86340"
+    "date": "1868",
+    "culture": "United States",
+    "medium": "marble",
+    "dimensions": "Overall: 76.2 x 48.3 x 36.5 cm (30 x 19 x 14 3/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "American Painting and Sculpture Sundry Purchase Fund and Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2011.110"
    },
-   "year_start": 1175,
-   "year_end": 1225,
-   "image": "https://www.artic.edu/iiif/2/951da7dc-85c7-ae1f-3164-16fd52d59de0/full/400,/0/default.jpg"
+   "year_start": 1868,
+   "year_end": 1868,
+   "image": "https://openaccess-cdn.clevelandart.org/2011.110/2011.110_web.jpg"
   },
   {
-   "source": "aic",
-   "source_id": "142526",
-   "guess_group": "south-southeast-asia",
+   "source": "cleveland",
+   "source_id": "94188",
+   "guess_group": "ancient",
    "facts": {
-    "title": "Milarepa on Mount Kailash",
-    "artist": "Tibet",
+    "title": "Coffin of Nesykhonsu",
+    "artist": null,
     "artist_bio": null,
-    "date": "c. 1500",
-    "culture": "Tibet",
-    "medium": "Pigment and gold on cotton",
-    "dimensions": "45.5 × 30 cm (17 7/8 × 11 13/16 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Asian Purchase Campaign Endowment and Robert Ross Fund",
-    "object_url": "https://www.artic.edu/artworks/142526"
+    "date": "c. 976–889 BCE",
+    "culture": "Egypt, Thebes, Third Intermediate (1069–715 BCE), Dynasties 21–22",
+    "medium": "gessoed and painted sycamore fig",
+    "dimensions": "Overall: 70 cm (27 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
+    "object_url": "https://clevelandart.org/art/1914.714"
    },
-   "year_start": 1400,
-   "year_end": 1500,
-   "image": "https://www.artic.edu/iiif/2/4747ac8d-191c-75ac-3198-f7b551441fe4/full/400,/0/default.jpg"
+   "year_start": -976,
+   "year_end": -889,
+   "image": "https://openaccess-cdn.clevelandart.org/1914.714/1914.714_web.jpg"
   },
   {
-   "source": "aic",
-   "source_id": "180298",
-   "guess_group": "south-southeast-asia",
+   "source": "cleveland",
+   "source_id": "110232",
+   "guess_group": "ancient",
    "facts": {
-    "title": "Ceremonial Hanging (Palepai)",
-    "artist": "Paminggir people\nLampung area, South Sumatra, Indonesia",
+    "title": "Sarcophagus",
+    "artist": null,
     "artist_bio": null,
-    "date": "19th century",
-    "culture": "Indonesia",
-    "medium": "Cotton, silk, and silver-leaf-over-lacquered-paper-strip-wrapped bast fiber (probably ramie), plain weave with supplementary patterning and brocading wefts, main warp fringe",
-    "dimensions": "Without fringe: 67 × 296.6 cm (26 3/8 × 116 3/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of E. M. Bakwin Indonesian Textile Collection",
-    "object_url": "https://www.artic.edu/artworks/180298"
+    "date": "c. 100–125 CE",
+    "culture": "Italy, Rome, Roman Empire",
+    "medium": "Greek marble",
+    "dimensions": "Overall: 210 cm (82 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of the John Huntington Art and Polytechnic Trust",
+    "object_url": "https://clevelandart.org/art/1928.856"
    },
-   "year_start": 1801,
-   "year_end": 1900,
-   "image": "https://www.artic.edu/iiif/2/ca9c6ee4-58a1-38fa-362f-b00f9a5996d4/full/400,/0/default.jpg"
+   "year_start": 100,
+   "year_end": 125,
+   "image": "https://openaccess-cdn.clevelandart.org/1928.856/1928.856_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "163543",
+   "guess_group": "other",
+   "facts": {
+    "title": "Staff of Office",
+    "artist": null,
+    "artist_bio": null,
+    "date": "early to mid-1800s",
+    "culture": "Central Africa, Democratic Republic of the Congo, Luba",
+    "medium": "Wood and iron",
+    "dimensions": "Overall: 170 x 13.3 cm (66 15/16 x 5 1/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/2004.85"
+   },
+   "year_start": 1800,
+   "year_end": 1850,
+   "image": "https://openaccess-cdn.clevelandart.org/2004.85/2004.85_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "103681",
+   "guess_group": "other",
+   "facts": {
+    "title": "Water Ewer for Rituals (Kundika) with Incised Parrot Design",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1100s",
+    "culture": "Korea, Goryeo dynasty (918–1392)",
+    "medium": "stoneware with celadon glaze, incised and carved decoration",
+    "dimensions": "Overall: 35.3 cm (13 7/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of John L. Severance",
+    "object_url": "https://clevelandart.org/art/1921.631"
+   },
+   "year_start": 1100,
+   "year_end": 1199,
+   "image": "https://openaccess-cdn.clevelandart.org/1921.631/1921.631_web.jpg"
   }
  ]
 }

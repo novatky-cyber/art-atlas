@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-28T21:43:04.967Z",
- "date": "2026-10-29",
+ "generated_at": "2026-10-29T21:51:19.996Z",
+ "date": "2026-10-30",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -33,46 +33,6 @@
   },
   {
    "source": "aic",
-   "source_id": "60031",
-   "guess_group": "western",
-   "facts": {
-    "title": "Panorama from the Sasso",
-    "artist": "Claude Lorrain\nFrench, 1600-1682",
-    "artist_bio": null,
-    "date": "1649/1655",
-    "culture": "France",
-    "medium": "Pen and brown ink with brush and brown wash, heightened with white gouache and traces of white chalk, over black chalk and graphite, on cream laid paper",
-    "dimensions": "16.2 × 40.2 cm (6 7/16 × 15 7/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Helen Regenstein Collection",
-    "object_url": "https://www.artic.edu/artworks/60031"
-   },
-   "year_start": 1649,
-   "year_end": 1655,
-   "image": "https://www.artic.edu/iiif/2/b2228199-cf8f-41a1-9482-b32e654b9011/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "157056",
-   "guess_group": "western",
-   "facts": {
-    "title": "Mrs. Herbert Duckworth",
-    "artist": "Julia Margaret Cameron\nEnglish, 1815–1879",
-    "artist_bio": null,
-    "date": "April 1867",
-    "culture": "England",
-    "medium": "Albumen print",
-    "dimensions": "34.2 × 26.3 cm (13 1/2 × 10 3/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "The Mary and Leigh Block Endowment Fund",
-    "object_url": "https://www.artic.edu/artworks/157056"
-   },
-   "year_start": 1867,
-   "year_end": 1867,
-   "image": "https://www.artic.edu/iiif/2/a50be06e-0072-24a5-9fa5-3e172c638fee/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
    "source_id": "70443",
    "guess_group": "western",
    "facts": {
@@ -90,206 +50,6 @@
    "year_start": 1700,
    "year_end": 1750,
    "image": "https://www.artic.edu/iiif/2/c91fbeed-e25f-237a-0539-e01f0be65701/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "112092",
-   "guess_group": "western",
-   "facts": {
-    "title": "Portions of a Jousting Helmet",
-    "artist": "Italian; Milan",
-    "artist_bio": null,
-    "date": "1570/80",
-    "culture": "Milan",
-    "medium": "Steel, gilding, and leather",
-    "dimensions": "H.: 40.6 cm (16 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "George F. Harding Collection",
-    "object_url": "https://www.artic.edu/artworks/112092"
-   },
-   "year_start": 1560,
-   "year_end": 1590,
-   "image": "https://www.artic.edu/iiif/2/846b0cc8-20b5-845a-8f07-f418e6d98ff5/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "64884",
-   "guess_group": "western",
-   "facts": {
-    "title": "Mohnköpfe (Poppyheads) (Dress or Furnishing Fabric)",
-    "artist": "Designed by Koloman Moser (Austrian, 1868–1918)\nProduced by Johan Backhausen und Söhne (Austrian, founded 1849)\nAustria, Vienna",
-    "artist_bio": null,
-    "date": "1900",
-    "culture": "Vienna",
-    "medium": "Silk, wild silk, and cotton, warp-float faced 15:1 satin weave self-patterned by ground weft floats; woven on loom with Jacquard attachment; right selvage present",
-    "dimensions": "182.9 × 113 cm (72 × 44 1/2 in.); Repeat: 45.5 × 29.8 cm (17 7/8 × 11 3/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by Mrs. Julian Armstrong, Jr.",
-    "object_url": "https://www.artic.edu/artworks/64884"
-   },
-   "year_start": 1900,
-   "year_end": 1900,
-   "image": "https://www.artic.edu/iiif/2/71550262-862a-d19a-680b-f50a2e284901/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "154238",
-   "guess_group": "western",
-   "facts": {
-    "title": "Machinist's Apprentice",
-    "artist": "Emma Stebbins (American, 1815–1882)",
-    "artist_bio": null,
-    "date": "c. 1859",
-    "culture": "Rome",
-    "medium": "Marble",
-    "dimensions": "74.9 × 29.9 × 22.9 cm (29 1/2 × 11 3/4 × 9 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/154238"
-   },
-   "year_start": 1859,
-   "year_end": 1859,
-   "image": "https://www.artic.edu/iiif/2/9a50bfb5-f590-e734-901c-627991598172/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "189600",
-   "guess_group": "western",
-   "facts": {
-    "title": "Fragment",
-    "artist": "Probably Granada, Spain",
-    "artist_bio": null,
-    "date": "Nasrid dynasty (1230–1492), late 15th century",
-    "culture": "Spain",
-    "medium": "Silk, lampas technique; warp-float faced 4:1 satin weave with plain interlacings of secondary binding warps and patterning and self-patterning wefts;",
-    "dimensions": "60.8 × 30.5 cm (23 7/8 × 12 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Textile Society; Mrs. Julian Armstrong Jr.; Barbara E. and Richard J. Franke Fund, and the Nicole Williams Contemporary Textile Fund",
-    "object_url": "https://www.artic.edu/artworks/189600"
-   },
-   "year_start": 1475,
-   "year_end": 1500,
-   "image": "https://www.artic.edu/iiif/2/bda9c39c-12d8-e753-3371-7e40230b88b7/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "154237",
-   "guess_group": "western",
-   "facts": {
-    "title": "Machinist",
-    "artist": "Emma Stebbins (American, 1815–1882)",
-    "artist_bio": null,
-    "date": "c. 1859",
-    "culture": "Rome",
-    "medium": "Marble",
-    "dimensions": "74.9 × 29.2 × 29.2 cm (29 1/2 × 11 1/2 × 11 1/2 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/154237"
-   },
-   "year_start": 1859,
-   "year_end": 1859,
-   "image": "https://www.artic.edu/iiif/2/d892d2dd-8497-27d1-23d1-64e8702ee58b/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "184672",
-   "guess_group": "western",
-   "facts": {
-    "title": "Sideboard",
-    "artist": "Daniel Pabst (American, 1826–1910)\nPhiladelphia",
-    "artist_bio": null,
-    "date": "1868–80",
-    "culture": "Philadelphia",
-    "medium": "Walnut and burled elm",
-    "dimensions": "256.5 × 185.4 × 62.2 cm (101 × 73 × 24 1/2 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of the Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/184672"
-   },
-   "year_start": 1868,
-   "year_end": 1880,
-   "image": "https://www.artic.edu/iiif/2/ee3d039d-d4dc-1f0d-c4a4-0066d34b438a/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "196323",
-   "guess_group": "western",
-   "facts": {
-    "title": "Plate 49 from Plan of Chicago 1909: Chicago. View of the City from Jackson Park to Grant Park, Looking Towards the West. The proposed shore treatment as a park enclosing a waterway (or a series of lagoons) is shown, together with the enlarged yacht harbor, recreation piers, and a scheme for Grant Park.",
-    "artist": "Daniel Hudson Burnham, American, 1846-1912\nEdward Herbert Bennett, American, born England, 1874-1954\nJules Guerin, delineator, American, 1866-1946",
-    "artist_bio": null,
-    "date": "1907",
-    "culture": "Chicago",
-    "medium": "Watercolor with graphite on cream wove paper, discolored to tan, laid down on canvas",
-    "dimensions": "103.5 × 480 cm (40 3/4 × 189 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "On permanent loan to The Art Institute of Chicago from the City of Chicago",
-    "object_url": "https://www.artic.edu/artworks/196323"
-   },
-   "year_start": 1907,
-   "year_end": 1907,
-   "image": "https://www.artic.edu/iiif/2/db2379de-daa1-6def-087b-c1e9d8185531/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "103943",
-   "guess_group": "western",
-   "facts": {
-    "title": "Manxman Piano",
-    "artist": "Designed by Mackay Hugh Baillie Scott\nEnglish, 1865-1945\nMade by John Broadwood and Sons\nEngland, founded 1728\nLondon, England",
-    "artist_bio": null,
-    "date": "1897",
-    "culture": "England",
-    "medium": "Oak, ebony, ivory, mother-of-pearl, and copper",
-    "dimensions": "128.9 × 143.2 cm (50 3/4 × 56 3/8 in.); With top open: H.: 162.6 cm (64 in.); With one door open: W.: 212.4 cm (83 5/8 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by Robert Allerton, Mrs. Joseph Regenstein, Sr., Walter S. Brewster, Mrs. Emily Crane Chadbourne, Richard T. Crane, Jr., Mr. and Mrs. Leopold Blumka, Henry Manaster, Jack Linsky, Mrs. Margaret Day Blake, Mr. and Mrs. John Wilson, Mrs. Henry C. Wood, by exchange; Florene May Schoenborn and Samuel A. Marx Fund; European Decorative Arts Purchase Fund",
-    "object_url": "https://www.artic.edu/artworks/103943"
-   },
-   "year_start": 1897,
-   "year_end": 1897,
-   "image": "https://www.artic.edu/iiif/2/e8572c18-bdda-a2e2-9e95-e0dac1d215d0/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "126981",
-   "guess_group": "western",
-   "facts": {
-    "title": "Gaming Set, Probably Made for the Russian Court",
-    "artist": "Du Paquier Porcelain Manufactory (1719–44)\nVienna",
-    "artist_bio": null,
-    "date": "c. 1735",
-    "culture": "Vienna",
-    "medium": "Hard-paste porcelain, polychrome enamels, gold, and diamonds",
-    "dimensions": "1993.349.2: 8.6 × 16.9 × 14.2 cm (3 3/8 × 6 5/8 × 5 9/16 in.); 1993.349.3-6: 6.1 × 7 × 5.8 cm (2 3/8 × 2 3/4 × 2 1/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Eloise W. Martin fund; Richard T. Crane and Mrs. J. Ward Thorne endowments; through prior gift of The Antiquarian Society",
-    "object_url": "https://www.artic.edu/artworks/126981"
-   },
-   "year_start": 1730,
-   "year_end": 1740,
-   "image": "https://www.artic.edu/iiif/2/55c7170e-0011-df2a-8943-b22cb5585661/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "86421",
-   "guess_group": "western",
-   "facts": {
-    "title": "Panel (Furnishing Fabric)",
-    "artist": "Designed by Jean Baptiste Huet (French, 1745–1811) after Jean Baptiste Pillement (French, 1728-1808)\nJouy-en-Josas or Nantes, France",
-    "artist_bio": null,
-    "date": "c. 1786",
-    "culture": "Jouy-en-Josas",
-    "medium": "Linen, plain weave; copperplate printed",
-    "dimensions": "274 × 99.1 cm (107 7/8 × 39 in.); Warp repeat: H.: 92.2 cm (36 1/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of Robert Allerton",
-    "object_url": "https://www.artic.edu/artworks/86421"
-   },
-   "year_start": 1776,
-   "year_end": 1796,
-   "image": "https://www.artic.edu/iiif/2/99a562f9-d39a-274b-0a75-163168dda766/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -313,6 +73,246 @@
   },
   {
    "source": "aic",
+   "source_id": "154237",
+   "guess_group": "western",
+   "facts": {
+    "title": "Machinist",
+    "artist": "Emma Stebbins (American, 1815–1882)",
+    "artist_bio": null,
+    "date": "c. 1859",
+    "culture": "Rome",
+    "medium": "Marble",
+    "dimensions": "74.9 × 29.2 × 29.2 cm (29 1/2 × 11 1/2 × 11 1/2 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by the Antiquarian Society",
+    "object_url": "https://www.artic.edu/artworks/154237"
+   },
+   "year_start": 1859,
+   "year_end": 1859,
+   "image": "https://www.artic.edu/iiif/2/d892d2dd-8497-27d1-23d1-64e8702ee58b/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "157056",
+   "guess_group": "western",
+   "facts": {
+    "title": "Mrs. Herbert Duckworth",
+    "artist": "Julia Margaret Cameron\nEnglish, 1815–1879",
+    "artist_bio": null,
+    "date": "April 1867",
+    "culture": "England",
+    "medium": "Albumen print",
+    "dimensions": "34.2 × 26.3 cm (13 1/2 × 10 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "The Mary and Leigh Block Endowment Fund",
+    "object_url": "https://www.artic.edu/artworks/157056"
+   },
+   "year_start": 1867,
+   "year_end": 1867,
+   "image": "https://www.artic.edu/iiif/2/a50be06e-0072-24a5-9fa5-3e172c638fee/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "154238",
+   "guess_group": "western",
+   "facts": {
+    "title": "Machinist's Apprentice",
+    "artist": "Emma Stebbins (American, 1815–1882)",
+    "artist_bio": null,
+    "date": "c. 1859",
+    "culture": "Rome",
+    "medium": "Marble",
+    "dimensions": "74.9 × 29.9 × 22.9 cm (29 1/2 × 11 3/4 × 9 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by the Antiquarian Society",
+    "object_url": "https://www.artic.edu/artworks/154238"
+   },
+   "year_start": 1859,
+   "year_end": 1859,
+   "image": "https://www.artic.edu/iiif/2/9a50bfb5-f590-e734-901c-627991598172/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "112092",
+   "guess_group": "western",
+   "facts": {
+    "title": "Portions of a Jousting Helmet",
+    "artist": "Italian; Milan",
+    "artist_bio": null,
+    "date": "1570/80",
+    "culture": "Milan",
+    "medium": "Steel, gilding, and leather",
+    "dimensions": "H.: 40.6 cm (16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "George F. Harding Collection",
+    "object_url": "https://www.artic.edu/artworks/112092"
+   },
+   "year_start": 1560,
+   "year_end": 1590,
+   "image": "https://www.artic.edu/iiif/2/846b0cc8-20b5-845a-8f07-f418e6d98ff5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "199854",
+   "guess_group": "western",
+   "facts": {
+    "title": "Shaffron",
+    "artist": "Italian, Milan",
+    "artist_bio": null,
+    "date": "c. 1575",
+    "culture": "Italy",
+    "medium": "Steel with gilding",
+    "dimensions": "H.: 35.6 cm (14 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "George F. Harding Collection",
+    "object_url": "https://www.artic.edu/artworks/199854"
+   },
+   "year_start": 1550,
+   "year_end": 1600,
+   "image": "https://www.artic.edu/iiif/2/cac09e60-7c12-5088-3efa-e145b3b47c5b/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "80479",
+   "guess_group": "western",
+   "facts": {
+    "title": "Winter, from The Seasons",
+    "artist": "After a design by Charles Le Brun (French, 1619–1690)\nWoven at the workshop of Étienne Le Blond (French, 1652–1727) and Jean de La Croix (French, 1628–1712) at the Manufacture Royale des Gobelins\nFrance, Paris",
+    "artist_bio": null,
+    "date": "1700/20",
+    "culture": "Paris",
+    "medium": "Wool and silk, slit and double interlocking tapestry weave",
+    "dimensions": "540.1 × 384.9 cm (212 5/8 × 151 1/2 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of the Hearst Foundation in memory of William Randolph Hearst",
+    "object_url": "https://www.artic.edu/artworks/80479"
+   },
+   "year_start": 1700,
+   "year_end": 1720,
+   "image": "https://www.artic.edu/iiif/2/9547bd79-e45b-5d25-4442-0a666bb5089e/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "189600",
+   "guess_group": "western",
+   "facts": {
+    "title": "Fragment",
+    "artist": "Probably Granada, Spain",
+    "artist_bio": null,
+    "date": "Nasrid dynasty (1230–1492), late 15th century",
+    "culture": "Spain",
+    "medium": "Silk, lampas technique; warp-float faced 4:1 satin weave with plain interlacings of secondary binding warps and patterning and self-patterning wefts;",
+    "dimensions": "60.8 × 30.5 cm (23 7/8 × 12 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by the Textile Society; Mrs. Julian Armstrong Jr.; Barbara E. and Richard J. Franke Fund, and the Nicole Williams Contemporary Textile Fund",
+    "object_url": "https://www.artic.edu/artworks/189600"
+   },
+   "year_start": 1475,
+   "year_end": 1500,
+   "image": "https://www.artic.edu/iiif/2/bda9c39c-12d8-e753-3371-7e40230b88b7/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "103347",
+   "guess_group": "western",
+   "facts": {
+    "title": "Bureau Table",
+    "artist": "Attributed to John Townsend (American, 1732–1809)\nNewport, Rhode Island",
+    "artist_bio": null,
+    "date": "c. 1770",
+    "culture": "Newport",
+    "medium": "Mahogany, chestnut, and tulip poplar",
+    "dimensions": "86.6 × 93.4 × 58 cm (34 1/8 × 36 3/4 × 20 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Jamee J. and Marshall Field",
+    "object_url": "https://www.artic.edu/artworks/103347"
+   },
+   "year_start": 1770,
+   "year_end": 1770,
+   "image": "https://www.artic.edu/iiif/2/729c7015-ffde-6525-a0c8-6e61b67acbe8/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "126981",
+   "guess_group": "western",
+   "facts": {
+    "title": "Gaming Set, Probably Made for the Russian Court",
+    "artist": "Du Paquier Porcelain Manufactory (1719–44)\nVienna",
+    "artist_bio": null,
+    "date": "c. 1735",
+    "culture": "Vienna",
+    "medium": "Hard-paste porcelain, polychrome enamels, gold, and diamonds",
+    "dimensions": "1993.349.2: 8.6 × 16.9 × 14.2 cm (3 3/8 × 6 5/8 × 5 9/16 in.); 1993.349.3-6: 6.1 × 7 × 5.8 cm (2 3/8 × 2 3/4 × 2 1/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Eloise W. Martin fund; Richard T. Crane and Mrs. J. Ward Thorne endowments; through prior gift of The Antiquarian Society",
+    "object_url": "https://www.artic.edu/artworks/126981"
+   },
+   "year_start": 1730,
+   "year_end": 1740,
+   "image": "https://www.artic.edu/iiif/2/55c7170e-0011-df2a-8943-b22cb5585661/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "60031",
+   "guess_group": "western",
+   "facts": {
+    "title": "Panorama from the Sasso",
+    "artist": "Claude Lorrain\nFrench, 1600-1682",
+    "artist_bio": null,
+    "date": "1649/1655",
+    "culture": "France",
+    "medium": "Pen and brown ink with brush and brown wash, heightened with white gouache and traces of white chalk, over black chalk and graphite, on cream laid paper",
+    "dimensions": "16.2 × 40.2 cm (6 7/16 × 15 7/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Helen Regenstein Collection",
+    "object_url": "https://www.artic.edu/artworks/60031"
+   },
+   "year_start": 1649,
+   "year_end": 1655,
+   "image": "https://www.artic.edu/iiif/2/b2228199-cf8f-41a1-9482-b32e654b9011/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "196323",
+   "guess_group": "western",
+   "facts": {
+    "title": "Plate 49 from Plan of Chicago 1909: Chicago. View of the City from Jackson Park to Grant Park, Looking Towards the West. The proposed shore treatment as a park enclosing a waterway (or a series of lagoons) is shown, together with the enlarged yacht harbor, recreation piers, and a scheme for Grant Park.",
+    "artist": "Daniel Hudson Burnham, American, 1846-1912\nEdward Herbert Bennett, American, born England, 1874-1954\nJules Guerin, delineator, American, 1866-1946",
+    "artist_bio": null,
+    "date": "1907",
+    "culture": "Chicago",
+    "medium": "Watercolor with graphite on cream wove paper, discolored to tan, laid down on canvas",
+    "dimensions": "103.5 × 480 cm (40 3/4 × 189 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "On permanent loan to The Art Institute of Chicago from the City of Chicago",
+    "object_url": "https://www.artic.edu/artworks/196323"
+   },
+   "year_start": 1907,
+   "year_end": 1907,
+   "image": "https://www.artic.edu/iiif/2/db2379de-daa1-6def-087b-c1e9d8185531/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "110881",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Road to Calvary",
+    "artist": "Master of the Housebook\nGerman, active c. 1470-1500",
+    "artist_bio": null,
+    "date": "1475/80",
+    "culture": "Germany",
+    "medium": "Drypoint in black on ivory laid paper",
+    "dimensions": "Image: 12.9 × 19.3 cm (5 1/8 × 7 5/8 in.); Sheet, trimmed within platemark: 13 × 19.4 cm (5 1/8 × 7 11/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Clarence Buckingham Collection",
+    "object_url": "https://www.artic.edu/artworks/110881"
+   },
+   "year_start": 1470,
+   "year_end": 1485,
+   "image": "https://www.artic.edu/iiif/2/e2271376-79e7-f092-4c0c-610ad9f58e67/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
    "source_id": "42566",
    "guess_group": "china",
    "facts": {
@@ -333,26 +333,6 @@
   },
   {
    "source": "aic",
-   "source_id": "79507",
-   "guess_group": "china",
-   "facts": {
-    "title": "Pillars of the Country",
-    "artist": "Yao Shou\nChinese, 1423-1495",
-    "artist_bio": null,
-    "date": "Ming dynasty (1368–1644), 1494",
-    "culture": "China",
-    "medium": "Handscroll; ink and color on paper",
-    "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Kate S. Buckingham Endowment",
-    "object_url": "https://www.artic.edu/artworks/79507"
-   },
-   "year_start": 1423,
-   "year_end": 1495,
-   "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
    "source_id": "149681",
    "guess_group": "china",
    "facts": {
@@ -370,6 +350,26 @@
    "year_start": 775,
    "year_end": 825,
    "image": "https://www.artic.edu/iiif/2/13b2edbf-05dc-a541-af00-6c14408ce6a6/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "79507",
+   "guess_group": "china",
+   "facts": {
+    "title": "Pillars of the Country",
+    "artist": "Yao Shou\nChinese, 1423-1495",
+    "artist_bio": null,
+    "date": "Ming dynasty (1368–1644), 1494",
+    "culture": "China",
+    "medium": "Handscroll; ink and color on paper",
+    "dimensions": "29.9 × 759.5 cm (11 3/4 × 299 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/79507"
+   },
+   "year_start": 1423,
+   "year_end": 1495,
+   "image": "https://www.artic.edu/iiif/2/48450f9e-295e-604b-851e-ad66a30712a5/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -433,43 +433,23 @@
   },
   {
    "source": "aic",
-   "source_id": "210482",
+   "source_id": "142526",
    "guess_group": "south-southeast-asia",
    "facts": {
-    "title": "I'timad-ud-Daula's Tomb at Agra",
-    "artist": "India\nAgra",
+    "title": "Milarepa on Mount Kailash",
+    "artist": "Tibet",
     "artist_bio": null,
-    "date": "c. 1820",
-    "culture": "India",
-    "medium": "Watercolor on paper watermarked J. Whatman with pencil, pen, ink and gold",
-    "dimensions": "51 × 74 cm (21 1/8 × 29 1/8 in.)",
+    "date": "c. 1500",
+    "culture": "Tibet",
+    "medium": "Pigment and gold on cotton",
+    "dimensions": "45.5 × 30 cm (17 7/8 × 11 13/16 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Purchased with funds provided by the Friends of Indian and Islamic Art of The Art Institute of Chicago",
-    "object_url": "https://www.artic.edu/artworks/210482"
+    "credit_line": "Asian Purchase Campaign Endowment and Robert Ross Fund",
+    "object_url": "https://www.artic.edu/artworks/142526"
    },
-   "year_start": 1815,
-   "year_end": 1825,
-   "image": "https://www.artic.edu/iiif/2/36e70de8-0ba3-2fe5-dd2e-53612b48a395/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "180298",
-   "guess_group": "south-southeast-asia",
-   "facts": {
-    "title": "Ceremonial Hanging (Palepai)",
-    "artist": "Paminggir people\nLampung area, South Sumatra, Indonesia",
-    "artist_bio": null,
-    "date": "19th century",
-    "culture": "Indonesia",
-    "medium": "Cotton, silk, and silver-leaf-over-lacquered-paper-strip-wrapped bast fiber (probably ramie), plain weave with supplementary patterning and brocading wefts, main warp fringe",
-    "dimensions": "Without fringe: 67 × 296.6 cm (26 3/8 × 116 3/4 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of E. M. Bakwin Indonesian Textile Collection",
-    "object_url": "https://www.artic.edu/artworks/180298"
-   },
-   "year_start": 1801,
-   "year_end": 1900,
-   "image": "https://www.artic.edu/iiif/2/ca9c6ee4-58a1-38fa-362f-b00f9a5996d4/full/400,/0/default.jpg"
+   "year_start": 1400,
+   "year_end": 1500,
+   "image": "https://www.artic.edu/iiif/2/4747ac8d-191c-75ac-3198-f7b551441fe4/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -493,63 +473,43 @@
   },
   {
    "source": "aic",
-   "source_id": "103347",
-   "guess_group": "western",
-   "facts": {
-    "title": "Bureau Table",
-    "artist": "Attributed to John Townsend (American, 1732–1809)\nNewport, Rhode Island",
-    "artist_bio": null,
-    "date": "c. 1770",
-    "culture": "Newport",
-    "medium": "Mahogany, chestnut, and tulip poplar",
-    "dimensions": "86.6 × 93.4 × 58 cm (34 1/8 × 36 3/4 × 20 in.)",
-    "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of Jamee J. and Marshall Field",
-    "object_url": "https://www.artic.edu/artworks/103347"
-   },
-   "year_start": 1770,
-   "year_end": 1770,
-   "image": "https://www.artic.edu/iiif/2/729c7015-ffde-6525-a0c8-6e61b67acbe8/full/400,/0/default.jpg"
-  },
-  {
-   "source": "aic",
-   "source_id": "142526",
+   "source_id": "210482",
    "guess_group": "south-southeast-asia",
    "facts": {
-    "title": "Milarepa on Mount Kailash",
-    "artist": "Tibet",
+    "title": "I'timad-ud-Daula's Tomb at Agra",
+    "artist": "India\nAgra",
     "artist_bio": null,
-    "date": "c. 1500",
-    "culture": "Tibet",
-    "medium": "Pigment and gold on cotton",
-    "dimensions": "45.5 × 30 cm (17 7/8 × 11 13/16 in.)",
+    "date": "c. 1820",
+    "culture": "India",
+    "medium": "Watercolor on paper watermarked J. Whatman with pencil, pen, ink and gold",
+    "dimensions": "51 × 74 cm (21 1/8 × 29 1/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Asian Purchase Campaign Endowment and Robert Ross Fund",
-    "object_url": "https://www.artic.edu/artworks/142526"
+    "credit_line": "Purchased with funds provided by the Friends of Indian and Islamic Art of The Art Institute of Chicago",
+    "object_url": "https://www.artic.edu/artworks/210482"
    },
-   "year_start": 1400,
-   "year_end": 1500,
-   "image": "https://www.artic.edu/iiif/2/4747ac8d-191c-75ac-3198-f7b551441fe4/full/400,/0/default.jpg"
+   "year_start": 1815,
+   "year_end": 1825,
+   "image": "https://www.artic.edu/iiif/2/36e70de8-0ba3-2fe5-dd2e-53612b48a395/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "110881",
+   "source_id": "86421",
    "guess_group": "western",
    "facts": {
-    "title": "The Road to Calvary",
-    "artist": "Master of the Housebook\nGerman, active c. 1470-1500",
+    "title": "Panel (Furnishing Fabric)",
+    "artist": "Designed by Jean Baptiste Huet (French, 1745–1811) after Jean Baptiste Pillement (French, 1728-1808)\nJouy-en-Josas or Nantes, France",
     "artist_bio": null,
-    "date": "1475/80",
-    "culture": "Germany",
-    "medium": "Drypoint in black on ivory laid paper",
-    "dimensions": "Image: 12.9 × 19.3 cm (5 1/8 × 7 5/8 in.); Sheet, trimmed within platemark: 13 × 19.4 cm (5 1/8 × 7 11/16 in.)",
+    "date": "c. 1786",
+    "culture": "Jouy-en-Josas",
+    "medium": "Linen, plain weave; copperplate printed",
+    "dimensions": "274 × 99.1 cm (107 7/8 × 39 in.); Warp repeat: H.: 92.2 cm (36 1/4 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Clarence Buckingham Collection",
-    "object_url": "https://www.artic.edu/artworks/110881"
+    "credit_line": "Gift of Robert Allerton",
+    "object_url": "https://www.artic.edu/artworks/86421"
    },
-   "year_start": 1470,
-   "year_end": 1485,
-   "image": "https://www.artic.edu/iiif/2/e2271376-79e7-f092-4c0c-610ad9f58e67/full/400,/0/default.jpg"
+   "year_start": 1776,
+   "year_end": 1796,
+   "image": "https://www.artic.edu/iiif/2/99a562f9-d39a-274b-0a75-163168dda766/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
@@ -573,43 +533,43 @@
   },
   {
    "source": "aic",
-   "source_id": "80479",
+   "source_id": "102295",
    "guess_group": "western",
    "facts": {
-    "title": "Winter, from The Seasons",
-    "artist": "After a design by Charles Le Brun (French, 1619–1690)\nWoven at the workshop of Étienne Le Blond (French, 1652–1727) and Jean de La Croix (French, 1628–1712) at the Manufacture Royale des Gobelins\nFrance, Paris",
+    "title": "Pitcher",
+    "artist": "Design attributed to Edward C. Moore (American, 1827–1891)\nTiffany and Company (American, founded 1837)\nNew York",
     "artist_bio": null,
-    "date": "1700/20",
-    "culture": "Paris",
-    "medium": "Wool and silk, slit and double interlocking tapestry weave",
-    "dimensions": "540.1 × 384.9 cm (212 5/8 × 151 1/2 in.)",
+    "date": "1878",
+    "culture": "New York City",
+    "medium": "Silver, gold, and copper",
+    "dimensions": "20.3 × 12.7 × 15.2 cm (8 7/8 × 5 1/4 × 6 7/8 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of the Hearst Foundation in memory of William Randolph Hearst",
-    "object_url": "https://www.artic.edu/artworks/80479"
+    "credit_line": "Purchased with funds provided by Mrs. Frank L. Sulzberger",
+    "object_url": "https://www.artic.edu/artworks/102295"
    },
-   "year_start": 1700,
-   "year_end": 1720,
-   "image": "https://www.artic.edu/iiif/2/9547bd79-e45b-5d25-4442-0a666bb5089e/full/400,/0/default.jpg"
+   "year_start": 1878,
+   "year_end": 1878,
+   "image": "https://www.artic.edu/iiif/2/631ad042-02e0-e333-112d-6c8e470ad670/full/400,/0/default.jpg"
   },
   {
    "source": "aic",
-   "source_id": "55706",
-   "guess_group": "western",
+   "source_id": "180298",
+   "guess_group": "south-southeast-asia",
    "facts": {
-    "title": "Cornelius Allerton",
-    "artist": "Ammi Phillips (American, 1788–1865)",
+    "title": "Ceremonial Hanging (Palepai)",
+    "artist": "Paminggir people\nLampung area, South Sumatra, Indonesia",
     "artist_bio": null,
-    "date": "1821–22",
-    "culture": "New York",
-    "medium": "Oil on canvas",
-    "dimensions": "83.8 × 69.9 cm (33 × 27 1/2 in.)",
+    "date": "19th century",
+    "culture": "Indonesia",
+    "medium": "Cotton, silk, and silver-leaf-over-lacquered-paper-strip-wrapped bast fiber (probably ramie), plain weave with supplementary patterning and brocading wefts, main warp fringe",
+    "dimensions": "Without fringe: 67 × 296.6 cm (26 3/8 × 116 3/4 in.)",
     "repository": "The Art Institute of Chicago",
-    "credit_line": "Gift of Robert Allerton",
-    "object_url": "https://www.artic.edu/artworks/55706"
+    "credit_line": "Gift of E. M. Bakwin Indonesian Textile Collection",
+    "object_url": "https://www.artic.edu/artworks/180298"
    },
-   "year_start": 1821,
-   "year_end": 1822,
-   "image": "https://www.artic.edu/iiif/2/5b805de8-cb66-b522-6a62-88742994c65c/full/400,/0/default.jpg"
+   "year_start": 1801,
+   "year_end": 1900,
+   "image": "https://www.artic.edu/iiif/2/ca9c6ee4-58a1-38fa-362f-b00f9a5996d4/full/400,/0/default.jpg"
   }
  ]
 }

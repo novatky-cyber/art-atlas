@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T20:57:34.978Z",
- "date": "2026-11-08",
+ "generated_at": "2026-11-08T21:13:45.662Z",
+ "date": "2026-11-09",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -10,5 +10,606 @@
   "ancient": 1,
   "other": 1
  },
- "candidates": []
+ "candidates": [
+  {
+   "source": "aic",
+   "source_id": "16169",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Beheading of Saint John the Baptist",
+    "artist": "Giovanni di Paolo (Italian, 1398–1482)",
+    "artist_bio": null,
+    "date": "1455–60",
+    "culture": "Italy",
+    "medium": "Tempera on panel",
+    "dimensions": "68.6 × 39.1 cm (27 × 15 3/8 in.); Framed: 82 × 53.4 × 7 cm (32 1/4 × 21 × 2 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "object_url": "https://www.artic.edu/artworks/16169"
+   },
+   "year_start": 1455,
+   "year_end": 1460,
+   "image": "https://www.artic.edu/iiif/2/af91bb7d-0af4-ef10-5b4d-052da0b6e21a/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "102131",
+   "guess_group": "western",
+   "facts": {
+    "title": "Self-Portrait with a Visor",
+    "artist": "Jean-Siméon Chardin\nFrench, 1699-1779",
+    "artist_bio": null,
+    "date": "c. 1776",
+    "culture": "France",
+    "medium": "Pastel on blue laid paper, laid down on canvas",
+    "dimensions": "45.7 × 37.4 cm (18 × 14 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Clarence Buckingham Collection and the Harold Joachim Memorial Fund",
+    "object_url": "https://www.artic.edu/artworks/102131"
+   },
+   "year_start": 1771,
+   "year_end": 1781,
+   "image": "https://www.artic.edu/iiif/2/dfe5d0d9-5ef0-5ff7-dfa8-43a98d704493/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "23333",
+   "guess_group": "western",
+   "facts": {
+    "title": "Pastoral Scene",
+    "artist": "Giovanni Battista Piazzetta (Italian, 1682–1754)",
+    "artist_bio": null,
+    "date": "1740",
+    "culture": "Italy",
+    "medium": "Oil on canvas",
+    "dimensions": "191.8 × 143 cm (75 1/2 × 56 1/4 in.); Framed: 208.3 × 158.8 × 10.2 cm (82 × 62 1/2 × 4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+    "object_url": "https://www.artic.edu/artworks/23333"
+   },
+   "year_start": 1740,
+   "year_end": 1740,
+   "image": "https://www.artic.edu/iiif/2/cd2ebc0d-eea7-d476-1a57-daf8a3976675/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "234781",
+   "guess_group": "western",
+   "facts": {
+    "title": "Christ Carrying the Cross",
+    "artist": "Sebastiano del Piombo (Italian, c. 1485–1547)",
+    "artist_bio": null,
+    "date": "c. 1515–17",
+    "culture": "Italy",
+    "medium": "Oil on panel",
+    "dimensions": "118 × 92 cm (46 7/16 × 36 1/4 in.); Framed: 143.6 × 117.5 × 8.3 cm (56 1/2 × 46 1/4 × 3 1/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Lacy Armour, Ada Turnbull Hertle, Mary Swissler Oldberg Acquisition, Charles H. and Mary F. S. Worcester Collection funds; Wirt D. Walker Trust; Alyce and Edwin DeCosta and the Walter E. Heller Foundation Fund; Estate of Walter Aitken; Frederick W. Renshaw Acquisition, Marian and Samuel Klasstorner funds; Edward E. Ayer Fund in Memory of Charles L. Hutchinson; Lara T. Magnuson Acquisition, Director's funds; Samuel A. Marx Purchase Fund for Major Acquisitions; Edward Johnson, Maurice D. Galleher Endowment, Simeon B. Williams, Capital Campaign General Acquisitions, Wentworth Greene Field Memorial, Samuel P. Avery, Morris L. Parker, Irving and June Seaman Endowment, and Betty Bell Spooner funds",
+    "object_url": "https://www.artic.edu/artworks/234781"
+   },
+   "year_start": 1515,
+   "year_end": 1517,
+   "image": "https://www.artic.edu/iiif/2/13a251ba-2c7a-2d0c-3f65-820c0e1f1a39/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "100829",
+   "guess_group": "western",
+   "facts": {
+    "title": "Magnolias on Light Blue Velvet Cloth",
+    "artist": "Martin Johnson Heade (American, 1819–1904)",
+    "artist_bio": null,
+    "date": "1885–95",
+    "culture": "Florida",
+    "medium": "Oil on canvas",
+    "dimensions": "38.6 × 61.8 cm (15 1/4 × 24 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by Gloria and Richard Manney; Harold L. Stuart Endowment Fund",
+    "object_url": "https://www.artic.edu/artworks/100829"
+   },
+   "year_start": 1885,
+   "year_end": 1895,
+   "image": "https://www.artic.edu/iiif/2/0729fbba-51e3-a2d7-6d4d-61c2be62af3f/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "63554",
+   "guess_group": "western",
+   "facts": {
+    "title": "Big River, from the Rancherie, Mendocino, California",
+    "artist": "Carleton E. Watkins\nAmerican, 1829-1916",
+    "artist_bio": null,
+    "date": "1863",
+    "culture": "United States",
+    "medium": "Albumen print",
+    "dimensions": "40 × 52.5 cm (15 3/4 × 20 11/16 in.); Mount: 55 × 68.4 cm (21 11/16 × 26 15/16 in.); Image/paper: 40.1 × 52.6 cm (15 3/4 × 20 11/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of the Auxiliary Board",
+    "object_url": "https://www.artic.edu/artworks/63554"
+   },
+   "year_start": 1863,
+   "year_end": 1863,
+   "image": "https://www.artic.edu/iiif/2/0ac9663b-e17e-471d-e4e3-6c60fc800704/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "23972",
+   "guess_group": "western",
+   "facts": {
+    "title": "Virgin and Child with the Young Saint John the Baptist",
+    "artist": "Correggio (Antonio Allegri; Italian, 1489–1534)",
+    "artist_bio": null,
+    "date": "c. 1515",
+    "culture": "Italy",
+    "medium": "Oil on panel",
+    "dimensions": "64.2 × 50.2 cm (25 1/4 × 19 3/4 in.); Framed: 79.4 × 63.9 × 8.3 cm (31 1/4 × 25 1/8 × 3 1/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Clyde M. Carr Fund",
+    "object_url": "https://www.artic.edu/artworks/23972"
+   },
+   "year_start": 1510,
+   "year_end": 1520,
+   "image": "https://www.artic.edu/iiif/2/d63b9402-c42b-cce3-aa63-6d213ad621cd/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "50909",
+   "guess_group": "western",
+   "facts": {
+    "title": "Head of an Apostle",
+    "artist": "French; Paris",
+    "artist_bio": null,
+    "date": "c. 1210",
+    "culture": "France",
+    "medium": "Limestone",
+    "dimensions": "H.: 43 cm (17 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/50909"
+   },
+   "year_start": 1200,
+   "year_end": 1220,
+   "image": "https://www.artic.edu/iiif/2/73eb91ee-cde0-2f6d-843f-4f263d5c409f/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "11320",
+   "guess_group": "western",
+   "facts": {
+    "title": "Adam",
+    "artist": "Auguste Rodin (French, 1840–1917)",
+    "artist_bio": null,
+    "date": "Modeled 1881, cast c. 1924",
+    "culture": "France",
+    "medium": "Bronze with dark brown patina",
+    "dimensions": "198.1 × 73.7 cm (78 × 29 in.); Base: 76.2 × 73.7 cm (30 × 29 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Robert Allerton",
+    "object_url": "https://www.artic.edu/artworks/11320"
+   },
+   "year_start": 1876,
+   "year_end": 1886,
+   "image": "https://www.artic.edu/iiif/2/c5dbb973-a2fd-755a-c1be-cd2660ccf5af/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "97916",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Bronco Buster",
+    "artist": "Frederic Remington (American, 1861–1909)\nCast by Henry-Bonnard Bronze Company (American, 1872–1926)",
+    "artist_bio": null,
+    "date": "Modeled 1895, cast 1899",
+    "culture": "New York City",
+    "medium": "Bronze with brown patina",
+    "dimensions": "60 × 54.7 × 34.5 cm (23 5/8 × 21 9/16 × 13 5/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "George F. Harding Collection",
+    "object_url": "https://www.artic.edu/artworks/97916"
+   },
+   "year_start": 1895,
+   "year_end": 1895,
+   "image": "https://www.artic.edu/iiif/2/9c28758d-90d1-0794-87db-ddf2b20a0a3d/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "111559",
+   "guess_group": "western",
+   "facts": {
+    "title": "Boy on a Ram",
+    "artist": "Francisco José de Goya y Lucientes (Spanish, 1746–1828)",
+    "artist_bio": null,
+    "date": "1786–87",
+    "culture": "Spain",
+    "medium": "Oil on canvas",
+    "dimensions": "127.2 × 112.1 cm (50 1/16 × 44 1/8 in.); Framed: 153.7 × 138.4 × 12.7 cm (60 1/2 × 54 1/2 × 5 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Mr. and Mrs. Brooks McCormick",
+    "object_url": "https://www.artic.edu/artworks/111559"
+   },
+   "year_start": 1786,
+   "year_end": 1787,
+   "image": "https://www.artic.edu/iiif/2/e54a695c-16df-cf45-9dd4-b517e8c32cc3/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "44741",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Annunciation",
+    "artist": "Alessandro Vittoria (Italian, 1525–1608)",
+    "artist_bio": null,
+    "date": "c. 1583",
+    "culture": "Venice",
+    "medium": "Bronze",
+    "dimensions": "101.3 × 61.3 × 9.6 cm (39 7/8 × 24 1/8 × 3 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Edward E. Ayer Endowment in memory of Charles L. Hutchinson",
+    "object_url": "https://www.artic.edu/artworks/44741"
+   },
+   "year_start": 1578,
+   "year_end": 1588,
+   "image": "https://www.artic.edu/iiif/2/6e6d0abe-9881-627d-86af-98b183500b77/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "25332",
+   "guess_group": "western",
+   "facts": {
+    "title": "Triptych with Scenes from the Life of Christ",
+    "artist": "German; Cologne",
+    "artist_bio": null,
+    "date": "1350–75",
+    "culture": "Germany",
+    "medium": "Ivory with traces of gold",
+    "dimensions": "25.7 × 17.5 cm (10 1/8 × 6 15/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "object_url": "https://www.artic.edu/artworks/25332"
+   },
+   "year_start": 1350,
+   "year_end": 1375,
+   "image": "https://www.artic.edu/iiif/2/c5409bc2-35dc-342a-e506-41259963bce0/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "87045",
+   "guess_group": "western",
+   "facts": {
+    "title": "Still Life with Geranium",
+    "artist": "Henri Matisse\nFrench, 1869–1954",
+    "artist_bio": null,
+    "date": "1906",
+    "culture": "France",
+    "medium": "Oil on canvas",
+    "dimensions": "100.3 × 81.5 cm (39 1/2 × 32 1/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Joseph Winterbotham Collection",
+    "object_url": "https://www.artic.edu/artworks/87045"
+   },
+   "year_start": 1906,
+   "year_end": 1906,
+   "image": "https://www.artic.edu/iiif/2/d0049e0b-bd55-020e-aa8c-b137d06ae7df/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "105466",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Battle between the Gods and the Giants",
+    "artist": "Joachim Antonisz. Wtewael (Dutch, c. 1566–1638)",
+    "artist_bio": null,
+    "date": "c. 1608",
+    "culture": "Netherlands",
+    "medium": "Oil on copper",
+    "dimensions": "15.6 × 20.3 cm (6 1/8 × 8 in.); Framed: 24.1 × 27.3 × 3.5 cm (9 1/2 × 10 3/4 × 1 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Through prior acquisition of the George F. Harding Fund",
+    "object_url": "https://www.artic.edu/artworks/105466"
+   },
+   "year_start": 1603,
+   "year_end": 1613,
+   "image": "https://www.artic.edu/iiif/2/8111acce-c8ce-2ef3-5f32-61cd63905c7d/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "76279",
+   "guess_group": "china",
+   "facts": {
+    "title": "Yang Pu Moving His Family",
+    "artist": "Artist Unknown\nChinese",
+    "artist_bio": null,
+    "date": "Yuan dynasty (1279–1368) 元朝",
+    "culture": "China",
+    "medium": "Handscroll; ink and light color on paper",
+    "dimensions": "52.7 × 231.1 cm (20 3/4 × 91 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/76279"
+   },
+   "year_start": 1279,
+   "year_end": 1368,
+   "image": "https://www.artic.edu/iiif/2/f78addab-4d3a-f87c-4c83-7eae824c7504/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "35376",
+   "guess_group": "china",
+   "facts": {
+    "title": "Equestrienne",
+    "artist": "China",
+    "artist_bio": null,
+    "date": "Tang dynasty (618–907), mid-8th century",
+    "culture": "China",
+    "medium": "Earthenware with polychrome pigments",
+    "dimensions": "56.2 × 48.2 × 39 cm (22 1/8 × 19 × 15 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Mrs. Potter Palmer",
+    "object_url": "https://www.artic.edu/artworks/35376"
+   },
+   "year_start": 725,
+   "year_end": 750,
+   "image": "https://www.artic.edu/iiif/2/f18f7064-fb9a-7074-1f1c-f8009eecaec7/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "185963",
+   "guess_group": "china",
+   "facts": {
+    "title": "Cauldron",
+    "artist": "China",
+    "artist_bio": null,
+    "date": "Western Zhou dynasty (1046–771 BC ), early 9th century BC",
+    "culture": "China",
+    "medium": "Bronze",
+    "dimensions": "49 × 43 cm (19 3/8 × 16 15/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Major Acquisitions Centennial Fund",
+    "object_url": "https://www.artic.edu/artworks/185963"
+   },
+   "year_start": -1050,
+   "year_end": -771,
+   "image": "https://www.artic.edu/iiif/2/69f25cba-e78d-061b-4cc1-b8fe66b02f28/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "43060",
+   "guess_group": "china",
+   "facts": {
+    "title": "Incense Burner in the Form of a Duck",
+    "artist": "China",
+    "artist_bio": null,
+    "date": "Song dynasty (960–1279), 12th century",
+    "culture": "China",
+    "medium": "Qingbai ware; porcelain with underglaze molded and carved decoration",
+    "dimensions": "H. 19.1 (7 1/2 in.)\ndiam. 15.1 cm (6 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Gift of Russell Tyson",
+    "object_url": "https://www.artic.edu/artworks/43060"
+   },
+   "year_start": 1100,
+   "year_end": 1200,
+   "image": "https://www.artic.edu/iiif/2/fa3a6e30-09ce-5c9e-5cba-a682ca4d56e7/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "13853",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Karttikeya, Commander of the Divine Army, Seated on a Peacock",
+    "artist": "India\nAndhra Pradesh, Madanapalle",
+    "artist_bio": null,
+    "date": "Ganga Period, about 12th century",
+    "culture": "Andhra Pradesh",
+    "medium": "Basalt",
+    "dimensions": "150.5 × 121 × 39 cm (59 1/16 × 47 5/8 × 15 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by Mr. and Mrs. Sylvain S. Wyler",
+    "object_url": "https://www.artic.edu/artworks/13853"
+   },
+   "year_start": 1101,
+   "year_end": 1200,
+   "image": "https://www.artic.edu/iiif/2/bc2824ae-b75f-e76f-23f9-0e7e7f8f628e/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "49195",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Maharana Bhim Singh in Procession",
+    "artist": "India\nRajasthan, Mewar, Udaipur, attributed to Ghasi (active c. 1820-36)",
+    "artist_bio": null,
+    "date": "c. 1820",
+    "culture": "India",
+    "medium": "Opaque watercolor and gold on paper",
+    "dimensions": "Image: 57.1 × 41.6 cm (22 1/2 × 16 3/8 in.); Paper: 60.7 × 45.6 cm (23 7/8 × 18 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Everett and Ann McNear Collection",
+    "object_url": "https://www.artic.edu/artworks/49195"
+   },
+   "year_start": 1815,
+   "year_end": 1825,
+   "image": "https://www.artic.edu/iiif/2/9f08b895-4960-4bc6-5871-dc9bfab4c655/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "99602",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Fragment of a Hanging",
+    "artist": "Egypt",
+    "artist_bio": null,
+    "date": "5th-6th century",
+    "culture": "Egypt",
+    "medium": "Linen and wool, plain weave with weft uncut pile and embroidered linen pile formed by variations of back and stem stitches",
+    "dimensions": "136.5 × 88.3 cm (53 3/4 × 34 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Grace R. Smith Textile Endowment",
+    "object_url": "https://www.artic.edu/artworks/99602"
+   },
+   "year_start": 401,
+   "year_end": 600,
+   "image": "https://www.artic.edu/iiif/2/548e0a34-6043-2fea-628e-97f46484d3f5/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "159136",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Portrait Bust of a Woman",
+    "artist": "Roman",
+    "artist_bio": null,
+    "date": "Mid–2nd century",
+    "culture": "Rome",
+    "medium": "Marble",
+    "dimensions": "64.8 × 47.6 × 27.3 cm (25 1/2 × 18 3/4 × 10 3/4 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Purchased with funds provided by The Antiquarian Society in honor of Ian Wardropper, the Classical Art Society, Mr. and Mrs. Isak V. Gerson, James and Bonnie Pritchard, and Mrs. Hugo Sonnenschein; Mr. and Mrs. Kenneth Bro Fund; Katherine K. Adler, Mr. and Mrs. Walter Alexander in honor of Ian Wardropper, David Earle III, William A. and Renda H. Lederer Family, Chester D. Tripp, and Jane B. Tripp endowments",
+    "object_url": "https://www.artic.edu/artworks/159136"
+   },
+   "year_start": 140,
+   "year_end": 150,
+   "image": "https://www.artic.edu/iiif/2/34133244-99a5-246f-c72f-76f32e55d253/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "18757",
+   "guess_group": "other",
+   "facts": {
+    "title": "Ceremonial Knife (Tumi)",
+    "artist": "Chimú\nLambayeque Valley, north coast, Peru",
+    "artist_bio": null,
+    "date": "1100–1470",
+    "culture": "Lambayeque Valley",
+    "medium": "Gold with turquoise inlay",
+    "dimensions": "34 × 12.7 cm (13 3/8 × 5 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Ada Turnbull Hertle Endowment",
+    "object_url": "https://www.artic.edu/artworks/18757"
+   },
+   "year_start": 1100,
+   "year_end": 1470,
+   "image": "https://www.artic.edu/iiif/2/801ac46f-ead4-a77a-8523-34dfade43877/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "85533",
+   "guess_group": "other",
+   "facts": {
+    "title": "Feathered Tabard (Open-sided Tunic)",
+    "artist": "Chimú\nPeru, south coast, Possibly Nazca Valley",
+    "artist_bio": null,
+    "date": "1470-1532",
+    "culture": "Peru",
+    "medium": "Cotton, plain weave; embellished with feathers knotted and attached with cotton in overcast stitches",
+    "dimensions": "85.1 × 86 cm (33 1/2 × 33 7/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Kate S. Buckingham Endowment",
+    "object_url": "https://www.artic.edu/artworks/85533"
+   },
+   "year_start": 1470,
+   "year_end": 1532,
+   "image": "https://www.artic.edu/iiif/2/ff7bc41b-f7c6-a8fa-553d-00ea8a70bc91/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "27307",
+   "guess_group": "western",
+   "facts": {
+    "title": "Madame de Pastoret and Her Son",
+    "artist": "Jacques-Louis David (French, 1748–1825)",
+    "artist_bio": null,
+    "date": "1791–92",
+    "culture": "France",
+    "medium": "Oil on canvas",
+    "dimensions": "129.8 × 96.6 cm (51 1/8 × 38 in.); French: 156.3 × 123.6 cm (61 1/2 × 48 5/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Clyde M. Carr Fund and Major Acquisitions Endowment",
+    "object_url": "https://www.artic.edu/artworks/27307"
+   },
+   "year_start": 1791,
+   "year_end": 1792,
+   "image": "https://www.artic.edu/iiif/2/72227c9e-413c-8930-477d-5a90e0a2123c/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "4773",
+   "guess_group": "western",
+   "facts": {
+    "title": "Isabella Wolff",
+    "artist": "Sir Thomas Lawrence (English, 1769-1830)",
+    "artist_bio": null,
+    "date": "1803–15",
+    "culture": "England",
+    "medium": "Oil on canvas",
+    "dimensions": "128.2 × 102.4 cm (50 1/2 × 40 5/16 in.); Framed: 156.2 × 130.5 cm (61 1/2 × 51 3/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Mr. and Mrs. W. W. Kimball Collection",
+    "object_url": "https://www.artic.edu/artworks/4773"
+   },
+   "year_start": 1803,
+   "year_end": 1815,
+   "image": "https://www.artic.edu/iiif/2/0052fc88-353e-db97-8741-b6b5ec6fb354/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "186047",
+   "guess_group": "western",
+   "facts": {
+    "title": "Sideboard",
+    "artist": "Designed by Edward William Godwin (English, 1833-1886)\nMade by William Watt (English, 1834-1885)\nLondon",
+    "artist_bio": null,
+    "date": "Designed 1867, made c. 1876",
+    "culture": "England",
+    "medium": "Ebonized mahogany with glass and silvered brass",
+    "dimensions": "181.6 × 255.3 × 50.2 cm (71 1/2 × 100 1/2 × 19 3/4 in.) (with leaves e×tended)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Robert Allerton, Harry and Maribel G. Blum, Mary and Leigh Block, Mary Waller Langhorne, Mrs. Siegfried G. Schmidt, Tillie C. Cohn, Richard T. Crane, Jr. Memorial, Eugene A. Davidson, Harriott A. Fox, Florence L. Notter, Kay and Frederick Krehbiel endowment funds; European Decorative Arts Purchase Fund;Irving and June Seaman Endowment Fund; through prior acquisition of the Reid Martin Estate",
+    "object_url": "https://www.artic.edu/artworks/186047"
+   },
+   "year_start": 1871,
+   "year_end": 1881,
+   "image": "https://www.artic.edu/iiif/2/2bc4d353-e61a-7589-8585-2000a23689bb/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "30709",
+   "guess_group": "western",
+   "facts": {
+    "title": "Bar-room Scene",
+    "artist": "William Sidney Mount (American, 1807–1868)",
+    "artist_bio": null,
+    "date": "1835",
+    "culture": "Long Island",
+    "medium": "Oil on canvas",
+    "dimensions": "57.4 × 69.7 cm (22 5/8 × 27 7/16 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "The William Owen Goodman and Erna Sawyer Goodman Collection",
+    "object_url": "https://www.artic.edu/artworks/30709"
+   },
+   "year_start": 1835,
+   "year_end": 1835,
+   "image": "https://www.artic.edu/iiif/2/82a87cf0-6082-a7f7-c2cf-0fc9283ed966/full/400,/0/default.jpg"
+  },
+  {
+   "source": "aic",
+   "source_id": "87643",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Two Disciples at the Tomb",
+    "artist": "Henry Ossawa Tanner (American, 1859–1937)",
+    "artist_bio": null,
+    "date": "c. 1906",
+    "culture": "Paris",
+    "medium": "Oil on canvas",
+    "dimensions": "129.5 × 105.7 cm (51 × 41 7/8 in.)",
+    "repository": "The Art Institute of Chicago",
+    "credit_line": "Robert A. Waller Fund",
+    "object_url": "https://www.artic.edu/artworks/87643"
+   },
+   "year_start": 1906,
+   "year_end": 1906,
+   "image": "https://www.artic.edu/iiif/2/46ff0699-8905-a7d7-92f3-5210c2cc5e51/full/400,/0/default.jpg"
+  }
+ ]
 }

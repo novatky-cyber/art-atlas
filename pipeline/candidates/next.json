@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-10T00:43:42.670Z",
- "date": "2026-11-10",
+ "generated_at": "2026-11-10T22:25:15.402Z",
+ "date": "2026-11-11",
  "count": 20,
  "allocation": {
   "western": 10,
@@ -10,5 +10,606 @@
   "ancient": 1,
   "other": 1
  },
- "candidates": []
+ "candidates": [
+  {
+   "source": "cleveland",
+   "source_id": "296825",
+   "guess_group": "western",
+   "facts": {
+    "title": "Saint John the Baptist",
+    "artist": "Jan Crocq (Netherlandish, act. 1486–1510)",
+    "artist_bio": null,
+    "date": "c. 1500",
+    "culture": "French, Lorraine, Nancy or Bar-le-Duc",
+    "medium": "Tonnerre limestone",
+    "dimensions": "Overall: 163 x 59 x 40 cm (64 3/16 x 23 1/4 x 15 3/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2017.54"
+   },
+   "year_start": 1450,
+   "year_end": 1510,
+   "image": "https://openaccess-cdn.clevelandart.org/2017.54/2017.54_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "125218",
+   "guess_group": "western",
+   "facts": {
+    "title": "Set of Four Armchairs and Settee",
+    "artist": "Royal Savonnerie Manufactory, Chaillot Workshops (French, est. 1627)",
+    "artist_bio": null,
+    "date": "c. 1715",
+    "culture": "France",
+    "medium": "carved wood, Savonnerie knotted-pile (symmetrical rug knot) upholstery; wool, hemp",
+    "dimensions": "Overall: 120 x 201.3 x 55.9 cm (47 1/4 x 79 1/4 x 22 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1947.183"
+   },
+   "year_start": 1712,
+   "year_end": 1717,
+   "image": "https://openaccess-cdn.clevelandart.org/1947.183/1947.183_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "160089",
+   "guess_group": "western",
+   "facts": {
+    "title": "Fire Screen",
+    "artist": "Herter Brothers (American)",
+    "artist_bio": null,
+    "date": "c. 1878–80",
+    "culture": "America",
+    "medium": "gilded wood, painted and gilded wood panels, brocaded silk, embossed paper",
+    "dimensions": "Overall: 131.8 x 76.2 x 58.3 cm (51 7/8 x 30 x 22 15/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "The Severance and Greta Millikin Purchase Fund",
+    "object_url": "https://clevelandart.org/art/1997.58"
+   },
+   "year_start": 1878,
+   "year_end": 1880,
+   "image": "https://openaccess-cdn.clevelandart.org/1997.58/1997.58_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "168193",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Rabbit Hunt",
+    "artist": "Pieter Bruegel (Netherlandish, c. 1525/30–1569)",
+    "artist_bio": null,
+    "date": "1560",
+    "culture": "Flanders",
+    "medium": "etching",
+    "dimensions": "Platemark: 22.1 x 29 cm (8 11/16 x 11 7/16 in.); Sheet: 24.3 x 31.8 cm (9 9/16 x 12 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2009.80"
+   },
+   "year_start": 1560,
+   "year_end": 1560,
+   "image": "https://openaccess-cdn.clevelandart.org/2009.80/2009.80_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "150174",
+   "guess_group": "western",
+   "facts": {
+    "title": "Dancing Sailors",
+    "artist": "Charles Demuth (American, 1883–1935)",
+    "artist_bio": null,
+    "date": "1917",
+    "culture": "America",
+    "medium": "watercolor over graphite",
+    "dimensions": "Sheet: 20.4 x 25.7 cm (8 1/16 x 10 1/8 in.); Secondary Support: 21.4 x 26.3 cm (8 7/16 x 10 3/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Mr. and Mrs. William H. Marlatt Fund",
+    "object_url": "https://clevelandart.org/art/1980.9"
+   },
+   "year_start": 1917,
+   "year_end": 1917,
+   "image": "https://openaccess-cdn.clevelandart.org/1980.9/1980.9_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "136154",
+   "guess_group": "western",
+   "facts": {
+    "title": "Evening, Melancholy I",
+    "artist": "Edvard Munch (Norwegian, 1863–1944)",
+    "artist_bio": null,
+    "date": "1896",
+    "culture": "Norway",
+    "medium": "Hand-colored woodcut",
+    "dimensions": "Image: 37.7 x 45 cm (14 13/16 x 17 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of Mrs. Clive Runnels in memory of Leonard C. Hanna Jr.",
+    "object_url": "https://clevelandart.org/art/1959.82"
+   },
+   "year_start": 1896,
+   "year_end": 1896,
+   "image": "https://openaccess-cdn.clevelandart.org/1959.82/1959.82_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "152003",
+   "guess_group": "western",
+   "facts": {
+    "title": "Hen and Chicks Covered Tureen on Stand",
+    "artist": "Chelsea Porcelain Factory (Britain, London, 1745–84)",
+    "artist_bio": null,
+    "date": "c. 1755",
+    "culture": "England, London, Chelsea",
+    "medium": "soft-paste porcelain",
+    "dimensions": "Overall: 24.8 x 34.9 x 25.7 cm (9 3/4 x 13 3/4 x 10 1/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1984.58"
+   },
+   "year_start": 1750,
+   "year_end": 1760,
+   "image": "https://openaccess-cdn.clevelandart.org/1984.58/1984.58_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "117901",
+   "guess_group": "western",
+   "facts": {
+    "title": "Smelting Works at Denver",
+    "artist": "Thomas Moran (American, born England, 1837–1926)",
+    "artist_bio": null,
+    "date": "1892",
+    "culture": "America",
+    "medium": "watercolor and gouache",
+    "dimensions": "Sheet: 24 x 31.8 cm (9 7/16 x 12 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Bequest of Mrs. Henry A. Everett for the Dorothy Burnham Everett Memorial Collection",
+    "object_url": "https://clevelandart.org/art/1938.56"
+   },
+   "year_start": 1892,
+   "year_end": 1892,
+   "image": "https://openaccess-cdn.clevelandart.org/1938.56/1938.56_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "157643",
+   "guess_group": "western",
+   "facts": {
+    "title": "Young Woman (possibly a Sex Worker) with a Man (recto); Young Woman Wringing Her Hands over a Man's Naked Body (verso)",
+    "artist": "Francisco de Goya (Spanish, 1746–1828)",
+    "artist_bio": null,
+    "date": "1796–97",
+    "culture": "Spain",
+    "medium": "brush and gray and black washes on laid paper",
+    "dimensions": "Image: 18.7 x 12 cm (7 3/8 x 4 3/4 in.); Sheet: 23.5 x 14.5 cm (9 1/4 x 5 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1995.15"
+   },
+   "year_start": 1796,
+   "year_end": 1797,
+   "image": "https://openaccess-cdn.clevelandart.org/1995.15/1995.15_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "135706",
+   "guess_group": "western",
+   "facts": {
+    "title": "Christ Crucified Between the Two Thieves: 'The Three Crosses'",
+    "artist": "Rembrandt van Rijn (Dutch, 1606–1669)",
+    "artist_bio": null,
+    "date": "1653-c.1660",
+    "culture": "Rembrandt, 17th century",
+    "medium": "drypoint",
+    "dimensions": "Sheet: 37.5 x 44 cm (14 3/4 x 17 5/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Bequest of Ralph King and Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1959.241"
+   },
+   "year_start": 1653,
+   "year_end": 1665,
+   "image": "https://openaccess-cdn.clevelandart.org/1959.241/1959.241_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "127250",
+   "guess_group": "western",
+   "facts": {
+    "title": "View of Venice",
+    "artist": "Jacopo de' Barbari (Italian, c. 1460/70–c. 1516); Anton Kolb (German, 1474–1566)",
+    "artist_bio": null,
+    "date": "1500",
+    "culture": "Italy, early 16th Century",
+    "medium": "woodcut from six blocks on six sheets of paper",
+    "dimensions": "Overall: 132.7 x 277.5 cm (52 1/4 x 109 1/4 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1949.565"
+   },
+   "year_start": 1500,
+   "year_end": 1500,
+   "image": "https://openaccess-cdn.clevelandart.org/1949.565/1949.565_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "127221",
+   "guess_group": "western",
+   "facts": {
+    "title": "Cabinet",
+    "artist": "André-Charles Boulle (French, 1642–1732)",
+    "artist_bio": null,
+    "date": "c. 1690",
+    "culture": "France, late 17th Century",
+    "medium": "ebony, marquetry in metal and tortoise shell",
+    "dimensions": "Overall: 101.3 x 117.6 x 50 cm (39 7/8 x 46 5/16 x 19 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1949.539"
+   },
+   "year_start": 1685,
+   "year_end": 1695,
+   "image": "https://openaccess-cdn.clevelandart.org/1949.539/1949.539_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "121035",
+   "guess_group": "western",
+   "facts": {
+    "title": "In the Omnibus",
+    "artist": "Mary Cassatt (American, 1844–1926)",
+    "artist_bio": null,
+    "date": "1890–91",
+    "culture": "France",
+    "medium": "color drypoint and aquatint",
+    "dimensions": "Platemark: 36.6 x 26.8 cm (14 7/16 x 10 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Bequest of Charles T. Brooks",
+    "object_url": "https://clevelandart.org/art/1941.71"
+   },
+   "year_start": 1890,
+   "year_end": 1891,
+   "image": "https://openaccess-cdn.clevelandart.org/1941.71/1941.71_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "138880",
+   "guess_group": "western",
+   "facts": {
+    "title": "Satyress and Child",
+    "artist": "Clodion (French, 1738–1814)",
+    "artist_bio": null,
+    "date": "1803",
+    "culture": "France",
+    "medium": "terracotta",
+    "dimensions": "Diameter: 30.7 cm (12 1/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Gift of Mr. and Mrs. Ralph King",
+    "object_url": "https://clevelandart.org/art/1963.251"
+   },
+   "year_start": 1803,
+   "year_end": 1803,
+   "image": "https://openaccess-cdn.clevelandart.org/1963.251/1963.251_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "142356",
+   "guess_group": "western",
+   "facts": {
+    "title": "Estérel Village",
+    "artist": "Edgar Degas (French, 1834–1917)",
+    "artist_bio": null,
+    "date": "c. 1890",
+    "culture": "France",
+    "medium": "color monotype",
+    "dimensions": "Sheet: 29.9 x 39.9 cm (11 3/4 x 15 11/16 in.); Image: 29.9 x 39.9 cm (11 3/4 x 15 11/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Fiftieth anniversary gift of The Print Club of Cleveland",
+    "object_url": "https://clevelandart.org/art/1966.177"
+   },
+   "year_start": 1885,
+   "year_end": 1895,
+   "image": "https://openaccess-cdn.clevelandart.org/1966.177/1966.177_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "153759",
+   "guess_group": "china",
+   "facts": {
+    "title": "Buddhist Priest's Ceremonial Robe",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1400s",
+    "culture": "China, Ming dynasty (1368–1644)",
+    "medium": "silk and gold thread; embroidery",
+    "dimensions": "Overall: 119.4 x 302.1 cm (47 x 118 15/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1987.57"
+   },
+   "year_start": 1400,
+   "year_end": 1499,
+   "image": "https://openaccess-cdn.clevelandart.org/1987.57/1987.57_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "124005",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Dragon in foliage with lion and phoenix heads",
+    "artist": "Sahkulu (Turkish, active 1526–56)",
+    "artist_bio": null,
+    "date": "mid-1500s",
+    "culture": "Ottoman Turkey, Istanbul",
+    "medium": "Ink, gum tempera, and gold on paper",
+    "dimensions": "Sheet: 17.3 x 40.2 cm (6 13/16 x 15 13/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1944.492"
+   },
+   "year_start": 1526,
+   "year_end": 1556,
+   "image": "https://openaccess-cdn.clevelandart.org/1944.492/1944.492_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "154288",
+   "guess_group": "islamic",
+   "facts": {
+    "title": "Rustam's seventh course: He kills the White Div, folio 124 from a Shah-nama (Book of Kings) of Firdausi (Persian, about 934–1020)",
+    "artist": "Mir Musavvir (Iranian, c. 1510–1555); Abd al-Vahhab (Persian, active c. 1516)",
+    "artist_bio": null,
+    "date": "1520–37",
+    "culture": "Iran, Tabriz, Safavid period (1501-1722)",
+    "medium": "Gum tempera, ink, gold, and silver on paper",
+    "dimensions": "Sheet: 47.5 x 32.2 cm (18 11/16 x 12 11/16 in.); Image: 28.4 x 18.5 cm (11 3/16 x 7 5/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1988.96"
+   },
+   "year_start": 1520,
+   "year_end": 1537,
+   "image": "https://openaccess-cdn.clevelandart.org/1988.96/1988.96_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "147403",
+   "guess_group": "south-southeast-asia",
+   "facts": {
+    "title": "Buddha",
+    "artist": null,
+    "artist_bio": null,
+    "date": "600s",
+    "culture": "Thailand, probably Shri Thep, Mon-Dvaravati style",
+    "medium": "sandstone",
+    "dimensions": "Overall: 132.7 cm (52 1/4 in.); without tang: 114.2 cm (44 15/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1973.15"
+   },
+   "year_start": 600,
+   "year_end": 699,
+   "image": "https://openaccess-cdn.clevelandart.org/1973.15/1973.15_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "162393",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Female Worshiper",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 1600–1500 BCE",
+    "culture": "Crete, Minoan, middle Minoan III–late Minoan I",
+    "medium": "bronze",
+    "dimensions": "Overall: 14 cm (5 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2002.89"
+   },
+   "year_start": -1600,
+   "year_end": -1500,
+   "image": "https://openaccess-cdn.clevelandart.org/2002.89/2002.89_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "130359",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Candelabrum Stand of a Dancing Maenad",
+    "artist": null,
+    "artist_bio": null,
+    "date": "525–500 BCE",
+    "culture": "Etruscan",
+    "medium": "bronze",
+    "dimensions": "Overall: 18.8 cm (7 3/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/1953.124"
+   },
+   "year_start": -525,
+   "year_end": -500,
+   "image": "https://openaccess-cdn.clevelandart.org/1953.124/1953.124_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "155043",
+   "guess_group": "other",
+   "facts": {
+    "title": "Seven Jeweled Mountain",
+    "artist": null,
+    "artist_bio": null,
+    "date": "late 1800s",
+    "culture": "Korea, Joseon dynasty (1392–1910)",
+    "medium": "ten-panel screen; ink and color on silk",
+    "dimensions": "Overall: 185.2 x 42.9 cm (72 15/16 x 16 7/8 in.); Each screen: 158.2 x 42.9 cm (62 5/16 x 16 7/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Mr. and Mrs. William H. Marlatt Fund",
+    "object_url": "https://clevelandart.org/art/1989.6"
+   },
+   "year_start": 1800,
+   "year_end": 1899,
+   "image": "https://openaccess-cdn.clevelandart.org/1989.6/1989.6_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "452932",
+   "guess_group": "other",
+   "facts": {
+    "title": "Knife Sheath",
+    "artist": null,
+    "artist_bio": null,
+    "date": "1100s",
+    "culture": "Korea, Goryeo dynasty (918–1392)",
+    "medium": "Gilt silver (body) and brass (trefoil-shaped ring)",
+    "dimensions": "length: 21.7 cm (8 9/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2022.38"
+   },
+   "year_start": 1100,
+   "year_end": 1199,
+   "image": "https://openaccess-cdn.clevelandart.org/2022.38/2022.38_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "152699",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Red-Figure Fish Plate: Octopi, Mullet, Bream, Shellfish",
+    "artist": "Asteas/Python Workshop (South Italian, Paestan, active c. 360–320 BCE)",
+    "artist_bio": null,
+    "date": "c. 340–330 BCE",
+    "culture": "South Italian, Paestan",
+    "medium": "ceramic",
+    "dimensions": "Diameter: 38.3 cm (15 1/16 in.); Overall: 7.9 cm (3 1/8 in.); Diameter of foot: 16 cm (6 5/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1985.50"
+   },
+   "year_start": -345,
+   "year_end": -325,
+   "image": "https://openaccess-cdn.clevelandart.org/1985.50/1985.50_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "129875",
+   "guess_group": "western",
+   "facts": {
+    "title": "The Submersion of Pharaoh's Army in the Red Sea",
+    "artist": "Titian (Italian, c. 1488–1576); Domenico dalle Greche (Italian, 1503–1603)",
+    "artist_bio": null,
+    "date": "1514–15, printed 1549",
+    "culture": "Italy, Venice",
+    "medium": "woodcut",
+    "dimensions": "Unframed: 40 x 55 cm (15 3/4 x 21 5/8 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1952.296"
+   },
+   "year_start": 1514,
+   "year_end": 1515,
+   "image": "https://openaccess-cdn.clevelandart.org/1952.296/1952.296_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "168747",
+   "guess_group": "other",
+   "facts": {
+    "title": "Male Figure (nkishi)",
+    "artist": null,
+    "artist_bio": null,
+    "date": "late 1800s–early 1900s",
+    "culture": "Africa, Central Africa, Democratic Republic of Congo, Songye-style carver and nganga (priest)",
+    "medium": "Wood, glass beads, brass (including upholstery studs), copper alloy, iron alloy, raffia, reedbuck antelope horn, rawhide, animal hair, human teeth, organic material, minerals, and plant fibers",
+    "dimensions": "Overall: 64 x 24.5 x 24 cm (25 3/16 x 9 5/8 x 9 7/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "René and Odette Delenne Collection, Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/2010.451"
+   },
+   "year_start": 1880,
+   "year_end": 1920,
+   "image": "https://openaccess-cdn.clevelandart.org/2010.451/2010.451_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "313396",
+   "guess_group": "western",
+   "facts": {
+    "title": "Tomb with Sphinxes and an Owl",
+    "artist": "Louis Jean Desprez (French, 1743–1804)",
+    "artist_bio": null,
+    "date": "c. 1779–84",
+    "culture": "France",
+    "medium": "aquatint with etching",
+    "dimensions": "Platemark: 34 x 48.7 cm (13 3/8 x 19 3/16 in.); Sheet: 35 x 50.3 cm (13 3/4 x 19 13/16 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Severance and Greta Millikin Trust",
+    "object_url": "https://clevelandart.org/art/2018.207"
+   },
+   "year_start": 1774,
+   "year_end": 1789,
+   "image": "https://openaccess-cdn.clevelandart.org/2018.207/2018.207_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "128385",
+   "guess_group": "western",
+   "facts": {
+    "title": "Enclosed Valley",
+    "artist": "Hercules Seghers (Dutch, 1589/90–c. 1638)",
+    "artist_bio": null,
+    "date": "c. 1623–30",
+    "culture": "Netherlands",
+    "medium": "etching on cloth, hand colored with watercolor",
+    "dimensions": "Platemark: 10.7 x 19 cm (4 3/16 x 7 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "John L. Severance Fund",
+    "object_url": "https://clevelandart.org/art/1951.349"
+   },
+   "year_start": 1623,
+   "year_end": 1630,
+   "image": "https://openaccess-cdn.clevelandart.org/1951.349/1951.349_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "164940",
+   "guess_group": "western",
+   "facts": {
+    "title": "Winter Trees Reflected in a Pond",
+    "artist": "William Henry Fox Talbot (British, 1800–1877)",
+    "artist_bio": null,
+    "date": "1841–42",
+    "culture": "England, 19th century",
+    "medium": "salted paper print from calotype negative",
+    "dimensions": "Image: 16.4 x 19.1 cm (6 7/16 x 7 1/2 in.); Paper: 19.8 x 24.8 cm (7 13/16 x 9 3/4 in.); Matted: 40.6 x 50.8 cm (16 x 20 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Purchase from the J. H. Wade Fund",
+    "object_url": "https://clevelandart.org/art/2006.4"
+   },
+   "year_start": 1841,
+   "year_end": 1842,
+   "image": "https://openaccess-cdn.clevelandart.org/2006.4/2006.4_web.jpg"
+  },
+  {
+   "source": "cleveland",
+   "source_id": "146146",
+   "guess_group": "ancient",
+   "facts": {
+    "title": "Priest-King or Deity",
+    "artist": null,
+    "artist_bio": null,
+    "date": "c. 1600 BCE",
+    "culture": "Hittite, North Syria",
+    "medium": "basalt with bone eyes (left, ancient; right, restored)",
+    "dimensions": "Overall: 87.6 cm (34 1/2 in.)",
+    "repository": "The Cleveland Museum of Art",
+    "credit_line": "Leonard C. Hanna Jr. Fund",
+    "object_url": "https://clevelandart.org/art/1971.45"
+   },
+   "year_start": -1605,
+   "year_end": -1595,
+   "image": "https://openaccess-cdn.clevelandart.org/1971.45/1971.45_web.jpg"
+  }
+ ]
 }

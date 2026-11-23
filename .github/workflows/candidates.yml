@@ -1,10 +1,9 @@
 name: Nightly candidates
 
-# 毎晩 2:20（日本時間）：夜間ルーティン（Claude Code、3時前）のために作品候補リストを作る。
+# 手動実行のみ（夜間処理は停止中）：夜間ルーティン（Claude Code、3時前）のために作品候補リストを作る。
 # 美術館 API はこのクラウド環境から届かないため、取得部分だけ GitHub Actions で行う。Claude API は使わない。
+# 夜間処理は停止中（ユーザーの指示）。再開するときは schedule を戻し、Claude Code のルーティン「art-atlas nightly」を有効にする。
 on:
-  schedule:
-    - cron: '20 17 * * *'
   workflow_dispatch:
     inputs:
       count:

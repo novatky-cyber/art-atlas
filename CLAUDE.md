@@ -18,7 +18,7 @@
   - `artists.json` / `museums.json`（美術館＋都市）/ `glossary.json`（用語集）/ `themes.json`（テーマ特集）… `scripts/gen-reference.mjs`
   - `regions.json` … 直接編集
 - シード：`pipeline/seeds/*.json`（`batch-NNN` 手書き、`auto-YYYY-MM-DD` 夜間自動、`notes.json` 手帳の記録から作成）
-- 夜間処理（**Claude API は使わない**。費用ゼロ）
+- 夜間処理（**現在停止中**：ルーティン「art-atlas nightly」は無効、Nightly candidates は手動実行のみ。Claude API は使わない）
   1. GitHub Actions「Nightly candidates」（2:20 JST）：`pipeline/nightly/candidates.mjs` が不足地域（日本以外優先）の代表作候補を美術館 API から集め、`pipeline/candidates/next.json` にコミット
   2. Claude Code のスケジュール実行（ルーティン、毎晩3時前）：`docs/nightly-routine.md` の手順で、①「解説待ち」の記録を Supabase コネクタで読み、プレートの OCR 文字から作品を特定・解説して書き戻す → ②候補から20点の解説を書いてシード化 → PR → マージ
   3. GitHub Actions「Publish」：シードが main に入ると取得 → 検証 → コミット → Pages 公開。失敗時は Issue
